@@ -1,0 +1,3280 @@
+Arm,_Is_A_Possible_Somon_Of_,Abdukt
+Leg,_Is_A_Possible_Somon_Of_,Abdukt
+Arm,_Is_A_Possible_Somon_Of_,Absorb
+Korpo,_Is_A_Possible_Somon_Of_,Absorb
+Leg,_Is_A_Possible_Somon_Of_,Absorb
+nan,_Is_A_Possible_Somon_Of_,Absorb
+Arm,_Is_A_Possible_Somon_Of_,Addukt
+Leg,_Is_A_Possible_Somon_Of_,Addukt
+Extend,_Has_The_Possible_Somon_,Ankle
+Flex,_Has_The_Possible_Somon_,Ankle
+Hook,_Has_The_Possible_Somon_,Ankle
+Kryos,_Has_The_Possible_Somon_,Ankle
+Modify,_Has_The_Possible_Somon_,Ankle
+Abdukt,_Has_The_Possible_Somon_,Arm
+Absorb  ,_Has_The_Possible_Somon_,Arm
+Addukt  ,_Has_The_Possible_Somon_,Arm
+Defend,_Has_The_Possible_Somon_,Arm
+Dig,_Has_The_Possible_Somon_,Arm
+Dilate,_Has_The_Possible_Somon_,Arm
+Don,_Has_The_Possible_Somon_,Arm
+Drag,_Has_The_Possible_Somon_,Arm
+Extend,_Has_The_Possible_Somon_,Arm
+Flex,_Has_The_Possible_Somon_,Arm
+Hook,_Has_The_Possible_Somon_,Arm
+Iguana,_Has_The_Possible_Somon_,Arm
+Kompakt,_Has_The_Possible_Somon_,Arm
+Kompress,_Has_The_Possible_Somon_,Arm
+Kontakt,_Has_The_Possible_Somon_,Arm
+Kryos,_Has_The_Possible_Somon_,Arm
+Modify,_Has_The_Possible_Somon_,Arm
+Obstacle,_Has_The_Possible_Somon_,Arm
+Onda,_Has_The_Possible_Somon_,Arm
+Rotate,_Has_The_Possible_Somon_,Arm
+Slam,_Has_The_Possible_Somon_,Arm
+Slide,_Has_The_Possible_Somon_,Arm
+Slot,_Has_The_Possible_Somon_,Arm
+Snap,_Has_The_Possible_Somon_,Arm
+Stack,_Has_The_Possible_Somon_,Arm
+Tangent,_Has_The_Possible_Somon_,Arm
+Twist,_Has_The_Possible_Somon_,Arm
+Weave,_Has_The_Possible_Somon_,Arm
+Whip,_Has_The_Possible_Somon_,Arm
+Wrap,_Has_The_Possible_Somon_,Arm
+Slide,_Has_The_Possible_Somon_,Biceps
+Slide,_Has_The_Possible_Somon_,Brachioradialis
+Kontakt,_Has_The_Possible_Somon_,Chin
+Modify,_Has_The_Possible_Somon_,Chin
+Slide,_Has_The_Possible_Somon_,Chin
+Slide,_Has_The_Possible_Somon_,Clavicle
+Face,_Is_A_Possible_Somon_Of_,Clean
+Hand,_Is_A_Possible_Somon_Of_,Clean
+Neck,_Is_A_Possible_Somon_Of_,Clean
+Arm,_Is_A_Possible_Somon_Of_,Defend
+Hand,_Is_A_Possible_Somon_Of_,Defend
+Leg,_Is_A_Possible_Somon_Of_,Defend
+Slide,_Has_The_Possible_Somon_,Deltoid
+Arm,_Is_A_Possible_Somon_Of_,Dig
+Hand,_Is_A_Possible_Somon_Of_,Dig
+Leg,_Is_A_Possible_Somon_Of_,Dig
+Arm,_Is_A_Possible_Somon_Of_,Dilate
+Kontakt,_Has_The_Possible_Somon_,DistalPhalanges
+Modify,_Has_The_Possible_Somon_,DistalPhalanges
+Slide,_Has_The_Possible_Somon_,DistalPhalanges
+nan,_Is_A_Possible_Somon_Of_,Doff
+Arm,_Is_A_Possible_Somon_Of_,Don
+Foot,_Is_A_Possible_Somon_Of_,Don
+Hand,_Is_A_Possible_Somon_Of_,Don
+Korpo,_Is_A_Possible_Somon_Of_,Don
+Arm,_Is_A_Possible_Somon_Of_,Drag
+Finger,_Is_A_Possible_Somon_Of_,Drag
+Leg,_Is_A_Possible_Somon_Of_,Drag
+Korpo,_Is_A_Possible_Somon_Of_,Drop
+Kontakt,_Has_The_Possible_Somon_,Ear
+Modify,_Has_The_Possible_Somon_,Ear
+Slide,_Has_The_Possible_Somon_,Ear
+Extend,_Has_The_Possible_Somon_,Elbow
+Flex,_Has_The_Possible_Somon_,Elbow
+Kryos,_Has_The_Possible_Somon_,Elbow
+Modify,_Has_The_Possible_Somon_,Elbow
+Slot,_Has_The_Possible_Somon_,Elbow
+nan,_Is_A_Possible_Somon_Of_,Eval
+Ankle,_Is_A_Possible_Somon_Of_,Extend
+Arm,_Is_A_Possible_Somon_Of_,Extend
+Elbow,_Is_A_Possible_Somon_Of_,Extend
+Hip,_Is_A_Possible_Somon_Of_,Extend
+Knee,_Is_A_Possible_Somon_Of_,Extend
+Leg,_Is_A_Possible_Somon_Of_,Extend
+MiddleFinger,_Is_A_Possible_Somon_Of_,Extend
+Neck,_Is_A_Possible_Somon_Of_,Extend
+Palm,_Is_A_Possible_Somon_Of_,Extend
+PinkyFinger,_Is_A_Possible_Somon_Of_,Extend
+RingFinger,_Is_A_Possible_Somon_Of_,Extend
+Spine,_Is_A_Possible_Somon_Of_,Extend
+Thumb,_Is_A_Possible_Somon_Of_,Extend
+Wrist,_Is_A_Possible_Somon_Of_,Extend
+Clean  ,_Has_The_Possible_Somon_,Face
+Modify,_Has_The_Possible_Somon_,Face
+nan,_Is_A_Possible_Somon_Of_,Fall
+Kontakt,_Has_The_Possible_Somon_,Femur
+Modify,_Has_The_Possible_Somon_,Femur
+Slide,_Has_The_Possible_Somon_,Femur
+Drag,_Has_The_Possible_Somon_,Finger
+Hook,_Has_The_Possible_Somon_,Finger
+Kompakt,_Has_The_Possible_Somon_,Finger
+Modify,_Has_The_Possible_Somon_,Finger
+Roll,_Has_The_Possible_Somon_,Finger
+Slot,_Has_The_Possible_Somon_,Finger
+Weave,_Has_The_Possible_Somon_,Finger
+Kontakt,_Has_The_Possible_Somon_,Fingertip
+Modify,_Has_The_Possible_Somon_,Fingertip
+Slide,_Has_The_Possible_Somon_,Fingertip
+Ankle,_Is_A_Possible_Somon_Of_,Flex
+Arm,_Is_A_Possible_Somon_Of_,Flex
+Elbow,_Is_A_Possible_Somon_Of_,Flex
+Hip,_Is_A_Possible_Somon_Of_,Flex
+Knee,_Is_A_Possible_Somon_Of_,Flex
+Leg,_Is_A_Possible_Somon_Of_,Flex
+MiddleFinger,_Is_A_Possible_Somon_Of_,Flex
+Neck,_Is_A_Possible_Somon_Of_,Flex
+Palm,_Is_A_Possible_Somon_Of_,Flex
+PinkyFinger,_Is_A_Possible_Somon_Of_,Flex
+RingFinger,_Is_A_Possible_Somon_Of_,Flex
+Spine,_Is_A_Possible_Somon_Of_,Flex
+Thumb,_Is_A_Possible_Somon_Of_,Flex
+Wrist,_Is_A_Possible_Somon_Of_,Flex
+Don,_Has_The_Possible_Somon_,Foot
+Hook,_Has_The_Possible_Somon_,Foot
+Klose,_Has_The_Possible_Somon_,Foot
+Kontakt,_Has_The_Possible_Somon_,Foot
+Modify,_Has_The_Possible_Somon_,Foot
+Obstacle,_Has_The_Possible_Somon_,Foot
+Roll,_Has_The_Possible_Somon_,Foot
+Slide,_Has_The_Possible_Somon_,Foot
+Slot,_Has_The_Possible_Somon_,Foot
+Snap,_Has_The_Possible_Somon_,Foot
+Rotate,_Has_The_Possible_Somon_,Forearm
+Kontakt,_Has_The_Possible_Somon_,Forehead
+Modify,_Has_The_Possible_Somon_,Forehead
+Slide,_Has_The_Possible_Somon_,Forehead
+Clean  ,_Has_The_Possible_Somon_,Hand
+Defend,_Has_The_Possible_Somon_,Hand
+Dig,_Has_The_Possible_Somon_,Hand
+Don,_Has_The_Possible_Somon_,Hand
+Klose,_Has_The_Possible_Somon_,Hand
+Knot,_Has_The_Possible_Somon_,Hand
+Kompakt,_Has_The_Possible_Somon_,Hand
+Kontakt,_Has_The_Possible_Somon_,Hand
+Modify,_Has_The_Possible_Somon_,Hand
+Obstacle,_Has_The_Possible_Somon_,Hand
+Roll,_Has_The_Possible_Somon_,Hand
+Slap,_Has_The_Possible_Somon_,Hand
+Slide,_Has_The_Possible_Somon_,Hand
+Slot,_Has_The_Possible_Somon_,Hand
+Snap,_Has_The_Possible_Somon_,Hand
+Wrap,_Has_The_Possible_Somon_,Hand
+Kontakt,_Has_The_Possible_Somon_,Head
+Modify,_Has_The_Possible_Somon_,Head
+Slide,_Has_The_Possible_Somon_,Head
+Slot,_Has_The_Possible_Somon_,Head
+Hook,_Has_The_Possible_Somon_,Heel
+Kontakt,_Has_The_Possible_Somon_,Heel
+Modify,_Has_The_Possible_Somon_,Heel
+Roll,_Has_The_Possible_Somon_,Heel
+Slide,_Has_The_Possible_Somon_,Heel
+Extend,_Has_The_Possible_Somon_,Hip
+Flex,_Has_The_Possible_Somon_,Hip
+Kontakt,_Has_The_Possible_Somon_,Hip
+Kryos,_Has_The_Possible_Somon_,Hip
+Modify,_Has_The_Possible_Somon_,Hip
+Slide,_Has_The_Possible_Somon_,Hip
+Ankle,_Is_A_Possible_Somon_Of_,Hook
+Arm,_Is_A_Possible_Somon_Of_,Hook
+Finger,_Is_A_Possible_Somon_Of_,Hook
+Foot,_Is_A_Possible_Somon_Of_,Hook
+Heel,_Is_A_Possible_Somon_Of_,Hook
+IndexFinger,_Is_A_Possible_Somon_Of_,Hook
+Leg,_Is_A_Possible_Somon_Of_,Hook
+MiddleFinger,_Is_A_Possible_Somon_Of_,Hook
+PinkyFinger,_Is_A_Possible_Somon_Of_,Hook
+RingFinger,_Is_A_Possible_Somon_Of_,Hook
+Thumb,_Is_A_Possible_Somon_Of_,Hook
+Wrist,_Is_A_Possible_Somon_Of_,Hook
+Arm,_Is_A_Possible_Somon_Of_,Iguana
+Leg,_Is_A_Possible_Somon_Of_,Iguana
+Hook,_Has_The_Possible_Somon_,IndexFinger
+Kompakt,_Has_The_Possible_Somon_,IndexFinger
+Kontakt,_Has_The_Possible_Somon_,IndexFinger
+Modify,_Has_The_Possible_Somon_,IndexFinger
+Slide,_Has_The_Possible_Somon_,IndexFinger
+Slot,_Has_The_Possible_Somon_,IndexFinger
+Kontakt,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Modify,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Slide,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Kontakt,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Modify,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Slide,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Kontakt,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Modify,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Slide,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Kontakt,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Modify,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Slide,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Kontakt,_Has_The_Possible_Somon_,Jaw
+Modify,_Has_The_Possible_Somon_,Jaw
+Slide,_Has_The_Possible_Somon_,Jaw
+Foot,_Is_A_Possible_Somon_Of_,Klose
+Hand,_Is_A_Possible_Somon_Of_,Klose
+Extend,_Has_The_Possible_Somon_,Knee
+Flex,_Has_The_Possible_Somon_,Knee
+Kontakt,_Has_The_Possible_Somon_,Knee
+Kryos,_Has_The_Possible_Somon_,Knee
+Modify,_Has_The_Possible_Somon_,Knee
+Roll,_Has_The_Possible_Somon_,Knee
+Slide,_Has_The_Possible_Somon_,Knee
+Slot,_Has_The_Possible_Somon_,Knee
+Hand,_Is_A_Possible_Somon_Of_,Knot
+Kontakt,_Has_The_Possible_Somon_,Knuckle
+Modify,_Has_The_Possible_Somon_,Knuckle
+Slide,_Has_The_Possible_Somon_,Knuckle
+Arm,_Is_A_Possible_Somon_Of_,Kompakt
+Finger,_Is_A_Possible_Somon_Of_,Kompakt
+Hand,_Is_A_Possible_Somon_Of_,Kompakt
+IndexFinger,_Is_A_Possible_Somon_Of_,Kompakt
+Leg,_Is_A_Possible_Somon_Of_,Kompakt
+MiddleFinger,_Is_A_Possible_Somon_Of_,Kompakt
+PinkyFinger,_Is_A_Possible_Somon_Of_,Kompakt
+RingFinger,_Is_A_Possible_Somon_Of_,Kompakt
+Arm,_Is_A_Possible_Somon_Of_,Kompress
+Leg,_Is_A_Possible_Somon_Of_,Kompress
+nan,_Is_A_Possible_Somon_Of_,Konstrukt
+Arm,_Is_A_Possible_Somon_Of_,Kontakt
+Chin,_Is_A_Possible_Somon_Of_,Kontakt
+DistalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+Ear,_Is_A_Possible_Somon_Of_,Kontakt
+Femur,_Is_A_Possible_Somon_Of_,Kontakt
+Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+Foot,_Is_A_Possible_Somon_Of_,Kontakt
+Forehead,_Is_A_Possible_Somon_Of_,Kontakt
+Hand,_Is_A_Possible_Somon_Of_,Kontakt
+Head,_Is_A_Possible_Somon_Of_,Kontakt
+Heel,_Is_A_Possible_Somon_Of_,Kontakt
+Hip,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+Jaw,_Is_A_Possible_Somon_Of_,Kontakt
+Knee,_Is_A_Possible_Somon_Of_,Kontakt
+Knuckle,_Is_A_Possible_Somon_Of_,Kontakt
+Leg,_Is_A_Possible_Somon_Of_,Kontakt
+Lip,_Is_A_Possible_Somon_Of_,Kontakt
+MedialPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+Metatarsals,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+Neck,_Is_A_Possible_Somon_Of_,Kontakt
+Nose,_Is_A_Possible_Somon_Of_,Kontakt
+Palm,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+ProximalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+RadialBorder,_Is_A_Possible_Somon_Of_,Kontakt
+Ribs,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Kontakt
+Shoulder,_Is_A_Possible_Somon_Of_,Kontakt
+Spine,_Is_A_Possible_Somon_Of_,Kontakt
+Thumb,_Is_A_Possible_Somon_Of_,Kontakt
+Thumb_Fingertip,_Is_A_Possible_Somon_Of_,Kontakt
+Tibia,_Is_A_Possible_Somon_Of_,Kontakt
+Toe,_Is_A_Possible_Somon_Of_,Kontakt
+Wrist,_Is_A_Possible_Somon_Of_,Kontakt
+Absorb,_Has_The_Possible_Somon_,Korpo
+Don,_Has_The_Possible_Somon_,Korpo
+Drop,_Has_The_Possible_Somon_,Korpo
+Modify,_Has_The_Possible_Somon_,Korpo
+Obstacle,_Has_The_Possible_Somon_,Korpo
+Rotate,_Has_The_Possible_Somon_,Korpo
+Slot,_Has_The_Possible_Somon_,Korpo
+Snap,_Has_The_Possible_Somon_,Korpo
+Stack,_Has_The_Possible_Somon_,Korpo
+Tangent,_Has_The_Possible_Somon_,Korpo
+Whip,_Has_The_Possible_Somon_,Korpo
+Wrap,_Has_The_Possible_Somon_,Korpo
+Ankle,_Is_A_Possible_Somon_Of_,Kryos
+Arm,_Is_A_Possible_Somon_Of_,Kryos
+Elbow,_Is_A_Possible_Somon_Of_,Kryos
+Hip,_Is_A_Possible_Somon_Of_,Kryos
+Knee,_Is_A_Possible_Somon_Of_,Kryos
+Leg,_Is_A_Possible_Somon_Of_,Kryos
+MiddleFinger,_Is_A_Possible_Somon_Of_,Kryos
+Neck,_Is_A_Possible_Somon_Of_,Kryos
+Palm,_Is_A_Possible_Somon_Of_,Kryos
+PinkyFinger,_Is_A_Possible_Somon_Of_,Kryos
+RingFinger,_Is_A_Possible_Somon_Of_,Kryos
+Spine,_Is_A_Possible_Somon_Of_,Kryos
+Thumb,_Is_A_Possible_Somon_Of_,Kryos
+Wrist,_Is_A_Possible_Somon_Of_,Kryos
+Slide,_Has_The_Possible_Somon_,LatissimusDorsi
+Abdukt  ,_Has_The_Possible_Somon_,Leg
+Absorb  ,_Has_The_Possible_Somon_,Leg
+Addukt  ,_Has_The_Possible_Somon_,Leg
+Defend,_Has_The_Possible_Somon_,Leg
+Dig,_Has_The_Possible_Somon_,Leg
+Drag,_Has_The_Possible_Somon_,Leg
+Extend,_Has_The_Possible_Somon_,Leg
+Flex,_Has_The_Possible_Somon_,Leg
+Hook,_Has_The_Possible_Somon_,Leg
+Iguana,_Has_The_Possible_Somon_,Leg
+Kompakt,_Has_The_Possible_Somon_,Leg
+Kompress,_Has_The_Possible_Somon_,Leg
+Kontakt,_Has_The_Possible_Somon_,Leg
+Kryos,_Has_The_Possible_Somon_,Leg
+Modify,_Has_The_Possible_Somon_,Leg
+Obstacle,_Has_The_Possible_Somon_,Leg
+Onda,_Has_The_Possible_Somon_,Leg
+Rotate,_Has_The_Possible_Somon_,Leg
+Slide,_Has_The_Possible_Somon_,Leg
+Slot,_Has_The_Possible_Somon_,Leg
+Snap,_Has_The_Possible_Somon_,Leg
+Tangent,_Has_The_Possible_Somon_,Leg
+Twist,_Has_The_Possible_Somon_,Leg
+Whip,_Has_The_Possible_Somon_,Leg
+Wrap,_Has_The_Possible_Somon_,Leg
+Kontakt,_Has_The_Possible_Somon_,Lip
+Modify,_Has_The_Possible_Somon_,Lip
+Slide,_Has_The_Possible_Somon_,Lip
+Kontakt,_Has_The_Possible_Somon_,MedialPhalanges
+Modify,_Has_The_Possible_Somon_,MedialPhalanges
+Slide,_Has_The_Possible_Somon_,MedialPhalanges
+Kontakt,_Has_The_Possible_Somon_,Metatarsals
+Modify,_Has_The_Possible_Somon_,Metatarsals
+Slide,_Has_The_Possible_Somon_,Metatarsals
+Extend,_Has_The_Possible_Somon_,MiddleFinger
+Flex,_Has_The_Possible_Somon_,MiddleFinger
+Hook,_Has_The_Possible_Somon_,MiddleFinger
+Kompakt,_Has_The_Possible_Somon_,MiddleFinger
+Kontakt,_Has_The_Possible_Somon_,MiddleFinger
+Kryos,_Has_The_Possible_Somon_,MiddleFinger
+Modify,_Has_The_Possible_Somon_,MiddleFinger
+Slide,_Has_The_Possible_Somon_,MiddleFinger
+Slot,_Has_The_Possible_Somon_,MiddleFinger
+Kontakt,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Modify,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Slide,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Kontakt,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Modify,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Slide,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Kontakt,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Modify,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Slide,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Kontakt,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Modify,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Slide,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Ankle,_Is_A_Possible_Somon_Of_,Modify
+Arm,_Is_A_Possible_Somon_Of_,Modify
+Chin,_Is_A_Possible_Somon_Of_,Modify
+DistalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+Ear,_Is_A_Possible_Somon_Of_,Modify
+Elbow,_Is_A_Possible_Somon_Of_,Modify
+Face,_Is_A_Possible_Somon_Of_,Modify
+Femur,_Is_A_Possible_Somon_Of_,Modify
+Finger,_Is_A_Possible_Somon_Of_,Modify
+Fingertip,_Is_A_Possible_Somon_Of_,Modify
+Foot,_Is_A_Possible_Somon_Of_,Modify
+Forehead,_Is_A_Possible_Somon_Of_,Modify
+Hand,_Is_A_Possible_Somon_Of_,Modify
+Head,_Is_A_Possible_Somon_Of_,Modify
+Heel,_Is_A_Possible_Somon_Of_,Modify
+Hip,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_Fingertip,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+Jaw,_Is_A_Possible_Somon_Of_,Modify
+Knee,_Is_A_Possible_Somon_Of_,Modify
+Knuckle,_Is_A_Possible_Somon_Of_,Modify
+Korpo,_Is_A_Possible_Somon_Of_,Modify
+Leg,_Is_A_Possible_Somon_Of_,Modify
+Lip,_Is_A_Possible_Somon_Of_,Modify
+MedialPhalanges,_Is_A_Possible_Somon_Of_,Modify
+Metatarsals,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_Fingertip,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+Neck,_Is_A_Possible_Somon_Of_,Modify
+Nose,_Is_A_Possible_Somon_Of_,Modify
+Palm,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_Fingertip,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+ProximalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+RadialBorder,_Is_A_Possible_Somon_Of_,Modify
+Ribs,_Is_A_Possible_Somon_Of_,Modify
+RingFinger,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_Fingertip,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Modify
+Shoulder,_Is_A_Possible_Somon_Of_,Modify
+Spine,_Is_A_Possible_Somon_Of_,Modify
+Thumb,_Is_A_Possible_Somon_Of_,Modify
+Thumb_Fingertip,_Is_A_Possible_Somon_Of_,Modify
+Tibia,_Is_A_Possible_Somon_Of_,Modify
+Toe,_Is_A_Possible_Somon_Of_,Modify
+Wrist,_Is_A_Possible_Somon_Of_,Modify
+nan,_Is_A_Possible_Somon_Of_,Modify
+Clean  ,_Has_The_Possible_Somon_,Neck
+Extend,_Has_The_Possible_Somon_,Neck
+Flex,_Has_The_Possible_Somon_,Neck
+Kontakt,_Has_The_Possible_Somon_,Neck
+Kryos,_Has_The_Possible_Somon_,Neck
+Modify,_Has_The_Possible_Somon_,Neck
+Slide,_Has_The_Possible_Somon_,Neck
+Wrap,_Has_The_Possible_Somon_,Neck
+Kontakt,_Has_The_Possible_Somon_,Nose
+Modify,_Has_The_Possible_Somon_,Nose
+Slide,_Has_The_Possible_Somon_,Nose
+Slide,_Has_The_Possible_Somon_,Obliquus
+Arm,_Is_A_Possible_Somon_Of_,Obstacle
+Foot,_Is_A_Possible_Somon_Of_,Obstacle
+Hand,_Is_A_Possible_Somon_Of_,Obstacle
+Korpo,_Is_A_Possible_Somon_Of_,Obstacle
+Leg,_Is_A_Possible_Somon_Of_,Obstacle
+Arm,_Is_A_Possible_Somon_Of_,Onda
+Leg,_Is_A_Possible_Somon_Of_,Onda
+Extend,_Has_The_Possible_Somon_,Palm
+Flex,_Has_The_Possible_Somon_,Palm
+Kontakt,_Has_The_Possible_Somon_,Palm
+Kryos,_Has_The_Possible_Somon_,Palm
+Modify,_Has_The_Possible_Somon_,Palm
+Slide,_Has_The_Possible_Somon_,Palm
+Slide,_Has_The_Possible_Somon_,Pectoralis
+Extend,_Has_The_Possible_Somon_,PinkyFinger
+Flex,_Has_The_Possible_Somon_,PinkyFinger
+Hook,_Has_The_Possible_Somon_,PinkyFinger
+Kompakt,_Has_The_Possible_Somon_,PinkyFinger
+Kontakt,_Has_The_Possible_Somon_,PinkyFinger
+Kryos,_Has_The_Possible_Somon_,PinkyFinger
+Modify,_Has_The_Possible_Somon_,PinkyFinger
+Slide,_Has_The_Possible_Somon_,PinkyFinger
+Slot,_Has_The_Possible_Somon_,PinkyFinger
+Kontakt,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Modify,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Slide,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Kontakt,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Modify,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Slide,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Kontakt,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Modify,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Slide,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Kontakt,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Modify,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Slide,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Kontakt,_Has_The_Possible_Somon_,ProximalPhalanges
+Modify,_Has_The_Possible_Somon_,ProximalPhalanges
+Slide,_Has_The_Possible_Somon_,ProximalPhalanges
+Kontakt,_Has_The_Possible_Somon_,RadialBorder
+Modify,_Has_The_Possible_Somon_,RadialBorder
+Slide,_Has_The_Possible_Somon_,RadialBorder
+Scapula,_Is_A_Possible_Somon_Of_,Retrakt
+Kontakt,_Has_The_Possible_Somon_,Ribs
+Modify,_Has_The_Possible_Somon_,Ribs
+Slide,_Has_The_Possible_Somon_,Ribs
+Extend,_Has_The_Possible_Somon_,RingFinger
+Flex,_Has_The_Possible_Somon_,RingFinger
+Hook,_Has_The_Possible_Somon_,RingFinger
+Kompakt,_Has_The_Possible_Somon_,RingFinger
+Kontakt,_Has_The_Possible_Somon_,RingFinger
+Kryos,_Has_The_Possible_Somon_,RingFinger
+Modify,_Has_The_Possible_Somon_,RingFinger
+Slide,_Has_The_Possible_Somon_,RingFinger
+Slot,_Has_The_Possible_Somon_,RingFinger
+Kontakt,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Modify,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Slide,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Kontakt,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Modify,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Slide,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Kontakt,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Modify,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Slide,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Kontakt,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Modify,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Slide,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Finger,_Is_A_Possible_Somon_Of_,Roll
+Foot,_Is_A_Possible_Somon_Of_,Roll
+Hand,_Is_A_Possible_Somon_Of_,Roll
+Heel,_Is_A_Possible_Somon_Of_,Roll
+Knee,_Is_A_Possible_Somon_Of_,Roll
+Arm,_Is_A_Possible_Somon_Of_,Rotate
+Forearm,_Is_A_Possible_Somon_Of_,Rotate
+Korpo,_Is_A_Possible_Somon_Of_,Rotate
+Leg,_Is_A_Possible_Somon_Of_,Rotate
+Retrakt,_Has_The_Possible_Somon_,Scapula
+Slide,_Has_The_Possible_Somon_,Scapula
+Kontakt,_Has_The_Possible_Somon_,Shoulder
+Modify,_Has_The_Possible_Somon_,Shoulder
+Slide,_Has_The_Possible_Somon_,Shoulder
+Wrap,_Has_The_Possible_Somon_,Shoulder
+Arm,_Is_A_Possible_Somon_Of_,Slam
+Hand,_Is_A_Possible_Somon_Of_,Slap
+Arm,_Is_A_Possible_Somon_Of_,Slide
+Biceps,_Is_A_Possible_Somon_Of_,Slide
+Brachioradialis,_Is_A_Possible_Somon_Of_,Slide
+Chin,_Is_A_Possible_Somon_Of_,Slide
+Clavicle,_Is_A_Possible_Somon_Of_,Slide
+Deltoid,_Is_A_Possible_Somon_Of_,Slide
+DistalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+Ear,_Is_A_Possible_Somon_Of_,Slide
+Femur,_Is_A_Possible_Somon_Of_,Slide
+Fingertip,_Is_A_Possible_Somon_Of_,Slide
+Foot,_Is_A_Possible_Somon_Of_,Slide
+Forehead,_Is_A_Possible_Somon_Of_,Slide
+Hand,_Is_A_Possible_Somon_Of_,Slide
+Head,_Is_A_Possible_Somon_Of_,Slide
+Heel,_Is_A_Possible_Somon_Of_,Slide
+Hip,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_Fingertip,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+Jaw,_Is_A_Possible_Somon_Of_,Slide
+Knee,_Is_A_Possible_Somon_Of_,Slide
+Knuckle,_Is_A_Possible_Somon_Of_,Slide
+LatissimusDorsi,_Is_A_Possible_Somon_Of_,Slide
+Leg,_Is_A_Possible_Somon_Of_,Slide
+Lip,_Is_A_Possible_Somon_Of_,Slide
+MedialPhalanges,_Is_A_Possible_Somon_Of_,Slide
+Metatarsals,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_Fingertip,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+Neck,_Is_A_Possible_Somon_Of_,Slide
+Nose,_Is_A_Possible_Somon_Of_,Slide
+Obliquus,_Is_A_Possible_Somon_Of_,Slide
+Palm,_Is_A_Possible_Somon_Of_,Slide
+Pectoralis,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_Fingertip,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+ProximalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+RadialBorder,_Is_A_Possible_Somon_Of_,Slide
+Ribs,_Is_A_Possible_Somon_Of_,Slide
+RingFinger,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_DistalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_Fingertip,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_MedialPhalanges,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_ProximalPhalanges,_Is_A_Possible_Somon_Of_,Slide
+Scapula,_Is_A_Possible_Somon_Of_,Slide
+Shoulder,_Is_A_Possible_Somon_Of_,Slide
+Spine,_Is_A_Possible_Somon_Of_,Slide
+Thumb,_Is_A_Possible_Somon_Of_,Slide
+Thumb_Fingertip,_Is_A_Possible_Somon_Of_,Slide
+Tibia,_Is_A_Possible_Somon_Of_,Slide
+Toe,_Is_A_Possible_Somon_Of_,Slide
+Trapezius,_Is_A_Possible_Somon_Of_,Slide
+Triceps,_Is_A_Possible_Somon_Of_,Slide
+Wrist,_Is_A_Possible_Somon_Of_,Slide
+Arm,_Is_A_Possible_Somon_Of_,Slot
+Elbow,_Is_A_Possible_Somon_Of_,Slot
+Finger,_Is_A_Possible_Somon_Of_,Slot
+Foot,_Is_A_Possible_Somon_Of_,Slot
+Hand,_Is_A_Possible_Somon_Of_,Slot
+Head,_Is_A_Possible_Somon_Of_,Slot
+IndexFinger,_Is_A_Possible_Somon_Of_,Slot
+Knee,_Is_A_Possible_Somon_Of_,Slot
+Korpo,_Is_A_Possible_Somon_Of_,Slot
+Leg,_Is_A_Possible_Somon_Of_,Slot
+MiddleFinger,_Is_A_Possible_Somon_Of_,Slot
+PinkyFinger,_Is_A_Possible_Somon_Of_,Slot
+RingFinger,_Is_A_Possible_Somon_Of_,Slot
+Thumb,_Is_A_Possible_Somon_Of_,Slot
+Arm,_Is_A_Possible_Somon_Of_,Snap
+Foot,_Is_A_Possible_Somon_Of_,Snap
+Hand,_Is_A_Possible_Somon_Of_,Snap
+Korpo,_Is_A_Possible_Somon_Of_,Snap
+Leg,_Is_A_Possible_Somon_Of_,Snap
+Extend,_Has_The_Possible_Somon_,Spine
+Flex,_Has_The_Possible_Somon_,Spine
+Kontakt,_Has_The_Possible_Somon_,Spine
+Kryos,_Has_The_Possible_Somon_,Spine
+Modify,_Has_The_Possible_Somon_,Spine
+Slide,_Has_The_Possible_Somon_,Spine
+Arm,_Is_A_Possible_Somon_Of_,Stack
+Korpo,_Is_A_Possible_Somon_Of_,Stack
+Arm,_Is_A_Possible_Somon_Of_,Tangent
+Korpo,_Is_A_Possible_Somon_Of_,Tangent
+Leg,_Is_A_Possible_Somon_Of_,Tangent
+Extend,_Has_The_Possible_Somon_,Thumb
+Flex,_Has_The_Possible_Somon_,Thumb
+Hook,_Has_The_Possible_Somon_,Thumb
+Kontakt,_Has_The_Possible_Somon_,Thumb
+Kryos,_Has_The_Possible_Somon_,Thumb
+Modify,_Has_The_Possible_Somon_,Thumb
+Slide,_Has_The_Possible_Somon_,Thumb
+Slot,_Has_The_Possible_Somon_,Thumb
+Kontakt,_Has_The_Possible_Somon_,Thumb_Fingertip
+Modify,_Has_The_Possible_Somon_,Thumb_Fingertip
+Slide,_Has_The_Possible_Somon_,Thumb_Fingertip
+Kontakt,_Has_The_Possible_Somon_,Tibia
+Modify,_Has_The_Possible_Somon_,Tibia
+Slide,_Has_The_Possible_Somon_,Tibia
+Kontakt,_Has_The_Possible_Somon_,Toe
+Modify,_Has_The_Possible_Somon_,Toe
+Slide,_Has_The_Possible_Somon_,Toe
+Slide,_Has_The_Possible_Somon_,Trapezius
+Slide,_Has_The_Possible_Somon_,Triceps
+Arm,_Is_A_Possible_Somon_Of_,Twist
+Leg,_Is_A_Possible_Somon_Of_,Twist
+Arm,_Is_A_Possible_Somon_Of_,Weave
+Finger,_Is_A_Possible_Somon_Of_,Weave
+Arm,_Is_A_Possible_Somon_Of_,Whip
+Korpo,_Is_A_Possible_Somon_Of_,Whip
+Leg,_Is_A_Possible_Somon_Of_,Whip
+Arm,_Is_A_Possible_Somon_Of_,Wrap
+Hand,_Is_A_Possible_Somon_Of_,Wrap
+Korpo,_Is_A_Possible_Somon_Of_,Wrap
+Leg,_Is_A_Possible_Somon_Of_,Wrap
+Neck,_Is_A_Possible_Somon_Of_,Wrap
+Shoulder,_Is_A_Possible_Somon_Of_,Wrap
+Wrist,_Is_A_Possible_Somon_Of_,Wrap
+Extend,_Has_The_Possible_Somon_,Wrist
+Flex,_Has_The_Possible_Somon_,Wrist
+Hook,_Has_The_Possible_Somon_,Wrist
+Kontakt,_Has_The_Possible_Somon_,Wrist
+Kryos,_Has_The_Possible_Somon_,Wrist
+Modify,_Has_The_Possible_Somon_,Wrist
+Slide,_Has_The_Possible_Somon_,Wrist
+Wrap,_Has_The_Possible_Somon_,Wrist
+Abdukt ,_Has_The_Possible_Somon_,Arm
+Abdukt ,_Has_The_Possible_Somon_,Leg
+Absorb ,_Has_The_Possible_Somon_,Arm
+Absorb ,_Has_The_Possible_Somon_,Korpo
+Absorb ,_Has_The_Possible_Somon_,Leg
+Absorb ,_Has_The_Possible_Somon_,nan
+Addukt ,_Has_The_Possible_Somon_,Arm
+Addukt ,_Has_The_Possible_Somon_,Leg
+Ankle ,_Is_A_Possible_Somon_Of_,Extend
+Ankle ,_Is_A_Possible_Somon_Of_,Flex
+Ankle ,_Is_A_Possible_Somon_Of_,Hook
+Ankle ,_Is_A_Possible_Somon_Of_,Kryos
+Ankle ,_Is_A_Possible_Somon_Of_,Modify
+Arm ,_Is_A_Possible_Somon_Of_,Abdukt
+Arm ,_Is_A_Possible_Somon_Of_,Absorb  
+Arm ,_Is_A_Possible_Somon_Of_,Addukt  
+Arm ,_Is_A_Possible_Somon_Of_,Defend
+Arm ,_Is_A_Possible_Somon_Of_,Dig
+Arm ,_Is_A_Possible_Somon_Of_,Dilate
+Arm ,_Is_A_Possible_Somon_Of_,Don
+Arm ,_Is_A_Possible_Somon_Of_,Drag
+Arm ,_Is_A_Possible_Somon_Of_,Extend
+Arm ,_Is_A_Possible_Somon_Of_,Flex
+Arm ,_Is_A_Possible_Somon_Of_,Hook
+Arm ,_Is_A_Possible_Somon_Of_,Iguana
+Arm ,_Is_A_Possible_Somon_Of_,Kompakt
+Arm ,_Is_A_Possible_Somon_Of_,Kompress
+Arm ,_Is_A_Possible_Somon_Of_,Kontakt
+Arm ,_Is_A_Possible_Somon_Of_,Kryos
+Arm ,_Is_A_Possible_Somon_Of_,Modify
+Arm ,_Is_A_Possible_Somon_Of_,Obstacle
+Arm ,_Is_A_Possible_Somon_Of_,Onda
+Arm ,_Is_A_Possible_Somon_Of_,Rotate
+Arm ,_Is_A_Possible_Somon_Of_,Slam
+Arm ,_Is_A_Possible_Somon_Of_,Slide
+Arm ,_Is_A_Possible_Somon_Of_,Slot
+Arm ,_Is_A_Possible_Somon_Of_,Snap
+Arm ,_Is_A_Possible_Somon_Of_,Stack
+Arm ,_Is_A_Possible_Somon_Of_,Tangent
+Arm ,_Is_A_Possible_Somon_Of_,Twist
+Arm ,_Is_A_Possible_Somon_Of_,Weave
+Arm ,_Is_A_Possible_Somon_Of_,Whip
+Arm ,_Is_A_Possible_Somon_Of_,Wrap
+Biceps ,_Is_A_Possible_Somon_Of_,Slide
+Brachioradialis ,_Is_A_Possible_Somon_Of_,Slide
+Chin ,_Is_A_Possible_Somon_Of_,Kontakt
+Chin ,_Is_A_Possible_Somon_Of_,Modify
+Chin ,_Is_A_Possible_Somon_Of_,Slide
+Clavicle ,_Is_A_Possible_Somon_Of_,Slide
+Clean ,_Has_The_Possible_Somon_,Face
+Clean ,_Has_The_Possible_Somon_,Hand
+Clean ,_Has_The_Possible_Somon_,Neck
+Defend ,_Has_The_Possible_Somon_,Arm
+Defend ,_Has_The_Possible_Somon_,Hand
+Defend ,_Has_The_Possible_Somon_,Leg
+Deltoid ,_Is_A_Possible_Somon_Of_,Slide
+Dig ,_Has_The_Possible_Somon_,Arm
+Dig ,_Has_The_Possible_Somon_,Hand
+Dig ,_Has_The_Possible_Somon_,Leg
+Dilate ,_Has_The_Possible_Somon_,Arm
+DistalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+DistalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+DistalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+Doff ,_Has_The_Possible_Somon_,nan
+Don ,_Has_The_Possible_Somon_,Arm
+Don ,_Has_The_Possible_Somon_,Foot
+Don ,_Has_The_Possible_Somon_,Hand
+Don ,_Has_The_Possible_Somon_,Korpo
+Drag ,_Has_The_Possible_Somon_,Arm
+Drag ,_Has_The_Possible_Somon_,Finger
+Drag ,_Has_The_Possible_Somon_,Leg
+Drop ,_Has_The_Possible_Somon_,Korpo
+Ear ,_Is_A_Possible_Somon_Of_,Kontakt
+Ear ,_Is_A_Possible_Somon_Of_,Modify
+Ear ,_Is_A_Possible_Somon_Of_,Slide
+Elbow ,_Is_A_Possible_Somon_Of_,Extend
+Elbow ,_Is_A_Possible_Somon_Of_,Flex
+Elbow ,_Is_A_Possible_Somon_Of_,Kryos
+Elbow ,_Is_A_Possible_Somon_Of_,Modify
+Elbow ,_Is_A_Possible_Somon_Of_,Slot
+Eval ,_Has_The_Possible_Somon_,nan
+Extend ,_Has_The_Possible_Somon_,Ankle
+Extend ,_Has_The_Possible_Somon_,Arm
+Extend ,_Has_The_Possible_Somon_,Elbow
+Extend ,_Has_The_Possible_Somon_,Hip
+Extend ,_Has_The_Possible_Somon_,Knee
+Extend ,_Has_The_Possible_Somon_,Leg
+Extend ,_Has_The_Possible_Somon_,MiddleFinger
+Extend ,_Has_The_Possible_Somon_,Neck
+Extend ,_Has_The_Possible_Somon_,Palm
+Extend ,_Has_The_Possible_Somon_,PinkyFinger
+Extend ,_Has_The_Possible_Somon_,RingFinger
+Extend ,_Has_The_Possible_Somon_,Spine
+Extend ,_Has_The_Possible_Somon_,Thumb
+Extend ,_Has_The_Possible_Somon_,Wrist
+Face ,_Is_A_Possible_Somon_Of_,Clean  
+Face ,_Is_A_Possible_Somon_Of_,Modify
+Fall ,_Has_The_Possible_Somon_,nan
+Femur ,_Is_A_Possible_Somon_Of_,Kontakt
+Femur ,_Is_A_Possible_Somon_Of_,Modify
+Femur ,_Is_A_Possible_Somon_Of_,Slide
+Finger ,_Is_A_Possible_Somon_Of_,Drag
+Finger ,_Is_A_Possible_Somon_Of_,Hook
+Finger ,_Is_A_Possible_Somon_Of_,Kompakt
+Finger ,_Is_A_Possible_Somon_Of_,Modify
+Finger ,_Is_A_Possible_Somon_Of_,Roll
+Finger ,_Is_A_Possible_Somon_Of_,Slot
+Finger ,_Is_A_Possible_Somon_Of_,Weave
+Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+Flex ,_Has_The_Possible_Somon_,Ankle
+Flex ,_Has_The_Possible_Somon_,Arm
+Flex ,_Has_The_Possible_Somon_,Elbow
+Flex ,_Has_The_Possible_Somon_,Hip
+Flex ,_Has_The_Possible_Somon_,Knee
+Flex ,_Has_The_Possible_Somon_,Leg
+Flex ,_Has_The_Possible_Somon_,MiddleFinger
+Flex ,_Has_The_Possible_Somon_,Neck
+Flex ,_Has_The_Possible_Somon_,Palm
+Flex ,_Has_The_Possible_Somon_,PinkyFinger
+Flex ,_Has_The_Possible_Somon_,RingFinger
+Flex ,_Has_The_Possible_Somon_,Spine
+Flex ,_Has_The_Possible_Somon_,Thumb
+Flex ,_Has_The_Possible_Somon_,Wrist
+Foot ,_Is_A_Possible_Somon_Of_,Don
+Foot ,_Is_A_Possible_Somon_Of_,Hook
+Foot ,_Is_A_Possible_Somon_Of_,Klose
+Foot ,_Is_A_Possible_Somon_Of_,Kontakt
+Foot ,_Is_A_Possible_Somon_Of_,Modify
+Foot ,_Is_A_Possible_Somon_Of_,Obstacle
+Foot ,_Is_A_Possible_Somon_Of_,Roll
+Foot ,_Is_A_Possible_Somon_Of_,Slide
+Foot ,_Is_A_Possible_Somon_Of_,Slot
+Foot ,_Is_A_Possible_Somon_Of_,Snap
+Forearm ,_Is_A_Possible_Somon_Of_,Rotate
+Forehead ,_Is_A_Possible_Somon_Of_,Kontakt
+Forehead ,_Is_A_Possible_Somon_Of_,Modify
+Forehead ,_Is_A_Possible_Somon_Of_,Slide
+Hand ,_Is_A_Possible_Somon_Of_,Clean  
+Hand ,_Is_A_Possible_Somon_Of_,Defend
+Hand ,_Is_A_Possible_Somon_Of_,Dig
+Hand ,_Is_A_Possible_Somon_Of_,Don
+Hand ,_Is_A_Possible_Somon_Of_,Klose
+Hand ,_Is_A_Possible_Somon_Of_,Knot
+Hand ,_Is_A_Possible_Somon_Of_,Kompakt
+Hand ,_Is_A_Possible_Somon_Of_,Kontakt
+Hand ,_Is_A_Possible_Somon_Of_,Modify
+Hand ,_Is_A_Possible_Somon_Of_,Obstacle
+Hand ,_Is_A_Possible_Somon_Of_,Roll
+Hand ,_Is_A_Possible_Somon_Of_,Slap
+Hand ,_Is_A_Possible_Somon_Of_,Slide
+Hand ,_Is_A_Possible_Somon_Of_,Slot
+Hand ,_Is_A_Possible_Somon_Of_,Snap
+Hand ,_Is_A_Possible_Somon_Of_,Wrap
+Head ,_Is_A_Possible_Somon_Of_,Kontakt
+Head ,_Is_A_Possible_Somon_Of_,Modify
+Head ,_Is_A_Possible_Somon_Of_,Slide
+Head ,_Is_A_Possible_Somon_Of_,Slot
+Heel ,_Is_A_Possible_Somon_Of_,Hook
+Heel ,_Is_A_Possible_Somon_Of_,Kontakt
+Heel ,_Is_A_Possible_Somon_Of_,Modify
+Heel ,_Is_A_Possible_Somon_Of_,Roll
+Heel ,_Is_A_Possible_Somon_Of_,Slide
+Hip ,_Is_A_Possible_Somon_Of_,Extend
+Hip ,_Is_A_Possible_Somon_Of_,Flex
+Hip ,_Is_A_Possible_Somon_Of_,Kontakt
+Hip ,_Is_A_Possible_Somon_Of_,Kryos
+Hip ,_Is_A_Possible_Somon_Of_,Modify
+Hip ,_Is_A_Possible_Somon_Of_,Slide
+Hook ,_Has_The_Possible_Somon_,Ankle
+Hook ,_Has_The_Possible_Somon_,Arm
+Hook ,_Has_The_Possible_Somon_,Finger
+Hook ,_Has_The_Possible_Somon_,Foot
+Hook ,_Has_The_Possible_Somon_,Heel
+Hook ,_Has_The_Possible_Somon_,IndexFinger
+Hook ,_Has_The_Possible_Somon_,Leg
+Hook ,_Has_The_Possible_Somon_,MiddleFinger
+Hook ,_Has_The_Possible_Somon_,PinkyFinger
+Hook ,_Has_The_Possible_Somon_,RingFinger
+Hook ,_Has_The_Possible_Somon_,Thumb
+Hook ,_Has_The_Possible_Somon_,Wrist
+Iguana ,_Has_The_Possible_Somon_,Arm
+Iguana ,_Has_The_Possible_Somon_,Leg
+IndexFinger ,_Is_A_Possible_Somon_Of_,Hook
+IndexFinger ,_Is_A_Possible_Somon_Of_,Kompakt
+IndexFinger ,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger ,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger ,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger ,_Is_A_Possible_Somon_Of_,Slot
+IndexFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+IndexFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+IndexFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+IndexFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+Jaw ,_Is_A_Possible_Somon_Of_,Kontakt
+Jaw ,_Is_A_Possible_Somon_Of_,Modify
+Jaw ,_Is_A_Possible_Somon_Of_,Slide
+Klose ,_Has_The_Possible_Somon_,Foot
+Klose ,_Has_The_Possible_Somon_,Hand
+Knee ,_Is_A_Possible_Somon_Of_,Extend
+Knee ,_Is_A_Possible_Somon_Of_,Flex
+Knee ,_Is_A_Possible_Somon_Of_,Kontakt
+Knee ,_Is_A_Possible_Somon_Of_,Kryos
+Knee ,_Is_A_Possible_Somon_Of_,Modify
+Knee ,_Is_A_Possible_Somon_Of_,Roll
+Knee ,_Is_A_Possible_Somon_Of_,Slide
+Knee ,_Is_A_Possible_Somon_Of_,Slot
+Knot ,_Has_The_Possible_Somon_,Hand
+Knuckle ,_Is_A_Possible_Somon_Of_,Kontakt
+Knuckle ,_Is_A_Possible_Somon_Of_,Modify
+Knuckle ,_Is_A_Possible_Somon_Of_,Slide
+Kompakt ,_Has_The_Possible_Somon_,Arm
+Kompakt ,_Has_The_Possible_Somon_,Finger
+Kompakt ,_Has_The_Possible_Somon_,Hand
+Kompakt ,_Has_The_Possible_Somon_,IndexFinger
+Kompakt ,_Has_The_Possible_Somon_,Leg
+Kompakt ,_Has_The_Possible_Somon_,MiddleFinger
+Kompakt ,_Has_The_Possible_Somon_,PinkyFinger
+Kompakt ,_Has_The_Possible_Somon_,RingFinger
+Kompress ,_Has_The_Possible_Somon_,Arm
+Kompress ,_Has_The_Possible_Somon_,Leg
+Konstrukt ,_Has_The_Possible_Somon_,nan
+Kontakt ,_Has_The_Possible_Somon_,Arm
+Kontakt ,_Has_The_Possible_Somon_,Chin
+Kontakt ,_Has_The_Possible_Somon_,DistalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,Ear
+Kontakt ,_Has_The_Possible_Somon_,Femur
+Kontakt ,_Has_The_Possible_Somon_,Fingertip
+Kontakt ,_Has_The_Possible_Somon_,Foot
+Kontakt ,_Has_The_Possible_Somon_,Forehead
+Kontakt ,_Has_The_Possible_Somon_,Hand
+Kontakt ,_Has_The_Possible_Somon_,Head
+Kontakt ,_Has_The_Possible_Somon_,Heel
+Kontakt ,_Has_The_Possible_Somon_,Hip
+Kontakt ,_Has_The_Possible_Somon_,IndexFinger
+Kontakt ,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Kontakt ,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Kontakt ,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,Jaw
+Kontakt ,_Has_The_Possible_Somon_,Knee
+Kontakt ,_Has_The_Possible_Somon_,Knuckle
+Kontakt ,_Has_The_Possible_Somon_,Leg
+Kontakt ,_Has_The_Possible_Somon_,Lip
+Kontakt ,_Has_The_Possible_Somon_,MedialPhalanges
+Kontakt ,_Has_The_Possible_Somon_,Metatarsals
+Kontakt ,_Has_The_Possible_Somon_,MiddleFinger
+Kontakt ,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Kontakt ,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Kontakt ,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,Neck
+Kontakt ,_Has_The_Possible_Somon_,Nose
+Kontakt ,_Has_The_Possible_Somon_,Palm
+Kontakt ,_Has_The_Possible_Somon_,PinkyFinger
+Kontakt ,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Kontakt ,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Kontakt ,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,ProximalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,RadialBorder
+Kontakt ,_Has_The_Possible_Somon_,Ribs
+Kontakt ,_Has_The_Possible_Somon_,RingFinger
+Kontakt ,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Kontakt ,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Kontakt ,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Kontakt ,_Has_The_Possible_Somon_,Shoulder
+Kontakt ,_Has_The_Possible_Somon_,Spine
+Kontakt ,_Has_The_Possible_Somon_,Thumb
+Kontakt ,_Has_The_Possible_Somon_,Thumb_Fingertip
+Kontakt ,_Has_The_Possible_Somon_,Tibia
+Kontakt ,_Has_The_Possible_Somon_,Toe
+Kontakt ,_Has_The_Possible_Somon_,Wrist
+Korpo ,_Is_A_Possible_Somon_Of_,Absorb
+Korpo ,_Is_A_Possible_Somon_Of_,Don
+Korpo ,_Is_A_Possible_Somon_Of_,Drop
+Korpo ,_Is_A_Possible_Somon_Of_,Modify
+Korpo ,_Is_A_Possible_Somon_Of_,Obstacle
+Korpo ,_Is_A_Possible_Somon_Of_,Rotate
+Korpo ,_Is_A_Possible_Somon_Of_,Slot
+Korpo ,_Is_A_Possible_Somon_Of_,Snap
+Korpo ,_Is_A_Possible_Somon_Of_,Stack
+Korpo ,_Is_A_Possible_Somon_Of_,Tangent
+Korpo ,_Is_A_Possible_Somon_Of_,Whip
+Korpo ,_Is_A_Possible_Somon_Of_,Wrap
+Kryos ,_Has_The_Possible_Somon_,Ankle
+Kryos ,_Has_The_Possible_Somon_,Arm
+Kryos ,_Has_The_Possible_Somon_,Elbow
+Kryos ,_Has_The_Possible_Somon_,Hip
+Kryos ,_Has_The_Possible_Somon_,Knee
+Kryos ,_Has_The_Possible_Somon_,Leg
+Kryos ,_Has_The_Possible_Somon_,MiddleFinger
+Kryos ,_Has_The_Possible_Somon_,Neck
+Kryos ,_Has_The_Possible_Somon_,Palm
+Kryos ,_Has_The_Possible_Somon_,PinkyFinger
+Kryos ,_Has_The_Possible_Somon_,RingFinger
+Kryos ,_Has_The_Possible_Somon_,Spine
+Kryos ,_Has_The_Possible_Somon_,Thumb
+Kryos ,_Has_The_Possible_Somon_,Wrist
+LatissimusDorsi ,_Is_A_Possible_Somon_Of_,Slide
+Leg ,_Is_A_Possible_Somon_Of_,Abdukt  
+Leg ,_Is_A_Possible_Somon_Of_,Absorb  
+Leg ,_Is_A_Possible_Somon_Of_,Addukt  
+Leg ,_Is_A_Possible_Somon_Of_,Defend
+Leg ,_Is_A_Possible_Somon_Of_,Dig
+Leg ,_Is_A_Possible_Somon_Of_,Drag
+Leg ,_Is_A_Possible_Somon_Of_,Extend
+Leg ,_Is_A_Possible_Somon_Of_,Flex
+Leg ,_Is_A_Possible_Somon_Of_,Hook
+Leg ,_Is_A_Possible_Somon_Of_,Iguana
+Leg ,_Is_A_Possible_Somon_Of_,Kompakt
+Leg ,_Is_A_Possible_Somon_Of_,Kompress
+Leg ,_Is_A_Possible_Somon_Of_,Kontakt
+Leg ,_Is_A_Possible_Somon_Of_,Kryos
+Leg ,_Is_A_Possible_Somon_Of_,Modify
+Leg ,_Is_A_Possible_Somon_Of_,Obstacle
+Leg ,_Is_A_Possible_Somon_Of_,Onda
+Leg ,_Is_A_Possible_Somon_Of_,Rotate
+Leg ,_Is_A_Possible_Somon_Of_,Slide
+Leg ,_Is_A_Possible_Somon_Of_,Slot
+Leg ,_Is_A_Possible_Somon_Of_,Snap
+Leg ,_Is_A_Possible_Somon_Of_,Tangent
+Leg ,_Is_A_Possible_Somon_Of_,Twist
+Leg ,_Is_A_Possible_Somon_Of_,Whip
+Leg ,_Is_A_Possible_Somon_Of_,Wrap
+Lip ,_Is_A_Possible_Somon_Of_,Kontakt
+Lip ,_Is_A_Possible_Somon_Of_,Modify
+Lip ,_Is_A_Possible_Somon_Of_,Slide
+MedialPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+MedialPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+MedialPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+Metatarsals ,_Is_A_Possible_Somon_Of_,Kontakt
+Metatarsals ,_Is_A_Possible_Somon_Of_,Modify
+Metatarsals ,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Extend
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Flex
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Hook
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Kompakt
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Kryos
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger ,_Is_A_Possible_Somon_Of_,Slot
+MiddleFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+MiddleFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+MiddleFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+MiddleFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+Modify ,_Has_The_Possible_Somon_,Ankle
+Modify ,_Has_The_Possible_Somon_,Arm
+Modify ,_Has_The_Possible_Somon_,Chin
+Modify ,_Has_The_Possible_Somon_,DistalPhalanges
+Modify ,_Has_The_Possible_Somon_,Ear
+Modify ,_Has_The_Possible_Somon_,Elbow
+Modify ,_Has_The_Possible_Somon_,Face
+Modify ,_Has_The_Possible_Somon_,Femur
+Modify ,_Has_The_Possible_Somon_,Finger
+Modify ,_Has_The_Possible_Somon_,Fingertip
+Modify ,_Has_The_Possible_Somon_,Foot
+Modify ,_Has_The_Possible_Somon_,Forehead
+Modify ,_Has_The_Possible_Somon_,Hand
+Modify ,_Has_The_Possible_Somon_,Head
+Modify ,_Has_The_Possible_Somon_,Heel
+Modify ,_Has_The_Possible_Somon_,Hip
+Modify ,_Has_The_Possible_Somon_,IndexFinger
+Modify ,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Modify ,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Modify ,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Modify ,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Modify ,_Has_The_Possible_Somon_,Jaw
+Modify ,_Has_The_Possible_Somon_,Knee
+Modify ,_Has_The_Possible_Somon_,Knuckle
+Modify ,_Has_The_Possible_Somon_,Korpo
+Modify ,_Has_The_Possible_Somon_,Leg
+Modify ,_Has_The_Possible_Somon_,Lip
+Modify ,_Has_The_Possible_Somon_,MedialPhalanges
+Modify ,_Has_The_Possible_Somon_,Metatarsals
+Modify ,_Has_The_Possible_Somon_,MiddleFinger
+Modify ,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Modify ,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Modify ,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Modify ,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Modify ,_Has_The_Possible_Somon_,Neck
+Modify ,_Has_The_Possible_Somon_,Nose
+Modify ,_Has_The_Possible_Somon_,Palm
+Modify ,_Has_The_Possible_Somon_,PinkyFinger
+Modify ,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Modify ,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Modify ,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Modify ,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Modify ,_Has_The_Possible_Somon_,ProximalPhalanges
+Modify ,_Has_The_Possible_Somon_,RadialBorder
+Modify ,_Has_The_Possible_Somon_,Ribs
+Modify ,_Has_The_Possible_Somon_,RingFinger
+Modify ,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Modify ,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Modify ,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Modify ,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Modify ,_Has_The_Possible_Somon_,Shoulder
+Modify ,_Has_The_Possible_Somon_,Spine
+Modify ,_Has_The_Possible_Somon_,Thumb
+Modify ,_Has_The_Possible_Somon_,Thumb_Fingertip
+Modify ,_Has_The_Possible_Somon_,Tibia
+Modify ,_Has_The_Possible_Somon_,Toe
+Modify ,_Has_The_Possible_Somon_,Wrist
+Modify ,_Has_The_Possible_Somon_,nan
+Neck ,_Is_A_Possible_Somon_Of_,Clean  
+Neck ,_Is_A_Possible_Somon_Of_,Extend
+Neck ,_Is_A_Possible_Somon_Of_,Flex
+Neck ,_Is_A_Possible_Somon_Of_,Kontakt
+Neck ,_Is_A_Possible_Somon_Of_,Kryos
+Neck ,_Is_A_Possible_Somon_Of_,Modify
+Neck ,_Is_A_Possible_Somon_Of_,Slide
+Neck ,_Is_A_Possible_Somon_Of_,Wrap
+Nose ,_Is_A_Possible_Somon_Of_,Kontakt
+Nose ,_Is_A_Possible_Somon_Of_,Modify
+Nose ,_Is_A_Possible_Somon_Of_,Slide
+Obliquus ,_Is_A_Possible_Somon_Of_,Slide
+Obstacle ,_Has_The_Possible_Somon_,Arm
+Obstacle ,_Has_The_Possible_Somon_,Foot
+Obstacle ,_Has_The_Possible_Somon_,Hand
+Obstacle ,_Has_The_Possible_Somon_,Korpo
+Obstacle ,_Has_The_Possible_Somon_,Leg
+Onda ,_Has_The_Possible_Somon_,Arm
+Onda ,_Has_The_Possible_Somon_,Leg
+Palm ,_Is_A_Possible_Somon_Of_,Extend
+Palm ,_Is_A_Possible_Somon_Of_,Flex
+Palm ,_Is_A_Possible_Somon_Of_,Kontakt
+Palm ,_Is_A_Possible_Somon_Of_,Kryos
+Palm ,_Is_A_Possible_Somon_Of_,Modify
+Palm ,_Is_A_Possible_Somon_Of_,Slide
+Pectoralis ,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Extend
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Flex
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Hook
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Kompakt
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Kryos
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger ,_Is_A_Possible_Somon_Of_,Slot
+PinkyFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+PinkyFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+PinkyFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+PinkyFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+RadialBorder ,_Is_A_Possible_Somon_Of_,Kontakt
+RadialBorder ,_Is_A_Possible_Somon_Of_,Modify
+RadialBorder ,_Is_A_Possible_Somon_Of_,Slide
+Retrakt ,_Has_The_Possible_Somon_,Scapula
+Ribs ,_Is_A_Possible_Somon_Of_,Kontakt
+Ribs ,_Is_A_Possible_Somon_Of_,Modify
+Ribs ,_Is_A_Possible_Somon_Of_,Slide
+RingFinger ,_Is_A_Possible_Somon_Of_,Extend
+RingFinger ,_Is_A_Possible_Somon_Of_,Flex
+RingFinger ,_Is_A_Possible_Somon_Of_,Hook
+RingFinger ,_Is_A_Possible_Somon_Of_,Kompakt
+RingFinger ,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger ,_Is_A_Possible_Somon_Of_,Kryos
+RingFinger ,_Is_A_Possible_Somon_Of_,Modify
+RingFinger ,_Is_A_Possible_Somon_Of_,Slide
+RingFinger ,_Is_A_Possible_Somon_Of_,Slot
+RingFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_DistalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_MedialPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+RingFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Kontakt
+RingFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Modify
+RingFinger_ProximalPhalanges ,_Is_A_Possible_Somon_Of_,Slide
+Roll ,_Has_The_Possible_Somon_,Finger
+Roll ,_Has_The_Possible_Somon_,Foot
+Roll ,_Has_The_Possible_Somon_,Hand
+Roll ,_Has_The_Possible_Somon_,Heel
+Roll ,_Has_The_Possible_Somon_,Knee
+Rotate ,_Has_The_Possible_Somon_,Arm
+Rotate ,_Has_The_Possible_Somon_,Forearm
+Rotate ,_Has_The_Possible_Somon_,Korpo
+Rotate ,_Has_The_Possible_Somon_,Leg
+Scapula ,_Is_A_Possible_Somon_Of_,Retrakt
+Scapula ,_Is_A_Possible_Somon_Of_,Slide
+Shoulder ,_Is_A_Possible_Somon_Of_,Kontakt
+Shoulder ,_Is_A_Possible_Somon_Of_,Modify
+Shoulder ,_Is_A_Possible_Somon_Of_,Slide
+Shoulder ,_Is_A_Possible_Somon_Of_,Wrap
+Slam ,_Has_The_Possible_Somon_,Arm
+Slap ,_Has_The_Possible_Somon_,Hand
+Slide ,_Has_The_Possible_Somon_,Arm
+Slide ,_Has_The_Possible_Somon_,Biceps
+Slide ,_Has_The_Possible_Somon_,Brachioradialis
+Slide ,_Has_The_Possible_Somon_,Chin
+Slide ,_Has_The_Possible_Somon_,Clavicle
+Slide ,_Has_The_Possible_Somon_,Deltoid
+Slide ,_Has_The_Possible_Somon_,DistalPhalanges
+Slide ,_Has_The_Possible_Somon_,Ear
+Slide ,_Has_The_Possible_Somon_,Femur
+Slide ,_Has_The_Possible_Somon_,Fingertip
+Slide ,_Has_The_Possible_Somon_,Foot
+Slide ,_Has_The_Possible_Somon_,Forehead
+Slide ,_Has_The_Possible_Somon_,Hand
+Slide ,_Has_The_Possible_Somon_,Head
+Slide ,_Has_The_Possible_Somon_,Heel
+Slide ,_Has_The_Possible_Somon_,Hip
+Slide ,_Has_The_Possible_Somon_,IndexFinger
+Slide ,_Has_The_Possible_Somon_,IndexFinger_DistalPhalanges
+Slide ,_Has_The_Possible_Somon_,IndexFinger_Fingertip
+Slide ,_Has_The_Possible_Somon_,IndexFinger_MedialPhalanges
+Slide ,_Has_The_Possible_Somon_,IndexFinger_ProximalPhalanges
+Slide ,_Has_The_Possible_Somon_,Jaw
+Slide ,_Has_The_Possible_Somon_,Knee
+Slide ,_Has_The_Possible_Somon_,Knuckle
+Slide ,_Has_The_Possible_Somon_,LatissimusDorsi
+Slide ,_Has_The_Possible_Somon_,Leg
+Slide ,_Has_The_Possible_Somon_,Lip
+Slide ,_Has_The_Possible_Somon_,MedialPhalanges
+Slide ,_Has_The_Possible_Somon_,Metatarsals
+Slide ,_Has_The_Possible_Somon_,MiddleFinger
+Slide ,_Has_The_Possible_Somon_,MiddleFinger_DistalPhalanges
+Slide ,_Has_The_Possible_Somon_,MiddleFinger_Fingertip
+Slide ,_Has_The_Possible_Somon_,MiddleFinger_MedialPhalanges
+Slide ,_Has_The_Possible_Somon_,MiddleFinger_ProximalPhalanges
+Slide ,_Has_The_Possible_Somon_,Neck
+Slide ,_Has_The_Possible_Somon_,Nose
+Slide ,_Has_The_Possible_Somon_,Obliquus
+Slide ,_Has_The_Possible_Somon_,Palm
+Slide ,_Has_The_Possible_Somon_,Pectoralis
+Slide ,_Has_The_Possible_Somon_,PinkyFinger
+Slide ,_Has_The_Possible_Somon_,PinkyFinger_DistalPhalanges
+Slide ,_Has_The_Possible_Somon_,PinkyFinger_Fingertip
+Slide ,_Has_The_Possible_Somon_,PinkyFinger_MedialPhalanges
+Slide ,_Has_The_Possible_Somon_,PinkyFinger_ProximalPhalanges
+Slide ,_Has_The_Possible_Somon_,ProximalPhalanges
+Slide ,_Has_The_Possible_Somon_,RadialBorder
+Slide ,_Has_The_Possible_Somon_,Ribs
+Slide ,_Has_The_Possible_Somon_,RingFinger
+Slide ,_Has_The_Possible_Somon_,RingFinger_DistalPhalanges
+Slide ,_Has_The_Possible_Somon_,RingFinger_Fingertip
+Slide ,_Has_The_Possible_Somon_,RingFinger_MedialPhalanges
+Slide ,_Has_The_Possible_Somon_,RingFinger_ProximalPhalanges
+Slide ,_Has_The_Possible_Somon_,Scapula
+Slide ,_Has_The_Possible_Somon_,Shoulder
+Slide ,_Has_The_Possible_Somon_,Spine
+Slide ,_Has_The_Possible_Somon_,Thumb
+Slide ,_Has_The_Possible_Somon_,Thumb_Fingertip
+Slide ,_Has_The_Possible_Somon_,Tibia
+Slide ,_Has_The_Possible_Somon_,Toe
+Slide ,_Has_The_Possible_Somon_,Trapezius
+Slide ,_Has_The_Possible_Somon_,Triceps
+Slide ,_Has_The_Possible_Somon_,Wrist
+Slot ,_Has_The_Possible_Somon_,Arm
+Slot ,_Has_The_Possible_Somon_,Elbow
+Slot ,_Has_The_Possible_Somon_,Finger
+Slot ,_Has_The_Possible_Somon_,Foot
+Slot ,_Has_The_Possible_Somon_,Hand
+Slot ,_Has_The_Possible_Somon_,Head
+Slot ,_Has_The_Possible_Somon_,IndexFinger
+Slot ,_Has_The_Possible_Somon_,Knee
+Slot ,_Has_The_Possible_Somon_,Korpo
+Slot ,_Has_The_Possible_Somon_,Leg
+Slot ,_Has_The_Possible_Somon_,MiddleFinger
+Slot ,_Has_The_Possible_Somon_,PinkyFinger
+Slot ,_Has_The_Possible_Somon_,RingFinger
+Slot ,_Has_The_Possible_Somon_,Thumb
+Snap ,_Has_The_Possible_Somon_,Arm
+Snap ,_Has_The_Possible_Somon_,Foot
+Snap ,_Has_The_Possible_Somon_,Hand
+Snap ,_Has_The_Possible_Somon_,Korpo
+Snap ,_Has_The_Possible_Somon_,Leg
+Spine ,_Is_A_Possible_Somon_Of_,Extend
+Spine ,_Is_A_Possible_Somon_Of_,Flex
+Spine ,_Is_A_Possible_Somon_Of_,Kontakt
+Spine ,_Is_A_Possible_Somon_Of_,Kryos
+Spine ,_Is_A_Possible_Somon_Of_,Modify
+Spine ,_Is_A_Possible_Somon_Of_,Slide
+Stack ,_Has_The_Possible_Somon_,Arm
+Stack ,_Has_The_Possible_Somon_,Korpo
+Tangent ,_Has_The_Possible_Somon_,Arm
+Tangent ,_Has_The_Possible_Somon_,Korpo
+Tangent ,_Has_The_Possible_Somon_,Leg
+Thumb ,_Is_A_Possible_Somon_Of_,Extend
+Thumb ,_Is_A_Possible_Somon_Of_,Flex
+Thumb ,_Is_A_Possible_Somon_Of_,Hook
+Thumb ,_Is_A_Possible_Somon_Of_,Kontakt
+Thumb ,_Is_A_Possible_Somon_Of_,Kryos
+Thumb ,_Is_A_Possible_Somon_Of_,Modify
+Thumb ,_Is_A_Possible_Somon_Of_,Slide
+Thumb ,_Is_A_Possible_Somon_Of_,Slot
+Thumb_Fingertip ,_Is_A_Possible_Somon_Of_,Kontakt
+Thumb_Fingertip ,_Is_A_Possible_Somon_Of_,Modify
+Thumb_Fingertip ,_Is_A_Possible_Somon_Of_,Slide
+Tibia ,_Is_A_Possible_Somon_Of_,Kontakt
+Tibia ,_Is_A_Possible_Somon_Of_,Modify
+Tibia ,_Is_A_Possible_Somon_Of_,Slide
+Toe ,_Is_A_Possible_Somon_Of_,Kontakt
+Toe ,_Is_A_Possible_Somon_Of_,Modify
+Toe ,_Is_A_Possible_Somon_Of_,Slide
+Trapezius ,_Is_A_Possible_Somon_Of_,Slide
+Triceps ,_Is_A_Possible_Somon_Of_,Slide
+Twist ,_Has_The_Possible_Somon_,Arm
+Twist ,_Has_The_Possible_Somon_,Leg
+Weave ,_Has_The_Possible_Somon_,Arm
+Weave ,_Has_The_Possible_Somon_,Finger
+Whip ,_Has_The_Possible_Somon_,Arm
+Whip ,_Has_The_Possible_Somon_,Korpo
+Whip ,_Has_The_Possible_Somon_,Leg
+Wrap ,_Has_The_Possible_Somon_,Arm
+Wrap ,_Has_The_Possible_Somon_,Hand
+Wrap ,_Has_The_Possible_Somon_,Korpo
+Wrap ,_Has_The_Possible_Somon_,Leg
+Wrap ,_Has_The_Possible_Somon_,Neck
+Wrap ,_Has_The_Possible_Somon_,Shoulder
+Wrap ,_Has_The_Possible_Somon_,Wrist
+Wrist ,_Is_A_Possible_Somon_Of_,Extend
+Wrist ,_Is_A_Possible_Somon_Of_,Flex
+Wrist ,_Is_A_Possible_Somon_Of_,Hook
+Wrist ,_Is_A_Possible_Somon_Of_,Kontakt
+Wrist ,_Is_A_Possible_Somon_Of_,Kryos
+Wrist ,_Is_A_Possible_Somon_Of_,Modify
+Wrist ,_Is_A_Possible_Somon_Of_,Slide
+Wrist ,_Is_A_Possible_Somon_Of_,Wrap
+MineralSoil,_Has_The_Possible_Ekon_,Hydro
+PebbleSoil,_Has_The_Possible_Ekon_,Hydro
+Periderm  ,_Has_The_Possible_Ekon_,Hydro
+Poales    ,_Has_The_Possible_Ekon_,Hydro
+RedRotSoil,_Has_The_Possible_Ekon_,Hydro
+SandSoil  ,_Has_The_Possible_Ekon_,Hydro
+SiltSoil  ,_Has_The_Possible_Ekon_,Hydro
+Xylem     ,_Has_The_Possible_Ekon_,Hydro
+Hydro,_Is_A_Possible_Ekon_Of_,MineralSoil
+Hydro,_Is_A_Possible_Ekon_Of_,PebbleSoil
+Hydro,_Is_A_Possible_Ekon_Of_,Periderm
+Hydro,_Is_A_Possible_Ekon_Of_,Poales
+Hydro,_Is_A_Possible_Ekon_Of_,RedRotSoil
+Hydro,_Is_A_Possible_Ekon_Of_,SandSoil
+Hydro,_Is_A_Possible_Ekon_Of_,SiltSoil
+Hydro,_Is_A_Possible_Ekon_Of_,Xylem
+Hydro ,_Is_A_Possible_Ekon_Of_,MineralSoil
+Hydro ,_Is_A_Possible_Ekon_Of_,PebbleSoil
+Hydro ,_Is_A_Possible_Ekon_Of_,Periderm  
+Hydro ,_Is_A_Possible_Ekon_Of_,Poales    
+Hydro ,_Is_A_Possible_Ekon_Of_,RedRotSoil
+Hydro ,_Is_A_Possible_Ekon_Of_,SandSoil  
+Hydro ,_Is_A_Possible_Ekon_Of_,SiltSoil  
+Hydro ,_Is_A_Possible_Ekon_Of_,Xylem     
+MineralSoil ,_Has_The_Possible_Ekon_,Hydro
+PebbleSoil ,_Has_The_Possible_Ekon_,Hydro
+Periderm ,_Has_The_Possible_Ekon_,Hydro
+Poales ,_Has_The_Possible_Ekon_,Hydro
+RedRotSoil ,_Has_The_Possible_Ekon_,Hydro
+SandSoil ,_Has_The_Possible_Ekon_,Hydro
+SiltSoil ,_Has_The_Possible_Ekon_,Hydro
+Xylem ,_Has_The_Possible_Ekon_,Hydro
+Leg,_Is_A_Required_Somon_Of_,Crawl
+Hinge,_Is_A_Required_Somon_Of_,Hinge
+Korpo,_Is_A_Required_Somon_Of_,Jump
+Leg,_Is_A_Required_Somon_Of_,Kick
+Leg,_Is_A_Required_Somon_Of_,Kneel
+Leg,_Is_A_Required_Somon_Of_,Krampon
+Arm,_Is_A_Required_Somon_Of_,MuscleUp
+Korpo,_Is_A_Required_Somon_Of_,MuscleUp
+Leg,_Is_A_Required_Somon_Of_,MuscleUp
+Spine,_Is_A_Required_Somon_Of_,MuscleUp
+Arm,_Is_A_Required_Somon_Of_,Neonektomy
+Hand,_Is_A_Required_Somon_Of_,Rip
+Arm,_Is_A_Required_Somon_Of_,Run
+Foot,_Is_A_Required_Somon_Of_,Run
+Hips,_Is_A_Required_Somon_Of_,Run
+Knee,_Is_A_Required_Somon_Of_,Run
+Korpo,_Is_A_Required_Somon_Of_,Run
+Leg,_Is_A_Required_Somon_Of_,Run
+Lungs,_Is_A_Required_Somon_Of_,Run
+Ribs,_Is_A_Required_Somon_Of_,Run
+Spine,_Is_A_Required_Somon_Of_,Run
+Korpo,_Is_A_Required_Somon_Of_,Sit
+Arm,_Is_A_Required_Somon_Of_,Spike
+Arm,_Is_A_Required_Somon_Of_,Stand
+Hip,_Is_A_Required_Somon_Of_,Stand
+Korpo,_Is_A_Required_Somon_Of_,Stand
+Leg,_Is_A_Required_Somon_Of_,Stand
+Spine,_Is_A_Required_Somon_Of_,Stand
+Arm,_Is_A_Required_Somon_Of_,Stomp
+Korpo,_Is_A_Required_Somon_Of_,Stomp
+Leg,_Is_A_Required_Somon_Of_,Stomp
+Arm,_Is_A_Required_Somon_Of_,SuperSpike
+Foot,_Is_A_Required_Somon_Of_,SuperSpike
+Hand,_Is_A_Required_Somon_Of_,SuperSpike
+Korpo,_Is_A_Required_Somon_Of_,SuperSpike
+Leg,_Is_A_Required_Somon_Of_,SuperSpike
+Arm,_Is_A_Required_Somon_Of_,Transport
+Korpo,_Is_A_Required_Somon_Of_,Transport
+Leg,_Is_A_Required_Somon_Of_,Transport
+Arm,_Is_A_Required_Somon_Of_,Trot
+Korpo,_Is_A_Required_Somon_Of_,Trot
+Leg,_Is_A_Required_Somon_Of_,Trot
+Crawl ,_Requires_The_Somon_,Leg
+Hinge ,_Requires_The_Somon_,Hinge
+Jump ,_Requires_The_Somon_,Korpo
+Kick ,_Requires_The_Somon_,Leg
+Kneel ,_Requires_The_Somon_,Leg
+Krampon ,_Requires_The_Somon_,Leg
+MuscleUp ,_Requires_The_Somon_,Arm
+MuscleUp ,_Requires_The_Somon_,Korpo
+MuscleUp ,_Requires_The_Somon_,Leg
+MuscleUp ,_Requires_The_Somon_,Spine
+Neonektomy ,_Requires_The_Somon_,Arm
+Rip ,_Requires_The_Somon_,Hand
+Run ,_Requires_The_Somon_,Arm
+Run ,_Requires_The_Somon_,Foot
+Run ,_Requires_The_Somon_,Hips
+Run ,_Requires_The_Somon_,Knee
+Run ,_Requires_The_Somon_,Korpo
+Run ,_Requires_The_Somon_,Leg
+Run ,_Requires_The_Somon_,Lungs
+Run ,_Requires_The_Somon_,Ribs
+Run ,_Requires_The_Somon_,Spine
+Sit ,_Requires_The_Somon_,Korpo
+Spike ,_Requires_The_Somon_,Arm
+Stand ,_Requires_The_Somon_,Arm
+Stand ,_Requires_The_Somon_,Hip
+Stand ,_Requires_The_Somon_,Korpo
+Stand ,_Requires_The_Somon_,Leg
+Stand ,_Requires_The_Somon_,Spine
+Stomp ,_Requires_The_Somon_,Arm
+Stomp ,_Requires_The_Somon_,Korpo
+Stomp ,_Requires_The_Somon_,Leg
+SuperSpike ,_Requires_The_Somon_,Arm
+SuperSpike ,_Requires_The_Somon_,Foot
+SuperSpike ,_Requires_The_Somon_,Hand
+SuperSpike ,_Requires_The_Somon_,Korpo
+SuperSpike ,_Requires_The_Somon_,Leg
+Transport ,_Requires_The_Somon_,Arm
+Transport ,_Requires_The_Somon_,Korpo
+Transport ,_Requires_The_Somon_,Leg
+Trot ,_Requires_The_Somon_,Arm
+Trot ,_Requires_The_Somon_,Korpo
+Trot ,_Requires_The_Somon_,Leg
+Branta,_Is_A_SubAktion_Of_,Amble
+Krampon,_Is_A_SubAktion_Of_,Amble
+Amble        ,_Is_A_SuperAktion_Of_,Branta
+Klose,_Is_A_SuperAktion_Of_,Drag
+Klose,_Is_A_SuperAktion_Of_,Kick
+Drag,_Is_A_SubAktion_Of_,Klose
+Kick,_Is_A_SubAktion_Of_,Klose
+Pugno,_Is_A_SubAktion_Of_,Klose
+Slap,_Is_A_SubAktion_Of_,Klose
+Amble       ,_Is_A_SuperAktion_Of_,Krampon
+Klose,_Is_A_SuperAktion_Of_,Pugno
+Klose,_Is_A_SuperAktion_Of_,Slap
+Amble ,_Is_A_SuperAktion_Of_,Branta
+Amble ,_Is_A_SuperAktion_Of_,Krampon
+Branta ,_Is_A_SubAktion_Of_,Amble        
+Drag ,_Is_A_SubAktion_Of_,Klose
+Kick ,_Is_A_SubAktion_Of_,Klose
+Klose ,_Is_A_SuperAktion_Of_,Drag
+Klose ,_Is_A_SuperAktion_Of_,Kick
+Klose ,_Is_A_SuperAktion_Of_,Pugno
+Klose ,_Is_A_SuperAktion_Of_,Slap
+Krampon ,_Is_A_SubAktion_Of_,Amble       
+Pugno ,_Is_A_SubAktion_Of_,Klose
+Slap ,_Is_A_SubAktion_Of_,Klose
+Mano,_Is_The_Possible_Tool_Of_,Dilate
+Spade,_Is_The_Possible_Tool_Of_,Dilate
+Dilate,_Has_The_Possible_Tool_,Mano
+Dilate,_Has_The_Possible_Tool_,Spade
+Dilate ,_Has_The_Possible_Tool_,Mano
+Dilate ,_Has_The_Possible_Tool_,Spade
+Mano ,_Is_The_Possible_Tool_Of_,Dilate
+Spade ,_Is_The_Possible_Tool_Of_,Dilate
+Diamond,_Is_The_SubVion_Of_,Alignment
+Polygon,_Is_The_SubVion_Of_,Alignment
+Triangle,_Is_The_SubVion_Of_,Alignment
+Alignment,_Has_The_SubVion_,Diamond
+Alignment,_Has_The_SubVion_,Polygon
+Alignment,_Has_The_SubVion_,Triangle
+Alignment ,_Has_The_SubVion_,Diamond
+Alignment ,_Has_The_SubVion_,Polygon
+Alignment ,_Has_The_SubVion_,Triangle
+Diamond ,_Is_The_SubVion_Of_,Alignment
+Polygon ,_Is_The_SubVion_Of_,Alignment
+Triangle ,_Is_The_SubVion_Of_,Alignment
+Tool,_Is_A_SuperTaxon_Of_,ATV
+Aktion,_Is_A_SuperTaxon_Of_,Abdukt
+Aktion,_Is_A_SuperTaxon_Of_,Absorb
+Kinematics,_Is_A_SuperTaxon_Of_,Acceleration
+Aktion,_Is_A_SuperTaxon_Of_,Addukt
+Probability,_Is_A_SuperTaxon_Of_,Affordance
+Limit,_Is_A_SubTaxon_Of_,Affordance
+Obstacle,_Is_A_SubTaxon_Of_,Affordance
+Passage,_Is_A_SubTaxon_Of_,Affordance
+Site,_Is_A_SubTaxon_Of_,Affordance
+Atmosfera,_Is_A_SuperTaxon_Of_,AirTemperature
+Task,_Is_A_SuperTaxon_Of_,Aktion
+Abdukt,_Is_A_SubTaxon_Of_,Aktion
+Absorb,_Is_A_SubTaxon_Of_,Aktion
+Addukt,_Is_A_SubTaxon_Of_,Aktion
+Allos,_Is_A_SubTaxon_Of_,Aktion
+Ama,_Is_A_SubTaxon_Of_,Aktion
+Amble,_Is_A_SubTaxon_Of_,Aktion
+Ankor,_Is_A_SubTaxon_Of_,Aktion
+Ballista,_Is_A_SubTaxon_Of_,Aktion
+Catch,_Is_A_SubTaxon_Of_,Aktion
+Clean,_Is_A_SubTaxon_Of_,Aktion
+Crawl,_Is_A_SubTaxon_Of_,Aktion
+Defend,_Is_A_SubTaxon_Of_,Aktion
+Dig,_Is_A_SubTaxon_Of_,Aktion
+Dilate,_Is_A_SubTaxon_Of_,Aktion
+Doff,_Is_A_SubTaxon_Of_,Aktion
+Don,_Is_A_SubTaxon_Of_,Aktion
+Drag,_Is_A_SubTaxon_Of_,Aktion
+Drop,_Is_A_SubTaxon_Of_,Aktion
+Eval,_Is_A_SubTaxon_Of_,Aktion
+Exit,_Is_A_SubTaxon_Of_,Aktion
+Fall,_Is_A_SubTaxon_Of_,Aktion
+Flex,_Is_A_SubTaxon_Of_,Aktion
+Hinge,_Is_A_SubTaxon_Of_,Aktion
+Hook,_Is_A_SubTaxon_Of_,Aktion
+Iguana,_Is_A_SubTaxon_Of_,Aktion
+Jump,_Is_A_SubTaxon_Of_,Aktion
+Kick,_Is_A_SubTaxon_Of_,Aktion
+Klose,_Is_A_SubTaxon_Of_,Aktion
+Kneel,_Is_A_SubTaxon_Of_,Aktion
+Knot,_Is_A_SubTaxon_Of_,Aktion
+Kompakt,_Is_A_SubTaxon_Of_,Aktion
+Kompress,_Is_A_SubTaxon_Of_,Aktion
+Konstrukt,_Is_A_SubTaxon_Of_,Aktion
+Kontakt,_Is_A_SubTaxon_Of_,Aktion
+Krampon,_Is_A_SubTaxon_Of_,Aktion
+Kryos,_Is_A_SubTaxon_Of_,Aktion
+Launch,_Is_A_SubTaxon_Of_,Aktion
+Lean,_Is_A_SubTaxon_Of_,Aktion
+Lift,_Is_A_SubTaxon_Of_,Aktion
+Load,_Is_A_SubTaxon_Of_,Aktion
+Lock,_Is_A_SubTaxon_Of_,Aktion
+Machete,_Is_A_SubTaxon_Of_,Aktion
+Mano,_Is_A_SubTaxon_Of_,Aktion
+Markate,_Is_A_SubTaxon_Of_,Aktion
+Modify,_Is_A_SubTaxon_Of_,Aktion
+MuscleUp,_Is_A_SubTaxon_Of_,Aktion
+Neonektomy,_Is_A_SubTaxon_Of_,Aktion
+Onda,_Is_A_SubTaxon_Of_,Aktion
+Orbit,_Is_A_SubTaxon_Of_,Aktion
+Parry,_Is_A_SubTaxon_Of_,Aktion
+Pendulate,_Is_A_SubTaxon_Of_,Aktion
+Pogo,_Is_A_SubTaxon_Of_,Aktion
+Poke,_Is_A_SubTaxon_Of_,Aktion
+Post,_Is_A_SubTaxon_Of_,Aktion
+Preserve,_Is_A_SubTaxon_Of_,Aktion
+Progress,_Is_A_SubTaxon_Of_,Aktion
+Protrakt,_Is_A_SubTaxon_Of_,Aktion
+Pugno,_Is_A_SubTaxon_Of_,Aktion
+Pull,_Is_A_SubTaxon_Of_,Aktion
+Purga,_Is_A_SubTaxon_Of_,Aktion
+Push,_Is_A_SubTaxon_Of_,Aktion
+Regress,_Is_A_SubTaxon_Of_,Aktion
+Retrakt,_Is_A_SubTaxon_Of_,Aktion
+Rip,_Is_A_SubTaxon_Of_,Aktion
+Roll,_Is_A_SubTaxon_Of_,Aktion
+Rotate,_Is_A_SubTaxon_Of_,Aktion
+Run,_Is_A_SubTaxon_Of_,Aktion
+Sit,_Is_A_SubTaxon_Of_,Aktion
+Slam,_Is_A_SubTaxon_Of_,Aktion
+Slap,_Is_A_SubTaxon_Of_,Aktion
+Slide,_Is_A_SubTaxon_Of_,Aktion
+Slot,_Is_A_SubTaxon_Of_,Aktion
+Snap,_Is_A_SubTaxon_Of_,Aktion
+Spike,_Is_A_SubTaxon_Of_,Aktion
+Stack,_Is_A_SubTaxon_Of_,Aktion
+Stall,_Is_A_SubTaxon_Of_,Aktion
+Stand,_Is_A_SubTaxon_Of_,Aktion
+Stomp,_Is_A_SubTaxon_Of_,Aktion
+SuperSpike,_Is_A_SubTaxon_Of_,Aktion
+Tangent,_Is_A_SubTaxon_Of_,Aktion
+Transport,_Is_A_SubTaxon_Of_,Aktion
+Trot,_Is_A_SubTaxon_Of_,Aktion
+Twist,_Is_A_SubTaxon_Of_,Aktion
+Weave,_Is_A_SubTaxon_Of_,Aktion
+Whip,_Is_A_SubTaxon_Of_,Aktion
+Wrap,_Is_A_SubTaxon_Of_,Aktion
+Aktion,_Is_A_SuperTaxon_Of_,Allos
+Aktion,_Is_A_SuperTaxon_Of_,Ama
+Aktion,_Is_A_SuperTaxon_Of_,Amble
+Arm,_Is_A_SubTaxon_Of_,Anatomy
+Head,_Is_A_SubTaxon_Of_,Anatomy
+Korpo,_Is_A_SubTaxon_Of_,Anatomy
+Leg,_Is_A_SubTaxon_Of_,Anatomy
+Emotion,_Is_A_SuperTaxon_Of_,Anger
+Biosfera,_Is_A_SuperTaxon_Of_,Animal
+Ant,_Is_A_SubTaxon_Of_,Animal
+Bear,_Is_A_SubTaxon_Of_,Animal
+Bird,_Is_A_SubTaxon_Of_,Animal
+BitingFlies,_Is_A_SubTaxon_Of_,Animal
+Cow,_Is_A_SubTaxon_Of_,Animal
+Hornet,_Is_A_SubTaxon_Of_,Animal
+Moose,_Is_A_SubTaxon_Of_,Animal
+Mosquito,_Is_A_SubTaxon_Of_,Animal
+Leg,_Is_A_SuperTaxon_Of_,Ankle
+Aktion,_Is_A_SuperTaxon_Of_,Ankor
+Animal,_Is_A_SuperTaxon_Of_,Ant
+Ekosfera,_Is_A_SuperTaxon_Of_,Antroposfera
+CutBank,_Is_A_SubTaxon_Of_,Antroposfera
+Landing,_Is_A_SubTaxon_Of_,Antroposfera
+Prep,_Is_A_SubTaxon_Of_,Antroposfera
+Road,_Is_A_SubTaxon_Of_,Antroposfera
+SkidderTrail,_Is_A_SubTaxon_Of_,Antroposfera
+Slash,_Is_A_SubTaxon_Of_,Antroposfera
+Anatomy,_Is_A_SuperTaxon_Of_,Arm
+Biceps,_Is_A_SubTaxon_Of_,Arm
+Deltoid,_Is_A_SubTaxon_Of_,Arm
+Elbow,_Is_A_SubTaxon_Of_,Arm
+Forearm,_Is_A_SubTaxon_Of_,Arm
+Hand,_Is_A_SubTaxon_Of_,Arm
+Humerus,_Is_A_SubTaxon_Of_,Arm
+LatissimusDorsi,_Is_A_SubTaxon_Of_,Arm
+Scapula,_Is_A_SubTaxon_Of_,Arm
+Shoulder,_Is_A_SubTaxon_Of_,Arm
+Trapezius,_Is_A_SubTaxon_Of_,Arm
+Triceps,_Is_A_SubTaxon_Of_,Arm
+Boot,_Is_A_SubTaxon_Of_,Armor
+Bottoms,_Is_A_SubTaxon_Of_,Armor
+Fastener,_Is_A_SubTaxon_Of_,Armor
+Glove,_Is_A_SubTaxon_Of_,Armor
+Hat,_Is_A_SubTaxon_Of_,Armor
+Helmet,_Is_A_SubTaxon_Of_,Armor
+HiVis,_Is_A_SubTaxon_Of_,Armor
+Radior,_Is_A_SubTaxon_Of_,Armor
+Tibior,_Is_A_SubTaxon_Of_,Armor
+Tops,_Is_A_SubTaxon_Of_,Armor
+Line,_Is_A_SuperTaxon_Of_,AroundLine
+MindState,_Is_A_SuperTaxon_Of_,Arousal
+Particulates,_Is_A_SuperTaxon_Of_,Ash
+Ekosfera,_Is_A_SuperTaxon_Of_,Atmosfera
+AirTemperature,_Is_A_SubTaxon_Of_,Atmosfera
+Humidity,_Is_A_SubTaxon_Of_,Atmosfera
+Lightning,_Is_A_SubTaxon_Of_,Atmosfera
+Particulates,_Is_A_SubTaxon_Of_,Atmosfera
+Precipitation,_Is_A_SubTaxon_Of_,Atmosfera
+Sun,_Is_A_SubTaxon_Of_,Atmosfera
+Wind,_Is_A_SubTaxon_Of_,Atmosfera
+Cognition,_Is_A_SuperTaxon_Of_,Attention
+Sense,_Is_A_SuperTaxon_Of_,AuditorySense
+Aktion,_Is_A_SuperTaxon_Of_,Ballista
+Animal,_Is_A_SuperTaxon_Of_,Bear
+Arm,_Is_A_SuperTaxon_Of_,Biceps
+Ekosfera,_Is_A_SuperTaxon_Of_,Biosfera
+Animal,_Is_A_SubTaxon_Of_,Biosfera
+Flora,_Is_A_SubTaxon_Of_,Biosfera
+Fungi,_Is_A_SubTaxon_Of_,Biosfera
+Animal,_Is_A_SuperTaxon_Of_,Bird
+Animal,_Is_A_SuperTaxon_Of_,BitingFlies
+Task,_Is_A_SuperTaxon_Of_,Block
+BurntBlock,_Is_A_SubTaxon_Of_,Block
+ClearcutBlock,_Is_A_SubTaxon_Of_,Block
+FillBlock,_Is_A_SubTaxon_Of_,Block
+Piece,_Is_A_SubTaxon_Of_,Block
+Armor,_Is_A_SuperTaxon_Of_,Boot
+Kit,_Is_A_SuperTaxon_Of_,Bottle
+Armor,_Is_A_SuperTaxon_Of_,Bottoms
+InsulationBottom,_Is_A_SubTaxon_Of_,Bottoms
+Sock,_Is_A_SubTaxon_Of_,Bottoms
+Line,_Is_A_SuperTaxon_Of_,BoustroLine
+Passage,_Is_A_SuperTaxon_Of_,BoustroPassage
+Tool,_Is_A_SuperTaxon_Of_,Box
+Tool,_Is_A_SuperTaxon_Of_,Bundle
+Slash,_Is_A_SuperTaxon_Of_,BurnPileSlash
+Block,_Is_A_SuperTaxon_Of_,BurntBlock
+Transit,_Is_A_SuperTaxon_Of_,Bus
+Fastener,_Is_A_SuperTaxon_Of_,Button
+Direction,_Is_A_SuperTaxon_Of_,CardinalDirection
+Aktion,_Is_A_SuperTaxon_Of_,Catch
+Point,_Is_A_SuperTaxon_Of_,CenterPoint
+Shape,_Is_A_SuperTaxon_Of_,Circle
+Line,_Is_A_SuperTaxon_Of_,CircuitLine
+Passage,_Is_A_SuperTaxon_Of_,CircuitPassage
+Passage,_Is_A_SuperTaxon_Of_,CircumventPassage
+CognitiveEase,_Is_A_SuperTaxon_Of_,ClarityEase
+SoilSize,_Is_A_SuperTaxon_Of_,ClaySoil
+Aktion,_Is_A_SuperTaxon_Of_,Clean
+Block,_Is_A_SuperTaxon_Of_,ClearcutBlock
+GraphTheory,_Is_A_SuperTaxon_Of_,ClosestPair
+SoilSize,_Is_A_SuperTaxon_Of_,CobbleSoil
+Attention,_Is_A_SubTaxon_Of_,Cognition
+CognitiveEase,_Is_A_SubTaxon_Of_,Cognition
+Decision,_Is_A_SubTaxon_Of_,Cognition
+Estimation,_Is_A_SubTaxon_Of_,Cognition
+Identification,_Is_A_SubTaxon_Of_,Cognition
+Judgement,_Is_A_SubTaxon_Of_,Cognition
+Memory,_Is_A_SubTaxon_Of_,Cognition
+Perception,_Is_A_SubTaxon_Of_,Cognition
+Cognition,_Is_A_SuperTaxon_Of_,CognitiveEase
+ClarityEase,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsEffortless,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsFamiliar,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsGood,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsTrue,_Is_A_SubTaxon_Of_,CognitiveEase
+GoodEase,_Is_A_SubTaxon_Of_,CognitiveEase
+PrimingEase,_Is_A_SubTaxon_Of_,CognitiveEase
+RepetitionEase,_Is_A_SubTaxon_Of_,CognitiveEase
+Enumeration,_Is_A_SubTaxon_Of_,Combinatorics
+GraphTheory,_Is_A_SubTaxon_Of_,Combinatorics
+Performance,_Is_A_SuperTaxon_Of_,Competition
+Geometry,_Is_A_SuperTaxon_Of_,ComputationalGeometry
+Shape,_Is_A_SuperTaxon_Of_,Concave
+Hydrosfera,_Is_A_SuperTaxon_Of_,Condensation
+Logic,_Is_A_SuperTaxon_Of_,ConditionalLogic
+MindState,_Is_A_SuperTaxon_Of_,Confidence
+Probability,_Is_A_SuperTaxon_Of_,Constraint
+DegreesOfFreedom,_Is_A_SubTaxon_Of_,Constraint
+Hyper,_Is_A_SubTaxon_Of_,Constraint
+Hypo,_Is_A_SubTaxon_Of_,Constraint
+Emotion,_Is_A_SuperTaxon_Of_,Contempt
+Shape,_Is_A_SuperTaxon_Of_,Convex
+Physiology,_Is_A_SuperTaxon_Of_,CoolDown
+Animal,_Is_A_SuperTaxon_Of_,Cow
+Head,_Is_A_SuperTaxon_Of_,Cranium
+Aktion,_Is_A_SuperTaxon_Of_,Crawl
+Task,_Is_A_SuperTaxon_Of_,Crop
+Neon,_Is_A_SubTaxon_Of_,Crop
+Paleon,_Is_A_SubTaxon_Of_,Crop
+Transit,_Is_A_SuperTaxon_Of_,Crummy
+Antroposfera,_Is_A_SuperTaxon_Of_,CutBank
+Cognition,_Is_A_SuperTaxon_Of_,Decision
+Aktion,_Is_A_SuperTaxon_Of_,Defend
+Constraint,_Is_A_SuperTaxon_Of_,DegreesOfFreedom
+Arm,_Is_A_SuperTaxon_Of_,Deltoid
+Geometry,_Is_A_SuperTaxon_Of_,Density
+Polygon,_Is_A_SuperTaxon_Of_,Diamond
+Performance,_Is_A_SuperTaxon_Of_,Difficulty
+Aktion,_Is_A_SuperTaxon_Of_,Dig
+Aktion,_Is_A_SuperTaxon_Of_,Dilate
+RelativeDirection,_Is_A_SuperTaxon_Of_,Dilation
+Geometry,_Is_A_SuperTaxon_Of_,Direction
+CardinalDirection,_Is_A_SubTaxon_Of_,Direction
+RelativeDirection,_Is_A_SubTaxon_Of_,Direction
+Emotion,_Is_A_SuperTaxon_Of_,Disgust
+Geometry,_Is_A_SuperTaxon_Of_,Displacement
+Geometry,_Is_A_SuperTaxon_Of_,Distance
+Geometry,_Is_A_SuperTaxon_Of_,Div
+Aktion,_Is_A_SuperTaxon_Of_,Doff
+Aktion,_Is_A_SuperTaxon_Of_,Don
+Tool,_Is_A_SuperTaxon_Of_,Dory
+Aktion,_Is_A_SuperTaxon_Of_,Drag
+Aktion,_Is_A_SuperTaxon_Of_,Drop
+Time,_Is_A_SuperTaxon_Of_,Duration
+Particulates,_Is_A_SuperTaxon_Of_,Dust
+GraphTheory,_Is_A_SuperTaxon_Of_,Dyad
+Energy,_Is_A_SubTaxon_Of_,Dynamics
+Force,_Is_A_SubTaxon_Of_,Dynamics
+Inertia,_Is_A_SubTaxon_Of_,Dynamics
+Momentum,_Is_A_SubTaxon_Of_,Dynamics
+Power,_Is_A_SubTaxon_Of_,Dynamics
+Torque,_Is_A_SubTaxon_Of_,Dynamics
+Work,_Is_A_SubTaxon_Of_,Dynamics
+Head,_Is_A_SuperTaxon_Of_,Ears
+Performance,_Is_A_SuperTaxon_Of_,Effectiveness
+Antroposfera,_Is_A_SubTaxon_Of_,Ekosfera
+Atmosfera,_Is_A_SubTaxon_Of_,Ekosfera
+Biosfera,_Is_A_SubTaxon_Of_,Ekosfera
+Hydrosfera,_Is_A_SubTaxon_Of_,Ekosfera
+Litosfera,_Is_A_SubTaxon_Of_,Ekosfera
+Pedosfera,_Is_A_SubTaxon_Of_,Ekosfera
+Arm,_Is_A_SuperTaxon_Of_,Elbow
+Anger,_Is_A_SubTaxon_Of_,Emotion
+Contempt,_Is_A_SubTaxon_Of_,Emotion
+Disgust,_Is_A_SubTaxon_Of_,Emotion
+Fear,_Is_A_SubTaxon_Of_,Emotion
+Joy,_Is_A_SubTaxon_Of_,Emotion
+Sadness,_Is_A_SubTaxon_Of_,Emotion
+PreSeason,_Is_A_SubTaxon_Of_,Employment
+RestDay,_Is_A_SubTaxon_Of_,Employment
+Shift,_Is_A_SubTaxon_Of_,Employment
+Sleep,_Is_A_SubTaxon_Of_,Employment
+Transit,_Is_A_SubTaxon_Of_,Employment
+Workday,_Is_A_SubTaxon_Of_,Employment
+Physiology,_Is_A_SuperTaxon_Of_,Endurance
+Dynamics,_Is_A_SuperTaxon_Of_,Energy
+Combinatorics,_Is_A_SuperTaxon_Of_,Enumeration
+Performance,_Is_A_SuperTaxon_Of_,Error
+Waste,_Is_A_SubTaxon_Of_,Error
+Cognition,_Is_A_SuperTaxon_Of_,Estimation
+Aktion,_Is_A_SuperTaxon_Of_,Eval
+Performance,_Is_A_SuperTaxon_Of_,Execution
+Aktion,_Is_A_SuperTaxon_Of_,Exit
+RelativeDirection,_Is_A_SuperTaxon_Of_,Extension
+Head,_Is_A_SuperTaxon_Of_,Face
+Aktion,_Is_A_SuperTaxon_Of_,Fall
+Armor,_Is_A_SuperTaxon_Of_,Fastener
+Button,_Is_A_SubTaxon_Of_,Fastener
+Velcro,_Is_A_SubTaxon_Of_,Fastener
+Zipper,_Is_A_SubTaxon_Of_,Fastener
+Emotion,_Is_A_SuperTaxon_Of_,Fear
+CognitiveEase,_Is_A_SuperTaxon_Of_,FeelsEffortless
+CognitiveEase,_Is_A_SuperTaxon_Of_,FeelsFamiliar
+CognitiveEase,_Is_A_SuperTaxon_Of_,FeelsGood
+CognitiveEase,_Is_A_SuperTaxon_Of_,FeelsTrue
+Leg,_Is_A_SuperTaxon_Of_,Femur
+SoilFiber,_Is_A_SuperTaxon_Of_,FibricSoil
+Block,_Is_A_SuperTaxon_Of_,FillBlock
+Kit,_Is_A_SuperTaxon_Of_,FirstAidKit
+Aktion,_Is_A_SuperTaxon_Of_,Flex
+RelativeDirection,_Is_A_SuperTaxon_Of_,Flexion
+Biosfera,_Is_A_SuperTaxon_Of_,Flora
+MindState,_Is_A_SuperTaxon_Of_,FlowState
+Precipitation,_Is_A_SuperTaxon_Of_,Fog
+FoodTool,_Is_A_SuperTaxon_Of_,FoodBag
+FoodTool,_Is_A_SuperTaxon_Of_,FoodContainer
+Kit,_Is_A_SuperTaxon_Of_,FoodTool
+FoodBag,_Is_A_SubTaxon_Of_,FoodTool
+FoodContainer,_Is_A_SubTaxon_Of_,FoodTool
+Fork,_Is_A_SubTaxon_Of_,FoodTool
+Spoon,_Is_A_SubTaxon_Of_,FoodTool
+Leg,_Is_A_SuperTaxon_Of_,Foot
+Dynamics,_Is_A_SuperTaxon_Of_,Force
+Arm,_Is_A_SuperTaxon_Of_,Forearm
+FoodTool,_Is_A_SuperTaxon_Of_,Fork
+Probability,_Is_A_SuperTaxon_Of_,Fortuna
+Probability,_Is_A_SuperTaxon_Of_,Frequency
+Biosfera,_Is_A_SuperTaxon_Of_,Fungi
+ComputationalGeometry,_Is_A_SubTaxon_Of_,Geometry
+Density,_Is_A_SubTaxon_Of_,Geometry
+Direction,_Is_A_SubTaxon_Of_,Geometry
+Displacement,_Is_A_SubTaxon_Of_,Geometry
+Distance,_Is_A_SubTaxon_Of_,Geometry
+Div,_Is_A_SubTaxon_Of_,Geometry
+Line,_Is_A_SubTaxon_Of_,Geometry
+Morfos,_Is_A_SubTaxon_Of_,Geometry
+Orientation,_Is_A_SubTaxon_Of_,Geometry
+Point,_Is_A_SubTaxon_Of_,Geometry
+Shape,_Is_A_SubTaxon_Of_,Geometry
+Armor,_Is_A_SuperTaxon_Of_,Glove
+CognitiveEase,_Is_A_SuperTaxon_Of_,GoodEase
+Combinatorics,_Is_A_SuperTaxon_Of_,GraphTheory
+ClosestPair,_Is_A_SubTaxon_Of_,GraphTheory
+Dyad,_Is_A_SubTaxon_Of_,GraphTheory
+Heptad,_Is_A_SubTaxon_Of_,GraphTheory
+Hexad,_Is_A_SubTaxon_Of_,GraphTheory
+Octad,_Is_A_SubTaxon_Of_,GraphTheory
+Pentad,_Is_A_SubTaxon_Of_,GraphTheory
+ShortestPath,_Is_A_SubTaxon_Of_,GraphTheory
+Tetrad,_Is_A_SubTaxon_Of_,GraphTheory
+Triad,_Is_A_SubTaxon_Of_,GraphTheory
+Hydrosfera,_Is_A_SuperTaxon_Of_,GroundWater
+Precipitation,_Is_A_SuperTaxon_Of_,Hail
+Arm,_Is_A_SuperTaxon_Of_,Hand
+IndexFinger,_Is_A_SubTaxon_Of_,Hand
+Knuckle,_Is_A_SubTaxon_Of_,Hand
+MiddleFinger,_Is_A_SubTaxon_Of_,Hand
+Palm,_Is_A_SubTaxon_Of_,Hand
+PinkyFinger,_Is_A_SubTaxon_Of_,Hand
+RadialBorder,_Is_A_SubTaxon_Of_,Hand
+RingFinger,_Is_A_SubTaxon_Of_,Hand
+Thumb,_Is_A_SubTaxon_Of_,Hand
+Wrist,_Is_A_SubTaxon_Of_,Hand
+Armor,_Is_A_SuperTaxon_Of_,Hat
+Anatomy,_Is_A_SuperTaxon_Of_,Head
+Cranium,_Is_A_SubTaxon_Of_,Head
+Ears,_Is_A_SubTaxon_Of_,Head
+Face,_Is_A_SubTaxon_Of_,Head
+Neck,_Is_A_SubTaxon_Of_,Head
+Armor,_Is_A_SuperTaxon_Of_,Helmet
+GraphTheory,_Is_A_SuperTaxon_Of_,Heptad
+Polygon,_Is_A_SuperTaxon_Of_,Heptagon
+GraphTheory,_Is_A_SuperTaxon_Of_,Hexad
+Polygon,_Is_A_SuperTaxon_Of_,Hexagon
+Armor,_Is_A_SuperTaxon_Of_,HiVis
+Slash,_Is_A_SuperTaxon_Of_,HighSlash
+Aktion,_Is_A_SuperTaxon_Of_,Hinge
+Leg,_Is_A_SuperTaxon_Of_,Hips
+Aktion,_Is_A_SuperTaxon_Of_,Hook
+Animal,_Is_A_SuperTaxon_Of_,Hornet
+Arm,_Is_A_SuperTaxon_Of_,Humerus
+SoilFiber,_Is_A_SuperTaxon_Of_,HumicSoil
+Atmosfera,_Is_A_SuperTaxon_Of_,Humidity
+Ekosfera,_Is_A_SuperTaxon_Of_,Hydrosfera
+Condensation,_Is_A_SubTaxon_Of_,Hydrosfera
+GroundWater,_Is_A_SubTaxon_Of_,Hydrosfera
+MovingWater,_Is_A_SubTaxon_Of_,Hydrosfera
+StagnantWater,_Is_A_SubTaxon_Of_,Hydrosfera
+Wetness,_Is_A_SubTaxon_Of_,Hydrosfera
+Constraint,_Is_A_SuperTaxon_Of_,Hyper
+Constraint,_Is_A_SuperTaxon_Of_,Hypo
+Pedosfera,_Is_A_SuperTaxon_Of_,IceSoil
+Cognition,_Is_A_SuperTaxon_Of_,Identification
+Aktion,_Is_A_SuperTaxon_Of_,Iguana
+Hand,_Is_A_SuperTaxon_Of_,IndexFinger
+Dynamics,_Is_A_SuperTaxon_Of_,Inertia
+Physiology,_Is_A_SuperTaxon_Of_,InjuryPrevention
+Bottoms,_Is_A_SuperTaxon_Of_,InsulationBottom
+Tops,_Is_A_SuperTaxon_Of_,InsulationTop
+Kinematics,_Is_A_SuperTaxon_Of_,Jerk
+Emotion,_Is_A_SuperTaxon_Of_,Joy
+Cognition,_Is_A_SuperTaxon_Of_,Judgement
+Kit,_Is_A_SuperTaxon_Of_,Jug
+Aktion,_Is_A_SuperTaxon_Of_,Jump
+Tool,_Is_A_SuperTaxon_Of_,Karabiner
+Aktion,_Is_A_SuperTaxon_Of_,Kick
+Acceleration,_Is_A_SubTaxon_Of_,Kinematics
+Jerk,_Is_A_SubTaxon_Of_,Kinematics
+Speed,_Is_A_SubTaxon_Of_,Kinematics
+Velocity,_Is_A_SubTaxon_Of_,Kinematics
+Tool,_Is_A_SuperTaxon_Of_,Kit
+Bottle,_Is_A_SubTaxon_Of_,Kit
+FirstAidKit,_Is_A_SubTaxon_Of_,Kit
+FoodTool,_Is_A_SubTaxon_Of_,Kit
+Jug,_Is_A_SubTaxon_Of_,Kit
+Knife,_Is_A_SubTaxon_Of_,Kit
+Multitool,_Is_A_SubTaxon_Of_,Kit
+RepairKit,_Is_A_SubTaxon_Of_,Kit
+Rope,_Is_A_SubTaxon_Of_,Kit
+Texture,_Is_A_SubTaxon_Of_,Klimon
+Aktion,_Is_A_SuperTaxon_Of_,Klose
+Leg,_Is_A_SuperTaxon_Of_,Knee
+Aktion,_Is_A_SuperTaxon_Of_,Kneel
+Kit,_Is_A_SuperTaxon_Of_,Knife
+Aktion,_Is_A_SuperTaxon_Of_,Knot
+Hand,_Is_A_SuperTaxon_Of_,Knuckle
+Aktion,_Is_A_SuperTaxon_Of_,Kompakt
+Aktion,_Is_A_SuperTaxon_Of_,Kompress
+Aktion,_Is_A_SuperTaxon_Of_,Konstrukt
+Aktion,_Is_A_SuperTaxon_Of_,Kontakt
+Anatomy,_Is_A_SuperTaxon_Of_,Korpo
+Ribs,_Is_A_SubTaxon_Of_,Korpo
+Spine,_Is_A_SubTaxon_Of_,Korpo
+Aktion,_Is_A_SuperTaxon_Of_,Krampon
+Aktion,_Is_A_SuperTaxon_Of_,Kryos
+Antroposfera,_Is_A_SuperTaxon_Of_,Landing
+Site,_Is_A_SuperTaxon_Of_,Landing
+Arm,_Is_A_SuperTaxon_Of_,LatissimusDorsi
+Aktion,_Is_A_SuperTaxon_Of_,Launch
+Shell,_Is_A_SubTaxon_Of_,Layer
+Aktion,_Is_A_SuperTaxon_Of_,Lean
+Anatomy,_Is_A_SuperTaxon_Of_,Leg
+Ankle,_Is_A_SubTaxon_Of_,Leg
+Femur,_Is_A_SubTaxon_Of_,Leg
+Foot,_Is_A_SubTaxon_Of_,Leg
+Hips,_Is_A_SubTaxon_Of_,Leg
+Knee,_Is_A_SubTaxon_Of_,Leg
+Tibia,_Is_A_SubTaxon_Of_,Leg
+Aktion,_Is_A_SuperTaxon_Of_,Lift
+Atmosfera,_Is_A_SuperTaxon_Of_,Lightning
+Affordance,_Is_A_SuperTaxon_Of_,Limit
+Maximum,_Is_A_SubTaxon_Of_,Limit
+Minimum,_Is_A_SubTaxon_Of_,Limit
+Geometry,_Is_A_SuperTaxon_Of_,Line
+AroundLine,_Is_A_SubTaxon_Of_,Line
+BoustroLine,_Is_A_SubTaxon_Of_,Line
+CircuitLine,_Is_A_SubTaxon_Of_,Line
+PerimeterLine,_Is_A_SubTaxon_Of_,Line
+SpiralLine,_Is_A_SubTaxon_Of_,Line
+StraightLine,_Is_A_SubTaxon_Of_,Line
+ZigzagLine,_Is_A_SubTaxon_Of_,Line
+Ekosfera,_Is_A_SuperTaxon_Of_,Litosfera
+RockCap,_Is_A_SubTaxon_Of_,Litosfera
+Aktion,_Is_A_SuperTaxon_Of_,Load
+Aktion,_Is_A_SuperTaxon_Of_,Lock
+ConditionalLogic,_Is_A_SubTaxon_Of_,Logic
+PropositionalLogic,_Is_A_SubTaxon_Of_,Logic
+Memory,_Is_A_SuperTaxon_Of_,LongTermMemory
+Slash,_Is_A_SuperTaxon_Of_,LowSlash
+Aktion,_Is_A_SuperTaxon_Of_,Machete
+Aktion,_Is_A_SuperTaxon_Of_,Mano
+Aktion,_Is_A_SuperTaxon_Of_,Markate
+Limit,_Is_A_SuperTaxon_Of_,Maximum
+Prep,_Is_A_SuperTaxon_Of_,Megaskreef
+Cognition,_Is_A_SuperTaxon_Of_,Memory
+LongTermMemory,_Is_A_SubTaxon_Of_,Memory
+ShortTermMemory,_Is_A_SubTaxon_Of_,Memory
+WorkingMemory,_Is_A_SubTaxon_Of_,Memory
+SoilFiber,_Is_A_SuperTaxon_Of_,MesicSoil
+Point,_Is_A_SuperTaxon_Of_,MidPoint
+Hand,_Is_A_SuperTaxon_Of_,MiddleFinger
+Arousal,_Is_A_SubTaxon_Of_,MindState
+Confidence,_Is_A_SubTaxon_Of_,MindState
+FlowState,_Is_A_SubTaxon_Of_,MindState
+Mindfulness,_Is_A_SubTaxon_Of_,MindState
+MindState,_Is_A_SuperTaxon_Of_,Mindfulness
+Pedosfera,_Is_A_SuperTaxon_Of_,MineralSoil
+Limit,_Is_A_SuperTaxon_Of_,Minimum
+Aktion,_Is_A_SuperTaxon_Of_,Modify
+Dynamics,_Is_A_SuperTaxon_Of_,Momentum
+Animal,_Is_A_SuperTaxon_Of_,Moose
+Geometry,_Is_A_SuperTaxon_Of_,Morfos
+Animal,_Is_A_SuperTaxon_Of_,Mosquito
+Prep,_Is_A_SuperTaxon_Of_,Mound
+Hydrosfera,_Is_A_SuperTaxon_Of_,MovingWater
+Kit,_Is_A_SuperTaxon_Of_,Multitool
+Aktion,_Is_A_SuperTaxon_Of_,MuscleUp
+Head,_Is_A_SuperTaxon_Of_,Neck
+Crop,_Is_A_SuperTaxon_Of_,Neon
+Aktion,_Is_A_SuperTaxon_Of_,Neonektomy
+Polygon,_Is_A_SuperTaxon_Of_,Nonagon
+Affordance,_Is_A_SuperTaxon_Of_,Obstacle
+GraphTheory,_Is_A_SuperTaxon_Of_,Octad
+Polygon,_Is_A_SuperTaxon_Of_,Octagon
+Aktion,_Is_A_SuperTaxon_Of_,Onda
+Aktion,_Is_A_SuperTaxon_Of_,Orbit
+Geometry,_Is_A_SuperTaxon_Of_,Orientation
+Crop,_Is_A_SuperTaxon_Of_,Paleon
+Hand,_Is_A_SuperTaxon_Of_,Palm
+Aktion,_Is_A_SuperTaxon_Of_,Parry
+Atmosfera,_Is_A_SuperTaxon_Of_,Particulates
+Ash,_Is_A_SubTaxon_Of_,Particulates
+Dust,_Is_A_SubTaxon_Of_,Particulates
+Pollen,_Is_A_SubTaxon_Of_,Particulates
+Smoke,_Is_A_SubTaxon_Of_,Particulates
+Spores,_Is_A_SubTaxon_Of_,Particulates
+Affordance,_Is_A_SuperTaxon_Of_,Passage
+BoustroPassage,_Is_A_SubTaxon_Of_,Passage
+CircuitPassage,_Is_A_SubTaxon_Of_,Passage
+CircumventPassage,_Is_A_SubTaxon_Of_,Passage
+PerimeterPassage,_Is_A_SubTaxon_Of_,Passage
+SoilSize,_Is_A_SuperTaxon_Of_,PebbleSoil
+Ekosfera,_Is_A_SuperTaxon_Of_,Pedosfera
+IceSoil,_Is_A_SubTaxon_Of_,Pedosfera
+MineralSoil,_Is_A_SubTaxon_Of_,Pedosfera
+SoilFiber,_Is_A_SubTaxon_Of_,Pedosfera
+SoilSize,_Is_A_SubTaxon_Of_,Pedosfera
+WetSoil,_Is_A_SubTaxon_Of_,Pedosfera
+Aktion,_Is_A_SuperTaxon_Of_,Pendulate
+GraphTheory,_Is_A_SuperTaxon_Of_,Pentad
+Polygon,_Is_A_SuperTaxon_Of_,Pentagon
+Cognition,_Is_A_SuperTaxon_Of_,Perception
+Competition,_Is_A_SubTaxon_Of_,Performance
+Difficulty,_Is_A_SubTaxon_Of_,Performance
+Effectiveness,_Is_A_SubTaxon_Of_,Performance
+Error,_Is_A_SubTaxon_Of_,Performance
+Execution,_Is_A_SubTaxon_Of_,Performance
+Specs,_Is_A_SubTaxon_Of_,Performance
+Line,_Is_A_SuperTaxon_Of_,PerimeterLine
+Passage,_Is_A_SuperTaxon_Of_,PerimeterPassage
+CoolDown,_Is_A_SubTaxon_Of_,Physiology
+Endurance,_Is_A_SubTaxon_Of_,Physiology
+InjuryPrevention,_Is_A_SubTaxon_Of_,Physiology
+Posture,_Is_A_SubTaxon_Of_,Physiology
+Strength,_Is_A_SubTaxon_Of_,Physiology
+Suppleness,_Is_A_SubTaxon_Of_,Physiology
+WarmUp,_Is_A_SubTaxon_Of_,Physiology
+Block,_Is_A_SuperTaxon_Of_,Piece
+Task,_Is_A_SuperTaxon_Of_,Piece
+Hand,_Is_A_SuperTaxon_Of_,PinkyFinger
+Tool,_Is_A_SuperTaxon_Of_,Plantafor
+Tool,_Is_A_SuperTaxon_Of_,PlotCord
+Aktion,_Is_A_SuperTaxon_Of_,Pogo
+Geometry,_Is_A_SuperTaxon_Of_,Point
+CenterPoint,_Is_A_SubTaxon_Of_,Point
+MidPoint,_Is_A_SubTaxon_Of_,Point
+ReferencePoint,_Is_A_SubTaxon_Of_,Point
+ReflectionPoint,_Is_A_SubTaxon_Of_,Point
+TargetPoint,_Is_A_SubTaxon_Of_,Point
+VertexPoint,_Is_A_SubTaxon_Of_,Point
+Aktion,_Is_A_SuperTaxon_Of_,Poke
+Particulates,_Is_A_SuperTaxon_Of_,Pollen
+Shape,_Is_A_SuperTaxon_Of_,Polygon
+Diamond,_Is_A_SubTaxon_Of_,Polygon
+Heptagon,_Is_A_SubTaxon_Of_,Polygon
+Hexagon,_Is_A_SubTaxon_Of_,Polygon
+Nonagon,_Is_A_SubTaxon_Of_,Polygon
+Octagon,_Is_A_SubTaxon_Of_,Polygon
+Pentagon,_Is_A_SubTaxon_Of_,Polygon
+Square,_Is_A_SubTaxon_Of_,Polygon
+Triangle,_Is_A_SubTaxon_Of_,Polygon
+Aktion,_Is_A_SuperTaxon_Of_,Post
+PreSeason,_Is_A_SuperTaxon_Of_,PostSeason
+Physiology,_Is_A_SuperTaxon_Of_,Posture
+Dynamics,_Is_A_SuperTaxon_Of_,Power
+Employment,_Is_A_SuperTaxon_Of_,PreSeason
+PreSeason,_Is_A_SuperTaxon_Of_,PreSeason
+PostSeason,_Is_A_SubTaxon_Of_,PreSeason
+PreSeason,_Is_A_SubTaxon_Of_,PreSeason
+Atmosfera,_Is_A_SuperTaxon_Of_,Precipitation
+Fog,_Is_A_SubTaxon_Of_,Precipitation
+Hail,_Is_A_SubTaxon_Of_,Precipitation
+Rain,_Is_A_SubTaxon_Of_,Precipitation
+Snow,_Is_A_SubTaxon_Of_,Precipitation
+Antroposfera,_Is_A_SuperTaxon_Of_,Prep
+Megaskreef,_Is_A_SubTaxon_Of_,Prep
+Mound,_Is_A_SubTaxon_Of_,Prep
+Trench,_Is_A_SubTaxon_Of_,Prep
+Aktion,_Is_A_SuperTaxon_Of_,Preserve
+Sense,_Is_A_SuperTaxon_Of_,PressureSense
+CognitiveEase,_Is_A_SuperTaxon_Of_,PrimingEase
+Affordance,_Is_A_SubTaxon_Of_,Probability
+Constraint,_Is_A_SubTaxon_Of_,Probability
+Fortuna,_Is_A_SubTaxon_Of_,Probability
+Frequency,_Is_A_SubTaxon_Of_,Probability
+Aktion,_Is_A_SuperTaxon_Of_,Progress
+Logic,_Is_A_SuperTaxon_Of_,PropositionalLogic
+Sense,_Is_A_SuperTaxon_Of_,Proprioception
+Aktion,_Is_A_SuperTaxon_Of_,Protrakt
+Aktion,_Is_A_SuperTaxon_Of_,Pugno
+Aktion,_Is_A_SuperTaxon_Of_,Pull
+Aktion,_Is_A_SuperTaxon_Of_,Purga
+Aktion,_Is_A_SuperTaxon_Of_,Push
+Hand,_Is_A_SuperTaxon_Of_,RadialBorder
+Armor,_Is_A_SuperTaxon_Of_,Radior
+Precipitation,_Is_A_SuperTaxon_Of_,Rain
+Point,_Is_A_SuperTaxon_Of_,ReferencePoint
+Point,_Is_A_SuperTaxon_Of_,ReflectionPoint
+Aktion,_Is_A_SuperTaxon_Of_,Regress
+Direction,_Is_A_SuperTaxon_Of_,RelativeDirection
+Dilation,_Is_A_SubTaxon_Of_,RelativeDirection
+Extension,_Is_A_SubTaxon_Of_,RelativeDirection
+Flexion,_Is_A_SubTaxon_Of_,RelativeDirection
+Kit,_Is_A_SuperTaxon_Of_,RepairKit
+CognitiveEase,_Is_A_SuperTaxon_Of_,RepetitionEase
+Employment,_Is_A_SuperTaxon_Of_,RestDay
+Aktion,_Is_A_SuperTaxon_Of_,Retrakt
+Korpo,_Is_A_SuperTaxon_Of_,Ribs
+Hand,_Is_A_SuperTaxon_Of_,RingFinger
+Aktion,_Is_A_SuperTaxon_Of_,Rip
+Time,_Is_A_SuperTaxon_Of_,Ritmo
+Antroposfera,_Is_A_SuperTaxon_Of_,Road
+Litosfera,_Is_A_SuperTaxon_Of_,RockCap
+Aktion,_Is_A_SuperTaxon_Of_,Roll
+Kit,_Is_A_SuperTaxon_Of_,Rope
+Aktion,_Is_A_SuperTaxon_Of_,Rotate
+SoilSize,_Is_A_SuperTaxon_Of_,RubbleSoil
+Aktion,_Is_A_SuperTaxon_Of_,Run
+Emotion,_Is_A_SuperTaxon_Of_,Sadness
+SoilSize,_Is_A_SuperTaxon_Of_,SandSoil
+Arm,_Is_A_SuperTaxon_Of_,Scapula
+AuditorySense,_Is_A_SubTaxon_Of_,Sense
+PressureSense,_Is_A_SubTaxon_Of_,Sense
+Proprioception,_Is_A_SubTaxon_Of_,Sense
+TouchSense,_Is_A_SubTaxon_Of_,Sense
+Geometry,_Is_A_SuperTaxon_Of_,Shape
+Circle,_Is_A_SubTaxon_Of_,Shape
+Concave,_Is_A_SubTaxon_Of_,Shape
+Convex,_Is_A_SubTaxon_Of_,Shape
+Polygon,_Is_A_SubTaxon_Of_,Shape
+Layer,_Is_A_SuperTaxon_Of_,Shell
+Employment,_Is_A_SuperTaxon_Of_,Shift
+Memory,_Is_A_SuperTaxon_Of_,ShortTermMemory
+GraphTheory,_Is_A_SuperTaxon_Of_,ShortestPath
+Arm,_Is_A_SuperTaxon_Of_,Shoulder
+SoilSize,_Is_A_SuperTaxon_Of_,SiltSoil
+Aktion,_Is_A_SuperTaxon_Of_,Sit
+Affordance,_Is_A_SuperTaxon_Of_,Site
+Landing,_Is_A_SubTaxon_Of_,Site
+Antroposfera,_Is_A_SuperTaxon_Of_,SkidderTrail
+Aktion,_Is_A_SuperTaxon_Of_,Slam
+Aktion,_Is_A_SuperTaxon_Of_,Slap
+Antroposfera,_Is_A_SuperTaxon_Of_,Slash
+BurnPileSlash,_Is_A_SubTaxon_Of_,Slash
+HighSlash,_Is_A_SubTaxon_Of_,Slash
+LowSlash,_Is_A_SubTaxon_Of_,Slash
+Stickmat,_Is_A_SubTaxon_Of_,Slash
+WetSlash,_Is_A_SubTaxon_Of_,Slash
+Employment,_Is_A_SuperTaxon_Of_,Sleep
+Aktion,_Is_A_SuperTaxon_Of_,Slide
+Aktion,_Is_A_SuperTaxon_Of_,Slot
+Particulates,_Is_A_SuperTaxon_Of_,Smoke
+Aktion,_Is_A_SuperTaxon_Of_,Snap
+Precipitation,_Is_A_SuperTaxon_Of_,Snow
+Bottoms,_Is_A_SuperTaxon_Of_,Sock
+Pedosfera,_Is_A_SuperTaxon_Of_,SoilFiber
+FibricSoil,_Is_A_SubTaxon_Of_,SoilFiber
+HumicSoil,_Is_A_SubTaxon_Of_,SoilFiber
+MesicSoil,_Is_A_SubTaxon_Of_,SoilFiber
+WoodySoil,_Is_A_SubTaxon_Of_,SoilFiber
+Pedosfera,_Is_A_SuperTaxon_Of_,SoilSize
+ClaySoil,_Is_A_SubTaxon_Of_,SoilSize
+CobbleSoil,_Is_A_SubTaxon_Of_,SoilSize
+PebbleSoil,_Is_A_SubTaxon_Of_,SoilSize
+RubbleSoil,_Is_A_SubTaxon_Of_,SoilSize
+SandSoil,_Is_A_SubTaxon_Of_,SoilSize
+SiltSoil,_Is_A_SubTaxon_Of_,SoilSize
+Tool,_Is_A_SuperTaxon_Of_,Spade
+Performance,_Is_A_SuperTaxon_Of_,Specs
+Kinematics,_Is_A_SuperTaxon_Of_,Speed
+Aktion,_Is_A_SuperTaxon_Of_,Spike
+Korpo,_Is_A_SuperTaxon_Of_,Spine
+Line,_Is_A_SuperTaxon_Of_,SpiralLine
+FoodTool,_Is_A_SuperTaxon_Of_,Spoon
+Particulates,_Is_A_SuperTaxon_Of_,Spores
+Polygon,_Is_A_SuperTaxon_Of_,Square
+Aktion,_Is_A_SuperTaxon_Of_,Stack
+Hydrosfera,_Is_A_SuperTaxon_Of_,StagnantWater
+Aktion,_Is_A_SuperTaxon_Of_,Stall
+Aktion,_Is_A_SuperTaxon_Of_,Stand
+Slash,_Is_A_SuperTaxon_Of_,Stickmat
+Aktion,_Is_A_SuperTaxon_Of_,Stomp
+Line,_Is_A_SuperTaxon_Of_,StraightLine
+Taktik,_Is_A_SubTaxon_Of_,Strategy
+Physiology,_Is_A_SuperTaxon_Of_,Strength
+Atmosfera,_Is_A_SuperTaxon_Of_,Sun
+Aktion,_Is_A_SuperTaxon_Of_,SuperSpike
+Physiology,_Is_A_SuperTaxon_Of_,Suppleness
+Time,_Is_A_SuperTaxon_Of_,Syncopation
+Strategy,_Is_A_SuperTaxon_Of_,Taktik
+Aktion,_Is_A_SuperTaxon_Of_,Tangent
+Point,_Is_A_SuperTaxon_Of_,TargetPoint
+Aktion,_Is_A_SubTaxon_Of_,Task
+Block,_Is_A_SubTaxon_Of_,Task
+Crop,_Is_A_SubTaxon_Of_,Task
+Piece,_Is_A_SubTaxon_Of_,Task
+Time,_Is_A_SuperTaxon_Of_,Tempo
+GraphTheory,_Is_A_SuperTaxon_Of_,Tetrad
+Klimon,_Is_A_SuperTaxon_Of_,Texture
+Hand,_Is_A_SuperTaxon_Of_,Thumb
+Leg,_Is_A_SuperTaxon_Of_,Tibia
+Armor,_Is_A_SuperTaxon_Of_,Tibior
+Duration,_Is_A_SubTaxon_Of_,Time
+Ritmo,_Is_A_SubTaxon_Of_,Time
+Syncopation,_Is_A_SubTaxon_Of_,Time
+Tempo,_Is_A_SubTaxon_Of_,Time
+ATV,_Is_A_SubTaxon_Of_,Tool
+Box,_Is_A_SubTaxon_Of_,Tool
+Bundle,_Is_A_SubTaxon_Of_,Tool
+Dory,_Is_A_SubTaxon_Of_,Tool
+Karabiner,_Is_A_SubTaxon_Of_,Tool
+Kit,_Is_A_SubTaxon_Of_,Tool
+Plantafor,_Is_A_SubTaxon_Of_,Tool
+PlotCord,_Is_A_SubTaxon_Of_,Tool
+Spade,_Is_A_SubTaxon_Of_,Tool
+Armor,_Is_A_SuperTaxon_Of_,Tops
+InsulationTop,_Is_A_SubTaxon_Of_,Tops
+Dynamics,_Is_A_SuperTaxon_Of_,Torque
+Sense,_Is_A_SuperTaxon_Of_,TouchSense
+Employment,_Is_A_SuperTaxon_Of_,Transit
+Bus,_Is_A_SubTaxon_Of_,Transit
+Crummy,_Is_A_SubTaxon_Of_,Transit
+Truck,_Is_A_SubTaxon_Of_,Transit
+WalkIn,_Is_A_SubTaxon_Of_,Transit
+WalkOut,_Is_A_SubTaxon_Of_,Transit
+Aktion,_Is_A_SuperTaxon_Of_,Transport
+Arm,_Is_A_SuperTaxon_Of_,Trapezius
+Prep,_Is_A_SuperTaxon_Of_,Trench
+GraphTheory,_Is_A_SuperTaxon_Of_,Triad
+Polygon,_Is_A_SuperTaxon_Of_,Triangle
+Arm,_Is_A_SuperTaxon_Of_,Triceps
+Aktion,_Is_A_SuperTaxon_Of_,Trot
+Transit,_Is_A_SuperTaxon_Of_,Truck
+Aktion,_Is_A_SuperTaxon_Of_,Twist
+Fastener,_Is_A_SuperTaxon_Of_,Velcro
+Kinematics,_Is_A_SuperTaxon_Of_,Velocity
+Point,_Is_A_SuperTaxon_Of_,VertexPoint
+Transit,_Is_A_SuperTaxon_Of_,WalkIn
+Transit,_Is_A_SuperTaxon_Of_,WalkOut
+Physiology,_Is_A_SuperTaxon_Of_,WarmUp
+Error,_Is_A_SuperTaxon_Of_,Waste
+Aktion,_Is_A_SuperTaxon_Of_,Weave
+Slash,_Is_A_SuperTaxon_Of_,WetSlash
+Pedosfera,_Is_A_SuperTaxon_Of_,WetSoil
+Hydrosfera,_Is_A_SuperTaxon_Of_,Wetness
+Aktion,_Is_A_SuperTaxon_Of_,Whip
+Atmosfera,_Is_A_SuperTaxon_Of_,Wind
+SoilFiber,_Is_A_SuperTaxon_Of_,WoodySoil
+Dynamics,_Is_A_SuperTaxon_Of_,Work
+Employment,_Is_A_SuperTaxon_Of_,Workday
+Memory,_Is_A_SuperTaxon_Of_,WorkingMemory
+Aktion,_Is_A_SuperTaxon_Of_,Wrap
+Hand,_Is_A_SuperTaxon_Of_,Wrist
+Line,_Is_A_SuperTaxon_Of_,ZigzagLine
+Fastener,_Is_A_SuperTaxon_Of_,Zipper
+ATV ,_Is_A_SubTaxon_Of_,Tool
+Abdukt ,_Is_A_SubTaxon_Of_,Aktion
+Absorb ,_Is_A_SubTaxon_Of_,Aktion
+Acceleration ,_Is_A_SubTaxon_Of_,Kinematics
+Addukt ,_Is_A_SubTaxon_Of_,Aktion
+Affordance ,_Is_A_SubTaxon_Of_,Probability
+Affordance ,_Is_A_SuperTaxon_Of_,Limit
+Affordance ,_Is_A_SuperTaxon_Of_,Obstacle
+Affordance ,_Is_A_SuperTaxon_Of_,Passage
+Affordance ,_Is_A_SuperTaxon_Of_,Site
+AirTemperature ,_Is_A_SubTaxon_Of_,Atmosfera
+Aktion ,_Is_A_SubTaxon_Of_,Task
+Aktion ,_Is_A_SuperTaxon_Of_,Abdukt
+Aktion ,_Is_A_SuperTaxon_Of_,Absorb
+Aktion ,_Is_A_SuperTaxon_Of_,Addukt
+Aktion ,_Is_A_SuperTaxon_Of_,Allos
+Aktion ,_Is_A_SuperTaxon_Of_,Ama
+Aktion ,_Is_A_SuperTaxon_Of_,Amble
+Aktion ,_Is_A_SuperTaxon_Of_,Ankor
+Aktion ,_Is_A_SuperTaxon_Of_,Ballista
+Aktion ,_Is_A_SuperTaxon_Of_,Catch
+Aktion ,_Is_A_SuperTaxon_Of_,Clean
+Aktion ,_Is_A_SuperTaxon_Of_,Crawl
+Aktion ,_Is_A_SuperTaxon_Of_,Defend
+Aktion ,_Is_A_SuperTaxon_Of_,Dig
+Aktion ,_Is_A_SuperTaxon_Of_,Dilate
+Aktion ,_Is_A_SuperTaxon_Of_,Doff
+Aktion ,_Is_A_SuperTaxon_Of_,Don
+Aktion ,_Is_A_SuperTaxon_Of_,Drag
+Aktion ,_Is_A_SuperTaxon_Of_,Drop
+Aktion ,_Is_A_SuperTaxon_Of_,Eval
+Aktion ,_Is_A_SuperTaxon_Of_,Exit
+Aktion ,_Is_A_SuperTaxon_Of_,Fall
+Aktion ,_Is_A_SuperTaxon_Of_,Flex
+Aktion ,_Is_A_SuperTaxon_Of_,Hinge
+Aktion ,_Is_A_SuperTaxon_Of_,Hook
+Aktion ,_Is_A_SuperTaxon_Of_,Iguana
+Aktion ,_Is_A_SuperTaxon_Of_,Jump
+Aktion ,_Is_A_SuperTaxon_Of_,Kick
+Aktion ,_Is_A_SuperTaxon_Of_,Klose
+Aktion ,_Is_A_SuperTaxon_Of_,Kneel
+Aktion ,_Is_A_SuperTaxon_Of_,Knot
+Aktion ,_Is_A_SuperTaxon_Of_,Kompakt
+Aktion ,_Is_A_SuperTaxon_Of_,Kompress
+Aktion ,_Is_A_SuperTaxon_Of_,Konstrukt
+Aktion ,_Is_A_SuperTaxon_Of_,Kontakt
+Aktion ,_Is_A_SuperTaxon_Of_,Krampon
+Aktion ,_Is_A_SuperTaxon_Of_,Kryos
+Aktion ,_Is_A_SuperTaxon_Of_,Launch
+Aktion ,_Is_A_SuperTaxon_Of_,Lean
+Aktion ,_Is_A_SuperTaxon_Of_,Lift
+Aktion ,_Is_A_SuperTaxon_Of_,Load
+Aktion ,_Is_A_SuperTaxon_Of_,Lock
+Aktion ,_Is_A_SuperTaxon_Of_,Machete
+Aktion ,_Is_A_SuperTaxon_Of_,Mano
+Aktion ,_Is_A_SuperTaxon_Of_,Markate
+Aktion ,_Is_A_SuperTaxon_Of_,Modify
+Aktion ,_Is_A_SuperTaxon_Of_,MuscleUp
+Aktion ,_Is_A_SuperTaxon_Of_,Neonektomy
+Aktion ,_Is_A_SuperTaxon_Of_,Onda
+Aktion ,_Is_A_SuperTaxon_Of_,Orbit
+Aktion ,_Is_A_SuperTaxon_Of_,Parry
+Aktion ,_Is_A_SuperTaxon_Of_,Pendulate
+Aktion ,_Is_A_SuperTaxon_Of_,Pogo
+Aktion ,_Is_A_SuperTaxon_Of_,Poke
+Aktion ,_Is_A_SuperTaxon_Of_,Post
+Aktion ,_Is_A_SuperTaxon_Of_,Preserve
+Aktion ,_Is_A_SuperTaxon_Of_,Progress
+Aktion ,_Is_A_SuperTaxon_Of_,Protrakt
+Aktion ,_Is_A_SuperTaxon_Of_,Pugno
+Aktion ,_Is_A_SuperTaxon_Of_,Pull
+Aktion ,_Is_A_SuperTaxon_Of_,Purga
+Aktion ,_Is_A_SuperTaxon_Of_,Push
+Aktion ,_Is_A_SuperTaxon_Of_,Regress
+Aktion ,_Is_A_SuperTaxon_Of_,Retrakt
+Aktion ,_Is_A_SuperTaxon_Of_,Rip
+Aktion ,_Is_A_SuperTaxon_Of_,Roll
+Aktion ,_Is_A_SuperTaxon_Of_,Rotate
+Aktion ,_Is_A_SuperTaxon_Of_,Run
+Aktion ,_Is_A_SuperTaxon_Of_,Sit
+Aktion ,_Is_A_SuperTaxon_Of_,Slam
+Aktion ,_Is_A_SuperTaxon_Of_,Slap
+Aktion ,_Is_A_SuperTaxon_Of_,Slide
+Aktion ,_Is_A_SuperTaxon_Of_,Slot
+Aktion ,_Is_A_SuperTaxon_Of_,Snap
+Aktion ,_Is_A_SuperTaxon_Of_,Spike
+Aktion ,_Is_A_SuperTaxon_Of_,Stack
+Aktion ,_Is_A_SuperTaxon_Of_,Stall
+Aktion ,_Is_A_SuperTaxon_Of_,Stand
+Aktion ,_Is_A_SuperTaxon_Of_,Stomp
+Aktion ,_Is_A_SuperTaxon_Of_,SuperSpike
+Aktion ,_Is_A_SuperTaxon_Of_,Tangent
+Aktion ,_Is_A_SuperTaxon_Of_,Transport
+Aktion ,_Is_A_SuperTaxon_Of_,Trot
+Aktion ,_Is_A_SuperTaxon_Of_,Twist
+Aktion ,_Is_A_SuperTaxon_Of_,Weave
+Aktion ,_Is_A_SuperTaxon_Of_,Whip
+Aktion ,_Is_A_SuperTaxon_Of_,Wrap
+Allos ,_Is_A_SubTaxon_Of_,Aktion
+Ama ,_Is_A_SubTaxon_Of_,Aktion
+Amble ,_Is_A_SubTaxon_Of_,Aktion
+Anatomy ,_Is_A_SuperTaxon_Of_,Arm
+Anatomy ,_Is_A_SuperTaxon_Of_,Head
+Anatomy ,_Is_A_SuperTaxon_Of_,Korpo
+Anatomy ,_Is_A_SuperTaxon_Of_,Leg
+Anger ,_Is_A_SubTaxon_Of_,Emotion
+Animal ,_Is_A_SubTaxon_Of_,Biosfera
+Animal ,_Is_A_SuperTaxon_Of_,Ant
+Animal ,_Is_A_SuperTaxon_Of_,Bear
+Animal ,_Is_A_SuperTaxon_Of_,Bird
+Animal ,_Is_A_SuperTaxon_Of_,BitingFlies
+Animal ,_Is_A_SuperTaxon_Of_,Cow
+Animal ,_Is_A_SuperTaxon_Of_,Hornet
+Animal ,_Is_A_SuperTaxon_Of_,Moose
+Animal ,_Is_A_SuperTaxon_Of_,Mosquito
+Ankle ,_Is_A_SubTaxon_Of_,Leg
+Ankor ,_Is_A_SubTaxon_Of_,Aktion
+Ant ,_Is_A_SubTaxon_Of_,Animal
+Antroposfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Antroposfera ,_Is_A_SuperTaxon_Of_,CutBank
+Antroposfera ,_Is_A_SuperTaxon_Of_,Landing
+Antroposfera ,_Is_A_SuperTaxon_Of_,Prep
+Antroposfera ,_Is_A_SuperTaxon_Of_,Road
+Antroposfera ,_Is_A_SuperTaxon_Of_,SkidderTrail
+Antroposfera ,_Is_A_SuperTaxon_Of_,Slash
+Arm ,_Is_A_SubTaxon_Of_,Anatomy
+Arm ,_Is_A_SuperTaxon_Of_,Biceps
+Arm ,_Is_A_SuperTaxon_Of_,Deltoid
+Arm ,_Is_A_SuperTaxon_Of_,Elbow
+Arm ,_Is_A_SuperTaxon_Of_,Forearm
+Arm ,_Is_A_SuperTaxon_Of_,Hand
+Arm ,_Is_A_SuperTaxon_Of_,Humerus
+Arm ,_Is_A_SuperTaxon_Of_,LatissimusDorsi
+Arm ,_Is_A_SuperTaxon_Of_,Scapula
+Arm ,_Is_A_SuperTaxon_Of_,Shoulder
+Arm ,_Is_A_SuperTaxon_Of_,Trapezius
+Arm ,_Is_A_SuperTaxon_Of_,Triceps
+Armor ,_Is_A_SuperTaxon_Of_,Boot
+Armor ,_Is_A_SuperTaxon_Of_,Bottoms
+Armor ,_Is_A_SuperTaxon_Of_,Fastener
+Armor ,_Is_A_SuperTaxon_Of_,Glove
+Armor ,_Is_A_SuperTaxon_Of_,Hat
+Armor ,_Is_A_SuperTaxon_Of_,Helmet
+Armor ,_Is_A_SuperTaxon_Of_,HiVis
+Armor ,_Is_A_SuperTaxon_Of_,Radior
+Armor ,_Is_A_SuperTaxon_Of_,Tibior
+Armor ,_Is_A_SuperTaxon_Of_,Tops
+AroundLine ,_Is_A_SubTaxon_Of_,Line
+Arousal ,_Is_A_SubTaxon_Of_,MindState
+Ash ,_Is_A_SubTaxon_Of_,Particulates
+Atmosfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Atmosfera ,_Is_A_SuperTaxon_Of_,AirTemperature
+Atmosfera ,_Is_A_SuperTaxon_Of_,Humidity
+Atmosfera ,_Is_A_SuperTaxon_Of_,Lightning
+Atmosfera ,_Is_A_SuperTaxon_Of_,Particulates
+Atmosfera ,_Is_A_SuperTaxon_Of_,Precipitation
+Atmosfera ,_Is_A_SuperTaxon_Of_,Sun
+Atmosfera ,_Is_A_SuperTaxon_Of_,Wind
+Attention ,_Is_A_SubTaxon_Of_,Cognition
+AuditorySense ,_Is_A_SubTaxon_Of_,Sense
+Ballista ,_Is_A_SubTaxon_Of_,Aktion
+Bear ,_Is_A_SubTaxon_Of_,Animal
+Biceps ,_Is_A_SubTaxon_Of_,Arm
+Biosfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Biosfera ,_Is_A_SuperTaxon_Of_,Animal
+Biosfera ,_Is_A_SuperTaxon_Of_,Flora
+Biosfera ,_Is_A_SuperTaxon_Of_,Fungi
+Bird ,_Is_A_SubTaxon_Of_,Animal
+BitingFlies ,_Is_A_SubTaxon_Of_,Animal
+Block ,_Is_A_SubTaxon_Of_,Task
+Block ,_Is_A_SuperTaxon_Of_,BurntBlock
+Block ,_Is_A_SuperTaxon_Of_,ClearcutBlock
+Block ,_Is_A_SuperTaxon_Of_,FillBlock
+Block ,_Is_A_SuperTaxon_Of_,Piece
+Boot ,_Is_A_SubTaxon_Of_,Armor
+Bottle ,_Is_A_SubTaxon_Of_,Kit
+Bottoms ,_Is_A_SubTaxon_Of_,Armor
+Bottoms ,_Is_A_SuperTaxon_Of_,InsulationBottom
+Bottoms ,_Is_A_SuperTaxon_Of_,Sock
+BoustroLine ,_Is_A_SubTaxon_Of_,Line
+BoustroPassage ,_Is_A_SubTaxon_Of_,Passage
+Box ,_Is_A_SubTaxon_Of_,Tool
+Bundle ,_Is_A_SubTaxon_Of_,Tool
+BurnPileSlash ,_Is_A_SubTaxon_Of_,Slash
+BurntBlock ,_Is_A_SubTaxon_Of_,Block
+Bus ,_Is_A_SubTaxon_Of_,Transit
+Button ,_Is_A_SubTaxon_Of_,Fastener
+CardinalDirection ,_Is_A_SubTaxon_Of_,Direction
+Catch ,_Is_A_SubTaxon_Of_,Aktion
+CenterPoint ,_Is_A_SubTaxon_Of_,Point
+Circle ,_Is_A_SubTaxon_Of_,Shape
+CircuitLine ,_Is_A_SubTaxon_Of_,Line
+CircuitPassage ,_Is_A_SubTaxon_Of_,Passage
+CircumventPassage ,_Is_A_SubTaxon_Of_,Passage
+ClarityEase ,_Is_A_SubTaxon_Of_,CognitiveEase
+ClaySoil ,_Is_A_SubTaxon_Of_,SoilSize
+Clean ,_Is_A_SubTaxon_Of_,Aktion
+ClearcutBlock ,_Is_A_SubTaxon_Of_,Block
+ClosestPair ,_Is_A_SubTaxon_Of_,GraphTheory
+CobbleSoil ,_Is_A_SubTaxon_Of_,SoilSize
+Cognition ,_Is_A_SuperTaxon_Of_,Attention
+Cognition ,_Is_A_SuperTaxon_Of_,CognitiveEase
+Cognition ,_Is_A_SuperTaxon_Of_,Decision
+Cognition ,_Is_A_SuperTaxon_Of_,Estimation
+Cognition ,_Is_A_SuperTaxon_Of_,Identification
+Cognition ,_Is_A_SuperTaxon_Of_,Judgement
+Cognition ,_Is_A_SuperTaxon_Of_,Memory
+Cognition ,_Is_A_SuperTaxon_Of_,Perception
+CognitiveEase ,_Is_A_SubTaxon_Of_,Cognition
+CognitiveEase ,_Is_A_SuperTaxon_Of_,ClarityEase
+CognitiveEase ,_Is_A_SuperTaxon_Of_,FeelsEffortless
+CognitiveEase ,_Is_A_SuperTaxon_Of_,FeelsFamiliar
+CognitiveEase ,_Is_A_SuperTaxon_Of_,FeelsGood
+CognitiveEase ,_Is_A_SuperTaxon_Of_,FeelsTrue
+CognitiveEase ,_Is_A_SuperTaxon_Of_,GoodEase
+CognitiveEase ,_Is_A_SuperTaxon_Of_,PrimingEase
+CognitiveEase ,_Is_A_SuperTaxon_Of_,RepetitionEase
+Combinatorics ,_Is_A_SuperTaxon_Of_,Enumeration
+Combinatorics ,_Is_A_SuperTaxon_Of_,GraphTheory
+Competition ,_Is_A_SubTaxon_Of_,Performance
+ComputationalGeometry ,_Is_A_SubTaxon_Of_,Geometry
+Concave ,_Is_A_SubTaxon_Of_,Shape
+Condensation ,_Is_A_SubTaxon_Of_,Hydrosfera
+ConditionalLogic ,_Is_A_SubTaxon_Of_,Logic
+Confidence ,_Is_A_SubTaxon_Of_,MindState
+Constraint ,_Is_A_SubTaxon_Of_,Probability
+Constraint ,_Is_A_SuperTaxon_Of_,DegreesOfFreedom
+Constraint ,_Is_A_SuperTaxon_Of_,Hyper
+Constraint ,_Is_A_SuperTaxon_Of_,Hypo
+Contempt ,_Is_A_SubTaxon_Of_,Emotion
+Convex ,_Is_A_SubTaxon_Of_,Shape
+CoolDown ,_Is_A_SubTaxon_Of_,Physiology
+Cow ,_Is_A_SubTaxon_Of_,Animal
+Cranium ,_Is_A_SubTaxon_Of_,Head
+Crawl ,_Is_A_SubTaxon_Of_,Aktion
+Crop ,_Is_A_SubTaxon_Of_,Task
+Crop ,_Is_A_SuperTaxon_Of_,Neon
+Crop ,_Is_A_SuperTaxon_Of_,Paleon
+Crummy ,_Is_A_SubTaxon_Of_,Transit
+CutBank ,_Is_A_SubTaxon_Of_,Antroposfera
+Decision ,_Is_A_SubTaxon_Of_,Cognition
+Defend ,_Is_A_SubTaxon_Of_,Aktion
+DegreesOfFreedom ,_Is_A_SubTaxon_Of_,Constraint
+Deltoid ,_Is_A_SubTaxon_Of_,Arm
+Density ,_Is_A_SubTaxon_Of_,Geometry
+Diamond ,_Is_A_SubTaxon_Of_,Polygon
+Difficulty ,_Is_A_SubTaxon_Of_,Performance
+Dig ,_Is_A_SubTaxon_Of_,Aktion
+Dilate ,_Is_A_SubTaxon_Of_,Aktion
+Dilation ,_Is_A_SubTaxon_Of_,RelativeDirection
+Direction ,_Is_A_SubTaxon_Of_,Geometry
+Direction ,_Is_A_SuperTaxon_Of_,CardinalDirection
+Direction ,_Is_A_SuperTaxon_Of_,RelativeDirection
+Disgust ,_Is_A_SubTaxon_Of_,Emotion
+Displacement ,_Is_A_SubTaxon_Of_,Geometry
+Distance ,_Is_A_SubTaxon_Of_,Geometry
+Div ,_Is_A_SubTaxon_Of_,Geometry
+Doff ,_Is_A_SubTaxon_Of_,Aktion
+Don ,_Is_A_SubTaxon_Of_,Aktion
+Dory ,_Is_A_SubTaxon_Of_,Tool
+Drag ,_Is_A_SubTaxon_Of_,Aktion
+Drop ,_Is_A_SubTaxon_Of_,Aktion
+Duration ,_Is_A_SubTaxon_Of_,Time
+Dust ,_Is_A_SubTaxon_Of_,Particulates
+Dyad ,_Is_A_SubTaxon_Of_,GraphTheory
+Dynamics ,_Is_A_SuperTaxon_Of_,Energy
+Dynamics ,_Is_A_SuperTaxon_Of_,Force
+Dynamics ,_Is_A_SuperTaxon_Of_,Inertia
+Dynamics ,_Is_A_SuperTaxon_Of_,Momentum
+Dynamics ,_Is_A_SuperTaxon_Of_,Power
+Dynamics ,_Is_A_SuperTaxon_Of_,Torque
+Dynamics ,_Is_A_SuperTaxon_Of_,Work
+Ears ,_Is_A_SubTaxon_Of_,Head
+Effectiveness ,_Is_A_SubTaxon_Of_,Performance
+Ekosfera ,_Is_A_SuperTaxon_Of_,Antroposfera
+Ekosfera ,_Is_A_SuperTaxon_Of_,Atmosfera
+Ekosfera ,_Is_A_SuperTaxon_Of_,Biosfera
+Ekosfera ,_Is_A_SuperTaxon_Of_,Hydrosfera
+Ekosfera ,_Is_A_SuperTaxon_Of_,Litosfera
+Ekosfera ,_Is_A_SuperTaxon_Of_,Pedosfera
+Elbow ,_Is_A_SubTaxon_Of_,Arm
+Emotion ,_Is_A_SuperTaxon_Of_,Anger
+Emotion ,_Is_A_SuperTaxon_Of_,Contempt
+Emotion ,_Is_A_SuperTaxon_Of_,Disgust
+Emotion ,_Is_A_SuperTaxon_Of_,Fear
+Emotion ,_Is_A_SuperTaxon_Of_,Joy
+Emotion ,_Is_A_SuperTaxon_Of_,Sadness
+Employment ,_Is_A_SuperTaxon_Of_,PreSeason
+Employment ,_Is_A_SuperTaxon_Of_,RestDay
+Employment ,_Is_A_SuperTaxon_Of_,Shift
+Employment ,_Is_A_SuperTaxon_Of_,Sleep
+Employment ,_Is_A_SuperTaxon_Of_,Transit
+Employment ,_Is_A_SuperTaxon_Of_,Workday
+Endurance ,_Is_A_SubTaxon_Of_,Physiology
+Energy ,_Is_A_SubTaxon_Of_,Dynamics
+Enumeration ,_Is_A_SubTaxon_Of_,Combinatorics
+Error ,_Is_A_SubTaxon_Of_,Performance
+Error ,_Is_A_SuperTaxon_Of_,Waste
+Estimation ,_Is_A_SubTaxon_Of_,Cognition
+Eval ,_Is_A_SubTaxon_Of_,Aktion
+Execution ,_Is_A_SubTaxon_Of_,Performance
+Exit ,_Is_A_SubTaxon_Of_,Aktion
+Extension ,_Is_A_SubTaxon_Of_,RelativeDirection
+Face ,_Is_A_SubTaxon_Of_,Head
+Fall ,_Is_A_SubTaxon_Of_,Aktion
+Fastener ,_Is_A_SubTaxon_Of_,Armor
+Fastener ,_Is_A_SuperTaxon_Of_,Button
+Fastener ,_Is_A_SuperTaxon_Of_,Velcro
+Fastener ,_Is_A_SuperTaxon_Of_,Zipper
+Fear ,_Is_A_SubTaxon_Of_,Emotion
+FeelsEffortless ,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsFamiliar ,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsGood ,_Is_A_SubTaxon_Of_,CognitiveEase
+FeelsTrue ,_Is_A_SubTaxon_Of_,CognitiveEase
+Femur ,_Is_A_SubTaxon_Of_,Leg
+FibricSoil ,_Is_A_SubTaxon_Of_,SoilFiber
+FillBlock ,_Is_A_SubTaxon_Of_,Block
+FirstAidKit ,_Is_A_SubTaxon_Of_,Kit
+Flex ,_Is_A_SubTaxon_Of_,Aktion
+Flexion ,_Is_A_SubTaxon_Of_,RelativeDirection
+Flora ,_Is_A_SubTaxon_Of_,Biosfera
+FlowState ,_Is_A_SubTaxon_Of_,MindState
+Fog ,_Is_A_SubTaxon_Of_,Precipitation
+FoodBag ,_Is_A_SubTaxon_Of_,FoodTool
+FoodContainer ,_Is_A_SubTaxon_Of_,FoodTool
+FoodTool ,_Is_A_SubTaxon_Of_,Kit
+FoodTool ,_Is_A_SuperTaxon_Of_,FoodBag
+FoodTool ,_Is_A_SuperTaxon_Of_,FoodContainer
+FoodTool ,_Is_A_SuperTaxon_Of_,Fork
+FoodTool ,_Is_A_SuperTaxon_Of_,Spoon
+Foot ,_Is_A_SubTaxon_Of_,Leg
+Force ,_Is_A_SubTaxon_Of_,Dynamics
+Forearm ,_Is_A_SubTaxon_Of_,Arm
+Fork ,_Is_A_SubTaxon_Of_,FoodTool
+Fortuna ,_Is_A_SubTaxon_Of_,Probability
+Frequency ,_Is_A_SubTaxon_Of_,Probability
+Fungi ,_Is_A_SubTaxon_Of_,Biosfera
+Geometry ,_Is_A_SuperTaxon_Of_,ComputationalGeometry
+Geometry ,_Is_A_SuperTaxon_Of_,Density
+Geometry ,_Is_A_SuperTaxon_Of_,Direction
+Geometry ,_Is_A_SuperTaxon_Of_,Displacement
+Geometry ,_Is_A_SuperTaxon_Of_,Distance
+Geometry ,_Is_A_SuperTaxon_Of_,Div
+Geometry ,_Is_A_SuperTaxon_Of_,Line
+Geometry ,_Is_A_SuperTaxon_Of_,Morfos
+Geometry ,_Is_A_SuperTaxon_Of_,Orientation
+Geometry ,_Is_A_SuperTaxon_Of_,Point
+Geometry ,_Is_A_SuperTaxon_Of_,Shape
+Glove ,_Is_A_SubTaxon_Of_,Armor
+GoodEase ,_Is_A_SubTaxon_Of_,CognitiveEase
+GraphTheory ,_Is_A_SubTaxon_Of_,Combinatorics
+GraphTheory ,_Is_A_SuperTaxon_Of_,ClosestPair
+GraphTheory ,_Is_A_SuperTaxon_Of_,Dyad
+GraphTheory ,_Is_A_SuperTaxon_Of_,Heptad
+GraphTheory ,_Is_A_SuperTaxon_Of_,Hexad
+GraphTheory ,_Is_A_SuperTaxon_Of_,Octad
+GraphTheory ,_Is_A_SuperTaxon_Of_,Pentad
+GraphTheory ,_Is_A_SuperTaxon_Of_,ShortestPath
+GraphTheory ,_Is_A_SuperTaxon_Of_,Tetrad
+GraphTheory ,_Is_A_SuperTaxon_Of_,Triad
+GroundWater ,_Is_A_SubTaxon_Of_,Hydrosfera
+Hail ,_Is_A_SubTaxon_Of_,Precipitation
+Hand ,_Is_A_SubTaxon_Of_,Arm
+Hand ,_Is_A_SuperTaxon_Of_,IndexFinger
+Hand ,_Is_A_SuperTaxon_Of_,Knuckle
+Hand ,_Is_A_SuperTaxon_Of_,MiddleFinger
+Hand ,_Is_A_SuperTaxon_Of_,Palm
+Hand ,_Is_A_SuperTaxon_Of_,PinkyFinger
+Hand ,_Is_A_SuperTaxon_Of_,RadialBorder
+Hand ,_Is_A_SuperTaxon_Of_,RingFinger
+Hand ,_Is_A_SuperTaxon_Of_,Thumb
+Hand ,_Is_A_SuperTaxon_Of_,Wrist
+Hat ,_Is_A_SubTaxon_Of_,Armor
+Head ,_Is_A_SubTaxon_Of_,Anatomy
+Head ,_Is_A_SuperTaxon_Of_,Cranium
+Head ,_Is_A_SuperTaxon_Of_,Ears
+Head ,_Is_A_SuperTaxon_Of_,Face
+Head ,_Is_A_SuperTaxon_Of_,Neck
+Helmet ,_Is_A_SubTaxon_Of_,Armor
+Heptad ,_Is_A_SubTaxon_Of_,GraphTheory
+Heptagon ,_Is_A_SubTaxon_Of_,Polygon
+Hexad ,_Is_A_SubTaxon_Of_,GraphTheory
+Hexagon ,_Is_A_SubTaxon_Of_,Polygon
+HiVis ,_Is_A_SubTaxon_Of_,Armor
+HighSlash ,_Is_A_SubTaxon_Of_,Slash
+Hinge ,_Is_A_SubTaxon_Of_,Aktion
+Hips ,_Is_A_SubTaxon_Of_,Leg
+Hook ,_Is_A_SubTaxon_Of_,Aktion
+Hornet ,_Is_A_SubTaxon_Of_,Animal
+Humerus ,_Is_A_SubTaxon_Of_,Arm
+HumicSoil ,_Is_A_SubTaxon_Of_,SoilFiber
+Humidity ,_Is_A_SubTaxon_Of_,Atmosfera
+Hydrosfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Hydrosfera ,_Is_A_SuperTaxon_Of_,Condensation
+Hydrosfera ,_Is_A_SuperTaxon_Of_,GroundWater
+Hydrosfera ,_Is_A_SuperTaxon_Of_,MovingWater
+Hydrosfera ,_Is_A_SuperTaxon_Of_,StagnantWater
+Hydrosfera ,_Is_A_SuperTaxon_Of_,Wetness
+Hyper ,_Is_A_SubTaxon_Of_,Constraint
+Hypo ,_Is_A_SubTaxon_Of_,Constraint
+IceSoil ,_Is_A_SubTaxon_Of_,Pedosfera
+Identification ,_Is_A_SubTaxon_Of_,Cognition
+Iguana ,_Is_A_SubTaxon_Of_,Aktion
+IndexFinger ,_Is_A_SubTaxon_Of_,Hand
+Inertia ,_Is_A_SubTaxon_Of_,Dynamics
+InjuryPrevention ,_Is_A_SubTaxon_Of_,Physiology
+InsulationBottom ,_Is_A_SubTaxon_Of_,Bottoms
+InsulationTop ,_Is_A_SubTaxon_Of_,Tops
+Jerk ,_Is_A_SubTaxon_Of_,Kinematics
+Joy ,_Is_A_SubTaxon_Of_,Emotion
+Judgement ,_Is_A_SubTaxon_Of_,Cognition
+Jug ,_Is_A_SubTaxon_Of_,Kit
+Jump ,_Is_A_SubTaxon_Of_,Aktion
+Karabiner ,_Is_A_SubTaxon_Of_,Tool
+Kick ,_Is_A_SubTaxon_Of_,Aktion
+Kinematics ,_Is_A_SuperTaxon_Of_,Acceleration
+Kinematics ,_Is_A_SuperTaxon_Of_,Jerk
+Kinematics ,_Is_A_SuperTaxon_Of_,Speed
+Kinematics ,_Is_A_SuperTaxon_Of_,Velocity
+Kit ,_Is_A_SubTaxon_Of_,Tool
+Kit ,_Is_A_SuperTaxon_Of_,Bottle
+Kit ,_Is_A_SuperTaxon_Of_,FirstAidKit
+Kit ,_Is_A_SuperTaxon_Of_,FoodTool
+Kit ,_Is_A_SuperTaxon_Of_,Jug
+Kit ,_Is_A_SuperTaxon_Of_,Knife
+Kit ,_Is_A_SuperTaxon_Of_,Multitool
+Kit ,_Is_A_SuperTaxon_Of_,RepairKit
+Kit ,_Is_A_SuperTaxon_Of_,Rope
+Klimon ,_Is_A_SuperTaxon_Of_,Texture
+Klose ,_Is_A_SubTaxon_Of_,Aktion
+Knee ,_Is_A_SubTaxon_Of_,Leg
+Kneel ,_Is_A_SubTaxon_Of_,Aktion
+Knife ,_Is_A_SubTaxon_Of_,Kit
+Knot ,_Is_A_SubTaxon_Of_,Aktion
+Knuckle ,_Is_A_SubTaxon_Of_,Hand
+Kompakt ,_Is_A_SubTaxon_Of_,Aktion
+Kompress ,_Is_A_SubTaxon_Of_,Aktion
+Konstrukt ,_Is_A_SubTaxon_Of_,Aktion
+Kontakt ,_Is_A_SubTaxon_Of_,Aktion
+Korpo ,_Is_A_SubTaxon_Of_,Anatomy
+Korpo ,_Is_A_SuperTaxon_Of_,Ribs
+Korpo ,_Is_A_SuperTaxon_Of_,Spine
+Krampon ,_Is_A_SubTaxon_Of_,Aktion
+Kryos ,_Is_A_SubTaxon_Of_,Aktion
+Landing ,_Is_A_SubTaxon_Of_,Antroposfera
+Landing ,_Is_A_SubTaxon_Of_,Site
+LatissimusDorsi ,_Is_A_SubTaxon_Of_,Arm
+Launch ,_Is_A_SubTaxon_Of_,Aktion
+Layer ,_Is_A_SuperTaxon_Of_,Shell
+Lean ,_Is_A_SubTaxon_Of_,Aktion
+Leg ,_Is_A_SubTaxon_Of_,Anatomy
+Leg ,_Is_A_SuperTaxon_Of_,Ankle
+Leg ,_Is_A_SuperTaxon_Of_,Femur
+Leg ,_Is_A_SuperTaxon_Of_,Foot
+Leg ,_Is_A_SuperTaxon_Of_,Hips
+Leg ,_Is_A_SuperTaxon_Of_,Knee
+Leg ,_Is_A_SuperTaxon_Of_,Tibia
+Lift ,_Is_A_SubTaxon_Of_,Aktion
+Lightning ,_Is_A_SubTaxon_Of_,Atmosfera
+Limit ,_Is_A_SubTaxon_Of_,Affordance
+Limit ,_Is_A_SuperTaxon_Of_,Maximum
+Limit ,_Is_A_SuperTaxon_Of_,Minimum
+Line ,_Is_A_SubTaxon_Of_,Geometry
+Line ,_Is_A_SuperTaxon_Of_,AroundLine
+Line ,_Is_A_SuperTaxon_Of_,BoustroLine
+Line ,_Is_A_SuperTaxon_Of_,CircuitLine
+Line ,_Is_A_SuperTaxon_Of_,PerimeterLine
+Line ,_Is_A_SuperTaxon_Of_,SpiralLine
+Line ,_Is_A_SuperTaxon_Of_,StraightLine
+Line ,_Is_A_SuperTaxon_Of_,ZigzagLine
+Litosfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Litosfera ,_Is_A_SuperTaxon_Of_,RockCap
+Load ,_Is_A_SubTaxon_Of_,Aktion
+Lock ,_Is_A_SubTaxon_Of_,Aktion
+Logic ,_Is_A_SuperTaxon_Of_,ConditionalLogic
+Logic ,_Is_A_SuperTaxon_Of_,PropositionalLogic
+LongTermMemory ,_Is_A_SubTaxon_Of_,Memory
+LowSlash ,_Is_A_SubTaxon_Of_,Slash
+Machete ,_Is_A_SubTaxon_Of_,Aktion
+Mano ,_Is_A_SubTaxon_Of_,Aktion
+Markate ,_Is_A_SubTaxon_Of_,Aktion
+Maximum ,_Is_A_SubTaxon_Of_,Limit
+Megaskreef ,_Is_A_SubTaxon_Of_,Prep
+Memory ,_Is_A_SubTaxon_Of_,Cognition
+Memory ,_Is_A_SuperTaxon_Of_,LongTermMemory
+Memory ,_Is_A_SuperTaxon_Of_,ShortTermMemory
+Memory ,_Is_A_SuperTaxon_Of_,WorkingMemory
+MesicSoil ,_Is_A_SubTaxon_Of_,SoilFiber
+MidPoint ,_Is_A_SubTaxon_Of_,Point
+MiddleFinger ,_Is_A_SubTaxon_Of_,Hand
+MindState ,_Is_A_SuperTaxon_Of_,Arousal
+MindState ,_Is_A_SuperTaxon_Of_,Confidence
+MindState ,_Is_A_SuperTaxon_Of_,FlowState
+MindState ,_Is_A_SuperTaxon_Of_,Mindfulness
+Mindfulness ,_Is_A_SubTaxon_Of_,MindState
+MineralSoil ,_Is_A_SubTaxon_Of_,Pedosfera
+Minimum ,_Is_A_SubTaxon_Of_,Limit
+Modify ,_Is_A_SubTaxon_Of_,Aktion
+Momentum ,_Is_A_SubTaxon_Of_,Dynamics
+Moose ,_Is_A_SubTaxon_Of_,Animal
+Morfos ,_Is_A_SubTaxon_Of_,Geometry
+Mosquito ,_Is_A_SubTaxon_Of_,Animal
+Mound ,_Is_A_SubTaxon_Of_,Prep
+MovingWater ,_Is_A_SubTaxon_Of_,Hydrosfera
+Multitool ,_Is_A_SubTaxon_Of_,Kit
+MuscleUp ,_Is_A_SubTaxon_Of_,Aktion
+Neck ,_Is_A_SubTaxon_Of_,Head
+Neon ,_Is_A_SubTaxon_Of_,Crop
+Neonektomy ,_Is_A_SubTaxon_Of_,Aktion
+Nonagon ,_Is_A_SubTaxon_Of_,Polygon
+Obstacle ,_Is_A_SubTaxon_Of_,Affordance
+Octad ,_Is_A_SubTaxon_Of_,GraphTheory
+Octagon ,_Is_A_SubTaxon_Of_,Polygon
+Onda ,_Is_A_SubTaxon_Of_,Aktion
+Orbit ,_Is_A_SubTaxon_Of_,Aktion
+Orientation ,_Is_A_SubTaxon_Of_,Geometry
+Paleon ,_Is_A_SubTaxon_Of_,Crop
+Palm ,_Is_A_SubTaxon_Of_,Hand
+Parry ,_Is_A_SubTaxon_Of_,Aktion
+Particulates ,_Is_A_SubTaxon_Of_,Atmosfera
+Particulates ,_Is_A_SuperTaxon_Of_,Ash
+Particulates ,_Is_A_SuperTaxon_Of_,Dust
+Particulates ,_Is_A_SuperTaxon_Of_,Pollen
+Particulates ,_Is_A_SuperTaxon_Of_,Smoke
+Particulates ,_Is_A_SuperTaxon_Of_,Spores
+Passage ,_Is_A_SubTaxon_Of_,Affordance
+Passage ,_Is_A_SuperTaxon_Of_,BoustroPassage
+Passage ,_Is_A_SuperTaxon_Of_,CircuitPassage
+Passage ,_Is_A_SuperTaxon_Of_,CircumventPassage
+Passage ,_Is_A_SuperTaxon_Of_,PerimeterPassage
+PebbleSoil ,_Is_A_SubTaxon_Of_,SoilSize
+Pedosfera ,_Is_A_SubTaxon_Of_,Ekosfera
+Pedosfera ,_Is_A_SuperTaxon_Of_,IceSoil
+Pedosfera ,_Is_A_SuperTaxon_Of_,MineralSoil
+Pedosfera ,_Is_A_SuperTaxon_Of_,SoilFiber
+Pedosfera ,_Is_A_SuperTaxon_Of_,SoilSize
+Pedosfera ,_Is_A_SuperTaxon_Of_,WetSoil
+Pendulate ,_Is_A_SubTaxon_Of_,Aktion
+Pentad ,_Is_A_SubTaxon_Of_,GraphTheory
+Pentagon ,_Is_A_SubTaxon_Of_,Polygon
+Perception ,_Is_A_SubTaxon_Of_,Cognition
+Performance ,_Is_A_SuperTaxon_Of_,Competition
+Performance ,_Is_A_SuperTaxon_Of_,Difficulty
+Performance ,_Is_A_SuperTaxon_Of_,Effectiveness
+Performance ,_Is_A_SuperTaxon_Of_,Error
+Performance ,_Is_A_SuperTaxon_Of_,Execution
+Performance ,_Is_A_SuperTaxon_Of_,Specs
+PerimeterLine ,_Is_A_SubTaxon_Of_,Line
+PerimeterPassage ,_Is_A_SubTaxon_Of_,Passage
+Physiology ,_Is_A_SuperTaxon_Of_,CoolDown
+Physiology ,_Is_A_SuperTaxon_Of_,Endurance
+Physiology ,_Is_A_SuperTaxon_Of_,InjuryPrevention
+Physiology ,_Is_A_SuperTaxon_Of_,Posture
+Physiology ,_Is_A_SuperTaxon_Of_,Strength
+Physiology ,_Is_A_SuperTaxon_Of_,Suppleness
+Physiology ,_Is_A_SuperTaxon_Of_,WarmUp
+Piece ,_Is_A_SubTaxon_Of_,Block
+Piece ,_Is_A_SubTaxon_Of_,Task
+PinkyFinger ,_Is_A_SubTaxon_Of_,Hand
+Plantafor ,_Is_A_SubTaxon_Of_,Tool
+PlotCord ,_Is_A_SubTaxon_Of_,Tool
+Pogo ,_Is_A_SubTaxon_Of_,Aktion
+Point ,_Is_A_SubTaxon_Of_,Geometry
+Point ,_Is_A_SuperTaxon_Of_,CenterPoint
+Point ,_Is_A_SuperTaxon_Of_,MidPoint
+Point ,_Is_A_SuperTaxon_Of_,ReferencePoint
+Point ,_Is_A_SuperTaxon_Of_,ReflectionPoint
+Point ,_Is_A_SuperTaxon_Of_,TargetPoint
+Point ,_Is_A_SuperTaxon_Of_,VertexPoint
+Poke ,_Is_A_SubTaxon_Of_,Aktion
+Pollen ,_Is_A_SubTaxon_Of_,Particulates
+Polygon ,_Is_A_SubTaxon_Of_,Shape
+Polygon ,_Is_A_SuperTaxon_Of_,Diamond
+Polygon ,_Is_A_SuperTaxon_Of_,Heptagon
+Polygon ,_Is_A_SuperTaxon_Of_,Hexagon
+Polygon ,_Is_A_SuperTaxon_Of_,Nonagon
+Polygon ,_Is_A_SuperTaxon_Of_,Octagon
+Polygon ,_Is_A_SuperTaxon_Of_,Pentagon
+Polygon ,_Is_A_SuperTaxon_Of_,Square
+Polygon ,_Is_A_SuperTaxon_Of_,Triangle
+Post ,_Is_A_SubTaxon_Of_,Aktion
+PostSeason ,_Is_A_SubTaxon_Of_,PreSeason
+Posture ,_Is_A_SubTaxon_Of_,Physiology
+Power ,_Is_A_SubTaxon_Of_,Dynamics
+PreSeason ,_Is_A_SubTaxon_Of_,Employment
+PreSeason ,_Is_A_SubTaxon_Of_,PreSeason
+PreSeason ,_Is_A_SuperTaxon_Of_,PostSeason
+PreSeason ,_Is_A_SuperTaxon_Of_,PreSeason
+Precipitation ,_Is_A_SubTaxon_Of_,Atmosfera
+Precipitation ,_Is_A_SuperTaxon_Of_,Fog
+Precipitation ,_Is_A_SuperTaxon_Of_,Hail
+Precipitation ,_Is_A_SuperTaxon_Of_,Rain
+Precipitation ,_Is_A_SuperTaxon_Of_,Snow
+Prep ,_Is_A_SubTaxon_Of_,Antroposfera
+Prep ,_Is_A_SuperTaxon_Of_,Megaskreef
+Prep ,_Is_A_SuperTaxon_Of_,Mound
+Prep ,_Is_A_SuperTaxon_Of_,Trench
+Preserve ,_Is_A_SubTaxon_Of_,Aktion
+PressureSense ,_Is_A_SubTaxon_Of_,Sense
+PrimingEase ,_Is_A_SubTaxon_Of_,CognitiveEase
+Probability ,_Is_A_SuperTaxon_Of_,Affordance
+Probability ,_Is_A_SuperTaxon_Of_,Constraint
+Probability ,_Is_A_SuperTaxon_Of_,Fortuna
+Probability ,_Is_A_SuperTaxon_Of_,Frequency
+Progress ,_Is_A_SubTaxon_Of_,Aktion
+PropositionalLogic ,_Is_A_SubTaxon_Of_,Logic
+Proprioception ,_Is_A_SubTaxon_Of_,Sense
+Protrakt ,_Is_A_SubTaxon_Of_,Aktion
+Pugno ,_Is_A_SubTaxon_Of_,Aktion
+Pull ,_Is_A_SubTaxon_Of_,Aktion
+Purga ,_Is_A_SubTaxon_Of_,Aktion
+Push ,_Is_A_SubTaxon_Of_,Aktion
+RadialBorder ,_Is_A_SubTaxon_Of_,Hand
+Radior ,_Is_A_SubTaxon_Of_,Armor
+Rain ,_Is_A_SubTaxon_Of_,Precipitation
+ReferencePoint ,_Is_A_SubTaxon_Of_,Point
+ReflectionPoint ,_Is_A_SubTaxon_Of_,Point
+Regress ,_Is_A_SubTaxon_Of_,Aktion
+RelativeDirection ,_Is_A_SubTaxon_Of_,Direction
+RelativeDirection ,_Is_A_SuperTaxon_Of_,Dilation
+RelativeDirection ,_Is_A_SuperTaxon_Of_,Extension
+RelativeDirection ,_Is_A_SuperTaxon_Of_,Flexion
+RepairKit ,_Is_A_SubTaxon_Of_,Kit
+RepetitionEase ,_Is_A_SubTaxon_Of_,CognitiveEase
+RestDay ,_Is_A_SubTaxon_Of_,Employment
+Retrakt ,_Is_A_SubTaxon_Of_,Aktion
+Ribs ,_Is_A_SubTaxon_Of_,Korpo
+RingFinger ,_Is_A_SubTaxon_Of_,Hand
+Rip ,_Is_A_SubTaxon_Of_,Aktion
+Ritmo ,_Is_A_SubTaxon_Of_,Time
+Road ,_Is_A_SubTaxon_Of_,Antroposfera
+RockCap ,_Is_A_SubTaxon_Of_,Litosfera
+Roll ,_Is_A_SubTaxon_Of_,Aktion
+Rope ,_Is_A_SubTaxon_Of_,Kit
+Rotate ,_Is_A_SubTaxon_Of_,Aktion
+RubbleSoil ,_Is_A_SubTaxon_Of_,SoilSize
+Run ,_Is_A_SubTaxon_Of_,Aktion
+Sadness ,_Is_A_SubTaxon_Of_,Emotion
+SandSoil ,_Is_A_SubTaxon_Of_,SoilSize
+Scapula ,_Is_A_SubTaxon_Of_,Arm
+Sense ,_Is_A_SuperTaxon_Of_,AuditorySense
+Sense ,_Is_A_SuperTaxon_Of_,PressureSense
+Sense ,_Is_A_SuperTaxon_Of_,Proprioception
+Sense ,_Is_A_SuperTaxon_Of_,TouchSense
+Shape ,_Is_A_SubTaxon_Of_,Geometry
+Shape ,_Is_A_SuperTaxon_Of_,Circle
+Shape ,_Is_A_SuperTaxon_Of_,Concave
+Shape ,_Is_A_SuperTaxon_Of_,Convex
+Shape ,_Is_A_SuperTaxon_Of_,Polygon
+Shell ,_Is_A_SubTaxon_Of_,Layer
+Shift ,_Is_A_SubTaxon_Of_,Employment
+ShortTermMemory ,_Is_A_SubTaxon_Of_,Memory
+ShortestPath ,_Is_A_SubTaxon_Of_,GraphTheory
+Shoulder ,_Is_A_SubTaxon_Of_,Arm
+SiltSoil ,_Is_A_SubTaxon_Of_,SoilSize
+Sit ,_Is_A_SubTaxon_Of_,Aktion
+Site ,_Is_A_SubTaxon_Of_,Affordance
+Site ,_Is_A_SuperTaxon_Of_,Landing
+SkidderTrail ,_Is_A_SubTaxon_Of_,Antroposfera
+Slam ,_Is_A_SubTaxon_Of_,Aktion
+Slap ,_Is_A_SubTaxon_Of_,Aktion
+Slash ,_Is_A_SubTaxon_Of_,Antroposfera
+Slash ,_Is_A_SuperTaxon_Of_,BurnPileSlash
+Slash ,_Is_A_SuperTaxon_Of_,HighSlash
+Slash ,_Is_A_SuperTaxon_Of_,LowSlash
+Slash ,_Is_A_SuperTaxon_Of_,Stickmat
+Slash ,_Is_A_SuperTaxon_Of_,WetSlash
+Sleep ,_Is_A_SubTaxon_Of_,Employment
+Slide ,_Is_A_SubTaxon_Of_,Aktion
+Slot ,_Is_A_SubTaxon_Of_,Aktion
+Smoke ,_Is_A_SubTaxon_Of_,Particulates
+Snap ,_Is_A_SubTaxon_Of_,Aktion
+Snow ,_Is_A_SubTaxon_Of_,Precipitation
+Sock ,_Is_A_SubTaxon_Of_,Bottoms
+SoilFiber ,_Is_A_SubTaxon_Of_,Pedosfera
+SoilFiber ,_Is_A_SuperTaxon_Of_,FibricSoil
+SoilFiber ,_Is_A_SuperTaxon_Of_,HumicSoil
+SoilFiber ,_Is_A_SuperTaxon_Of_,MesicSoil
+SoilFiber ,_Is_A_SuperTaxon_Of_,WoodySoil
+SoilSize ,_Is_A_SubTaxon_Of_,Pedosfera
+SoilSize ,_Is_A_SuperTaxon_Of_,ClaySoil
+SoilSize ,_Is_A_SuperTaxon_Of_,CobbleSoil
+SoilSize ,_Is_A_SuperTaxon_Of_,PebbleSoil
+SoilSize ,_Is_A_SuperTaxon_Of_,RubbleSoil
+SoilSize ,_Is_A_SuperTaxon_Of_,SandSoil
+SoilSize ,_Is_A_SuperTaxon_Of_,SiltSoil
+Spade ,_Is_A_SubTaxon_Of_,Tool
+Specs ,_Is_A_SubTaxon_Of_,Performance
+Speed ,_Is_A_SubTaxon_Of_,Kinematics
+Spike ,_Is_A_SubTaxon_Of_,Aktion
+Spine ,_Is_A_SubTaxon_Of_,Korpo
+SpiralLine ,_Is_A_SubTaxon_Of_,Line
+Spoon ,_Is_A_SubTaxon_Of_,FoodTool
+Spores ,_Is_A_SubTaxon_Of_,Particulates
+Square ,_Is_A_SubTaxon_Of_,Polygon
+Stack ,_Is_A_SubTaxon_Of_,Aktion
+StagnantWater ,_Is_A_SubTaxon_Of_,Hydrosfera
+Stall ,_Is_A_SubTaxon_Of_,Aktion
+Stand ,_Is_A_SubTaxon_Of_,Aktion
+Stickmat ,_Is_A_SubTaxon_Of_,Slash
+Stomp ,_Is_A_SubTaxon_Of_,Aktion
+StraightLine ,_Is_A_SubTaxon_Of_,Line
+Strategy ,_Is_A_SuperTaxon_Of_,Taktik
+Strength ,_Is_A_SubTaxon_Of_,Physiology
+Sun ,_Is_A_SubTaxon_Of_,Atmosfera
+SuperSpike ,_Is_A_SubTaxon_Of_,Aktion
+Suppleness ,_Is_A_SubTaxon_Of_,Physiology
+Syncopation ,_Is_A_SubTaxon_Of_,Time
+Taktik ,_Is_A_SubTaxon_Of_,Strategy
+Tangent ,_Is_A_SubTaxon_Of_,Aktion
+TargetPoint ,_Is_A_SubTaxon_Of_,Point
+Task ,_Is_A_SuperTaxon_Of_,Aktion
+Task ,_Is_A_SuperTaxon_Of_,Block
+Task ,_Is_A_SuperTaxon_Of_,Crop
+Task ,_Is_A_SuperTaxon_Of_,Piece
+Tempo ,_Is_A_SubTaxon_Of_,Time
+Tetrad ,_Is_A_SubTaxon_Of_,GraphTheory
+Texture ,_Is_A_SubTaxon_Of_,Klimon
+Thumb ,_Is_A_SubTaxon_Of_,Hand
+Tibia ,_Is_A_SubTaxon_Of_,Leg
+Tibior ,_Is_A_SubTaxon_Of_,Armor
+Time ,_Is_A_SuperTaxon_Of_,Duration
+Time ,_Is_A_SuperTaxon_Of_,Ritmo
+Time ,_Is_A_SuperTaxon_Of_,Syncopation
+Time ,_Is_A_SuperTaxon_Of_,Tempo
+Tool ,_Is_A_SuperTaxon_Of_,ATV
+Tool ,_Is_A_SuperTaxon_Of_,Box
+Tool ,_Is_A_SuperTaxon_Of_,Bundle
+Tool ,_Is_A_SuperTaxon_Of_,Dory
+Tool ,_Is_A_SuperTaxon_Of_,Karabiner
+Tool ,_Is_A_SuperTaxon_Of_,Kit
+Tool ,_Is_A_SuperTaxon_Of_,Plantafor
+Tool ,_Is_A_SuperTaxon_Of_,PlotCord
+Tool ,_Is_A_SuperTaxon_Of_,Spade
+Tops ,_Is_A_SubTaxon_Of_,Armor
+Tops ,_Is_A_SuperTaxon_Of_,InsulationTop
+Torque ,_Is_A_SubTaxon_Of_,Dynamics
+TouchSense ,_Is_A_SubTaxon_Of_,Sense
+Transit ,_Is_A_SubTaxon_Of_,Employment
+Transit ,_Is_A_SuperTaxon_Of_,Bus
+Transit ,_Is_A_SuperTaxon_Of_,Crummy
+Transit ,_Is_A_SuperTaxon_Of_,Truck
+Transit ,_Is_A_SuperTaxon_Of_,WalkIn
+Transit ,_Is_A_SuperTaxon_Of_,WalkOut
+Transport ,_Is_A_SubTaxon_Of_,Aktion
+Trapezius ,_Is_A_SubTaxon_Of_,Arm
+Trench ,_Is_A_SubTaxon_Of_,Prep
+Triad ,_Is_A_SubTaxon_Of_,GraphTheory
+Triangle ,_Is_A_SubTaxon_Of_,Polygon
+Triceps ,_Is_A_SubTaxon_Of_,Arm
+Trot ,_Is_A_SubTaxon_Of_,Aktion
+Truck ,_Is_A_SubTaxon_Of_,Transit
+Twist ,_Is_A_SubTaxon_Of_,Aktion
+Velcro ,_Is_A_SubTaxon_Of_,Fastener
+Velocity ,_Is_A_SubTaxon_Of_,Kinematics
+VertexPoint ,_Is_A_SubTaxon_Of_,Point
+WalkIn ,_Is_A_SubTaxon_Of_,Transit
+WalkOut ,_Is_A_SubTaxon_Of_,Transit
+WarmUp ,_Is_A_SubTaxon_Of_,Physiology
+Waste ,_Is_A_SubTaxon_Of_,Error
+Weave ,_Is_A_SubTaxon_Of_,Aktion
+WetSlash ,_Is_A_SubTaxon_Of_,Slash
+WetSoil ,_Is_A_SubTaxon_Of_,Pedosfera
+Wetness ,_Is_A_SubTaxon_Of_,Hydrosfera
+Whip ,_Is_A_SubTaxon_Of_,Aktion
+Wind ,_Is_A_SubTaxon_Of_,Atmosfera
+WoodySoil ,_Is_A_SubTaxon_Of_,SoilFiber
+Work ,_Is_A_SubTaxon_Of_,Dynamics
+Workday ,_Is_A_SubTaxon_Of_,Employment
+WorkingMemory ,_Is_A_SubTaxon_Of_,Memory
+Wrap ,_Is_A_SubTaxon_Of_,Aktion
+Wrist ,_Is_A_SubTaxon_Of_,Hand
+ZigzagLine ,_Is_A_SubTaxon_Of_,Line
+Zipper ,_Is_A_SubTaxon_Of_,Fastener
+Spade,_Has_The_Method_,Allos
+Spade,_Has_The_Method_,Ankor
+Spade,_Has_The_Method_,Ballista
+Line,_Has_The_Method_,Bisect
+Doff,_Is_A_Method_Of_,Boot
+Don,_Is_A_Method_Of_,Boot
+Mano,_Is_A_Method_Of_,Boot
+Preserve,_Is_A_Method_Of_,Boot
+Konstrukt,_Is_A_Method_Of_,Box
+Lift,_Is_A_Method_Of_,Box
+Lock,_Is_A_Method_Of_,Box
+Mano,_Is_A_Method_Of_,Box
+Slide,_Is_A_Method_Of_,Box
+Stack,_Is_A_Method_Of_,Box
+Transport,_Is_A_Method_Of_,Box
+Mano,_Is_A_Method_Of_,Bundle
+Unwrap,_Is_A_Method_Of_,Bundle
+Boot,_Has_The_Method_,Doff
+Glove,_Has_The_Method_,Doff
+Markum,_Has_The_Method_,Doff
+Plantafor,_Has_The_Method_,Doff
+Radior,_Has_The_Method_,Doff
+Tarp,_Has_The_Method_,Doff
+Tibior,_Has_The_Method_,Doff
+Boot,_Has_The_Method_,Don
+Glove,_Has_The_Method_,Don
+Plantafor,_Has_The_Method_,Don
+Radior,_Has_The_Method_,Don
+Tarp,_Has_The_Method_,Don
+Tibior,_Has_The_Method_,Don
+Plantafor,_Has_The_Method_,Drag
+Spade,_Has_The_Method_,Drag
+Mikrosite,_Has_The_Method_,Eval
+Doff,_Is_A_Method_Of_,Glove
+Don,_Is_A_Method_Of_,Glove
+Mano,_Is_A_Method_Of_,Glove
+Spade,_Has_The_Method_,Hook
+Mikrosite,_Has_The_Method_,Klose
+Layer,_Has_The_Method_,Knot
+Markum,_Has_The_Method_,Knot
+Rope,_Has_The_Method_,Knot
+Tarp,_Has_The_Method_,Kompakt
+Box,_Has_The_Method_,Konstrukt
+Knot,_Is_A_Method_Of_,Layer
+Preserve,_Is_A_Method_Of_,Layer
+Box,_Has_The_Method_,Lift
+Plantafor,_Has_The_Method_,Lift
+Bisect,_Is_A_Method_Of_,Line
+Markum,_Has_The_Method_,Load
+Plantafor,_Has_The_Method_,Load
+Box,_Has_The_Method_,Lock
+Boot,_Has_The_Method_,Mano
+Box,_Has_The_Method_,Mano
+Bundle,_Has_The_Method_,Mano
+Glove,_Has_The_Method_,Mano
+Markum,_Has_The_Method_,Mano
+Neon,_Has_The_Method_,Mano
+Spade,_Has_The_Method_,Mano
+Tibior,_Has_The_Method_,Mano
+Doff,_Is_A_Method_Of_,Markum
+Knot,_Is_A_Method_Of_,Markum
+Load,_Is_A_Method_Of_,Markum
+Mano,_Is_A_Method_Of_,Markum
+Rip,_Is_A_Method_Of_,Markum
+Roll,_Is_A_Method_Of_,Markum
+Eval,_Is_A_Method_Of_,Mikrosite
+Klose,_Is_A_Method_Of_,Mikrosite
+Plantafor,_Has_The_Method_,Modify
+Mano,_Is_A_Method_Of_,Neon
+Doff,_Is_A_Method_Of_,Plantafor
+Don,_Is_A_Method_Of_,Plantafor
+Drag,_Is_A_Method_Of_,Plantafor
+Lift,_Is_A_Method_Of_,Plantafor
+Load,_Is_A_Method_Of_,Plantafor
+Modify,_Is_A_Method_Of_,Plantafor
+Pop,_Is_A_Method_Of_,Plantafor
+Preserve,_Is_A_Method_Of_,Plantafor
+Transport,_Is_A_Method_Of_,Plantafor
+Plantafor,_Has_The_Method_,Pop
+Spade,_Has_The_Method_,Pop
+Spade,_Has_The_Method_,Post
+Boot,_Has_The_Method_,Preserve
+Layer,_Has_The_Method_,Preserve
+Plantafor,_Has_The_Method_,Preserve
+Radior,_Has_The_Method_,Preserve
+Spade,_Has_The_Method_,Preserve
+Tibior,_Has_The_Method_,Preserve
+Spade,_Has_The_Method_,Purga
+Doff,_Is_A_Method_Of_,Radior
+Don,_Is_A_Method_Of_,Radior
+Preserve,_Is_A_Method_Of_,Radior
+Tool,_Has_The_Method_,Repair
+Markum,_Has_The_Method_,Rip
+Markum,_Has_The_Method_,Roll
+Knot,_Is_A_Method_Of_,Rope
+Spade,_Has_The_Method_,Rotate
+Truck,_Has_The_Method_,Sit
+Box,_Has_The_Method_,Slide
+Allos,_Is_A_Method_Of_,Spade
+Ankor,_Is_A_Method_Of_,Spade
+Ballista,_Is_A_Method_Of_,Spade
+Drag,_Is_A_Method_Of_,Spade
+Hook,_Is_A_Method_Of_,Spade
+Mano,_Is_A_Method_Of_,Spade
+Pop,_Is_A_Method_Of_,Spade
+Post,_Is_A_Method_Of_,Spade
+Preserve,_Is_A_Method_Of_,Spade
+Purga,_Is_A_Method_Of_,Spade
+Rotate,_Is_A_Method_Of_,Spade
+Transport,_Is_A_Method_Of_,Spade
+Box,_Has_The_Method_,Stack
+Tab,_Has_The_Method_,Stomp
+Stomp,_Is_A_Method_Of_,Tab
+Doff,_Is_A_Method_Of_,Tarp
+Don,_Is_A_Method_Of_,Tarp
+Kompakt,_Is_A_Method_Of_,Tarp
+Doff,_Is_A_Method_Of_,Tibior
+Don,_Is_A_Method_Of_,Tibior
+Mano,_Is_A_Method_Of_,Tibior
+Preserve,_Is_A_Method_Of_,Tibior
+Repair,_Is_A_Method_Of_,Tool
+Box,_Has_The_Method_,Transport
+Plantafor,_Has_The_Method_,Transport
+Spade,_Has_The_Method_,Transport
+Sit,_Is_A_Method_Of_,Truck
+Bundle,_Has_The_Method_,Unwrap
+Allos ,_Is_A_Method_Of_,Spade
+Ankor ,_Is_A_Method_Of_,Spade
+Ballista ,_Is_A_Method_Of_,Spade
+Bisect ,_Is_A_Method_Of_,Line
+Boot ,_Has_The_Method_,Doff
+Boot ,_Has_The_Method_,Don
+Boot ,_Has_The_Method_,Mano
+Boot ,_Has_The_Method_,Preserve
+Box ,_Has_The_Method_,Konstrukt
+Box ,_Has_The_Method_,Lift
+Box ,_Has_The_Method_,Lock
+Box ,_Has_The_Method_,Mano
+Box ,_Has_The_Method_,Slide
+Box ,_Has_The_Method_,Stack
+Box ,_Has_The_Method_,Transport
+Bundle ,_Has_The_Method_,Mano
+Bundle ,_Has_The_Method_,Unwrap
+Doff ,_Is_A_Method_Of_,Boot
+Doff ,_Is_A_Method_Of_,Glove
+Doff ,_Is_A_Method_Of_,Markum
+Doff ,_Is_A_Method_Of_,Plantafor
+Doff ,_Is_A_Method_Of_,Radior
+Doff ,_Is_A_Method_Of_,Tarp
+Doff ,_Is_A_Method_Of_,Tibior
+Don ,_Is_A_Method_Of_,Boot
+Don ,_Is_A_Method_Of_,Glove
+Don ,_Is_A_Method_Of_,Plantafor
+Don ,_Is_A_Method_Of_,Radior
+Don ,_Is_A_Method_Of_,Tarp
+Don ,_Is_A_Method_Of_,Tibior
+Drag ,_Is_A_Method_Of_,Plantafor
+Drag ,_Is_A_Method_Of_,Spade
+Eval ,_Is_A_Method_Of_,Mikrosite
+Glove ,_Has_The_Method_,Doff
+Glove ,_Has_The_Method_,Don
+Glove ,_Has_The_Method_,Mano
+Hook ,_Is_A_Method_Of_,Spade
+Klose ,_Is_A_Method_Of_,Mikrosite
+Knot ,_Is_A_Method_Of_,Layer
+Knot ,_Is_A_Method_Of_,Markum
+Knot ,_Is_A_Method_Of_,Rope
+Kompakt ,_Is_A_Method_Of_,Tarp
+Konstrukt ,_Is_A_Method_Of_,Box
+Layer ,_Has_The_Method_,Knot
+Layer ,_Has_The_Method_,Preserve
+Lift ,_Is_A_Method_Of_,Box
+Lift ,_Is_A_Method_Of_,Plantafor
+Line ,_Has_The_Method_,Bisect
+Load ,_Is_A_Method_Of_,Markum
+Load ,_Is_A_Method_Of_,Plantafor
+Lock ,_Is_A_Method_Of_,Box
+Mano ,_Is_A_Method_Of_,Boot
+Mano ,_Is_A_Method_Of_,Box
+Mano ,_Is_A_Method_Of_,Bundle
+Mano ,_Is_A_Method_Of_,Glove
+Mano ,_Is_A_Method_Of_,Markum
+Mano ,_Is_A_Method_Of_,Neon
+Mano ,_Is_A_Method_Of_,Spade
+Mano ,_Is_A_Method_Of_,Tibior
+Markum ,_Has_The_Method_,Doff
+Markum ,_Has_The_Method_,Knot
+Markum ,_Has_The_Method_,Load
+Markum ,_Has_The_Method_,Mano
+Markum ,_Has_The_Method_,Rip
+Markum ,_Has_The_Method_,Roll
+Mikrosite ,_Has_The_Method_,Eval
+Mikrosite ,_Has_The_Method_,Klose
+Modify ,_Is_A_Method_Of_,Plantafor
+Neon ,_Has_The_Method_,Mano
+Plantafor ,_Has_The_Method_,Doff
+Plantafor ,_Has_The_Method_,Don
+Plantafor ,_Has_The_Method_,Drag
+Plantafor ,_Has_The_Method_,Lift
+Plantafor ,_Has_The_Method_,Load
+Plantafor ,_Has_The_Method_,Modify
+Plantafor ,_Has_The_Method_,Pop
+Plantafor ,_Has_The_Method_,Preserve
+Plantafor ,_Has_The_Method_,Transport
+Pop ,_Is_A_Method_Of_,Plantafor
+Pop ,_Is_A_Method_Of_,Spade
+Post ,_Is_A_Method_Of_,Spade
+Preserve ,_Is_A_Method_Of_,Boot
+Preserve ,_Is_A_Method_Of_,Layer
+Preserve ,_Is_A_Method_Of_,Plantafor
+Preserve ,_Is_A_Method_Of_,Radior
+Preserve ,_Is_A_Method_Of_,Spade
+Preserve ,_Is_A_Method_Of_,Tibior
+Purga ,_Is_A_Method_Of_,Spade
+Radior ,_Has_The_Method_,Doff
+Radior ,_Has_The_Method_,Don
+Radior ,_Has_The_Method_,Preserve
+Repair ,_Is_A_Method_Of_,Tool
+Rip ,_Is_A_Method_Of_,Markum
+Roll ,_Is_A_Method_Of_,Markum
+Rope ,_Has_The_Method_,Knot
+Rotate ,_Is_A_Method_Of_,Spade
+Sit ,_Is_A_Method_Of_,Truck
+Slide ,_Is_A_Method_Of_,Box
+Spade ,_Has_The_Method_,Allos
+Spade ,_Has_The_Method_,Ankor
+Spade ,_Has_The_Method_,Ballista
+Spade ,_Has_The_Method_,Drag
+Spade ,_Has_The_Method_,Hook
+Spade ,_Has_The_Method_,Mano
+Spade ,_Has_The_Method_,Pop
+Spade ,_Has_The_Method_,Post
+Spade ,_Has_The_Method_,Preserve
+Spade ,_Has_The_Method_,Purga
+Spade ,_Has_The_Method_,Rotate
+Spade ,_Has_The_Method_,Transport
+Stack ,_Is_A_Method_Of_,Box
+Stomp ,_Is_A_Method_Of_,Tab
+Tab ,_Has_The_Method_,Stomp
+Tarp ,_Has_The_Method_,Doff
+Tarp ,_Has_The_Method_,Don
+Tarp ,_Has_The_Method_,Kompakt
+Tibior ,_Has_The_Method_,Doff
+Tibior ,_Has_The_Method_,Don
+Tibior ,_Has_The_Method_,Mano
+Tibior ,_Has_The_Method_,Preserve
+Tool ,_Has_The_Method_,Repair
+Transport ,_Is_A_Method_Of_,Box
+Transport ,_Is_A_Method_Of_,Plantafor
+Transport ,_Is_A_Method_Of_,Spade
+Truck ,_Has_The_Method_,Sit
+Unwrap ,_Is_A_Method_Of_,Bundle
+Line,_Has_The_Attribute_,Displacement
+Displacement,_Is_An_Attribute_Of_,Line
+Displacement ,_Is_An_Attribute_Of_,Line
+Line ,_Has_The_Attribute_,Displacement
+Proximity,_Has_The_Possible_Variant_,Adaptive
+Proximity,_Has_The_Possible_Variant_,Fixed
+Rough,_Is_The_Possible_Variant_Of_,Litos
+Smooth,_Is_The_Possible_Variant_Of_,Litos
+Adaptive,_Is_The_Possible_Variant_Of_,Proximity
+Fixed,_Is_The_Possible_Variant_Of_,Proximity
+Litos,_Has_The_Possible_Variant_,Rough
+Litos,_Has_The_Possible_Variant_,Smooth
+Adaptive ,_Is_The_Possible_Variant_Of_,Proximity
+Fixed ,_Is_The_Possible_Variant_Of_,Proximity
+Litos ,_Has_The_Possible_Variant_,Rough
+Litos ,_Has_The_Possible_Variant_,Smooth
+Proximity ,_Has_The_Possible_Variant_,Adaptive
+Proximity ,_Has_The_Possible_Variant_,Fixed
+Rough ,_Is_The_Possible_Variant_Of_,Litos
+Smooth ,_Is_The_Possible_Variant_Of_,Litos
