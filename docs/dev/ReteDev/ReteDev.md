@@ -266,6 +266,12 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
 
 - Make all Links Bidirectional using a PythonScript
 
--
+- Elements are not Ante or Post, since Ante and Post are Time and elements can only access time as elements (members) of BETOMs
+    - RequiredAnte isn't the same as PossibleAnte
+        - <BB labor="Onda" via="Back"/> A foreswing requires a Backswing
+
+- Implications
+    - All Korpo Aktions also have arm, leg, spine as RequiredSomon
+    - Arm doesn't always imply Hand and visa versa, same with Leg and Foot
 
 :::
