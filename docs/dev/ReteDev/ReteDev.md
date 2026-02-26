@@ -140,7 +140,7 @@ Make the Relationships Phrases instead of just Names, to be more semantically pr
 
 #### Method
 
-> Plantafor,HasTheMethod,Don   
+> Plantafor,HasTheMethod,Don
 
 - IsAMethodOf
 - HasTheMethod
@@ -170,8 +170,11 @@ The SuperPart doesn't exist without SubPart
 
 taxonomy divides things into kinds (types/species) based on similarities, while partonomy divides a whole into its constituent parts (components). Taxonomies focus on is-a relationships (e.g., a car is-a vehicle), whereas partonomies focus on part-of relationships (e.g., a wheel is part-of a car).
 
-- IsASubTaxonOf (ChildOf)
-- IsASuperTaxonOf (ParentOf)
+- "_Is_A_SubTaxon_Of_", (ChildOf)
+- "_Is_A_SuperTaxon_Of_", (ParentOf)
+
+- "_Is_An_Ancestor_Of_","_Has_The_Ancestor_"
+- 
 
 #### ElementSequence
 
@@ -186,65 +189,47 @@ taxonomy divides things into kinds (types/species) based on similarities, while 
 
 ##### AnteElement
 
-- IsAnteAnimaOf
-- IsAnteMOTONOf
-- IsAnteBetaOf
-- IsAnteVionOf
-- IsAnteEkonOf
-- IsAnteLaborOf
+- "_Is_AnteAnima_Of_",
+- "_Is_AnteMoton_Of_",
+- "_Is_AnteVion_Of_",
+- "_Is_AnteEkon_Of_",
+- "_Is_AnteLabor_Of_",
 
 ##### PostElement
 
-- IsPostAnimaOf
-- IsPostMotonOf
-- IsPostVionOf
-- IsPostEkonOf
-- IsPostLaborOf
-- IsPostSomonOf
+- "_Is_A_PostAnima_Of_",
+- "_Is_A_PostMoton_Of_",
+- "_Is_A_PostVion_Of_",
+- "_Is_A_PostEkon_Of_",
+- "_Is_A_PostLabor_Of_",
+- "_Is_A_PostSomon_Of_",
 
-#### Relation to Other Faktor
+#### Possible Relation to Other Faktor
 
-- HasSomon
-- HasAnimon
-- HasMoton
-- HasVion
-- HasEkon
-- HasLabon
-
-- IsSomonOf
-- IsAnimonOf
-- IsMotonOf
-- IsVionOf
-- IsEkonOf
-- IsLabonOf
+- "_Is_A_Possible_Labon_Of_","_Has_The_Possible_Labon_",
+- "_Is_A_Possible_Somon_Of_","_Has_The_Possible_Somon_",
+- "_Is_A_Possible_Ekon_Of_","_Has_The_Possible_Ekon_",
+- "_Is_A_Possible_Vion_Of_","_Has_The_Possible_Vion_",
+- "_Is_A_Possible_Moton_Of_","_Has_The_Possible_Moton_",
+- "_Is_A_Possible_Animon_Of_","_Has_The_Possible_Animon_",
 
 #### Causality
 
-- IsInitiatorOf
-- IsErrorOf
-- IsResultOf
+- "_Is_A_Possible_Initiator_Of_","_Has_The_Possible_Initiator_"
+- "_Is_An_Error_Of_","_Has_The_Possible_Error_"
+- "_Is_A_Possible_Result_Of_","_Has_The_Possible_Result_"
 
 #### Modify ElementAttribute
 
-- IncreasesKratosOf
-- IncreasesTeknikOf
-- IncreasesKuboiOf
-- IncreasesFrekentiaOf
+- "_Increases_The_Kratos_Of_","_Kratos_Increased_By_"
+- "_Increases_The_Teknik_Of_","_Teknik_Increased_By_"
+- "_Increase_The_Kuboi_Of_","_Kuboi_Increased_By_"
+- "_Increases_The_Frekentia_Of_","_Frekentia_Increased_By_"
 
-- DecreasesKratosOf
-- DecreasesTeknikOf
-- DecreasesKuboiOf
-- DecreasesFrekentiaOf
-
-- KratosIncreasedBy
-- TeknikIncreasedBy
-- KuboiIncreasedBy
-- FrekentiaIncreasedBy
-
-- DecreasesKratosOf
-- DecreasesTeknikOf
-- DecreasesKuboiOf
-- DecreasesFrekentiaOf
+- "_Decreases_The_Kratos_Of_","_Kratos_Decreased_By_"
+- "_Decreases_The_Teknik_Of_","_Teknik_Decreased_By_"
+- "_Decreases_The_Kuboi_Of_","_Kuboi_Decreased_By_"
+- "_Decreases_The_Frekentia_Of_","_Frekentia_Decreased_By_"
 
 ## Rete_Taxa
 
