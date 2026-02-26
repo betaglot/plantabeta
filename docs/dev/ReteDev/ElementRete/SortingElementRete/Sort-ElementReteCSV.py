@@ -13,7 +13,7 @@ df = pd.read_csv(r'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\Curren
 no_duplicates = df.drop_duplicates()
 
 # Sort by 'Name' (ascending) and then by 'Age' (descending)
-df_sorted = no_duplicates.sort_values(by=['_In_', '_Relationship_', '_Out_', '_Description_', '_Dev_'])
+df_sorted = no_duplicates.sort_values(by=['_In_', '_Relationship_', '_Out_', '_Dev_'])
 
 # View the first few rows of the sorted DataFrame
 print(df_sorted.head())

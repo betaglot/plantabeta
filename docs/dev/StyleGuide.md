@@ -5,6 +5,29 @@ search: false
 
 <https://developers.google.com/style>
 
+## Typography
+
+### Capitalized words
+
+Do not capitalize the plural "s" suffix
+
+- BETAGLOT
+- BETA, BETAs
+- BETOM, BETOMs
+- LABOR
+- SOMA
+- EKOS
+- VIA
+- MOTOR
+- ANIMA
+
+- LABON, LABONs
+- SOMON, SOMONs
+- EKON, EKONs
+- VION, VIONs
+- MOTON, MOTONs
+- ANIMON, ANIMONs
+
 ## Mindset
 
 - Openness
@@ -189,7 +212,7 @@ Only the 🟠<span class="motor">Arm</span> object is prefixed with an ikon. Arm
 
 KlimBeta has its own Ikon too
 
-Betaglot too
+BETAGLOT too
 
 Custom Ikon
 

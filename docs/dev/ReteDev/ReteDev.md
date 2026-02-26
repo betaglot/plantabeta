@@ -74,7 +74,7 @@ source,relationshipType,target
 Most useful for inheritance.
 
 - If it seems like you're adding too much redundancy, then chill, RefinementRequiresExcess. You're nowhere near computing limits. Maybe once you get to a million rows, then you can worry about redundancy.
-    - The greatest danger of redundancy is corruption, where changes don't cascade out, ripple out. Things will change during dev. Betaglot hasn't stabilized yet
+    - The greatest danger of redundancy is corruption, where changes don't cascade out, ripple out. Things will change during dev. BETAGLOT hasn't stabilized yet
 
 - IsFaktor
 - HasLabon
@@ -95,7 +95,17 @@ Most useful for inheritance.
 
 ### RelationshipTypes
 
-#### Possible Aktion
+Make the Relationships Phrases instead of just Names, to be more semantically precise
+
+#### Possible
+
+- IsPossibleElementOf
+- HasPossibleElement
+
+#### Aktion
+
+- RequiresAktion
+- IsRequiredAktionOf
 
 - HasPossibleAktion
 - IsPossibleAktionOf
@@ -137,9 +147,15 @@ Most useful for inheritance.
 
 #### Partonomy
 
-> Hand isSubPartOf Mano
+::: danger
 
-> Leg isSubPartOf Stand
+SubParts must be of the same Faktor
+
+Leg is NOT a SubPart of Stand, Kryos IsSubPartOf Stand since Kryos and Stand are both LABONs
+
+:::
+
+> Hand isSubPartOf Mano
 
 - IsSubPartOf
 - IsSuperPartOf
@@ -270,8 +286,17 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
     - RequiredAnte isn't the same as PossibleAnte
         - <BB labor="Onda" via="Back"/> A foreswing requires a Backswing
 
+- CompletenessCheck
+
+- GraphCorruptionTest
+
 - Implications
     - All Korpo Aktions also have arm, leg, spine as RequiredSomon
     - Arm doesn't always imply Hand and visa versa, same with Leg and Foot
+    - Opposite Aktions have the same Somons
+        - Regress, Progress
+        - Flex, Extend
+        - Addukt, Abdukt
+        - Protrakt, Retrakt
 
 :::
