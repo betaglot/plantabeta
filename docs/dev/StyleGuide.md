@@ -11,7 +11,8 @@ search: false
 
 Do not capitalize the plural "s" suffix
 
-- BETAGLOT
+- ELEMENT, ELEMENTs
+- BETAGLOT, BETAGLOTs
 - BETA, BETAs
 - BETOM, BETOMs
 - LABOR

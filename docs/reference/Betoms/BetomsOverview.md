@@ -31,7 +31,8 @@ The order in which the elements of each group is listed is always the same:
     1. <span class="labor">Error</span>
     2. <span class="labor">Task</span>
         1. <span class="labor">Piece</span>
-        2. <span class="labor">Aktion</span>
+        2. <span class="labor">Crop</span>
+        3. <span class="labor">Aktion</span>
     3. <span class="labor">Tool</span>
     4. <span class="labor">Strategy</span>
     5. <span class="labor">Performance</span>

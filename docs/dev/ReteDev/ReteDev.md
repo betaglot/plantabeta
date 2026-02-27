@@ -95,6 +95,8 @@ Most useful for inheritance.
 
 ### RelationshipTypes
 
+#### BETOM To ELEMENT
+
 Make the Relationships Phrases instead of just Names, to be more semantically precise
 
 #### Possible
