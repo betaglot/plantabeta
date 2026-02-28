@@ -114,6 +114,8 @@ Make the Relationships Phrases instead of just Names, to be more semantically pr
 
 #### Requires
 
+Dependencies
+
 - "_Requires_The_Labon_","_Is_A_Labon_Required_By_"
 - "_Requires_The_Somon_","_Is_A_Somon_Required_By_"
 - "_Requires_The_Ekon_","_Is_An_Ekon_Required_By_"

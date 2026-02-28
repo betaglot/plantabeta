@@ -1,5 +1,4 @@
-_Origin_,_Relationship_,_Target_,_Dev_
-Aktion-Flora-Branch,_Has_Possible_
+_OriginBetom_,_Relationship_,_TargetBetom_,_Dev_
 Aktion-Flora,      
 Aktion-Hand,       
 Aktion-Head,       
@@ -67,7 +66,6 @@ Box-Transport,_Is_Possible_BetomPart_Of_,Cache-Box-Stack
 Box-Transport,_Is_Possible_BetomPart_Of_,Cache-Stock-Eval
 Box-Transport,_Is_Possible_BetomPart_Of_,Cache-Stock-Enumerate
 Box-Transport,_Is_Possible_BetomPart_Of_,Cache-Stock
-
 Branch-Audio,_During_The_Betom_,Defend-Arm-Branch
 Branch-Audio,_During_The_Betom_,Defend-Spade-Branch
 Branch-Audio,_During_The_Betom_,Defend-Tibior-Branch
@@ -76,11 +74,6 @@ Branch-Audio,_During_The_Betom_,Defend-Leg-Branch
 Branch-Audio,_During_The_Betom_,Snap-Branch
 Branch-Audio,_During_The_Betom_,Machete-Branch
 Branch-Audio,_During_The_Betom_,Slap-Branch
-Branch-Audio,_During_The_Betom_,
-Branch-Audio,_During_The_Betom_,
-Branch-Audio,_During_The_Betom_,
-Branch-Audio,_During_The_Betom_,
-Branch-Audio,_During_The_Betom_,
 Break-Time,_Has_The_Possible_SymBetom_,Eating
 Break-Time,_Has_The_Possible_SymBetom_,Drinking
 Break-Time,_Has_The_Possible_SymBetom_,Sleep

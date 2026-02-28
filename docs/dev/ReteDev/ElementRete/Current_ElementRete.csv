@@ -25,6 +25,8 @@ Adduction,_Is_Of_Faktor_,Via,
 Addukt,_Has_The_Possible_Somon_,Arm,
 Addukt,_Has_The_Possible_Somon_,Leg,
 Addukt,_Is_A_SubTaxon_Of_,Aktion,
+Addukt,_Requires_The_Vion_,Adduction
+Abdukt,_Requires_The_Vion_,Abduction
 Addukt,_Is_Of_Faktor_,Labor,
 Addukt ,_Has_The_Possible_Somon_,Arm,
 Addukt ,_Has_The_Possible_Somon_,Leg,
@@ -2377,7 +2379,6 @@ ZigzagLine,_Is_A_SubTaxon_Of_,Line,
 ZigzagLine,_Is_Of_Faktor_,Via,
 Zipper,_Is_A_SubTaxon_Of_,Fastener,
 Zipper,_Is_Of_Faktor_,Labor,
-_In_,_Relationship_,_Out_,_Dev_
 Neon,_Requires_The_Labon_,Mikrosite
 Neon,_Has_Possible_Aktion_,Mano
 Crop,_Has_The_Possible_Vion_,Mikrosite
