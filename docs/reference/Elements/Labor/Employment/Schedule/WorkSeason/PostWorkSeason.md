@@ -2,11 +2,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Professionalism"
+let elementName = "PostWorkSeason"
 
 </script>
 
-# ⭐<span class="labor">Professionalism</span>
+# ⭐<span class="labor">PostSeason</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -22,6 +22,5 @@ let elementName = "Professionalism"
 ::: details &
 
 -
-- Professionalism: Leave nothing to chance
 
 :::

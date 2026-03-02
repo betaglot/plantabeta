@@ -10,35 +10,35 @@ search: false
 <!-- Show don't Tell -->
 
 1. Don't tie your flag around anything
-    - <BB labor='Markum'soma=''ekos=''via=''motor=''anima='Error'/>
+    <!-- - <BB labor='Markum'soma=''ekos=''via=''motor=''anima='Error'/> -->
 1. Double knotting your laces prevents them from unting by themselves
-    - <BB labor='Boot'soma=''ekos=''via=''motor='Knot'anima=''/>
+    <!-- - <BB labor='Boot'soma=''ekos=''via=''motor='Knot'anima=''/> -->
 1. Having your forearm horizontal
-    - <BB labor='Spade'soma=''ekos='Skreef'via=''motor='Skim'anima=''/>
+    <!-- - <BB labor='Spade'soma=''ekos='Skreef'via=''motor='Skim'anima=''/> -->
 1. Drop yout hips when Slamming your spade into the ground to maximize force
-    - <BB labor='Spade'soma=''ekos=''via=''motor='Slam'anima=''/>
+    <!-- - <BB labor='Spade'soma=''ekos=''via=''motor='Slam'anima=''/> -->
 1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and
-    - <BB labor='Spade'soma=''ekos=''via='Perpendicular'motor='Slam'anima=''/>
+    <!-- - <BB labor='Spade'soma=''ekos=''via='Perpendicular'motor='Slam'anima=''/> -->
 1. don't allow your knees to cave in (called Valgus Knees)
-    - <BB labor=''soma=''ekos=''via=''motor='BasePosture'anima='Health'/>
-1. don't Lateral screef. Only foot screef forward and back
-    - <BB labor='Boot'soma=''ekos='Skreef'via=''motor='MOTON'anima=''/>
+    <!-- - <BB labor=''soma=''ekos=''via=''motor='BasePosture'anima='Health'/> -->
+1. don't Lateral skreef. Only foot skreef forward and back
+    <!-- - <BB labor='Boot'soma=''ekos='Skreef'via=''motor='MOTON'anima=''/> -->
 1. have an extra clothing Layer in backbag at all times
-    - <BB labor='(RainLayer,Bags)'soma=''ekos=''via=''motor=''anima=''/>
+    <!-- - <BB labor='(RainLayer,Bags)'soma=''ekos=''via=''motor=''anima=''/> -->
 1. plant Triangles in raw
-    - <BB labor=''soma=''ekos=''via='Triads'motor=''anima=''/>
+    <!-- - <BB labor=''soma=''ekos=''via='Triads'motor=''anima=''/> -->
 1. Kneel while bagging up, everything should be within arms reach
-    - <BB labor='BagUp'soma=''ekos=''via=''motor='Kneel'anima=''/>
-1. no screefing in trenches
-    - <BB labor=''soma=''ekos='Skreef'via=''motor=''anima='NOT'/>
+    <!-- - <BB labor='BagUp'soma=''ekos=''via=''motor='Kneel'anima=''/> -->
+1. no skreefing in trenches
+    <!-- - <BB labor=''soma=''ekos='Skreef'via=''motor=''anima='NOT'/> -->
 1. always have a tree in your hand
-    - <BB labor=''soma=''ekos='Tree'via=''motor='Grip'anima='Habit'/>
+    <!-- - <BB labor=''soma=''ekos='Tree'via=''motor='Grip'anima='Habit'/> -->
 1. vertical holes
-    - <BB labor='Spade'soma=''ekos=''via='Vertical'motor='Slam'anima=''/>
+    <!-- - <BB labor='Spade'soma=''ekos=''via='Vertical'motor='Slam'anima=''/> -->
 1. fingers at the bottom of the root pod when inserting tree
 1. Drop yout hips when Slamming your spade into the ground to maximize force
 1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and
-1. don't Lateral screef. Only foot screef forward and back
+1. don't Lateral skreef. Only foot skreef forward and back
 1. have an extra clothing Layer in backbag at all times
 1. plant Triangles in raw
 1. kneel while bagging up and put the bundles you're bagging up as close as possible, so you don't need to reach far

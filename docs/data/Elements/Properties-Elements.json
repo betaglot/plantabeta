@@ -1,4 +1,169 @@
 {
+    "Production": {
+    "elementEnglishName": "Production",
+    "elementFaktor": "Labor",
+    "elementID": "",
+    "elementTaxonomy": ["Labor","Employment","Production"],
+    "elementAlias": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    },
+    "dev" : [""]
+    },
+    "Professionalism": {
+        "elementEnglishName": "Professionalism",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Professionalism"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Shift": {
+        "elementEnglishName": "Shift",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Schedule",
+            "Shift"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "PreWorkSeason": {
+        "elementEnglishName": "PreSeason",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Schedule",
+            "WorkSeason",
+            "PreWorkSeason"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "PostWorkSeason": {
+        "elementEnglishName": "PostSeason",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Schedule",
+            "WorkSeason",
+            "PostWorkSeason"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "WorkSeason": {
+        "elementEnglishName": "Work Season",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Schedule",
+            "WorkSeason"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Employment": {
+        "elementEnglishName": "Employment",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment"
+        ],
+        "elementAlias": [
+            "the job",
+            "occupation",
+            "profession",
+            "work"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "ComputationalGeometry": {
         "elementEnglishName": "Computational Geometry",
         "elementFaktor": "Via",
@@ -2761,6 +2926,7 @@
         "elementTaxonomy": [
             "Labor",
             "Employment",
+            "Schedule",
             "RestDay"
         ],
         "elementAlias": [

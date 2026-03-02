@@ -9,7 +9,7 @@
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatKlimBeta/Overview#what-is-klimbeta"
+                           href="/guide/WhatPlantaBeta/Overview#what-is-plantabeta"
                            rounded="xl"
                            size="x-large"
                            block>
@@ -21,7 +21,7 @@
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatKlimBeta/WhatKlimBeta-Betaglot"
+                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Betaglot"
                            rounded="xl"
                            size="x-large"
                            block>
@@ -35,7 +35,7 @@
             <v-row>
                 <v-col>
                     <v-btn class="text-none "
-                           href="/guide/WhatKlimBeta/WhatKlimBeta-Function"
+                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Function"
                            height="80"
                            rounded="xl"
                            size="x-large"

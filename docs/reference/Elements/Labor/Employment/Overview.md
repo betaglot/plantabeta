@@ -1,12 +1,11 @@
-
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "PostSeason"
+let elementName = "Employment"
 
 </script>
 
-# ⭐<span class="labor">PostSeason</span>
+# ⭐<span class="labor">Employment</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

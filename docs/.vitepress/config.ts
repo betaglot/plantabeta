@@ -174,7 +174,7 @@ function sidebarGuide() {
         { text: '<span class="labor">Instructor</span>', link: '/guide/WhoPlantaBeta/Instructor' }
       ]
     },
-    { text: 'Go to Examples', link: '/examples/ExampleOverview' },
+    { text: 'Go to Examples', link: '/examples/ExamplesOverview' },
   ]
 }
 // About
@@ -191,29 +191,38 @@ function sidebarElements() {
     {
       text: '⭐<span class="labor">LABOR</span>',
       collapsed: true,
+      link: '/reference/Elements/Labor/LaborOverview',
       items: [
         {
-          text: '<span class="labor">Employment</span>', link: '/reference/Elements/Labor/Employment/Overview', collapsed: true, items: [
-            { text: '<span class="labor">RestDay</span>', link: '/reference/Elements/Labor/Employment/RestDay' },
+          text: '⭐<span class="labor">Employment</span>', link: '/reference/Elements/Labor/Employment/Overview', collapsed: true, items: [
             {
-              text: '<span class="labor">Season</span>', link: '/reference/Elements/Labor/Employment/Season', collapsed: true, items: [
-                { text: '<span class="labor">PreSeason</span>', link: '/reference/Elements/Labor/Employment/Season/PreSeason' },
-                { text: '<span class="labor">PostSeason</span>', link: '/reference/Elements/Labor/Employment/Season/PostSeason' },
+              text: '<span class="labor">Schedule</span>', collapsed: true, items: [
+                { text: '<span class="labor">RestDay</span>', link: '/reference/Elements/Labor/Employment/Schedule/RestDay/Overview' },
 
+                {
+                  text: '<span class="labor">Season</span>', link: '/reference/Elements/Labor/Employment/Schedule/WorkSeason/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">PreSeason</span>', link: '/reference/Elements/Labor/Employment/Schedule/WorkSeason/PreWorkSeason' },
+                    { text: '<span class="labor">PostSeason</span>', link: '/reference/Elements/Labor/Employment/Schedule/WorkSeason/PostWorkSeason' },
+
+                  ]
+                },
+                { text: '<span class="labor">Shift</span>', link: '/reference/Elements/Labor/Employment/Schedule/Shift/Overview' },
+                { text: '<span class="labor">Sleep</span>', link: '/reference/Elements/Labor/Employment/Schedule/Sleep/Overview' },
+                {
+                  text: '<span class="labor">Transit</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Bus</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/Bus' },
+                    { text: '<span class="labor">Crummy</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/Crummy' },
+                    { text: '<span class="labor">Truck</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/Truck' },
+                    { text: '<span class="labor">WalkIn</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/WalkIn' },
+                    { text: '<span class="labor">WalkOut</span>', link: '/reference/Elements/Labor/Employment/Schedule/Transit/WalkOut' },
+                  ]
+                },
+                { text: '<span class="labor">Workday</span>', link: '/reference/Elements/Labor/Employment/Schedule/Workday/Overview' },
               ]
             },
-            { text: '<span class="labor">Shift</span>', link: '/reference/Elements/Labor/Employment/Shift' },
-            { text: '<span class="labor">Sleep</span>', link: '/reference/Elements/Labor/Employment/Sleep' },
-            {
-              text: '<span class="labor">Transit</span>', link: '/reference/Elements/Labor/Employment/Transit', collapsed: true, items: [
-                { text: '<span class="labor">Bus</span>', link: '/reference/Elements/Labor/Employment/Transit/Bus' },
-                { text: '<span class="labor">Crummy</span>', link: '/reference/Elements/Labor/Employment/Transit/Crummy' },
-                { text: '<span class="labor">Truck</span>', link: '/reference/Elements/Labor/Employment/Transit/Truck' },
-                { text: '<span class="labor">WalkIn</span>', link: '/reference/Elements/Labor/Employment/Transit/WalkIn' },
-                { text: '<span class="labor">WalkOut</span>', link: '/reference/Elements/Labor/Employment/Transit/WalkOut' },
-              ]
-            },
-            { text: '<span class="labor">Workday</span>', link: '/reference/Elements/Labor/Employment/Workday' },
+            { text: '<span class="labor">Production</span>', link: '/reference/Elements/Labor/Employment/Production/Overview' },
+            { text: '<span class="labor">Professionalism</span>', link: '/reference/Elements/Labor/Employment/Professionalism/Overview' },
+            { text: '<span class="labor">Replant</span>', link: '/reference/Elements/Labor/Employment/Replant/Overview' },
           ]
         },
         {
@@ -221,17 +230,18 @@ function sidebarElements() {
             {
               text: '<span class="labor">Crop</span>', link: '/reference/Elements/Labor/Task/Crop/Overview', collapsed: true, items: [
                 {
-                  text: '<span class="labor">Neon</span>', link: '/reference/Elements/Labor/Task/Crop/Neon', collapsed: true, items: [
+                  text: '<span class="labor">Neon</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Overview', collapsed: true, items: [
                     {
                       text: '<span class="labor">Specs</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs', collapsed: true, items: [
-                        { text: '<span class="labor">Makrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Makrosite/Overview' },
-                        {
-                          text: '<span class="labor">Mikrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Mikrosite/Overview', collapsed: true, items: [
-                            { text: '<span class="labor">Protektor</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Mikrosite/Overview' },
-                          ]
-                        },
+                        
                       ]
                     },
+                    { text: '<span class="labor">Makrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Makrosite/Overview' },
+                        {
+                          text: '<span class="labor">Mikrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Mikrosite/Overview', collapsed: true, items: [
+                            { text: '<span class="labor">Protektor</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Mikrosite/Protektor/Overview' },
+                          ]
+                        },
                   ]
                 },
                 { text: '<span class="labor">Paleon</span>', link: '/reference/Elements/Labor/Task/Crop/Paleon/Overview', collapsed: true, items: [] },
@@ -926,7 +936,7 @@ function sidebarTutorial() {
 // Examples
 function sidebarExamples() {
   return [
-    { text: 'Examples Overview', link: '/examples/ExampleOverview' },
+    { text: 'Examples Overview', link: '/examples/ExamplesOverview' },
     { text: 'Planter Questions', link: '/examples/PlanterQuestions' },
     { text: '2k of Beta', link: '/examples/2kBeta' },
   ]
