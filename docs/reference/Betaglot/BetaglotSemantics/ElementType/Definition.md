@@ -1,8 +1,4 @@
----
-search: false
----
-
-# <span class="beta">BETAGLOT</span>Dev (Scientific Method)
+# ElementType: Definition
 
 ---
 
@@ -13,7 +9,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Record the extremities
-- Find the exceptions
+- Defined by Counterexample
+    - Negative Definition
+    - Defined by what it's not
 
 :::

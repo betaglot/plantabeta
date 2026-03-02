@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "GraphTheory"
+let elementName = "Predikt"
 
 </script>
 
-# 🔻<span class="via">Graph Theory</span>
+# ⭐<span class="labor">Predikt</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,7 +20,6 @@ let elementName = "GraphTheory"
 <!-- =================================================== -->
 ::: details &
 
-- Discontinuous Graph
-    - relationships don't need to be adjacent
+- Erratic
 
 :::

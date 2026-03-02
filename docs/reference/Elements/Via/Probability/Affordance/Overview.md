@@ -20,6 +20,8 @@ let elementName = "Affordance"
 <!-- =================================================== -->
 ::: details &
 
+- Susceptible describes being easily influenced, affected, or harmed by something, such as a disease, emotion, or external influence
+
 > An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used
 ---
 > For aspect of an object's appearance that suggests what you can to do it, such as it's liftability, squeezeability, plantability
@@ -137,7 +139,6 @@ Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 - It looks like I can step on that log
 
 A relationship between the attributes of an Econ and the capabilities of the Planter that determine how the Econ could possibly be used
-
 
 - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better
 

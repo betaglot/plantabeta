@@ -1,7 +1,6 @@
----
-search: false
----
-# BetaSequence [ ]
+# <span class="labor">Production</span>
+
+> The amount of Trees that you planted and the amount of Land that has been Kompleted.
 
 ---
 
@@ -10,10 +9,9 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
-- DataStructure
-    - Indexed List
-    - Array
+- Semantics(Counterproductive == Countereffective)
 
 :::
+ T

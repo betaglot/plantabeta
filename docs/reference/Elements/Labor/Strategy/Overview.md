@@ -9,8 +9,17 @@
 <!-- =================================================== -->
 ::: details &
 
+- SurvivalStrategy
+
+- FeedbackLoop
+    - a process where the output of a system is circled back and used as input, influencing future operations, behavior, or decisions.
+    - PositiveFeedback
+        - Creates more of the phenomenon
+    - NegativeFeedback
+        - Creates less of the phenomenon
+
 - Strategy to Keep Warm on cold days
-- Strategy to stay hyrdated
+- Strategy to stay hydrated
     - Taktik: WaterTimer
         - Aktion: Drink Water
             - Tool: Bottle, (Watch OR Phone)

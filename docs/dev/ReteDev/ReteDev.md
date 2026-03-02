@@ -6,6 +6,26 @@ search: false
 
 > Networks are graphs where the vertices and edges have attributes
 
+## Why Rete?
+
+- To derive principles
+    - an underlying principle is required to create complex patterns because there are too many combinations to yield a principle from trial and error in a reasonable amount of time.
+    - principles are not directly observable, they are abstract
+    - Principles can apply to more than one pattern
+    - Knowledge is the weaving of many principles together, overlapping principles gives flexibility, adaptability since you have more options to vary. You vary (along, through) principles.
+- To show Patterns
+    - Patterns of similarity
+        - irregularity
+    - systematic knowledge derived from patterns, but patterns that connect the facts
+        - Periodic Table
+        - Repeating Pattern
+    - patterns can have exceptions and variations
+    - patterns have predictive power
+        - know what to expect
+        - the sun will rise
+        - shannon- only send information which can't be predicted. Most of a planter's day can be predicted. Showing what isn't predictable is where experience applies. Minimize the cognition load of stuff that doesn't need to be thought of, because you can predict.
+            - PlantaBeta Example: You know where to go for the next mikrosite, the only thing you need to think about is Mikrosite.Eval, you don't know what the soil will be like, but you know what soil to look at.
+
 ## Graph Theory
 
 - Cycle

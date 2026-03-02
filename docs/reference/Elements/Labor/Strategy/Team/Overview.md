@@ -20,6 +20,11 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
+- When Planting in a piece which has already been partially planted
+    - Reconstruction
+        - Reconstruct what their plan and strategy were.
+        - What were they doing here?
+
 - Via Merge into Follow
     - PlantingSynergy
     - After going around different sides of a residual patch then merging back together
@@ -30,7 +35,6 @@ let elementName = "Team"
     - Crossing the street because you someone else start to move. Intention.mimik
 
 - Pacer is easier than teacher
-
 
 - TeamBeta
     - Leader

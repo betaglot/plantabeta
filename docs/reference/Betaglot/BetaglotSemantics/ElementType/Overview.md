@@ -11,13 +11,13 @@ A method can be a Problem
 - 🌈<span class="beta">BETOM</span>
 - ⭐<span class="labor">LABOR</span>
 - 🟩<span class="ekos">EKON</span>
-- 🔻<span class="via">VIUM</span>
+- 🔻<span class="via">VION</span>
 - 🟠<span class="motor">MOTON</span>
 - 💜<span class="anima">ANIMA</span>
 
 ## Taxonomy of Elements
 
-- Simbols
+- Symbols
     - The methods of symbols connect symbols to another
     - The methods of symbols is their semantics
 - Axioms
@@ -71,5 +71,6 @@ There are no duplicate Elements
 ::: details &
 
 - Elements aren't Units
+-
 
 :::

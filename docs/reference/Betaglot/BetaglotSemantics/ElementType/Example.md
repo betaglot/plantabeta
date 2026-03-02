@@ -1,15 +1,12 @@
-<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Passage"
+# Example of Elements: HeelHook
 
-</script>
+## Description
 
-# 🔻<span class="via">Passage</span>
+## Attributes
 
-<ElementTaxonomy :elementName="elementName" />
+## Methods
 
-<ElementInfo :elementName=elementName />
+## Instance
 
 ---
 
@@ -20,6 +17,7 @@ let elementName = "Passage"
 <!-- =================================================== -->
 ::: details &
 
-- Detour
+- Counterexample
+    - When NOT to do something
 
 :::

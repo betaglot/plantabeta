@@ -50,3 +50,17 @@ Button to wrap element which is already input or open an empty array for sequenc
 ## Output
 
 Output the betaglyf string along the bottom, but store as an object
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- Positional Notation
+-
+
+:::
