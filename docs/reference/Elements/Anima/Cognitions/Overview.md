@@ -21,6 +21,7 @@ let elementName = "Cognition"
 <!-- =================================================== -->
 ::: details &
 
+- RookieFreeze is more apt than rookieStare
 -
 
 :::

@@ -20,7 +20,8 @@ let elementName = "Stump"
 <!-- =================================================== -->
 ::: details &
 
--
+- Use stump as step on steep slopes
+
 - Octopus Stump
 
 :::

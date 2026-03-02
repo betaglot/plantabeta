@@ -17,6 +17,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Branch rope burn <BB labor="Slide" soma="Hand" ekos="Branch" via="Longitudinal" motor="" anima=""/>
+
 - BranchMano
     - When the Branch is small diameter, you can use your use your thumb to oppose your fingers, instead of using your palm
     - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger

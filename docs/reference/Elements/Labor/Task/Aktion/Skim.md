@@ -20,6 +20,8 @@ let elementName = "Slam"
 <!-- =================================================== -->
 ::: details &
 
+- Vertical Blade Skim in constrained area
+
 - Rotate blade to perpendicular to cut roots during skim
     - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt
 

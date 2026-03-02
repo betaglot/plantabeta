@@ -60,6 +60,12 @@ let elementName = "Team"
 - The probability of piece pinch increases proportional to Planter count
 - Maintain a couple trees buffer between Planters
 
+- Planters who have different Speeds
+    - Overtake
+        - Faster Planter passes Slower Planter
+        - PassedPlanter (Passed Pawn) is when there is no Teammate between you and the PieceApogee
+        - Speed up or slow down to allow passing, like driving on a highway
+
 - Teammate
 - Teamwork
 - Team player

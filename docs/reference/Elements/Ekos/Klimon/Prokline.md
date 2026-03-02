@@ -21,5 +21,6 @@ let elementName = "Prokline"
 ::: details &
 
 -
+- Use stump as step on steep slopes
 
 :::

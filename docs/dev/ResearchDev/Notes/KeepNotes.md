@@ -86,37 +86,37 @@ search: false
 - Tension when backswing
 <!-- - Accusations while replanting a cattle plant -->
 - Elevation instead of level
-- Low D in the flat high d in the slope
-- AreaPlant the cul-de-sac
+<!-- - Low D in the flat high d in the slope -->
+<!-- - AreaPlant the cul-de-sac -->
 - Overtake Pass
-- Pull a bit more out with SpadeHand after ripping with TreeHand
+<!-- - Flagging Pull a bit more out with SpadeHand after ripping with TreeHand -->
 <!-- - Maintain a couple trees buffer between Planters -->
 <!-- - PlantaforCarry: One Shoulder strap when one side is empty -->
 <!-- - Fireweed MarkumSite -->
 <!-- - Defined Leader in trenches -->
-- ManoSkreef before BootKlose, but after NeonInsert
+<!-- - ManoSkreef before BootKlose, but after NeonInsert -->
 <!-- - Soil so soft that the blade goes in a stays by itself when dropped from a given height -->
-- Trench DeadEnds
+<!-- - Trench DeadEnds -->
 <!-- - Ting your Spade to get someone's attention -->
 <!-- - Rekky -->
-- RookieFreeze is more apt than rookieStare
+<!-- - RookieFreeze is more apt than rookieStare -->
 <!-- - U instead of O Grip GentleGrip SpadeGrip -->
-- Where to buy a hook needle for Asolo heel panel
+<!-- - Where to buy a hook needle for Asolo heel panel -->
 - Deep enough neons are less floppy
 - Vertical Blade in constrained area
 <!-- - Repeat pry to get under a big chunk of redrot or other low density duff worm -->
 - Email Jared to build planter confidence
 <!-- - PlotKord Coil -->
-- Use stump as step on steep slopes
-- Counting steps us a crutch for spacing and ultimately density
+<!-- - Use stump as step on steep slopes -->
+<!-- - Counting steps us a crutch for spacing and ultimately density -->
 <!-- - Steadicam is Gimbal -->
-- Via: pitch yaw roll
+<!-- - Via: pitch yaw roll -->
 - Teorem: On a slope there shouldn't be trees below you
 - Teorem to know if you're ghost lining
 - Seek out good teachers to learn the practice of teaching
 <!-- - ClusterPlanting within Plots -->
-- Morning meeting: Circle crowd is not ideal
-- Bonus Tree stumped trees don't count in  plots
+<!-- - Morning meeting: Circle crowd is not ideal -->
+<!-- - Bonus Tree stumped trees don't count in  plots -->
 - Dot instead of point in glyphs
 <!-- - SpadeSkreef isn't a move -->
 <!-- - It seems like you view me negatively -->
@@ -127,14 +127,14 @@ search: false
 - VillaBeta
 - Day Off Map of Penticton
 - Ask Guides agac? Of Canada about Layering and other Beta
-- BootFender
+<!-- - BootFender -->
 <!-- - BlueWax -->
-- Rugby Goose Step
-- Send PaperTowel company a message about Markums
+<!-- - Rugby Goose Step -->
+<!-- - Send PaperTowel company a message about Markums -->
 - Constrain PlantaBeta to students
 - Grant
 - Add japanese crowd walk to via overview
-- Ferrous weighted markum allows magnetic storage
+<!-- - Ferrous weighted markum allows magnetic storage -->
 - Calendar for motel
 <!-- - Gray honey paint tryptic at NAG -->
 - Norah isochrone
@@ -142,15 +142,15 @@ search: false
 - are you interested in Beta testing PlantaBeta?
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 - Unit instead of team
-- You have the money for PlantaforDev
+<!-- - You have the money for PlantaforDev -->
 - Via: Hold the door open for someone anterior posterior lateral relative to you
 <!-- - Stomp for boot purga -->
 - SetUp a job for September
 - Find a Canadian Mossy Earth
-- Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind
-- Labor of love
+<!-- - Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind -->
+<!-- - Labor of love -->
 - Tree planter dance meme for Shorts
-- Voronoi are mosaics
+<!-- - Voronoi are mosaics -->
 - Sift
 <!-- - Krampon Aktion requires rigid BootSole -->
 - Use protein powder jar for nut mix
@@ -159,15 +159,15 @@ search: false
 - Planters carry spray can
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
 <!-- - Coffee filters don't fall apart when wet, neither do napkins -->
-- Truckers hitch for quad
+<!-- - Truckers hitch for quad -->
 <!-- - Delta is chance and via and a greek triangle letter -->
-- Via: get through before the door closes
+<!-- - Via: get through before the door closes -->
 <!-- - When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting -->
 - Shade is a Shadow large enough to sit in
 <!-- - Soccer ball control is flora move -->
 <!-- - BirchBark Marka dyed -->
 <!-- - KickerPlate is the Hilt of a Spade -->
-- Branch rope burn
+<!-- - Branch rope burn -->
 - Slink
 - Sfagnum
 - Ekon: Dihedral
@@ -183,7 +183,7 @@ search: false
 - Axiom: Gravity
 - PlantaBeta: A video game that's designed to be not fun
 - Clay Plantafor Sculpture
-- ShoeResole without glue
+<!-- - ShoeResole without glue -->
 - Morning Meditation
 - Shoot the wire from the fully deployed skidder crane tree delivery zipline
 - The "nothing" landscape of up North is the place that absorbs humanity's carbon
@@ -194,12 +194,12 @@ search: false
 - Gyro Gyrate
 - Stance
 - AtClimbingGym Reset for Quastuco demo
-- Maybe painting the paper with nontoxic blue paint will be easier.
+<!-- - Maybe painting the paper with nontoxic blue paint will be easier. -->
 <!-- - Pacer is easier than teacher -->
 - Div ToVia
 <!-- - Piece to Labor -->
 <!-- - throw your spade over a high obstacle first, so you can use two hands to climb -->
-- Drink when you're not thirsty and stop eating while you're still hungry
+<!-- - Drink when you're not thirsty and stop eating while you're still hungry -->
 <!-- - Master != Elite   -->
 - MechanicalDryer
 <!-- - Crossing the street because you someone else start to move. Intention.mimik -->
@@ -209,7 +209,7 @@ search: false
 - Certified that they completed Kendra's course and are therefore muscularly ready for the upcoming season
 <!-- - Double serrated bookbinding sides for markum stack and markum rip -->
 <!-- - Playback on ipad like nhl -->
-- BagAdjust ManoBagRim instead of SilviAktion
+- BagAdjust ManoBagRim instead of SilviAktion, close the bag instead of closing the Silvi
 - Patagonia Orange Epaulets on bags and mount for ventilator. Copy Paramedic Ventilator
 - Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
 - Plant hypotenuse in flat terrain and "L" on slope
@@ -254,6 +254,9 @@ search: false
 <!-- - A skreef is a Labon. You don't need to skreef that -->
 - Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
+    - This is the best land
+    - This is the worst land
+    - This is probably going to be the worst day of the season
 - The goal is to dance while planting
 <!-- - NeoAktion BootSlideSkreef is a Skid
     - Skid

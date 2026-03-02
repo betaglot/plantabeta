@@ -20,4 +20,6 @@ let elementName = "AdaptiveProximity"
 <!-- =================================================== -->
 ::: details &
 
+- Counting steps us a crutch for spacing and ultimately density
+
 :::

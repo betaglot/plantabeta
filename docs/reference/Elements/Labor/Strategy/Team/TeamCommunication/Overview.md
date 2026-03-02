@@ -33,5 +33,6 @@ let elementName = "TeamCommunication"
 - honking
 - Ting your Spade to get someone's attention
 
+- Morning meeting: Circle crowd is not ideal
 
 :::

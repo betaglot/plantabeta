@@ -20,9 +20,10 @@ let elementName = "Trench"
 <!-- =================================================== -->
 ::: details &
 
+- BonusTree Stumped Neons don't count in plots, when the Stumps are outside the Trench
+- Trench DeadEnds
 -
 - NeonMano on FlipSide of trench. Perpendicular Blade
 - Respect Paleons not just in the Trench. Also in the Land around the trench. Trench Area
-
 
 :::

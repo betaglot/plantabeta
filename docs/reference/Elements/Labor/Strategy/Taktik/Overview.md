@@ -20,6 +20,10 @@ let elementName = "Taktik"
 <!-- =================================================== -->
 ::: details &
 
+- AreaPlanting
+    - AreaPlant the cul-de-sac
+        - <BB labor="Piece" soma="" ekos="" via="Morfos" motor="" anima=""/> affects the Taktik being used.
+
 - Taktik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange
 

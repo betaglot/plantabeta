@@ -41,6 +41,8 @@ Aliases: Work, Job, Task
 <!-- =================================================== -->
 ::: details &
 
+- "Labor of love"
+
 - Labor is prescriptive
 - Labor defines the BlockBoundary
 - Labor defines what makes a Site

@@ -12,10 +12,16 @@
 - Quality decreases at the end of day
 
 - Workday.SubElements
-    - Arrival
+    - WakeUp
+    - StagingArrival
+    - StagingDeparture
+    - Transit
+        - Morning Meditation
+
+    - BlockArrival
         - Time
         - Location
-    - Departure
+    - BlockDeparture
         - Time
         - Duration
         - Run out of Trees

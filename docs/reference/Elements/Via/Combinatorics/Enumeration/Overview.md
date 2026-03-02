@@ -20,6 +20,8 @@ let elementName = "Enumeration"
 <!-- =================================================== -->
 ::: details &
 
+- Counting steps us a crutch for spacing and ultimately density
+
 - Labor: Enumerate, Via: Enumeration
 
 - Base60 == sexagesimal

@@ -58,6 +58,9 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 <!-- =================================================== -->
 ::: details &
 
+- ShoeResole without glue
+
+- Where to buy a hook needle for Asolo heel panel
 -
 
 :::

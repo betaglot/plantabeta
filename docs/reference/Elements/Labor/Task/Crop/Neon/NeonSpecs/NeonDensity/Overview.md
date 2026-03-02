@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Step"
+let elementName = "NeonDensity"
 
 </script>
 
-# ⭐<span class="labor">Step</span>
+# ⭐<span class="labor">Neon Density</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,13 +20,9 @@ let elementName = "Step"
 <!-- =================================================== -->
 ::: details &
 
-- Counting steps us a crutch for spacing and ultimately density
 -
-- Use stump as step on steep slopes
+- Bonus Tree Stumped trees don't count in plots
 
-- [Step, (Arm, Finger)]
-    - Arms can step
-    - Fingers can step
-    - Step your arms
+- Counting steps us a crutch for spacing and ultimately density
 
 :::

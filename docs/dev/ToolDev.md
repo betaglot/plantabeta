@@ -65,6 +65,11 @@ Not a place where many duplicates items are stored
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
 
+- Maybe painting the paper with nontoxic blue paint will be easier.
+
+- Ferrous weighted markum allows magnetic storage
+- Send PaperTowel company a message about Markums
+
 - MarkumDev
     - Blue ink qr code for flag
     - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size
@@ -368,6 +373,10 @@ Mail at joints
 
 #### SuitSwap out parts to adapt to EKOS and MOTON
 
+### ⭐<span class="labor">BootDev</span>
+
+- BootFender
+
 ### ⭐<span class="labor">RadiorDev</span>
 
 #### Etymology(Radior)
@@ -494,7 +503,9 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most Planters
 - Easily taken off without getting dirt inside
 
-### ⭐<span class="labor">KranosDev</span>
+### ⭐<span class="labor">HelmetDev</span>
+
+- Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind
 
 - Etymology(Kranos) = Cranium
 - Helmet

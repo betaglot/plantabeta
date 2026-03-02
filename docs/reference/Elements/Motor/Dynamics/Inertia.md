@@ -20,6 +20,7 @@ let elementName = "Inertia"
 <!-- =================================================== -->
 ::: details &
 
+- Rugby Goose Step
 -
 - Stomp for boot [Purga|Inertia]
 

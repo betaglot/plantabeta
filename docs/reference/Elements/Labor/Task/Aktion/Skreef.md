@@ -23,6 +23,7 @@ let elementName = "Skreef"
 - Sometimes you need to cut to skreef. Kicking a log away is skreefing. Flipping over a rock is skreefing.
 
 - skreef (noun)
+    - Change this meaning to a new moniker, something about Radius. The only thing that matters is the radius of exposed mineral soil around the Neon. A Skreefed part of Ekosfera is useless. What is the government word for skreef?
 - skreef (verb)
 - skreefing (verb)
 -
