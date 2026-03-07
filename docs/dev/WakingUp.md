@@ -6,11 +6,11 @@ search: false
 ## Abstract
 
 <!-- What is the topic?
-Write an abstract to be posted along with phone screenshots of PlantaBeta.ca -->
+Write an abstract to be posted along with phone screenshots of PlantaBETA.ca -->
 
-## Betaglot is PlantaBeta and KLIMBETA
+## Betaglot is PlantaBETA and KLIMBETA
 
-![TreeGraph_Betaglot_PlantaBeta_KLIMBETA]()
+![TreeGraph_Betaglot_PlantaBETA_KLIMBETA]()
 
 ### What is Betaglot?
 
@@ -47,7 +47,7 @@ Frans de Waal
 
 - Writer guy
 
-## PlantaBeta
+## PlantaBETA
 
 -
 

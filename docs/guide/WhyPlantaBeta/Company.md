@@ -17,7 +17,7 @@ search: false
 
 -
 
-- PlantaBeta is a service
+- PlantaBETA is a service
 
 - Planters are given nothing
     - "Untrained Planters are inefficient" is a logical proposition?

@@ -4,7 +4,7 @@ aside: false
 # <div class="text-h2 text-center">ELEMENTs</div>
 
 <div class="text-h2 text-center">of</div>
-<div class="text-h2 text-center"><span class="beta">PlantaBeta</span></div>
+<div class="text-h2 text-center"><span class="beta">PlantaBETA</span></div>
 
 <div class="text-center mt-10">Click on an icon to learn more!</div>
 

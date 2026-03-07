@@ -13,6 +13,9 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Silvitekture == (Architecture + Silviculture)
+    - Wilderness Design sounds like an Oxymoron, but the "wilderness" of Plantations isn't actually very wild.
+
 - Trees are mechanical pumps
 - Landscape Architecture
 - Silviculture Architecture

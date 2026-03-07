@@ -89,7 +89,7 @@ Plant= Organism from Plantae
 
 ### Keep it G
 
-Euphemisms undermine PlantaBeta and open it up to unnecessary criticism
+Euphemisms undermine PlantaBETA and open it up to unnecessary criticism
 
 - CreamyLand
 - "Cream out"
@@ -209,7 +209,7 @@ Only the 🟠<span class="motor">Arm</span> object is prefixed with an ikon. Arm
 
 🟠<span class="motor">Arm.<span class="motor">ArmPut()</span></span>
 
-### PlantaBeta_IKON
+### PlantaBETA_IKON
 
 KlimBeta has its own Ikon too
 

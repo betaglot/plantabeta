@@ -9,19 +9,19 @@
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatPlantaBeta/Overview#what-is-plantabeta"
+                           href="/guide/WhatPlantaBETA/Overview#what-is-plantabeta"
                            rounded="xl"
                            size="x-large"
                            block>
                         <div>
-                            <div>What's <span class="beta">PlantaBeta</span>?</div>
+                            <div>What's <span class="beta">PlantaBETA</span>?</div>
                         </div>
                     </v-btn>
                 </v-col>
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Betaglot"
+                           href="/guide/WhatPlantaBETA/WhatPlantaBETA-Betaglot"
                            rounded="xl"
                            size="x-large"
                            block>
@@ -35,13 +35,13 @@
             <v-row>
                 <v-col>
                     <v-btn class="text-none "
-                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Function"
+                           href="/guide/WhatPlantaBETA/WhatPlantaBETA-Function"
                            height="80"
                            rounded="xl"
                            size="x-large"
                            block>
                         <div>
-                            <div>Using <span class="beta">PlantaBeta</span></div>
+                            <div>Using <span class="beta">PlantaBETA</span></div>
                             <small></small>
                         </div>
                     </v-btn>

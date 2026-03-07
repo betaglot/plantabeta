@@ -23,7 +23,7 @@ There will be hundreds of tasks
 
 ## Academia
 
-Connect Academia to PlantaBeta by linking to each field's current understanding.  
+Connect Academia to PlantaBETA by linking to each field's current understanding.  
 
 - Grant Writing
 - Cite papers whenever possible
@@ -33,7 +33,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Art
 
-> create art related to PlantaBeta
+> create art related to PlantaBETA
 
 ### Art Business
 
@@ -74,7 +74,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Contribution
 
-> manage the contributions to PlantaBeta
+> manage the contributions to PlantaBETA
 
 - Backend database which holds all submissions
 - Accept submissions
@@ -86,7 +86,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Documentation
 
-> document every part of PlantaBeta's system
+> document every part of PlantaBETA's system
 
 ### ElementPage
 
@@ -123,11 +123,11 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Graphic Design
 
-> design how PlantaBeta looks
+> design how PlantaBETA looks
 
-### Complete PlantaBeta's StyleGuide
+### Complete PlantaBETA's StyleGuide
 
-- PlantaBetaApp
+- PlantaBETAApp
 - Documentation Style Guide
 - Copy each header of [Google's StyleGuide](https://developers.google.com/style)
 
@@ -144,7 +144,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Interviews
 
-> interview people to gain a better understanding of their experience of PlantaBeta or related topics
+> interview people to gain a better understanding of their experience of PlantaBETA or related topics
 
 ### Interview Planters
 
@@ -169,7 +169,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 ### Copyright
 
 - Open Source License
-- PlantaBeta name
+- PlantaBETA name
 
 ### Disclaimer
 
@@ -200,7 +200,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 > use the [Python Programming Language](https://python.org)
 
-- Apply Computational Thinking to PlantaBeta
+- Apply Computational Thinking to PlantaBETA
 - Python
 - Create JSON files which are used in DataVisualizations
     - MOTOR_Hierarchy
@@ -214,7 +214,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 ## Roadmap
 
-> plan for the future of PlantaBeta
+> plan for the future of PlantaBETA
 
 ### 1 year plan (2025_Plan)
 
@@ -228,13 +228,13 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 ### 2030_Plan
 
 - 2 Billion Trees
-- PlantaBeta in Africa
+- PlantaBETA in Africa
 
 ---
 
 ## Social Media
 
-> manage PlantaBeta's social media presence
+> manage PlantaBETA's social media presence
 
 - Find potential contributors
 - Edit Video into Reels
@@ -284,7 +284,7 @@ See Instruments for notes about each Instrument
 
 ## UX Design
 
-> design how PlantaBeta is used
+> design how PlantaBETA is used
 
 -
 

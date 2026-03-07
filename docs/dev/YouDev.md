@@ -13,7 +13,7 @@ search: false
 
 ## Files
 
-- PlantaBetaPlaylist.csv
+- PlantaBETAPlaylist.csv
     - Video_ID,URL,Trimmed,Silence,Captioned,Split
 - SiteIndex.csv
     - Site_ID,Video_ID,Caption_ID,(URL+Timestamp)

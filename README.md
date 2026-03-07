@@ -1,4 +1,4 @@
-# PlantaBeta
+# PlantaBETA
 
 Contact:
 

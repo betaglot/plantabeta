@@ -27,7 +27,7 @@ const props = defineProps({
   // Interpolate the same way as the v-ifs above, and using JS "if" instead
   // probably involves computed properties
   
-  // "`/PlantaBeta/Teori/Beta/Definitions/${l}-${s}`"
+  // "`/PlantaBETA/Teori/Beta/Definitions/${l}-${s}`"
   
 </script>
   

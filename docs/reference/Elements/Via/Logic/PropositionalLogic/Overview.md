@@ -20,6 +20,13 @@ let elementName = "PropositionalLogic"
 <!-- =================================================== -->
 ::: details &
 
--
+- AND
+    - Conjunction
+- OR
+    - Disjunction
+- If-Then
+    - Implication
+- NOT
+    - Negation
 
 :::

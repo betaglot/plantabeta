@@ -124,7 +124,7 @@ Not a place where many duplicates items are stored
 - Markum wrap is waiter bill fold
 - With cut corner about an inch to maximize surface during branch wrap. Like an ornament or cow ear tag
 - Wooden staple for Markum
-- Markum is a source of income for PlantaBeta
+- Markum is a source of income for PlantaBETA
 - Paper Trombone to lock Markum like a Bookmark
 - Markum ring
 - Paper

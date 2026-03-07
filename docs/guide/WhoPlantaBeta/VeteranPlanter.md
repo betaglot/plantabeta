@@ -3,11 +3,11 @@
 
 > A Planter who has completed their first planting season.
 
-## Using PlantaBeta Before the Season
+## Using PlantaBETA Before the Season
 
-## Using PlantaBeta During the Season
+## Using PlantaBETA During the Season
 
-## Using PlantaBeta After the Season
+## Using PlantaBETA After the Season
 
 ## How to be an AmbidextrousPlanter
 
@@ -17,7 +17,7 @@ To reduce injury caused by repetitive strain.
 
 ## How to become an ElitePlanter
 
-The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. PlantaBeta can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
+The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. PlantaBETA can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
 
 Crew Highballer
 

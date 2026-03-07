@@ -3,7 +3,7 @@ search: false
 ---
 # KeepNotes
 
-<!-- - PlantaBeta Kickstarter Ask Journalists -->
+<!-- - PlantaBETA Kickstarter Ask Journalists -->
 - 1 one second of time saved as sponsor level
 <!-- - Forests are fractals. use for testing ease -->
 <!-- - Use shallow nautical terms to describe soil thin enough to -->
@@ -29,7 +29,7 @@ search: false
 <!-- - <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction -->
 <!-- - Wine can glabrous tissue cooler sleeve. -->
 <!-- - Toph Beifong is good a Via -->
-- Use coastal autumn experience as marketing shorts for PlantaBeta
+- Use coastal autumn experience as marketing shorts for PlantaBETA
 <!-- - Find the exceptions -->
 - around the planet instead of around the world
 - Ekon ContourLine
@@ -42,7 +42,7 @@ search: false
 <!-- - <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti) -->
 <!-- - Tag myriad using tagspaces then display with vuetify -->
 - Buy your apprentise Patagonia
-- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBeta
+- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBETA
 - Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
 <!-- - Spruce root increases soil teknik and possibly soil Kratos -->
 - <BB labor='MinimumWage'/> Wanna surpass minimum wage?
@@ -131,7 +131,7 @@ search: false
 <!-- - BlueWax -->
 <!-- - Rugby Goose Step -->
 <!-- - Send PaperTowel company a message about Markums -->
-- Constrain PlantaBeta to students
+- Constrain PlantaBETA to students
 - Grant
 - Add japanese crowd walk to via overview
 <!-- - Ferrous weighted markum allows magnetic storage -->
@@ -139,7 +139,7 @@ search: false
 <!-- - Gray honey paint tryptic at NAG -->
 - Norah isochrone
 - Bonsai instead of toddler trees
-- are you interested in Beta testing PlantaBeta?
+- are you interested in Beta testing PlantaBETA?
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 - Unit instead of team
 <!-- - You have the money for PlantaforDev -->
@@ -181,7 +181,7 @@ search: false
 <!-- - Footprints in snow show via -->
 - stuffed pepper
 - Axiom: Gravity
-- PlantaBeta: A video game that's designed to be not fun
+- PlantaBETA: A video game that's designed to be not fun
 - Clay Plantafor Sculpture
 <!-- - ShoeResole without glue -->
 - Morning Meditation
@@ -224,7 +224,7 @@ search: false
 <!-- - Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots -->
 <!-- - NeonMano on FlipSide of trench. Perpendicular Blade -->
 <!-- - Respect not just in trench also. Trench Area -->
-- Each page of Booklet has a qr code which links to PlantaBeta
+- Each page of Booklet has a qr code which links to PlantaBETA
 <!-- - Markafor triggers a Geolocation event when Markum is dispensed -->
 - To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
 <!-- - Worm into. Use SpadePalm -->
@@ -245,12 +245,12 @@ search: false
 - Teach someone to teach. Triad. Student teacher me
 <!-- - First bagIn with insulation layer since it's usually cold in the morning -->
 - 4g blue paper cup for salt
-- If you want to know more, there is a place you can go. If you're at all interested in PlantaBeta
+- If you want to know more, there is a place you can go. If you're at all interested in PlantaBETA
 - Decisions evaporate when you're following wanting. The choice is always obvious
 - They were going ham. Implies density. Anima can be a descriptor of density
-- Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro
+- Missing Front pocket for camera is limiting the data collection for PlantaBETA. Accessibility is low to GoPro
 - Run a line. Run to the back
-<!-- - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk -->
+<!-- - Broaden your idea of a PlantaBETA sponsor to any person or company involved with Plantations. For example Gransfors Bruk -->
 <!-- - A skreef is a Labon. You don't need to skreef that -->
 - Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
@@ -352,7 +352,7 @@ search: false
 <!-- - SpadeSkim
     - Lower HypoMano decreases the force required to grip the spade
     - And Lower HypoMano also reduces energy loss. The movement of the Spade takes energy which could have been transferred into the SkreefSite -->
-- Proof us more important for getting experienced Planters to use PlantaBeta than rookies
+- Proof us more important for getting experienced Planters to use PlantaBETA than rookies
     - Rookies aren't set in their ways
     - If it's not broke don't fix it. I'll need to prove that it's broken
 <!-- - Vary Kayak Paddle grip to reduce tendonitis OKC -->
@@ -374,7 +374,7 @@ search: false
     - Former like a bumper maker -->
 <!-- - Neon blue -->
 - Follow the Fire Line
-<!-- - PlantaBeta: DataStructures
+<!-- - PlantaBETA: DataStructures
     - Everything is an Object, like in Python
     - Polyads are DataStructures
     - Plots
@@ -571,31 +571,31 @@ search: false
 - Error,TeamBeta = Smother
     - Smother = BoxedIn
 - How does a device relate to tactics? A device can be abstract or concrete
-- PlantaBeta.Strategy: Simplify things
+- PlantaBETA.Strategy: Simplify things
     - Piece Shape
 - We have achieved a strategically rich position full of imbalances
 - The opposite of Strategic is Aggressive
 <!-- - Taktik
     - All Taktiks are Aktions, but not all Aktions are Taktikal -->
-<!-- - PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+<!-- - PlantaBETA.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
     - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking. -->
 - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
-- PlantaBeta: Phases Fases: Opening, Middle, End
-- ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBeta
+- PlantaBETA: Phases Fases: Opening, Middle, End
+- ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA
 <!-- - Taktik: Desperado
     - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece. -->
 - KKR: Share anything that you've published in Academia or Journalism  
-- PlantaBetaShorts: Pull element cards out of your bags like trees
-- KKR, Reddit: Ask for help getting and writing a grant for PlantaBeta
+- PlantaBETAShorts: Pull element cards out of your bags like trees
+- KKR, Reddit: Ask for help getting and writing a grant for PlantaBETA
 - Reddit: Are you able to dance while planting
 - Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant
 - Slush is mud. Video of you walking in slush
 - Hurdle is like Spade over Stump in BeachBeta video
 - KKR: Cattle Plant Strategy
-    - PlantaBeta climate
+    - PlantaBETA climate
     - tree quality
     - efficiency reduces overhead costs to climate
     - food, shelter, transport
@@ -657,13 +657,13 @@ search: false
 - A tesselation is not a triangulation
 - Baseball pitch is spade is accessible to millions
 - Tibia spade is a concrete panbeta and should be the first
-- PlantaBeta Shorts
+- PlantaBETA Shorts
     - do you want to be a tree planter?
     - do you want to pay for university?
     - do you want to get injured?
 - Climate Change will take less time than the tree needs to grow large enough to be cut down
     - In 30 years nobody will want to cut it down
-- PlantaBeta: To plant efficiently and effectively by using Beta
+- PlantaBETA: To plant efficiently and effectively by using Beta
     - Beta implies Strategy, but not every Betom
 <!-- - Taktik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange -->
@@ -712,7 +712,7 @@ search: false
         - Cut off their exit
     - Strategy strong or weak on defense
     - Small Steps, Chess is played one move at a time, you don't need clusters.
-    - PlantaBeta.Local and Global Strategy
+    - PlantaBETA.Local and Global Strategy
         - BoustroKomplete is a Taktik
 
 - On my way

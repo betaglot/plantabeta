@@ -24,11 +24,11 @@
 
 - <https://mitsloan.mit.edu/ideas-made-to-matter/curse-knowledge-why-experts-struggle-to-explain-their-work>
 
-## Use PlantaBeta Before the Season
+## Use PlantaBETA Before the Season
 
-## Use PlantaBeta During the Season
+## Use PlantaBETA During the Season
 
-## Use PlantaBeta After the Season
+## Use PlantaBETA After the Season
 
 ## Your Tasks as a Planter Instructor
 
@@ -43,7 +43,7 @@
 
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
+A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBETA and the rest of the planting industry.  
 
 Such traits include:
 

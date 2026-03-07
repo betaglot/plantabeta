@@ -3,7 +3,7 @@ search: false
 ---
 # Offline
 
-How to make PlantaBeta available offline?
+How to make PlantaBETA available offline?
 
 ::: tip
 
@@ -25,7 +25,7 @@ Could I set up a dev container?
 
 ## Printout
 
-- PlantaBeta binder allows easy updates and 'TreeShaking'
+- PlantaBETA binder allows easy updates and 'TreeShaking'
 
 - LetterSizedPaper
 

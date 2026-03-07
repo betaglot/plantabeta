@@ -26,7 +26,7 @@ An increased vocabulary and standardization of communication improves the effect
 
 ### Planters Communicating with Themselves
 
-PlantaBeta increases the vocabulary of a Planter's internal dialog which improves short term memory of Planter's experience.
+PlantaBETA increases the vocabulary of a Planter's internal dialog which improves short term memory of Planter's experience.
 
 ### Planter Communicating with Other Planters
 

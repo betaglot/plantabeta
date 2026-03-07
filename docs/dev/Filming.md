@@ -80,4 +80,4 @@ Make an incredibles mask for Planters
 
 ## Storyboards
 
-- Zoom into PlantaBeta from ultimate view to Submove
+- Zoom into PlantaBETA from ultimate view to Submove

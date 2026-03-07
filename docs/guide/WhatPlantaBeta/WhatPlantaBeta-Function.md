@@ -1,4 +1,4 @@
-# What does <span class="beta">PlantaBeta</span> do?
+# What does <span class="beta">PlantaBETA</span> do?
 
 ---
 

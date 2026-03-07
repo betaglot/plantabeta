@@ -113,7 +113,7 @@ Asyncronous
 
 ## Differentiate(Algorithm, Frase)
 
-All algorithms are Frases. "Frase" is more commonplace than "Algorithm". Use "Frase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of PlantaBeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
+All algorithms are Frases. "Frase" is more commonplace than "Algorithm". Use "Frase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of PlantaBETA is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
 - ProbeFrase or Probe Algorithm
 

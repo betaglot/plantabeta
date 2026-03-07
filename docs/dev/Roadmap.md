@@ -26,11 +26,11 @@ search: false
 
 ### Reference Class Forecasting
 
-Use Reference Class Forecasting to set realistic goals by comparing PlantaBeta with
+Use Reference Class Forecasting to set realistic goals by comparing PlantaBETA with
 
 ## Future Developments
 
-One purpose of PlantaBeta is to act as a resource for designers and researchers.
+One purpose of PlantaBETA is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the EKOS destroyed by wildfires in Canada and across the world.
 
@@ -51,7 +51,7 @@ Test novel Planter Instruments
 
 ### Climbing
 
-- KLIMBETA + PlantaBeta
+- KLIMBETA + PlantaBETA
 
 ## Future Features
 

@@ -1,6 +1,6 @@
 # KOMPOSITION
 
-> something that a person has created or written, esp. a text, a work of art, or a piece of music, or the act of creating or writing something
+> a collection of Beta
 
 ## Parts of Komposition
 
@@ -49,6 +49,9 @@ One of the foundations of Computational Thinking
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
+- Glob
+- Clump
 
 - Designers make Kompositions
     - DSA\"Atlete as Designer"

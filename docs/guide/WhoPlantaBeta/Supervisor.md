@@ -3,11 +3,11 @@
 
 > A person who manages a crew of Planters
 
-## Using PlantaBeta Before the Season
+## Using PlantaBETA Before the Season
 
-## Using PlantaBeta During the Season
+## Using PlantaBETA During the Season
 
-## Using PlantaBeta After the Season
+## Using PlantaBETA After the Season
 
 Supervisors need to traverse the exact same ground as Planters
 

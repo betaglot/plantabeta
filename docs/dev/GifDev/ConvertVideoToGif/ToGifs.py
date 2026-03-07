@@ -57,6 +57,6 @@ def convert_mp4_to_gif(input_dir, output_dir):
 
 if __name__ == "__main__":
     # Set your input and output directory paths here
-    input_directory = r"C:\Users\chris\OneDrive\Desktop\Betaglot_Video\PlantaBeta-VideoToGif"
+    input_directory = r"C:\Users\chris\OneDrive\Desktop\Betaglot_Video\PlantaBETA-VideoToGif"
     output_directory = r"C:\Users\chris\plantabeta\docs\dev\GifDev\ConvertVideoToGif\output_gifs"
     convert_mp4_to_gif(input_directory, output_directory)

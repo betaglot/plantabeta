@@ -20,6 +20,8 @@ let elementName = "Affordance"
 <!-- =================================================== -->
 ::: details &
 
+- Suitable
+- suitability
 - Susceptible describes being easily influenced, affected, or harmed by something, such as a disease, emotion, or external influence
 
 > An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used

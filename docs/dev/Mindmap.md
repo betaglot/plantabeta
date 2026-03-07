@@ -15,4 +15,4 @@ Having a Mindmap which looks cool will be beneficial.
 
 D3 allows maximum customizations.
 
-Link Mindmap nodes to PlantaBeta pages.
+Link Mindmap nodes to PlantaBETA pages.

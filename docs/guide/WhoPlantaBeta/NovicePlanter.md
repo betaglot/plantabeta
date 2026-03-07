@@ -6,11 +6,11 @@
 
 Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
 
-## Using PlantaBeta Before the Season
+## Using PlantaBETA Before the Season
 
-## Using PlantaBeta During the Season
+## Using PlantaBETA During the Season
 
-## Using PlantaBeta After the Season
+## Using PlantaBETA After the Season
 
 ---
 

@@ -24,7 +24,7 @@ search: false
         - know what to expect
         - the sun will rise
         - shannon- only send information which can't be predicted. Most of a planter's day can be predicted. Showing what isn't predictable is where experience applies. Minimize the cognition load of stuff that doesn't need to be thought of, because you can predict.
-            - PlantaBeta Example: You know where to go for the next mikrosite, the only thing you need to think about is Mikrosite.Eval, you don't know what the soil will be like, but you know what soil to look at.
+            - PlantaBETA Example: You know where to go for the next mikrosite, the only thing you need to think about is Mikrosite.Eval, you don't know what the soil will be like, but you know what soil to look at.
 
 ## Graph Theory
 

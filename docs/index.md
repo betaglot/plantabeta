@@ -1,10 +1,10 @@
 ---
 layout: home 
-title: "PlantaBeta"
-titleTemplate: "PlantaBeta"
+title: "PlantaBETA"
+titleTemplate: "PlantaBETA"
 
 hero: 
-  name: '<span class="beta">PlantaBeta</span>'
+  name: '<span class="beta">PlantaBETA</span>'
   image:
     src: /Betaglot-Logo.png
     alt: "Logo"
@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/WhatPlantaBeta/Overview
+      link: /guide/WhatPlantaBETA/Overview
 
 ---
 
@@ -38,7 +38,7 @@ hero:
           v-bind="props">
       <div class="text-h1 my-4">🙌</div>
       <div class="text-h3 my-4">
-          <span class="beta">PlantaBeta</span> is Free to Use!
+          <span class="beta">PlantaBETA</span> is Free to Use!
       </div>
     </VSheet>
   </v-hover>
@@ -66,7 +66,7 @@ hero:
         <div class="text-h5 my-4">
             Last Updated on
         </div>
-          <div class="text-h6">January 29, 2026</div>
+          <div class="text-h6">March 7, 2026</div>
         <div class="pt-16">Contact:</div>
         <span class="beta">betaglot@betaglot.org</span>
     </VSheet>

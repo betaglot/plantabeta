@@ -3,7 +3,7 @@ search: false
 ---
 # 🛠 DX: Developer Experience
 
-## How can PlantaBeta be developped while in transit?
+## How can PlantaBETA be developped while in transit?
 
 Learning D3.js terms
 
@@ -56,7 +56,7 @@ Homonyms = {
 
 #### Dictation Frase
 
-0. SetUp Laptop with PlantaBeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
+0. SetUp Laptop with PlantaBETA open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
 
 1. Look at the Page, Tags and the PaperPhotos in DesignBox .
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Attributes", "Definition"...etc
@@ -64,7 +64,7 @@ Homonyms = {
 
 2. Record the audio in a Google Doc until you can't think of anything else to say.
     - Make sure that you're enunciating
-    - Use PlantaBeta terminology, don't worry about grammar
+    - Use PlantaBETA terminology, don't worry about grammar
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
 3. Paste Raw output into VScode Parse the output by adding empty lines between parts
@@ -171,15 +171,15 @@ Coherence is developed
 
 ### <span class="anima"> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</span>
 
-You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PlantaBeta is a really difficult project, **expect to feel its difficulties!**
+You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PlantaBETA is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
 <span class="motor">Keep going!!!</span>
 
-### Differentiate(BETA, PlantaBeta)
+### Differentiate(BETA, PlantaBETA)
 
-PlantaBeta is a language
+PlantaBETA is a language
 
 All Elements are objects
 
@@ -197,11 +197,11 @@ a data construct that provides a description of something that may be used by a 
 - Prediction
 - Translating Abstract to Concrete
     - Boolean to Bit
-    - Python to PlantaBeta
+    - Python to PlantaBETA
 
-There shouldn't be beta and PlantaBeta, because they a supposed to be the name of the language used by Planters. Forget "Beta" make up your own name
+There shouldn't be beta and PlantaBETA, because they a supposed to be the name of the language used by Planters. Forget "Beta" make up your own name
 
-PlantaBeta is the language and the
+PlantaBETA is the language and the
 
 ### Arnold Schwarzenegger
 

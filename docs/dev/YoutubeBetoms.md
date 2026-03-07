@@ -14,7 +14,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_006</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_006</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="soma">🔷 Dominant</span>
@@ -25,7 +25,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_007</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_007</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="soma">🔷 NonDominant</span>
@@ -35,7 +35,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_008</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_008</div>
 
 <span class="labor">⭐ Spade.Swap</span>
 <span class="via">🔻 Swing</span>
@@ -43,7 +43,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_009</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_009</div>
 
 <span class="labor">⭐ Spade.Insert</span>
 <span class="soma">🔷 Body</span>
@@ -53,7 +53,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_010</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_010</div>
 
 <span class="labor">⭐ Spade.ShaftGrip</span>
 <span class="soma">🔷 L-Hand</span>
@@ -61,7 +61,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_011</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_011</div>
 
 <span class="labor">⭐ Spade.ShaftGrip</span>
 <span class="soma">🔷 R-Hand</span>
@@ -69,7 +69,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_012</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_012</div>
 
 <span class="labor">⭐ Spade.SwordGrip</span>
 <span class="soma">🔷 R-Hand</span>
@@ -78,7 +78,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_013</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_013</div>
 
 <span class="labor">⭐ Spade.Carry</span>
 <span class="via">🔻 Whip,Up</span>
@@ -87,7 +87,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_014</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_014</div>
 
 <span class="labor">⭐ Spade.Spread</span>
 <span class="ekos">🟩 Sand</span>
@@ -95,7 +95,7 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_015</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_015</div>
 
 <span class="labor">⭐ Spade.Probe</span>
 <span class="ekos">🟩 Sand</span>
@@ -104,14 +104,14 @@ search: false
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_016</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_016</div>
 
 Error
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_017</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_017</div>
 
 <span class="labor">⭐ Spade.DoubleTap</span>
 <span class="ekos">🟩 Sand</span>
@@ -120,7 +120,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_018</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_018</div>
 
 <span class="labor">⭐ Spade.Chop</span>
 <span class="ekos">🟩 Sand</span>
@@ -129,7 +129,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_019</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_019</div>
 
 <span class="labor">⭐ Spade.Throw</span>
 
@@ -139,7 +139,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_020</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_020</div>
 
 <span class="labor">⭐ Spade.Lift</span>
 <span class="via">🔻 Helix,Up</span>
@@ -147,7 +147,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_021</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_021</div>
 
 <span class="labor">⭐ Spade.Flick</span>
 <span class="soma">🔷 R-hand</span>
@@ -157,7 +157,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_022</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_022</div>
 
 <span class="labor">⭐ Spade.Flick</span>
 <span class="soma">🔷 L-hand</span>
@@ -167,7 +167,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_023</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_023</div>
 
 <span class="labor">⭐ Spade.Pry</span>
 <span class="soma">🔷 R-Hand</span>
@@ -177,7 +177,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_024</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_024</div>
 
 <span class="labor">⭐ Spade.Pry</span>
 <span class="soma">🔷 L-Hand</span>
@@ -187,7 +187,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_025</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_025</div>
 
 <span class="labor">⭐ Spade</span>
 <span class="motor">🟠 Muybridge</span>
@@ -195,7 +195,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_026</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_026</div>
 
 <span class="labor">⭐ Spade.Relocate</span>
 <span class="ekos">🟩 Log</span>
@@ -203,14 +203,14 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_027</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_027</div>
 
 <span class="labor">⭐ Spade.Pickup</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_028</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_028</div>
 
 <span class="labor">⭐ Spade.Kick</span>
 
@@ -218,7 +218,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_029</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_029</div>
 
 <span class="labor">⭐ Spade.Hook</span>
 
@@ -226,7 +226,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_030</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_030</div>
 
 <span class="labor">⭐ Spade.Launch</span>
 
@@ -236,7 +236,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_031</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_031</div>
 
 <span class="labor">⭐ Spade.Open.Match</span>
 <span class="via">🔻 Anterior</span>
@@ -244,7 +244,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_032</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_032</div>
 
 <span class="labor">⭐ Spade.Open.Lean</span>
 <span class="soma">🔷 R-Hand</span>
@@ -253,7 +253,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_033</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_033</div>
 
 <span class="labor">⭐ Spade.Open</span>
 <span class="soma">🔷 R-Hand</span>
@@ -262,7 +262,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_034</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_034</div>
 
 <span class="labor">⭐ Spade.Purga.Slam</span>
 <span class="ekos">🟩 WetSand, Stump</span>
@@ -270,14 +270,14 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_035</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_035</div>
 
 <span class="labor">⭐ Spade.Post.Slam</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_036</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_036</div>
 
 <span class="labor">⭐ Spade.Ama</span>
 
@@ -285,7 +285,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_037</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_037</div>
 
 <span class="labor">⭐ Spade.Post.Chop</span>
 
@@ -293,7 +293,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_038</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_038</div>
 
 <span class="labor">⭐ Spade.Carry</span>
 <span class="via">🔻 Arc</span>
@@ -301,14 +301,14 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_039</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_039</div>
 
 <span class="labor">⭐ Spade.Lock</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_040</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_040</div>
 
 <span class="labor">⭐ Spade.Open.Staggered</span>
 <span class="via">🔻 Anterior</span>
@@ -316,7 +316,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_041</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_041</div>
 
 <span class="labor">⭐ Spade.Open</span>
 <span class="ekos">🟩 WetClay</span>
@@ -325,7 +325,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_042</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_042</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Skreef, DeadGrass</span>
@@ -334,7 +334,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_043</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_043</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Skreef, Stump</span>
@@ -343,7 +343,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_044</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_044</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Skreef, ThickGrass, Stump</span>
@@ -352,7 +352,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_045</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_045</div>
 
 <span class="labor">⭐ Spade.DoubleTap</span>
 <span class="ekos">🟩 StiffSoil</span>
@@ -360,21 +360,21 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_046</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_046</div>
 
 <span class="labor">⭐ Spade.Slam(3)</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_047</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_047</div>
 
 <span class="labor">⭐ Spade.Slam(3)</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_048</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_048</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Skreef, ThickGrass, Stump.Rotten</span>
@@ -383,7 +383,7 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_049</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_049</div>
 
 <span class="ekos">🟩 RedRot</span>
 <span class="via">🔻 SiteSelection</span>
@@ -392,28 +392,28 @@ Error
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_050</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_050</div>
 
 Use sound and pin to insta
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_051</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_051</div>
 
 <span class="labor">⭐ Markum.Throw</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_052</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_052</div>
 
 <span class="labor">⭐ Piece.WalkIn</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_053</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_053</div>
 
 <span class="labor">⭐ Spade.Holster</span>
 
@@ -421,21 +421,21 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_054</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_054</div>
 
 <span class="labor">⭐ Spade.Unholster</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_055</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_055</div>
 
 <span class="labor">⭐ Spade.Slam.StepBack</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_056</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_056</div>
 
 <span class="labor">⭐ Markum.High</span>
 <span class="ekos">🟩 Pine</span>
@@ -444,7 +444,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_057</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_057</div>
 
 <span class="labor">⭐ Glove.Klose</span>
 <span class="ekos">🟩 Logs</span>
@@ -453,7 +453,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_058</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_058</div>
 
 <span class="labor">⭐ Boot.Klose</span>
 <span class="ekos">🟩 CreamSoil</span>
@@ -461,7 +461,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_059</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_059</div>
 
 <span class="labor">⭐ Spade.Pry</span>
 <span class="ekos">🟩 Skreef, Stump</span>
@@ -470,7 +470,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_060</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_060</div>
 
 <span class="via">🔻 ProximateSite</span>
 <span class="anima">💜 LookAt</span>
@@ -478,7 +478,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_061</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_061</div>
 
 <span class="labor">⭐ Markum.High</span>
 <span class="ekos">🟩 BalsamFir</span>
@@ -486,14 +486,14 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_062</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_062</div>
 
 <span class="labor">⭐ Markum.Low</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_063</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_063</div>
 
 <span class="labor">⭐ Boot.Klose</span>
 <span class="ekos">🟩 CreamSoil</span>
@@ -502,7 +502,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_064</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_064</div>
 
 <span class="labor">⭐ Rotate</span>
 <span class="soma">🔷 Body</span>
@@ -512,7 +512,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_065</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_065</div>
 
 <span class="labor">⭐ Spade.Probe</span>
 
@@ -520,7 +520,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_066</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_066</div>
 
 <span class="labor">⭐ Spade.Post.Throw</span>
 
@@ -528,7 +528,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_067</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_067</div>
 
 <span class="labor">⭐ Spade.Lift</span>
 <span class="via">🔻 Helix, Up</span>
@@ -537,7 +537,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_068</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_068</div>
 
 <span class="labor">⭐ Glove.Klose.Fist</span>
 <span class="ekos">🟩 StiffSoil</span>
@@ -545,7 +545,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_069</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_069</div>
 
 <span class="labor">⭐ FillPlant</span>
 <span class="ekos">🟩 CropTrees</span>
@@ -554,7 +554,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_070</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_070</div>
 
 <span class="labor">⭐ Boot.Klose.Stomp</span>
 <span class="ekos">🟩 StiffSoil</span>
@@ -562,7 +562,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_071</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_071</div>
 
 <span class="labor">⭐ Markum.Low.Weave</span>
 
@@ -570,7 +570,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_072</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_072</div>
 
 <span class="labor">⭐ Spade.DoubleTap</span>
 
@@ -578,7 +578,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_073</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_073</div>
 
 <span class="labor">⭐ Spade.DoubleTap</span>
 <span class="via">🔻 ProtectedSite</span>
@@ -586,7 +586,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_074</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_074</div>
 
 <span class="labor">⭐ Markum.Low</span>
 <span class="ekos">🟩 Wind.High</span>
@@ -594,7 +594,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_075</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_075</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Stump, ThickGrass</span>
@@ -603,7 +603,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_076</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_076</div>
 
 <span class="labor">⭐ Spade.Post.Throw</span>
 
@@ -611,7 +611,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_077</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_077</div>
 
 <span class="labor">⭐ Spade.Slam</span>
 <span class="ekos">🟩 RockySoil</span>
@@ -619,7 +619,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_078</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_078</div>
 
 <span class="labor">⭐ Spade.Probe(5)</span>
 <span class="ekos">🟩 RockySoil</span>
@@ -627,7 +627,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_079</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_079</div>
 
 <span class="labor">⭐ Spade.Probe(4)</span>
 <span class="ekos">🟩 RockySoil</span>
@@ -635,7 +635,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_080</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_080</div>
 
 <span class="ekos">🟩 FallenTree</span>
 <span class="via">🔻 Obstacle</span>
@@ -643,7 +643,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_081</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_081</div>
 
 <span class="labor">⭐ Spade.Slam</span>
 <span class="ekos">🟩 StiffSoil</span>
@@ -653,7 +653,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_082</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_082</div>
 
 <span class="ekos">🟩 FallenTree</span>
 <span class="via">🔻 ProtectedSite</span>
@@ -661,7 +661,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_083</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_083</div>
 
 <span class="labor">⭐ Markum.High.Weave</span>
 <span class="ekos">🟩 Branch</span>
@@ -669,7 +669,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_084</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_084</div>
 
 <span class="ekos">🟩 NoSkreef, FallenTree</span>
 <span class="via">🔻 ProtectedSite</span>
@@ -678,7 +678,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_085</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_085</div>
 
 <span class="labor">⭐ Spade.Skim</span>
 <span class="ekos">🟩 Skreef, FallenTree</span>
@@ -687,7 +687,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_086</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_086</div>
 
 <span class="labor">⭐ Markum.Low.Wrap</span>
 <span class="ekos">🟩 Seedling</span>
@@ -695,7 +695,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_087</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_087</div>
 
 <span class="ekos">🟩 FallenTree</span>
 <span class="via">🔻 CornerSite</span>
@@ -703,7 +703,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_088</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_088</div>
 
 <span class="labor">⭐ Boot.Skim</span>
 <span class="ekos">🟩 Grass</span>
@@ -711,7 +711,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_089</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_089</div>
 
 <span class="labor">⭐ Boot.Klose.HeelStomp</span>
 
@@ -719,14 +719,14 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_090</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_090</div>
 
 <span class="labor">⭐ Glove.Klose.Paw</span>
 </div>
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_091</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_091</div>
 
 <span class="labor">⭐ Glove.Klose.Lean</span>
 
@@ -734,7 +734,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_092</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_092</div>
 
 <span class="labor">⭐ Walk</span>
 <span class="ekos">🟩 Stump</span>
@@ -743,7 +743,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_093</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_093</div>
 
 <span class="ekos">🟩 Flower</span>
 
@@ -751,7 +751,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_094</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_094</div>
 
 <span class="labor">⭐ Boot.Klose.HeelStomp</span>
 
@@ -759,7 +759,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_095</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_095</div>
 
 <span class="labor">⭐ Markum.BlockBoundary.Faded</span>
 
@@ -767,7 +767,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_096</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_096</div>
 
 <span class="labor">⭐ Markum.Wrap.Wind</span>
 <span class="ekos">🟩 Wind</span>
@@ -776,7 +776,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_097</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_097</div>
 
 <span class="labor">⭐ Boot.Klose.ToeStomp</span>
 
@@ -784,7 +784,7 @@ Use sound and pin to insta
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_098</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_098</div>
 
 <span class="labor">⭐ Insert</span>
 <span class="soma">🔷 AvoidInjury</span>
@@ -796,7 +796,7 @@ Never plant downhill
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_099</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_099</div>
 
 <span class="labor">⭐ Spade.Slam, Step</span>
 <span class="motor">🟠 Simultaneous</span>
@@ -807,7 +807,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_100</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_100</div>
 
 <span class="labor">⭐ Eversion</span>
 <span class="soma">🔷 R-Foot</span>
@@ -816,7 +816,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_101</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_101</div>
 
 <span class="labor">⭐ Insert</span>
 <span class="ekos">🟩 Seedling.Pine</span>
@@ -824,7 +824,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_102</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_102</div>
 
 <span class="labor">⭐ Fall.Recovery.Swing</span>
 <span class="soma">🔷 R-Leg</span>
@@ -833,7 +833,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_103</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_103</div>
 
 <span class="labor">⭐ Markum.Low</span>
 <span class="ekos">🟩 Stump</span>
@@ -841,7 +841,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_104</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_104</div>
 
 <span class="labor">⭐ Spade.Ama</span>
 
@@ -849,7 +849,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_105</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_105</div>
 
 <span class="labor">⭐ Rotate</span>
 <span class="soma">🔷 Body</span>
@@ -858,7 +858,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_106</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_106</div>
 
 <span class="labor">⭐ Spade.Slam, Swing</span>
 <span class="soma">🔷 Leg</span>
@@ -868,7 +868,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_107</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_107</div>
 
 <span class="labor">⭐ Boot.Klose.ToePress</span>
 
@@ -876,7 +876,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_108</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_108</div>
 
 <span class="labor">⭐ Trench, FillPlant</span>
 <span class="ekos">🟩 Overgrown</span>
@@ -884,7 +884,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_109</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_109</div>
 
 <span class="labor">⭐ Glove.Klose.Twist</span>
 
@@ -892,7 +892,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_110</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_110</div>
 
 <span class="ekos">🟩 Stump</span>
 <span class="via">🔻 ProtectedSite, NorthSite</span>
@@ -900,7 +900,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_111</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_111</div>
 
 <span class="labor">⭐ Spade.Slam</span>
 <span class="ekos">🟩 GrassRoots</span>
@@ -909,7 +909,7 @@ Like a baseball pitcher
 
 <div class="betacontainer text-h5   d-flex flex-column" >
 
-## <div class="text-h4 mb-4 text-center">PlantaBeta_112</div>
+## <div class="text-h4 mb-4 text-center">PlantaBETA_112</div>
 
 <span class="labor">⭐ Spade.Press</span>
 <span class="via">🔻 Up</span>

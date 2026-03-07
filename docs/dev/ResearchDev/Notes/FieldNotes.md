@@ -239,7 +239,7 @@ search: false
         - Ratio(Instructor: Planter) is an Instruction Constraint
 - 4.05
     - PanBeta Session
-        - Gather in a room to discuss PanBeta for PlantaBeta.
+        - Gather in a room to discuss PanBeta for PlantaBETA.
 - 4.06
     - Kuboi\RiskOfError
     - Kuboi\RiskOfFailure

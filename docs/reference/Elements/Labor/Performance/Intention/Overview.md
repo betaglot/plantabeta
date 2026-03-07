@@ -8,10 +8,10 @@
         - Leave a Passage
 - Dromos
     - Beta intended to be adventurous
-        - Not applicable to PlantaBeta
+        - Not applicable to PlantaBETA
 - Eros
     - Beta intended to be passionate
-        - Not applicable to PlantaBeta
+        - Not applicable to PlantaBETA
 - Etos
     - Beta intended to be moral
         - Replant

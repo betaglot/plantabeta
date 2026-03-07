@@ -1,4 +1,4 @@
-# PlantaBeta PRAKTIK
+# PlantaBETA PRAKTIK
 
 ---
 

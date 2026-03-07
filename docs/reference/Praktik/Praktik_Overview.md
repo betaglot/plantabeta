@@ -1,6 +1,6 @@
 # PRAKTIK
 
-Practicing PlantaBeta
+Practicing PlantaBETA
 
 ---
 

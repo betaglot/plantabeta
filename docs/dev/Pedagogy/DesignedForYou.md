@@ -3,14 +3,14 @@ sidebar: false
 search: false
 ---
 
-# PlantaBeta Is Designed For You
+# PlantaBETA Is Designed For You
 
 <!-- Expect to fail in some parts, show the sincerity and we will solve the problems together -->
 
 ::: info Purpose
 
 - **Show don't tell!** Use the Classic Writing Style
-- Write a page which shows the Planters at Quastuco what PlantaBeta is, how it is designed for them and how to use it
+- Write a page which shows the Planters at Quastuco what PlantaBETA is, how it is designed for them and how to use it
 - Write a paragraph summarizing this page and post it in the WhatsApp group
 
 :::
@@ -65,7 +65,7 @@ search: false
 - *Where can I put this fucking tree!!!*
 - *Why wasn't I taught this before!*
 
-## What is PlantaBeta?
+## What is PlantaBETA?
 
 ### Why are there brackets?
 
@@ -89,7 +89,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 💜<span class="anima">ANIMA </span>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
-## How am I supposed to use PlantaBeta.ca?
+## How am I supposed to use PlantaBETA.ca?
 
 ### The Guide Section
 
@@ -160,7 +160,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 Label things so they can be communicated
 
-## What is the Big Picture for PlantaBeta?
+## What is the Big Picture for PlantaBETA?
 
 A game which is designed to simulate being a Planter.
 
@@ -168,13 +168,13 @@ To test
 
 Plantbeta is a system to define the rules of the game.
 
-## PlantaBeta is an open source project
+## PlantaBETA is an open source project
 
 ### What is an open source project?
 
 ### Many hands make light work
 
-## What is the first step to learning and contributing to PlantaBeta?
+## What is the first step to learning and contributing to PlantaBETA?
 
 Learn the vocabulary
 

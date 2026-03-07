@@ -2,7 +2,7 @@
 
 Everything made so far is Documentation for this App. App is designed to mimic a Planter's experience. Planters create, edit, view, browse, compose, record Beta.
 
-BetaApp can be used for KLIMBETA and PlantaBeta
+BetaApp can be used for KLIMBETA and PlantaBETA
 
 ## Convert BetaDataTypes
 
@@ -44,7 +44,7 @@ A BetaBlock could be an individual BetaElement or a group of hundreds of BetaEle
 
 ### PostgreSQL
 
-## 🛠 PlantaBetaApp is a Simulator
+## 🛠 PlantaBETAApp is a Simulator
 
 ---
 

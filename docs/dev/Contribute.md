@@ -1,37 +1,37 @@
 ---
 search: false
 ---
-# 🛠 Start Contributing to PlantaBeta: Your First Steps
+# 🛠 Start Contributing to PlantaBETA: Your First Steps
 
 ## How you can contribute
 
 ::: tip Sponsor
-If you just want to sponsor PlantaBeta
+If you just want to sponsor PlantaBETA
 :::
 
 ### Give Feedback
 
 ### Give Code
 
-### Would you like to say anything about your experience of PlantaBeta?
+### Would you like to say anything about your experience of PlantaBETA?
 
 ### Do you like planning events?
 
-- Organize workshops or meetups about PlantaBeta
-- Organize PlantaBeta's first conference
+- Organize workshops or meetups about PlantaBETA
+- Organize PlantaBETA's first conference
 
 ### Do you like to design?
 
-- Restructure layouts to improve PlantaBeta’s usability
-- Put together a style guide to help PlantaBeta have a consistent visual design
+- Restructure layouts to improve PlantaBETA’s usability
+- Put together a style guide to help PlantaBETA have a consistent visual design
 - Create art for t-shirts or a new logo
 
 ### Do you like to write?
 
-- Write and improve PlantaBeta’s documentation
-- Curate a folder of examples showing how PlantaBeta is being used
-- Write tutorials for PlantaBeta
-- Write a translation for PlantaBeta’s documentation
+- Write and improve PlantaBETA’s documentation
+- Curate a folder of examples showing how PlantaBETA is being used
+- Write tutorials for PlantaBETA
+- Write a translation for PlantaBETA’s documentation
 
 ### Do you like to code?
 
@@ -56,25 +56,25 @@ If you just want to sponsor PlantaBeta
 
 If you want to contribute in other areas, you can:
 
-- Write documentation for PlantaBeta Developer’s Guide
+- Write documentation for PlantaBETA Developer’s Guide
 - Translate documentation
-- Use your front end Factors to improve PlantaBeta’s site
+- Use your front end Factors to improve PlantaBETA’s site
 
-You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping PlantaBeta to get better faster.
+You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping PlantaBETA to get better faster.
 
 ## How to get the Resources You'll Need
 
 When you start contributing to an open source project, there can be a lot of information to take in all at once.
 
-To help you navigate it all, your first port of call should be the PlantaBeta Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
+To help you navigate it all, your first port of call should be the PlantaBETA Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
 
 If you want to contribute documentation, then it’ll be very helpful to learn how to use [this markup language](https://www.markdownguide.org/cheat-sheet/).
 
-Although you don’t need to have experience with the Python programming language to contribute to PlantaBeta, it can open up some new ways of contributing. Here are some resources you can check out to learn more:
+Although you don’t need to have experience with the Python programming language to contribute to PlantaBETA, it can open up some new ways of contributing. Here are some resources you can check out to learn more:
 
 -
 
-To get a feel for how the interpersonal aspects of contributing to PlantaBeta work, you can also check out [Brett Canon’s](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
+To get a feel for how the interpersonal aspects of contributing to PlantaBETA work, you can also check out [Brett Canon’s](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
 
 ## How to Pick Your First Issue
 
@@ -106,7 +106,7 @@ If you decide that you’d like to get more involved, then there are some opport
 ::: info
 Upload videos on YouTube then download for processing
 
-Put "PlantaBeta" in the title
+Put "PlantaBETA" in the title
 
 :::
 

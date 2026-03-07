@@ -23,7 +23,7 @@ Percentages
 
 PurposeGames.com
 
-Use Instruments that GenZ is already addicted to. Many PotentialPlanters are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so Planters can increase their planting knowledge before the season starts.
+Use Instruments that GenZ is already addicted to. Many PotentialPlanters are young adults who are addicted to playing video games. Create a video game which teaches PlantaBETA so Planters can increase their planting knowledge before the season starts.
 
 It's ok if the game is boring if you're being paid to play it.
 
@@ -142,7 +142,7 @@ Recall what you learned during the morning truck ride
     - Some Planters are fringe or counter-culture, which often leads to a dislike of any schooling.
     - Planters who are Dyslexic
     - Planters
-    - "when will I ever use this in my life?" is always null in PlantaBeta, literally every piece of information is designed to contribute to Planter's profit 💲🤑💸💰.
+    - "when will I ever use this in my life?" is always null in PlantaBETA, literally every piece of information is designed to contribute to Planter's profit 💲🤑💸💰.
 
 - Underestimation
 

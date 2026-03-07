@@ -186,4 +186,4 @@ The order in which the elements of each category is listed is fixed
 
 ## BetaComps
 
-## PlantaBeta
+## PlantaBETA

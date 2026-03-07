@@ -106,7 +106,7 @@ Most Epic BC day, Most shitty Ontario day
 
 ### Voting
 
-- Vote on PlantaBeta.ca or third party link
+- Vote on PlantaBETA.ca or third party link
 
 ### Prizes
 

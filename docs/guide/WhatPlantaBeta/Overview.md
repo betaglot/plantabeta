@@ -10,25 +10,35 @@ import GetStarted from '/vue/GetStarted.vue'
 
 <GetStarted />
 
-## What is <span class="beta">PlantaBeta</span>?
+## What is <span class="beta">PlantaBETA</span>?
 
-Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Planter closes the hole and the cycle repeats thousands of times each day.  
+<!-- Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Planter closes the hole and the cycle repeats thousands of times each day.   -->
 
-<iframe class="youtube rounded-xl" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBeta_002: What is PlantaBeta?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube rounded-xl" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBETA_002: What is PlantaBETA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## <span class="beta">KlimBeta</span> is like a Dictionary
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+## <span class="beta">PlantaBETA</span> is like a Dictionary
 
 <div class="d-flex justify-center">
 <v-img class="rounded-xl" max-height="450" max-width="800" cover src="/DictionariesOnShelf.png"></v-img>
 </div>
 
-::: details What does Google's AI think about the utility Dictionaries, Thesauruses and Networks?
+<!-- ::: details What does Google's AI think about the utility Dictionaries, Thesauruses and Networks?
 
 > Text that looks like this are the results from asking Google's AI about the utility of Dictionaries
 
-<BE/> Text after this Emblem is <span class="beta">KlimBeta</span>'s analogy
+<BE/> Text after this Emblem is <span class="beta">PlantaBETA</span>'s analogy
 
-:::
+::: -->
 
 ### How is a Dictionary useful?
 
@@ -78,11 +88,11 @@ Every year millions of tree seedlings are planted across Canada. As shown in the
 
 <BE/>  
 
-## <span class="beta">KlimBeta</span> is like a Thesaurus
+## <span class="beta">PlantaBETA</span> is like a Thesaurus
 
 > Text that looks like this are the results from asking Google's AI about the utility of Thesauruses
 
-<BE/> Text after this Emblem is <span class="beta">KlimBeta</span>'s analogy
+<BE/> Text after this Emblem is <span class="beta">PlantaBETA</span>'s analogy
 
 ### How is a Thesaurus useful?
 
@@ -136,7 +146,7 @@ Every year millions of tree seedlings are planted across Canada. As shown in the
 
 <BE/>  
 
-## <span class="beta">KlimBeta</span> is like a Network
+## <span class="beta">PlantaBETA</span> is like a Network
 
 The nodes are Elements and the Connectors are Relationships between Elements
 
@@ -209,16 +219,5 @@ The nodes are Elements and the Connectors are Relationships between Elements
 > Biological Research: In 2026, advanced network math—including concepts from string theory—is being used to solve architectural mysteries of the human brain, such as why neurons branch and connect in specific, non-straight paths.
 
 <BE/>  
-
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details &
-
--
 
 :::
