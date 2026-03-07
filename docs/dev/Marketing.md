@@ -98,7 +98,7 @@ Sculpture, Painting, Drawing
 
 ### Most Popular Video
 
-Dance, Skit, BetaVideo
+Dance, Skit, BETA-Video
 
 ### Most Popular Photo
 

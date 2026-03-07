@@ -9,7 +9,7 @@ All Diagrams are Graphics, but not all graphics are Diagrams. Graphics can be im
 
 ## SVG
 
-Svg EinsteinSpaghetti BetaDiagram
+Svg EinsteinSpaghetti BETA_Diagram
 
 Animated SVG
 

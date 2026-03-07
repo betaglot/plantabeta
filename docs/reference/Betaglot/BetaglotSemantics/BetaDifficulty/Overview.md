@@ -17,7 +17,7 @@ For example this Route:
 
 TODO A Tagged Storyboard of a Klimber on a <span class="labor">Route</span>
 
-::: tip Beta Difficulty
+::: tip BETA Difficulty
 
 :::
 

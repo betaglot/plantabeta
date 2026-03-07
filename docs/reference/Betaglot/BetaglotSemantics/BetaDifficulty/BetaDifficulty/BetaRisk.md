@@ -1,7 +1,7 @@
 ---
 search: false
 ---
-# 🔷🔷 BetaRisk
+# 🔷🔷 BETA_Risk
 
 FamiliarityBias
 
@@ -13,7 +13,7 @@ FamiliarityBias
 - Risk decreases when Klimber is familiar with the Holds in a Route, especially when HiddenViaSurface.
 - Risk decreases after a Klimber repeatedly successfully performs a Movement.
 
-## Beta Risk Factors
+## BETA Risk Factors
 
 ### Commitment
 

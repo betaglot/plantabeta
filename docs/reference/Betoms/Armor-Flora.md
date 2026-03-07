@@ -27,6 +27,6 @@ search: false
 - Push through like a CarWash with the tentacles
 - ShoulderSlide
     - Drop your shoulder into the flora
-    - PanBeta(Running into an opponent who is trying to tackle you)
+    - PanBETA(Running into an opponent who is trying to tackle you)
 
 :::

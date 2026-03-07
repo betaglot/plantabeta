@@ -5,7 +5,7 @@ search: false
 
 # <span class="beta">2K of BETA</span>
 
-2K of Beta, to plant 2K of trees
+2K of BETA, to plant 2K of trees
 
 <!-- Show don't Tell -->
 

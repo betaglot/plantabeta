@@ -21,7 +21,7 @@ Spanish(Onda) == Wave
 <!-- =================================================== -->
 ::: details &
 
-- PanBeta(CookBeta) ConeAktion is used a lot in baking. Stir with your wrist instead of whole arm.
+- PanBETA(CookBeta) ConeAktion is used a lot in baking. Stir with your wrist instead of whole arm.
     - ShoulderCone
     - ElbowCone
     - WristCone
@@ -49,7 +49,7 @@ Spanish(Onda) == Wave
 - SpadeOnda for FallRedirection
 - Resonate to increase Amplitude
 - Handle doesn't have must displacement, while Blade moves in arcs
-- PanBeta(BMX_Beta) SpadeOnda like BMX tail-whip or Scooter tail-whip
+- PanBETA(BMX_Beta) SpadeOnda like BMX tail-whip or Scooter tail-whip
     - Analogy(SpadeHandle: [ScooterHandle, BMX.Handle], SpadeBlade: [ScooterRearWheel, BMX.RearWheel])
 - SpadeOnda out of a Mound, to SpadeAnkor to SpadeMuscleUp to get out of Mound
 - SpadeOnda over an Obstacle

@@ -40,9 +40,9 @@ search: false
 - FallRedirectionFase
     - AbsorbAktion
         - To give more time for redirection
-    - PanBeta(SkateboardBeta)
+    - PanBETA(SkateboardBeta)
         - Most BigAir jumps have a quarter pipe after landing ramp to convert kinetic energy into gravitational potential energy and friction. The gravitational potential energy is only dissipated if the skateboarder steps onto the top of the quarter pipe. Otherwise the kinetic energy is lost to air drag and friction
-    - PanBeta(SkiBeta)
+    - PanBETA(SkiBeta)
         - Landing is a FallRedirection from Down to Forwards
             - Run it out. Run down the slope
             - Runaway truck gravel pits often slope up hill

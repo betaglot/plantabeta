@@ -17,7 +17,7 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- SpinAway PanBeta(RugbyBeta)
+- SpinAway PanBETA(RugbyBeta)
 
 - "Aktion.BodyAktion.BodyRotate"
 

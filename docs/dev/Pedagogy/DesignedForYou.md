@@ -75,11 +75,11 @@ Remember f(x) = 2x ?
 
 ## What do the icons mean?
 
-<span class="beta">Beta</span>: The system used to prescribe or describe a Planter's experience.
+<span class="beta">BETA</span>: The system used to prescribe or describe a Planter's experience.
 
-"beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each other Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "Beta". Although people no longer use tapes 📼, the term is still used in climbing all the time and is sometimes used in other mountain sports, such as, mountain biking and skiing.
+"beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each other Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "BETA". Although people no longer use tapes 📼, the term is still used in climbing all the time and is sometimes used in other mountain sports, such as, mountain biking and skiing.
 
-Beta is composed of four types, each of which can be represented by an icon:
+BETA is composed of four types, each of which can be represented by an icon:
 
 🟩<span class="ekos">EKOS </span>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
@@ -87,7 +87,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🔻<span class="via">VIA </span>: The path taken by Planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<span class="anima">ANIMA </span>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
+💜<span class="anima">ANIMA </span>: Any phenomena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
 ## How am I supposed to use PlantaBETA.ca?
 

@@ -12,7 +12,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
-|                  <span class="beta">Beta</span> = | = <span class="beta">Beta</span>               |
+|                  <span class="beta">BETA</span> = | = <span class="beta">BETA</span>               |
 |                     <span class="ekos">EKOS</span> = | = <span class="ekos">EKOS</span>                  |
 |                     <span class="via">Via</span> = | = <span class="via">Via</span>                  |
 |               <span class="anima">ANIMA</span> = | = <span class="anima">ANIMA</span>            |
@@ -41,8 +41,8 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
 
-## BetaExchange
+## BETA_Exchange
 
-Exchange Beta with atheletes or coaches of other BetaSports
+Exchange BETA with athletes or coaches of other BETA_Sports
 
 ## what the Tai Chi of climbing?

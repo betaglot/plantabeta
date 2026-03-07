@@ -60,7 +60,7 @@ Aliases: Work, Job, Task
 - Income
 
 - <span class="beta">SISTEM</span>.Labor
-    - TeamBeta
+    - TeamBETA
         - Don't take all the easy land
             - Cream someone out
             - A creamer

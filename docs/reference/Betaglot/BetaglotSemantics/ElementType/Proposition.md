@@ -157,15 +157,15 @@ Knowing what a HeelHook looks like is not the same thing as knowing how to perfo
 
 At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Teorem which itself is not an Element. Unless, like Python, everything is an Object (all objects are classes), so *'HeelHooks can be used to traverse a ledge'* is an class. If each unqiue combination of Elements is a class, then there are millions of unqiue classes in SISTEM. Each class would be contained in a database table.
 
-<span class="beta">*'HeelHooks can be used to traverse a ledge'*</span> is a BetaStatement composed of instances of Elements from multiple Faktors:
+<span class="beta">*'HeelHooks can be used to traverse a ledge'*</span> is a BETA_Statement composed of instances of Elements from multiple Faktors:
 
 - 🟠<span class="motor">HeelHook</span>
 - 🔻<span class="via">Traverse</span>
 - 🟩<span class="ekos">Ledge</span>
 
-BetaStatements are not Elements, only the Statements of Faktors can be Elements.
+BETA_Statements are not Elements, only the Statements of Faktors can be Elements.
 
-BetaStatements which haven't been proven true are Hypotheses. Proven Hypotheses are Teorems.
+BETA_Statements which haven't been proven true are Hypotheses. Proven Hypotheses are Teorems.
 
 The Vue Tutorial has Theory on the left and Practice on the right
 
@@ -188,7 +188,7 @@ Knowledge of Geometry is assumed.
 - Book4 is MOTON requires direction(VIA)
     - Physik.Mechanics
 
-- Book5 is Beta requires Faktors(ANIMA, EKOS, VIA, MOTOR)
+- Book5 is BETA requires Faktors(ANIMA, EKOS, VIA, MOTOR)
 
 ## Pose
 

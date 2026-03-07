@@ -4,7 +4,7 @@ search: false
 
 # BETAGLOT
 
-Betaglot is the structure that sews together all the elements and also defines how elements are made
+BETAGLOT is the structure that sews together all the elements and also defines how elements are made
 
 BETAGLOT has the same structure of Euclid's Elements
 

@@ -199,7 +199,7 @@ a data construct that provides a description of something that may be used by a 
     - Boolean to Bit
     - Python to PlantaBETA
 
-There shouldn't be beta and PlantaBETA, because they a supposed to be the name of the language used by Planters. Forget "Beta" make up your own name
+There shouldn't be beta and PlantaBETA, because they a supposed to be the name of the language used by Planters. Forget "BETA" make up your own name
 
 PlantaBETA is the language and the
 

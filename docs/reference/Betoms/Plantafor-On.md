@@ -20,7 +20,7 @@ search: false
 - NeoAktion Arm thread through straps during PlantaforOn
     - ArmSlot
 
-- TeamBeta can be used for PlantaforOn
+- TeamBETA can be used for PlantaforOn
 - StandingPlantaforOn
 - SittingPlantaforOn
     - BodyRockUp

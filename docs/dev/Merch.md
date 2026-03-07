@@ -91,7 +91,7 @@ Joker: Rock under cream
 - ElementWeb
 - ElementTree
 - LABOR, MOTON, VIA, EKOS, ANIMA, BETA
-- Betaglot Logo
+- BETAGLOT Logo
 
 ### CampPoster
 

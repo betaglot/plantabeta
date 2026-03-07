@@ -3,7 +3,7 @@
 ```py
 Symbols = {
 
-Beta: '🔷',
+BETA: '🔷',
 Faktors: ['🔻','🟠','🟩','💜'],
 Collections: ['[]','{}','()'],
 Operators: ['+','-','=','==','!='],

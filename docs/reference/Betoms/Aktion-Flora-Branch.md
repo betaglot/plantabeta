@@ -30,7 +30,7 @@ search: false
 - BranchSpring
     - Aliases: BranchWhip
     - BranchSpring is when a Branch is pulled then released
-    - Important to remember during TeamBeta, so you don't whip the person behind you
+    - Important to remember during TeamBETA, so you don't whip the person behind you
 - BranchSlide
     - BranchSlide during BranchParry
     - BranchSlide like RailingSlide when walking on stairs

@@ -3,9 +3,9 @@ search: false
 ---
 # Mime<span class="beta">BETA</span>
 
-## When to MimeBeta?
+## When to MimeBETA?
 
-## How to MimeBeta?
+## How to MimeBETA?
 
 ---
 

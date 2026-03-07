@@ -37,7 +37,7 @@ search: false
         - PerpendicularHips
     - Use [Ama|Arm] to support and stabilize your upper body while getting up off the ground
     - MartialArts StandUp
-    - PanBeta(SkiBeta): GetUp after SkiFall.
+    - PanBETA(SkiBeta): GetUp after SkiFall.
         - OneHip on the slope then press up towards your other hip until Standing
     - Remember to keep your shoulders out of your ears, to maintain optimal ScapulaPosition
 - 🟠FallRedirection
@@ -55,7 +55,7 @@ search: false
 - 🟠SpadeAma
     - ([Ama|Arm]+SpadeAma): SpadeAma can be used to extend [Ama|Arm].
         - Requires HandCompress to prevent HandOrbit around Handle
-        - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
+        - Useful when walking down slope like PolePlant in PanBETA(SkiAlpineBeta)
             - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 
 ## Related 🟩EKOS

@@ -53,7 +53,7 @@ Such traits include:
 ### MOTONFrequency
 
 - HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice Planters are greater than 1.
-- When there are multiple MOTONAlternatives, efficient when the MOTON with the lower BetaDifficulty is more frequent than an AlternativeMOTON with a higher MOTONDifficulty. ExperiencedPlanters are performing easier Beta than NovicePlanter. BetaExecution
+- When there are multiple Aktion.Alternatives, efficient when the MOTON with the lower BETA.Difficulty is more frequent than an AlternativeMOTON with a higher MOTONDifficulty. ExperiencedPlanters are performing easier BETA than NovicePlanter. BETA.Execution
 
 - "Guide.Why.Productivity"
 - "Guide.Why.Productivity.Efficiency"

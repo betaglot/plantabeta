@@ -1,6 +1,6 @@
-# <span class="beta">Beta Objects</span>
+# <span class="beta">BETA Objects</span>
 
-The objects of Beta are people.
+The objects of BETA are people.
 
 ## <span class="beta">Planter</span>
 

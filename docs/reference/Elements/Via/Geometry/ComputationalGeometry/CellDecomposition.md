@@ -1,12 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-// BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "CellDecomposition"
+
 </script>
 
-# <BB labor="Jump" soma="Korpo" />
+# 🔻<span class="via">Cell Decomposition</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -17,9 +20,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- VerticalJump PanBETA(HighJump)
-- HorizontalJump PanBETA(LongJump)
-
-- "Aktion.LegAktion.Jump"
+-
 
 :::

@@ -62,7 +62,7 @@ Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the spee
 
 ## Cohort
 
-Teaching TeamBeta is more practical than individuals
+Teaching TeamBETA is more practical than individuals
 
 ## Teaching Block, Teaching Piece
 
@@ -76,7 +76,7 @@ Marka the stations
 
 Submit image of drawing for testing
 
-- Draw a BetaDiagram
+- Draw a BETA_Diagram
 
 ## Video Analysis
 
@@ -84,7 +84,7 @@ To understand what's going on in the Planter video
 
 ### VideoLabelling
 
-Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMOTON
+Fundamental BETA_Unit of PlantaBETA is between HoleCloses... after the StartHole which is preceded by CacheMOTON
 
 Parse into events
 

@@ -1,6 +1,6 @@
 ---
 search: false
 ---
-# 🔷🔷 BetaIntensity
+# 🔷🔷 BETA_Intensity
 
 ## Quote

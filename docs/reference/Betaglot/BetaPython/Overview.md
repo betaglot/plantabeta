@@ -1,6 +1,6 @@
-# 🌈 <span class="beta">Plantbeta</span>
+# 🌈 <span class="beta">PlantaBETA</span>
 
-Plantbeta is the Python package which is used to formally write Beta.
+PlantaBETA is the Python package which is used to formally write BETA.
 
 ## Philosophy
 
@@ -89,7 +89,7 @@ Instantiate and EkoElement with an empty string for Via
 
 ## Methods
 
-See BetaMethods
+See BETA_Methods
 
 ```py
 def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBoolean: bool):
@@ -195,13 +195,13 @@ except
 
 PlantaBETA is the website
 
-You don't need to communicate Beta all the time, but when you do, PlantaBETA helps you to communicate it.
+You don't need to communicate BETA all the time, but when you do, PlantaBETA helps you to communicate it.
 
-Beta is the syntax
+BETA is the syntax
 
 MOTONs are the objects and functions
 
-Plantbeta can be used in Planting and Climbing, on PlantaBETA.com and KLIMBETA.com
+PlantaBETA can be used in Planting and Climbing, on PlantaBETA.com and KLIMBETA.com
 
 ## Syntax Highlighting
 
@@ -209,15 +209,15 @@ Plantbeta can be used in Planting and Climbing, on PlantaBETA.com and KLIMBETA.c
 
 ### Vue.js
 
-- Beta as XML tags used in BetaDiagram. Use Vue to create a custom component for each BetaElement
+- BETA as XML tags used in BETA_Diagram. Use Vue to create a custom component for each BETAElement
 
-Render a `BetaList[]` as Vue components
+Render a `BETAList[]` as Vue components
 
 #### Input
 
 ```py
 
-BetaList = [
+BETA_List = [
     Cover,
     Climb,
     Log,
@@ -225,7 +225,7 @@ BetaList = [
     ArmPut
 ]
 
-for object in BetaList:
+for object in BETA_List:
     VueRender(object)
 
 ```

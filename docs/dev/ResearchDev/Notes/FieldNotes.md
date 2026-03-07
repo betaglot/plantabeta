@@ -220,7 +220,7 @@ search: false
     - Kart
         - StartWithEasy: Prefabricated wheels from used Bikes.
 - 4.02
-    - Show not tell. Demonstrate the incorrect Beta, then Atlete chooses the correct Beta
+    - Show not tell. Demonstrate the incorrect BETA, then Atlete chooses the correct BETA
         - Reductio ad absurdum (Latin for "reduction to the absurd") is a logical argument that disproves a proposition by showing that its acceptance leads to absurd or contradictory conclusions
     - Show can start with an Ask, tell doesn't
 - 4.03
@@ -238,8 +238,8 @@ search: false
             - How to ensure that Planters are using the minimum force required, so that they don't get PatellarTendonitis?
         - Ratio(Instructor: Planter) is an Instruction Constraint
 - 4.05
-    - PanBeta Session
-        - Gather in a room to discuss PanBeta for PlantaBETA.
+    - PanBETA Session
+        - Gather in a room to discuss PanBETA for PlantaBETA.
 - 4.06
     - Kuboi\RiskOfError
     - Kuboi\RiskOfFailure
@@ -386,7 +386,7 @@ search: false
     - SpadeSlam.DuckStep leg offsets Spade's forces like Ballet
     - BaseOnda to perpetuate motion like TED-ED Ballet Fouette
 - 5.11
-    - FireBeta
+    - FireBETA
         - CreamMoss
         - Bryophyte grows on the soil exposed by fire
     - How to plant a stump hollow?

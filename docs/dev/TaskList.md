@@ -58,15 +58,15 @@ Connect Academia to PlantaBETA by linking to each field's current understanding.
 
 ---
 
-## BetaApp
+## BETA_App
 
-### BetaParser
+### BETA_Parser
 
 - Vue
 
 ---
 
-### BetaEditor
+### BETA_Editor
 
 - Vue
 
@@ -92,10 +92,7 @@ Connect Academia to PlantaBETA by linking to each field's current understanding.
 
 #### Header
 
-- Profile Picture
-    - Edit video into GIFs for each BetaElement's profile picture
-
-#### BetaGraph
+#### BETARETE
 
 - Add Data
 

@@ -1,8 +1,8 @@
-# BetaDialog
+# BETA_Dialog
 
-Aliases: BetaSpeech
+Aliases: BETA_Speech
 
-Speaking Beta
+Speaking BETA
 
 Dialog can actually be a Monolog
 
@@ -14,7 +14,7 @@ This will need to be a VueComponent
 
 The Dialog is usually on Center
 
-Swap between BetaPy, Natural Language and NaturalLanguage with ElementNames.
+Swap between BETA_Py, Natural Language and NaturalLanguage with ElementNames.
 
 ## Elements of Dialog Script
 

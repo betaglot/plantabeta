@@ -1,30 +1,30 @@
-# Panbeta
+# PanBETA
 
-> Beta across the world
+> BETA across the world
 
-## Transfer your Beta from other Sports into Planting
+## Transfer your BETA from other Sports into Planting
 
-Beta can give your life meaning if you apply it to planting
+BETA can give your life meaning if you apply it to planting
 
-PanBeta
+PanBETA
 
-Portability is an essential quality of Betaglot
+Portability is an essential quality of BETAGLOT
 
 David Macaulay
 
 Import
 
-- Port your Beta ability from a BetaSport into Planting
+- Port your BETA ability from a BETASport into Planting
 
-## What is a <span class="beta">BetaSport</span>
+## What is a <span class="beta">BETA_Sport</span>
 
-- BetaSports don't contain Antagonists, therefore all allow Kindness between participants
+- BETA_Sports don't contain Antagonists, therefore all allow Kindness between participants
 
-## 🌈 Archery (ArcheryBeta)
+## 🌈 Archery (ArcheryBETA)
 
-## 🌈 Basketball (BasketballBeta)
+## 🌈 Basketball (BasketballBETA)
 
-TeamBeta
+TeamBETA
 
 Lines
 
@@ -42,16 +42,16 @@ Passing
     - Planted trees are like teammates in play diagrams
 - MOTONPhrase
 
-## ### <span class="beta">BikeBeta</span>
+## ### <span class="beta">BikeBETA</span>
 
 - Bike beta benefits Montreal
-- UrbanBike Beta is probably the most dangerous implementation of Beta
+- UrbanBike BETA is probably the most dangerous implementation of BETA
 
 - <https://www.pactimo.com/blogs/cycling-people-places-things/glossary-of-cycling-terminology>
 
-## 🌈 Freestyle BMX (BmxBeta)
+## 🌈 Freestyle BMX (BmxBETA)
 
-## 🌈 Boxing (BoxingBeta)
+## 🌈 Boxing (BoxingBETA)
 
 - BranchDeflection
 - HeadBob
@@ -60,11 +60,11 @@ Passing
 - FootClose
     - StompClose
 
-## 🌈 BreakDance (HipHopBeta)
+## 🌈 BreakDance (HipHopBETA)
 
-## 🌈 CalisthenicBeta
+## 🌈 CalisthenicBETA
 
-## 🌈 Canoe (CanoeBeta)
+## 🌈 Canoe (CanoeBETA)
 
 - Paddle = Spade
     - SpadeSkreef is like taking a forward stroke or a draw stroke with a canoe paddle
@@ -74,84 +74,84 @@ Passing
 
 ## 🌈 Climbing (KLIMBETA)
 
-## 🌈Cooking (CookBeta)
+## 🌈Cooking (CookBETA)
 
-## 🌈 Diving (DiveBeta)
+## 🌈 Diving (DiveBETA)
 
-## 🌈 Farming (FarmBeta)
+## 🌈 Farming (FarmBETA)
 
 - StockHandling
 - HayBale TreeBox  
 - BoustroCover
 
-## 🌈 Figure Skating (FigureSkatingBeta)
+## 🌈 Figure Skating (FigureSkatingBETA)
 
-## 🌈 Footbag (FootbagBeta)
+## 🌈 Footbag (FootbagBETA)
 
-## 🌈 Football (FootballBeta)
+## 🌈 Football (FootballBETA)
 
 ::: warning FIFA football not NFL football
 :::
 
-## 🌈 Golf (GolfBeta)
+## 🌈 Golf (GolfBETA)
 
-## 🌈 Hockey (PuckBeta)
+## 🌈 Hockey (PuckBETA)
 
 Puck not Hockey since Hockey requires Antagonists
 
 - Deep squat while leaning into turn.
 
-### TeamBeta in Hockey
+### TeamBETA in Hockey
 
 - DumpAndChase
 - AttackTriangle
 - TheTrap, the Trapezoid
 - Play diagram
 
-## 🌈 Javelin (JavelinBeta)
+## 🌈 Javelin (JavelinBETA)
 
-## 🌈 Juggling (JugglingBeta)
+## 🌈 Juggling (JugglingBETA)
 
-## 🌈 Kayak (KayakBeta)
+## 🌈 Kayak (KayakBETA)
 
-## 🌈 Kirkos (KirkosBeta)
+## 🌈 Kirkos (KirkosBETA)
 
-> The Beta of Traveling Rings
+> The BETA of Traveling Rings
 
-## 🌈 Landscaping (LandscapingBeta)
+## 🌈 Landscaping (LandscapingBETA)
 
 - Lawn Mower uses Via
     - <https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/>
     - BoustroCover
 
-## 🌈 LegoBeta
+## 🌈 LegoBETA
 
-> The Beta of constructing Lego and the Betomiks of the Lego assembly instructions
+> The BETA of constructing Lego and the Betomiks of the Lego assembly instructions
 
-IKEA Beta
+IKEA BETA
 
-## 🌈 LongJump (LongJumpBeta)
+## 🌈 LongJump (LongJumpBETA)
 
-## 🌈 Luge (LugeBeta)
+## 🌈 Luge (LugeBETA)
 
-## 🌈 MusicBeta
+## 🌈 MusicBETA
 
-> The Beta of playing instruments, conducting and the ANIMA of BetaComposition
+> The BETA of playing instruments, conducting and the ANIMA of BETA.Composition
 
-## 🌈 Painting (PaintBeta)
+## 🌈 Painting (PaintBETA)
 
-## 🌈 Parkour (ParkourBeta)
+## 🌈 Parkour (ParkourBETA)
 
-## 🌈 Pole Vault (PoleVaultBeta)
+## 🌈 Pole Vault (PoleVaultBETA)
 
-## 🌈 Powerlifting (LiftBeta)
+## 🌈 Powerlifting (LiftBETA)
 
-## 🌈 Rugby (RugbyBeta)
+## 🌈 Rugby (RugbyBETA)
 
 - Gifs of Plays
     - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
 
-## 🌈 ScooterBeta
+## 🌈 ScooterBETA
 
 NitroCircus
 
@@ -163,15 +163,15 @@ Whip and rotate
 
 What is the name of the scooter's shaft?
 
-## 🌈 Sculpture (SculptBeta)
+## 🌈 Sculpture (SculptBETA)
 
-## 🌈 ShotPut (ShotPutBeta)
+## 🌈 ShotPut (ShotPutBETA)
 
-## 🌈 Skeleton (SkeletonBeta)
+## 🌈 Skeleton (SkeletonBETA)
 
-## 🌈 Aerial Skiing  (SkiAerialBeta)
+## 🌈 Aerial Skiing  (SkiAerialBETA)
 
-## 🌈 Alpine Skiing (SkiAlpineBeta)
+## 🌈 Alpine Skiing (SkiAlpineBETA)
 
 Slalom where you hit the gates is the most like planting.
 
@@ -189,15 +189,15 @@ Planting while your body is moving away or towards hole
 - Carving turns on steep slopes
     - CutBank
 
-## 🌈 Ski Jump (SkiJumpBeta)
+## 🌈 Ski Jump (SkiJumpBETA)
 
-## 🌈 Ski Moguls (MogulBeta)
+## 🌈 Ski Moguls (MogulBETA)
 
-## 🌈 Snowboard (SnowboardBeta)
+## 🌈 Snowboard (SnowboardBETA)
 
-## 🌈 SnowPark (SnowParkBeta)
+## 🌈 SnowPark (SnowParkBETA)
 
-## 🌈 Surfing (SurfBeta)
+## 🌈 Surfing (SurfBETA)
 
 [List of Tricks and Maneuvers](https://www.surfertoday.com/surfing/the-complete-list-of-surfing-tricks-and-maneuvers)
 
@@ -205,21 +205,21 @@ Maneuver
 
 Land=Wave
 
-## 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
+## 🟠<span class="motor">SurfBETA.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
 
-## 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
+## 🔻<span class="via">SurfBETA.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
 
-## 🌈 Swimming (SwimBeta)
+## 🌈 Swimming (SwimBETA)
 
-## 🌈 Trampoline (TrampBeta)
+## 🌈 Trampoline (TrampBETA)
 
-## 🌈TransitBeta
+## 🌈TransitBETA
 
 Standing in line for a bus is Via
 
 On the streets, on campus, in airports, in public transit
 
-## 🔻<span class="via">TransitBeta.VIA</span>
+## 🔻<span class="via">TransitBETA.VIA</span>
 
 - weave
 - s curve
@@ -258,28 +258,28 @@ On the streets, on campus, in airports, in public transit
 - diverge
 - collision
 
-## 🌈 Yoga (YogaBeta)
+## 🌈 Yoga (YogaBETA)
 
 ---
 
 ::: details &
 
-- Betasports require kindness. You can't be a kind antagonist (Opposition != Antagonist)
-- MusicBeta: Elements of Music
+- BETA_sports require kindness. You can't be a kind antagonist (Opposition != Antagonist)
+- MusicBETA: Elements of Music
     - Proposition, Definition, Teorem, Problem
 - Wushu
 - Golden Age of Planting
-- Natural language is ANIMA not Beta
-- Beta diagram of each interdisciplinary, show where each of the modules is on their
+- Natural language is ANIMA not BETA
+- BETA diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become Planters. The Instructor already has rapport with the Planters before the season starts and the Planters have already become friends.
-- Betaglot needs to be able to translate into and from Mentalese
-- Betaglot MOTONs use OtherSportBeta
-    - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
+- BETAGLOT needs to be able to translate into and from Mentalese
+- BETAGLOT MOTONs use OtherSportBETA
+    - Apex of SpadeSlam is TrampBETA while Spade impact is DiveBETA. SpadeSwing is RingsBETA. Legs are doing DanceBETA Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
     - ElementGraph is not just MOTON, nodes can be any of the Faktors. Ekon branches down into ANIMA or move
-- CheerBeta see Dallas Cowboys Cheerleaders
-- (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
+- CheerBETA see Dallas Cowboys Cheerleaders
+- (BETAQuotient)InsteadOf(BETAIndex,BETAMETRON)
 :::

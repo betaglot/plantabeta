@@ -1,10 +1,10 @@
-# BetaCode
+# BETA_Code
 
-<!-- Remember that BetaCode is what the Athletes and Betatekts see, not how Beta is represented in BetaPython. In BetaPython, the notation is represented as JSON. BetaCode is Pseudocode. -->
+<!-- Remember that BETA_Code is what the Athletes and BETAtekts see, not how BETA is represented in BETAPython. In BETAPython, the notation is represented as JSON. BETA_Code is Pseudocode. -->
 
 ## Mimicry
 
-BetaCode extends ScratchCode
+BETA_Code extends ScratchCode
 
 Labanotation
 
@@ -18,7 +18,7 @@ Climbing Topo
 
 Python Code
 
-## BetaCode uses Python Syntax combined with Scratch and XML
+## BETA_Code uses Python Syntax combined with Scratch and XML
 
 ### XML
 
@@ -32,17 +32,17 @@ Startband finish tags
 
 Loops
 
-### BetaBlock
+### BETA_Block
 
 Outlining, Chunking, Blocking
 
 When a name is used in a code block, it is resolved using the nearest enclosing scope. The set of all such scopes visible to a code block is called the block’s environment.
 
-A BetaBlock's environment.
+A BETA_Block's environment.
 
-LocalEko: PocketHold
+LocalEkos: PocketHold
 
-GlobalEko: OverhangWall
+GlobalEkos: OverhangWall
 
 ## Calling
 

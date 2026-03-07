@@ -1,23 +1,23 @@
-# Beta Communication
+# BETA_ Communication
 
-## Beta Communication Types
+## BETA_ Communication Types
 
-- BetaList
+- BETA_List
     - Numbered list where each row is a Moment
-    - Use BetaglotColors
+    - Use BETAKROME
 - Betomiks
-    - Comics of Beta
-- BetaCode (for 🛠Devs only)
+    - Comics of BETA_
+- BETA_Code (for 🛠Devs only)
     - Using Python as a shorthand
         - Allows VScode Autocomplete
-        - Each function prints a list or you can read the Python script as literal. LiteralBetaCode isn't very accessible, since you need to understand Python Syntax.
+        - Each function prints a list or you can read the Python script as literal. LiteralBETA_Code isn't very accessible, since you need to understand Python Syntax.
     - A Python Library
         - Database
             - To use as an Index
             - As a repository of information which is accessible via an API.
                 - SQLite
         - Methods
-            - Create all BetaCommunication Types and translate one from another
+            - Create all BETA_Communication Types and translate one from another
 
 ---
 

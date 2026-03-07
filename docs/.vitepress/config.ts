@@ -940,7 +940,7 @@ function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/ExamplesOverview' },
     { text: 'Planter Questions', link: '/examples/PlanterQuestions' },
-    { text: '2k of Beta', link: '/examples/2kBeta' },
+    // { text: '2k of Beta', link: '/examples/2kBeta' },
   ]
 }
 

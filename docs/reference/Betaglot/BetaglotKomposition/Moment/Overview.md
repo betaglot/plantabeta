@@ -48,12 +48,12 @@ a moment has duration, an instant does not
 
 ## What about 3 simultaneous Faktors
 
-- PolyBeta
-- DiBeta
-- MonoBeta
-- PolyBeta can change every BetaMoment
-- TriBeta
-- TetraBeta
+- PolyBETA
+- DiBETA
+- MonoBETA
+- PolyBETA can change every BETAMoment
+- TriBETA
+- TetraBETA
 
 ## Moment of Truth
 

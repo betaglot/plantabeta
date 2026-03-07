@@ -1,6 +1,6 @@
-# <span class="beta">BetaDataAnalysis</span>
+# <span class="beta">BETALYSER</span>
 
-## Beta Frequency
+## BETA Frequency
 
 Walk is the most frequent top level move
 
@@ -8,4 +8,4 @@ Walk is the most frequent top level move
 
 The Pareto Principle states that 80% of consequences come from 20% of the causes.
 
-To focus teaching the most frequent Beta during pedagogy sequence.
+To focus teaching the most frequent BETA during pedagogy sequence.

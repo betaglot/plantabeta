@@ -17,7 +17,7 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- PanBeta(BJJ, [PistolMano, SleeveMano, PocketMano])
+- PanBETA(BJJ, [PistolMano, SleeveMano, PocketMano])
 
 - "Aktion.CacheAktion.TarpOn"
 :::

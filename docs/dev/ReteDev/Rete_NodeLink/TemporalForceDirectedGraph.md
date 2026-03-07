@@ -6,7 +6,7 @@ With Labels
 
 > A ForceDirectedGraph which changes over time
 
-- To show how the BetaInstance's Skema changes in a Sequence
+- To show how the BETARETE changes in a Sequence
 
 ## Syntax
 
@@ -25,7 +25,7 @@ With Labels
 
 ### NodeColor
 
-- How to Color the nodes with BetaKroma
+- How to Color the nodes with BETAKROME
 
 ### NodeDiameter
 

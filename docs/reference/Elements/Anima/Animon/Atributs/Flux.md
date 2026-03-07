@@ -23,7 +23,7 @@ Connection Score
 
 ## 🟠<span class="motor">MOVE.Flux</span>
 
-### <span class="beta">PanBeta</span>
+### <span class="beta">PanBETA</span>
 
 (GymBeta, SkateBeta): ConnectionScore
 

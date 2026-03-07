@@ -7,14 +7,22 @@ search: false
 
 ## Typography
 
-### Capitalized words
+### CAPITALIZED words (ALL_CAPS)
 
 Do not capitalize the plural "s" suffix
 
 - ELEMENT, ELEMENTs
+
+- BETATEKT, BETATEKTs
+- BETOMIK, BETOMIKs
 - BETAGLOT, BETAGLOTs
 - BETA, BETAs
 - BETOM, BETOMs
+- BETARETE, BETARETEs
+- BETARETOME, BETARETOMICS
+- BETAGLYF, BETAGLYFs, BETAGLYFED
+- BETAKROME, BETAKROMED
+
 - LABOR
 - SOMA
 - EKOS
@@ -43,11 +51,11 @@ Do not capitalize the plural "s" suffix
 
 > The writer can see something that the reader has not yet noticed, and he orients the reader's gaze so that she can see it for herself.
 
-You're already performing beta elements, you've just never labelled them before.
+You're already performing BETA elements, you've just never labelled them before.
 
-Beta is a description
+BETA is a description
 
-They are currently capable of performing all beta, there are no prerequisites to performing beta. Know how beta works requires knowledge of many fields of science: geology, kinesiology, biology, psychology, physics, meteorology...
+They are currently capable of performing all BETA, there are no prerequisites to performing BETA. Know how BETA works requires knowledge of many fields of science: geology, kinesiology, biology, psychology, physics, meteorology...
 
 Steven Pinker [The Sense of Style: A Thinking Person's Guide to Writing in the 21st Century](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
 
@@ -186,7 +194,7 @@ Periods
 
 Ikons are only used to represent Objects or Functions.
 
-### (FaktorName + BetaIkon)
+### (FaktorName + BETA_Ikon)
 
 Initials like ByrneEuklid
 
@@ -211,7 +219,7 @@ Only the 🟠<span class="motor">Arm</span> object is prefixed with an ikon. Arm
 
 ### PlantaBETA_IKON
 
-KlimBeta has its own Ikon too
+KlimBETA has its own Ikon too
 
 BETAGLOT too
 

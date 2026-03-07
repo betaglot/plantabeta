@@ -3,7 +3,7 @@ search: false
 ---
 # Composition Score
 
-To increase the weight of creativity in the BetaScore, the way tha Beta Elements are linked together is scored.
+To increase the weight of creativity in the BETA_Score, the way tha BETA Elements are linked together is scored.
 
 > **Choreography**
 
@@ -25,7 +25,7 @@ Sequence of Phrases
 
 Combination
 
-## Beta Composer
+## BETA Composer
 
 Orchestration
 
@@ -48,10 +48,10 @@ Sonata Structure
 ## Which BETATLON Types use Composition Score?
 
 - BETAKOSMOS
-- BetaBattle
+- BETA_Battle
 - BETASYNERGY
-- Betatekton
-- BetaDance
+- BETATEKT
+- BETA_Dance
 
 Competitions with a fixed Route, like BETATERMA competitions, don't have a CompositionScore since there the <span class="labor">Route</span> greatly limits the range of possible movements.
 

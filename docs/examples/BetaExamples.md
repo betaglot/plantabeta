@@ -2,7 +2,7 @@
 search: false
 ---
 
-# 🌈 <span class="beta">Beta Examples</span>
+# 🌈 <span class="beta">BETA Examples</span>
 
 ## <span class="beta">"<span class="via">Follow that <span class="ekos">stream</span> up to the <span class="ekos">top corner</span> <span class="anima">then</span> go left and BoustroCover </span> <span class="anima">then</span> <span class="motor">walk </span>back to cache"</span>
 
@@ -58,7 +58,7 @@ search: false
 
 💜<span class="anima">"When": Event</span>
 
-<span class="beta">"we": TeamBeta</span>
+<span class="beta">"we": TeamBETA</span>
 
 🔻<span class="via">"get to": Point</span>
 
@@ -68,7 +68,7 @@ search: false
 
 ## <span class="beta"><span class="motor">Step</span>.<span class="via">Over</span>(<span class="ekos">Log</span>)</span>
 
-is not a move, it is Beta since it is composed of 3 modules:
+is not a move, it is BETA since it is composed of 3 modules:
 
 🟠<span class="motor">Step()</span>
 
@@ -117,9 +117,5 @@ is not a move, it is Beta since it is composed of 3 modules:
 ## <span class="beta">Get to the back of the piece then start backfilling</span>
 
 -
-
-- "Beta.BetaExamples"
-- "Beta.BetaExamples.BetaQuote"
-- "Beta.BetaVideo"
 
 :::

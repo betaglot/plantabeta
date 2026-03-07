@@ -25,7 +25,7 @@ search: false
 - StraightArm
 - BoxChain
     - Bucket Brigade
-    - TeamBeta
+    - TeamBETA
 - CreaseMano(BoxEdge)
 - HandBump along BoxEdge or BoxSide
 - (ChestSmear + ArmAcuteFlexion + ArmMedialPull)

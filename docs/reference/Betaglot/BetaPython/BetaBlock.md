@@ -1,18 +1,18 @@
-# <span class="beta">BetaBlock</span>
+# <span class="beta">BETA_Block</span>
 
 Code Block
 
-## BetaLoop
+## BETA_Loop
 
-Loop through the BetaModules
+Loop through the BETA_Modules
 
 EKOS to VIA to MOTOR then back to EKOS, the arrows are ANIMA
 
 Noticing labelling
 
-Litany of BETA
+Litany of BETA_
 
-BetaLoopMantra
+BETA_LoopMantra
 
 1. Tree
 2. Site

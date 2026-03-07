@@ -33,14 +33,14 @@ ToReduceUnknowns
 - Get into the correct state of mind
 - Get in the zone
 
-## BetaCollaboration
+## BETA_Collaboration
 
 - ClimbingAsGroup
     - Spotter
         - Observation
             - Spotters are always watching.
         - Boulders usually need a Spotter.
-- Boulderers often climb in a group and share Beta.
+- Boulderers often climb in a group and share BETA.
 
 ---
 

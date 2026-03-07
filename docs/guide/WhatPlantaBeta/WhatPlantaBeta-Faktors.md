@@ -2,7 +2,7 @@
 
 ![Betaglot-Logo](/Betaglot-Logo.png)
 
-As you can see, are **six** colors in <span class="beta">KlimBeta</span> which corresponds to the **six** <span class="text-h5">Faktors</span> of <span class="beta">KlimBeta</span>
+As you can see, are **six** colors in <span class="beta">PlantaBETA</span> which corresponds to the **six** <span class="text-h5">Faktors</span> of <span class="beta">PlantaBETA</span>
 
 <div>
 <div class="text-center my-2 text-h4 labor">⭐ LABOR ⭐</div>

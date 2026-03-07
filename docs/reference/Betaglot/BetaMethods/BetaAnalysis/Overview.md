@@ -1,4 +1,4 @@
-# Beta Analysis
+# BETALYSIS
 
 ## From AI
 

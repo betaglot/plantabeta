@@ -12,10 +12,10 @@ This should be a Chart
 
 ## 1. Gather Data
 
-- Ask another Atlete for Beta
-- Observe another Atlete's Beta
+- Ask another Atlete for BETA
+- Observe another Atlete's BETA
 - Look at all parts of the Eko
-- See the Beta in Eko
+- See the BETA in Eko
 - Look at the Eko
 
 > "Scope it out"
@@ -46,22 +46,22 @@ You can know the <span class="via">Route</span> before you know the Move.
 
 - Educated guess
 - Create a Hypothesis about what to do
-    - You don't need to copy another Atlete's Beta exactly. Always adapt it to yourself
+    - You don't need to copy another Atlete's BETA exactly. Always adapt it to yourself
 
 ## 3. Test
 
 > a way of discovering, by questions or practical activities, what someone knows, or what someone or something can do or is like
 
-- Practice the Beta in your mind
-- Practice the Beta in Eko
+- Practice the BETA in your mind
+- Practice the BETA in Eko
 
 ## 4. Analysis
 
 > the act of studying or examining something in detail, in order to discover or understand more about it, or your opinion and judgment after doing this
 
 - Why did this not work?
-- What could choose different Elements to make this Beta easier?
-- How could you change the attributes of this Beta to make it easier?
+- What could choose different Elements to make this BETA easier?
+- How could you change the attributes of this BETA to make it easier?
 
 Analyze the results of the Test
 
@@ -69,7 +69,7 @@ Analyze the results of the Test
 
 > the activity in which people talk about something and tell each other their ideas or opinions
 
-ShareBeta
+ShareBETA
 
 Collaboration
 
@@ -77,10 +77,10 @@ Collaboration
 
 > the opinion you have after considering all the information about something:
 
-### Adapt Beta = New Hypothesis
+### Adapt BETA = New Hypothesis
 
-### Find another Beta to try
+### Find another BETA to try
 
-- If the Beta is not possible for you then move on.
+- If the BETA is not possible for you then move on.
 
-## 6. Link to other Beta
+## 6. Link to other BETA

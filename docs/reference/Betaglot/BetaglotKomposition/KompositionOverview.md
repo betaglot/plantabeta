@@ -1,6 +1,6 @@
 # KOMPOSITION
 
-> a collection of Beta
+> a collection of BETA
 
 ## Parts of Komposition
 

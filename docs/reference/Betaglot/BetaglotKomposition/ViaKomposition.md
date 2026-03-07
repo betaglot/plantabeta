@@ -25,8 +25,8 @@ NormalForce vector is a parameter in area suitability computation Selection
 ::: details &
 
 - What is the difference between a composition and an Element?
-    - All of the elements are PanBeta
-    - The compositions are Beta, they require Eko.
+    - All of the elements are PanBETA
+    - The compositions are BETA, they require Eko.
 
 - DivPlanting
 

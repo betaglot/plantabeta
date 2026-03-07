@@ -50,7 +50,7 @@ search: false
 - Learn how to harvest seeds
 - <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
 <!-- - <BB labor='Spade.Spike'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods -->
-- Myriad of Beta should be a DataTable to allow filtering and local search
+- Myriad of BETA should be a DataTable to allow filtering and local search
 <!-- - SpineFlexion pulls bellow open. SpineExtension presses air out -->
 <!-- - Precipice Prominence -->
 <!-- - Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil -->
@@ -124,9 +124,9 @@ search: false
 <!-- - Fold Markum into figure 4 -->
 <!-- - Spade Peck -->
 <!-- - Plant triads instead of triangles -->
-- VillaBeta
+- VillaBETA
 - Day Off Map of Penticton
-- Ask Guides agac? Of Canada about Layering and other Beta
+- Ask Guides agac? Of Canada about Layering and other BETA
 <!-- - BootFender -->
 <!-- - BlueWax -->
 <!-- - Rugby Goose Step -->
@@ -139,7 +139,7 @@ search: false
 <!-- - Gray honey paint tryptic at NAG -->
 - Norah isochrone
 - Bonsai instead of toddler trees
-- are you interested in Beta testing PlantaBETA?
+- are you interested in BETA testing PlantaBETA?
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 - Unit instead of team
 <!-- - You have the money for PlantaforDev -->
@@ -234,7 +234,7 @@ search: false
 - 2$ for anyone that can provide evidence from a scientific paper
 - Start doing fastBagOuts to experiment with Stoicism for Anima
 - Minute physics mountain valley illusion for Ekon Form
-- SpadeDribble PanBeta(Basketball)
+- SpadeDribble PanBETA(Basketball)
 <!-- - Cherries fluffing neon packing error -->
 <!-- - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better -->
 <!-- - Quality decreases at the end of day -->
@@ -281,7 +281,7 @@ search: false
 - Raw is a continuum
 <!-- - SpadeLeg and ArmOnda and Spade.Aktion at same time
     - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion   -->
-- Gather data for Betaglot
+- Gather data for BETAGLOT
     - Strava
     - GoPro
 <!-- - Record Spade.Aktion with drawings
@@ -359,7 +359,7 @@ search: false
 - Heuristic then algorithm
     - If: Plant the low spots
     - Else: use a proposition
-- What is an open ended version of "Does that make sense?". TeamBeta
+- What is an open ended version of "Does that make sense?". TeamBETA
     - PodTuck naturally angles the Neons in Silvi
     - Bunching
     - Angled Down to anterior decreases probability of neons slipping out during bend over
@@ -443,8 +443,8 @@ search: false
     - Relax breathe and plant
     - 3:15
     - <https://youtu.be/F5MODFj28oU?feature=shared>
-- BetaSelection
-    - Injury weights the BetaAlternatives
+- BETA_Selection
+    - Injury weights the BETA_Alternatives
     - Knee injury increases the weight of ManoKlose
 <!-- - Error.KitTransport
     - Things swinging while you walk
@@ -481,7 +481,7 @@ search: false
     - When your sleeve getting jammed
     - Sleeve or pant
 - ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers -->
-<!-- - TeamBeta
+<!-- - TeamBETA
     - Leader
     - Captain
     - Quarterback
@@ -557,7 +557,7 @@ search: false
 - Strategy is a stream of decisions
     - Where do I go next?
     - How much should I bag up? -->
-<!-- - TeamBeta: Pressure
+<!-- - TeamBETA: Pressure
     - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
     - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers. -->
 - Videos explaining how an Image  or video represents Via
@@ -568,7 +568,7 @@ search: false
     - Is this different from asking about Betom Frequency?
     - A climber's IdioBetaRete grows as they learn. Preferential Attachment to the hubs that they already have. Slab climbers get more growth at Prokline clusters than Rekline. A well rounded climber has more hubs? -->
 - PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
-- Error,TeamBeta = Smother
+- Error,TeamBETA = Smother
     - Smother = BoxedIn
 - How does a device relate to tactics? A device can be abstract or concrete
 - PlantaBETA.Strategy: Simplify things
@@ -577,14 +577,14 @@ search: false
 - The opposite of Strategic is Aggressive
 <!-- - Taktik
     - All Taktiks are Aktions, but not all Aktions are Taktikal -->
-<!-- - PlantaBETA.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+<!-- - PlantaBETA.Strategy: TeamBETA is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
     - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking. -->
 - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
 - PlantaBETA: Phases Fases: Opening, Middle, End
-- ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA
+- ChessBETA: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA
 <!-- - Taktik: Desperado
     - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece. -->
 - KKR: Share anything that you've published in Academia or Journalism  
@@ -593,7 +593,7 @@ search: false
 - Reddit: Are you able to dance while planting
 - Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant
 - Slush is mud. Video of you walking in slush
-- Hurdle is like Spade over Stump in BeachBeta video
+- Hurdle is like Spade over Stump in BeachBETA video
 - KKR: Cattle Plant Strategy
     - PlantaBETA climate
     - tree quality
@@ -663,8 +663,8 @@ search: false
     - do you want to get injured?
 - Climate Change will take less time than the tree needs to grow large enough to be cut down
     - In 30 years nobody will want to cut it down
-- PlantaBETA: To plant efficiently and effectively by using Beta
-    - Beta implies Strategy, but not every Betom
+- PlantaBETA: To plant efficiently and effectively by using BETA
+    - BETA implies Strategy, but not every Betom
 <!-- - Taktik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange -->
 <!-- - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next. -->
@@ -721,10 +721,10 @@ search: false
     - Advantage isn't binary
     - Advantageous != Disadvantageous
     - Neutral ActualName
-- TeamBeta: allow for
+- TeamBETA: allow for
     - Allow for coplanter's VIA
-    - ChessBeta: Restrict to add pressure
-    - Minimize Pressure when TeamBeta
+    - ChessBETA: Restrict to add pressure
+    - Minimize Pressure when TeamBETA
 - Motor
     - In chess, tempo (plural: tempi) refers to a single turn or "unit of time" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.
     - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
@@ -741,11 +741,110 @@ search: false
 - Lane
     - Passing Lane
     - Stay in your lane
-    - TeamBeta
+    - TeamBETA
     - Defense Lane
     - To gain control of the area
 - Cut out your section
-    - TeamBeta
+    - TeamBETA
     - Claim your area
 - Hamiltonian path
 - Eulerian path
+- Reference Class Forecasting of PlantaBETA.com
+    - <https://anatomy.app/>
+- Kairos is affordance
+- Spade|HalfPipe, the part where the Skiier goes up the wall of the pipe, has air then returns back down is like <BB labor="Spade.Onda" via="Medial" motor="Dynamics"/>
+- Sequential graphs kinograms look like Graph Bus Topology
+- Team: Congestion
+- Strategy Backfire
+- Gesture
+    - Beckoning (come here)
+    - keep going
+    - go back
+- [Spade|Motoid] <https://en.wikipedia.org/wiki/Lissajous_curve>
+- Spade Stall
+    - Poi Staggered Stalls
+        - <https://www.youtube.com/watch?v=LtbMbOWrA-o>
+- Strategy: Proximal Motive, Ulterior Motive
+- Surprisal
+    - Claude Shannon's definition of self-information was chosen to meet several axioms:
+    - An event with probability 100% is perfectly unsurprising and yields no information.
+    - The less probable an event is, the more surprising it is and the more information it yields.
+    - If two independent events are measured separately, the total amount of information is the sum of the self-information of the individual events.
+- Reefer.Unload
+- PlantaBETAComDev Taktik
+    - Foot-in-the-door (FITD) technique is a compliance tactic that aims at getting a person to agree to a large request by having them agree to a modest request first
+- Sym is Simultaneous
+    - SymBetom
+    - SymElement
+    - Symultaneous
+- UnEnglishable
+    - Terrence McKenna
+- Labor: Flex, Soma: Somon.Flexed, Ekon: Ekon.Flexed, Via: Flexion
+- Millimeters remove the necessity of decimals of a Meter and therefore doesn't conflict with DotNotation Semantics
+- Seasons affects Ekosfera. Where are Seasons located within Geology?
+    - WetSeason
+    - SpringSeason
+    - WinterSeason
+    - AutumnSeason
+    - SummerSeason
+    - DrySeason
+- Walking, like graph theory, BETARETE is like running the code of BETAGLOT
+    - BETAGLOT isn't a linear language  
+- Plenus
+- Remove Woody from mineral soil config
+- [Dig|Hand] != [Dig|Arm]
+    - DigHand only has movement distal of wrist
+- Remove Plants and just use Flora
+- Move Dendron to Crop
+- Strategy
+    - Gains and losses
+    - What's the play
+- Strategy: Lay the groundwork for
+- Add Contempt to Emotion
+- Carry boxes like a portage. Wannigan
+    - <https://www.canadianoutdoorequipment.com/recreational-barrel-works-wannigan-harness.html?srsltid=AfmBOoozgFwxHHhYxo_dOVxk0oOMzyJBmVTfz1yTpijhVttA5UjC8AMm>
+- Remove hearts from Anima Config.Cognitions and others
+- That which isn't wrong isn't necessarily right
+- Trinity of Advantage
+    - Advantageous, Neutral, Disadvantageous
+    - 1,0,-1
+    - Positive, Neutral,Negative
+- Spade.Kryos is when you tighten your grip so the Handle doesn't rotate
+    - Kryos is used for aiming
+    - to control the posture of spade
+- Strategy: Play to win
+- If your trajectory is too close then side step to increase the distance while maintaining the same anterior direction. Like a juke
+- Vision: Parallax
+- Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT?
+- Efficiency of Knowledge
+    - Tractability
+    - Pragmatically efficient
+    - Resource efficiency
+- One Million at 7s is 714 hectares
+    - According to the most recent figures available in Statistics Canada's 2021 Census of Agriculture, the average farm size in Saskatchewan is about 714 hectares (or 1,766 acres ) — almost double the national average of about 327 hectares (or 809 acres).  
+- Team Pak
+    - Pack Etymology
+- Poll for options to method to explain PlantaBETA to Reddit
+- Do the math usually refers to logic. Do the logic. Analyze the logic
+- Strategic Ambitions
+- SpadeDev <ploughing@lemken.com> <https://lemken.com/en-en/agricultural-machines/soil-cultivation/ploughing/equipment/bodies>
+- PlantaCoach Get planters to buy. they initiate instead of management. Get a certain amount before going to a bush camp. Appointment Count
+- Emotionable
+    - Angerable
+    - Fearable
+    - Enjoyable
+    - Sadable
+    - Disgustable
+    - Anxietable
+    - Contemptible
+- Conemotion
+- Team-Taktik
+- Team-Taktik-Passage
+- (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half
+-
+-
+-
+-
+-
+-
+-

@@ -20,7 +20,7 @@ search: false
 - ArmLateralOnda
 - ArmUpOnda
     - FallRedirection
-        - PanBeta(SlacklineBeta)
+        - PanBETA(SlacklineBeta)
 
 - "Aktion.ArmAktion.ArmKurve"
 

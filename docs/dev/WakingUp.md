@@ -8,18 +8,18 @@ search: false
 <!-- What is the topic?
 Write an abstract to be posted along with phone screenshots of PlantaBETA.ca -->
 
-## Betaglot is PlantaBETA and KLIMBETA
+## BETAGLOT is PlantaBETA and KLIMBETA
 
-![TreeGraph_Betaglot_PlantaBETA_KLIMBETA]()
+![TreeGraph_BETAGLOT_PlantaBETA_KLIMBETA]()
 
-### What is Betaglot?
+### What is BETAGLOT?
 
-## Awareness in Betaglot
+## Awareness in BETAGLOT
 
 > Objects in awareness
 
 - Awareness to observe objects
-- Beta objects
+- BETA objects
 
 ### Non Dual Awareness
 
@@ -27,7 +27,7 @@ You are the beta
 
 #### Flow State
 
-## Kindness in Betaglot
+## Kindness in BETAGLOT
 
 ### Empathy
 
@@ -61,9 +61,9 @@ Frans de Waal
 
 -
 
-## 47 ways Waking Up is relevant to Betaglot
+## 47 ways Waking Up is relevant to BETAGLOT
 
-<!-- Don't limit to Plantbeta and KLIMBETA. These should be relevant to at least 3 BetaActivities -->
+<!-- Don't limit to Plantbeta and KLIMBETA. These should be relevant to at least 3 BETA_Activities -->
 
 ### 1: No competition
 

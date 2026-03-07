@@ -36,13 +36,13 @@ let elementName = "Team"
 
 - Pacer is easier than teacher
 
-- TeamBeta
+- TeamBETA
     - Leader
     - Captain
     - Quarterback
     - NOT necessarily by Seniority!
 
-- TeamBeta: Pressure
+- TeamBETA: Pressure
     - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
     - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers.
 

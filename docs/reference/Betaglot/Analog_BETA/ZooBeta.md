@@ -1,8 +1,8 @@
-# ZooBeta
+# ZooBET
 
-> Beta performed by non human animals
+> BETA performed by non human animals
 
-## KLIMBETA
+## KlimBETA
 
 Pan paniscus
 
@@ -12,7 +12,7 @@ Gibbon
 
 Monkey
 
-## Plantabeta
+## PlantaBETA
 
 Mole
 

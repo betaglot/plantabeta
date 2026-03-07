@@ -44,7 +44,7 @@ search: false
 - remind to download map in the morning while still in service
 - guide for maneuvering truck. Use room left hand split
 - leaving truck idling
-- ting your spade to get a Planters attention to avoid startling them. A ting a long distance away could only be a human and a ting closer to you is more startling than a ting a long distance away. People can tell how close a sound is, how? Weave in akademia, implicate akademia, Betaglot is a braid of opinion and objectivity
+- ting your spade to get a Planters attention to avoid startling them. A ting a long distance away could only be a human and a ting closer to you is more startling than a ting a long distance away. People can tell how close a sound is, how? Weave in akademia, implicate akademia, BETAGLOT is a braid of opinion and objectivity
 - how to give feedback for polyPlanter
 - i just want you to see what I'm seeing
 - spotter for truck

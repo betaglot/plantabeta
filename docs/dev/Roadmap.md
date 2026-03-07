@@ -75,7 +75,7 @@ Test novel Planter Instruments
 
 ## Future of Planting
 
-### Merge Planter Beta with Wildfire Fighter Beta
+### Merge Planter BETA with Wildfire Fighter BETA
 
 - Skreef
 

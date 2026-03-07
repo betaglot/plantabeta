@@ -25,7 +25,7 @@ search: false
     - Not all Hand Aktions are Grips, <BB labor="Slide" soma="Hand" />
 - SpadeMano and DendroMano
 - "Mano a Mano" hand to hand combat
-- [PanBeta(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-Manos-in-bjj>)
+- [PanBETA(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-Manos-in-bjj>)
     - 2Hand Manos are used during WalkIns and WalkOuts
         - Carrying [Tarps, CollapsedBoxes, Bags, WaterJugs]
     - CMano

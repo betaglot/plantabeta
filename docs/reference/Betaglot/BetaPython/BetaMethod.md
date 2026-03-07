@@ -1,6 +1,6 @@
-# <span class="beta">Beta Methods</span>
+# <span class="beta">BETA Methods</span>
 
-All BetaFunctions require at least 2 modules
+All BETA_Functions require at least 2 modules
 
 ## Call a Method
 
@@ -10,44 +10,44 @@ All BetaFunctions require at least 2 modules
 
 - Recall
 
-## <span class="beta">Ask(Beta)</span>
+## <span class="beta">Ask(BETA)</span>
 
 🟠<span class="motor">Speak()</span>
 
-## <span class="beta">Link(Beta)</span>
+## <span class="beta">Link(BETA)</span>
 
-> to combine BetaBlocks
+> to combine BETABlocks
 
-## <span class="beta">Record(Beta)</span>
+## <span class="beta">Record(BETA)</span>
 
-BetaDiagram
+BETADiagram
 
-BetaVideo
+BETAVideo
 
-## <span class="beta">Mime(Beta)</span>
+## <span class="beta">Mime(BETA)</span>
 
-> to demonstrate Beta with body language without actually performing the Beta
+> to demonstrate BETA with body language without actually performing the BETA
 
-## <span class="beta">Parse(Beta)</span>
+## <span class="beta">Parse(BETA)</span>
 
-> to convert BetaString into Plantbeta
+> to convert BETAString into Plantbeta
 
 Abstract Syntax Tree
 
-1. <span class="beta">BetaString</span>
+1. <span class="beta">BETAString</span>
     - "Step over the log"
 
 2. <span class="beta">Plantbeta</span>
     - Leg.Step.Over(Log)
 
-3. Separate into <span class="beta">BetaModules</span> (optional step)
+3. Separate into <span class="beta">BETAModules</span> (optional step)
     - 🟠<span class="motor">Leg.Step()</span>
     - 🔻<span class="via">Over</span>
     - 🟩<span class="ekos">Log</span>
 
-## <span class="beta">Give(Beta)</span>
+## <span class="beta">Give(BETA)</span>
 
-> to communicate Beta to another person
+> to communicate BETA to another person
 
 "One bag" can be a measurement of Time or Space
 
@@ -105,9 +105,9 @@ Trees/Time
 
 > to obtain something
 
-### <span class="beta">Get(Beta)</span>
+### <span class="beta">Get(BETA)</span>
 
-> to understand or hear some Beta
+> to understand or hear some BETA
 
 "Do you get it?"
 
@@ -144,16 +144,16 @@ Trees/Time
 
 - Negociate
 
-- "Beta.BetaFunction.AskBeta"
-- "Beta.BetaFunction.ChunkBeta.BetaChunk"
-- "Beta.BetaFunction.GetBeta"
-- "Beta.BetaFunction.GiveBeta"
-- "Beta.BetaFunction.LinkBeta"
-- "Beta.BetaFunction.MimeBeta"
-- "Beta.BetaFunction.Overview"
-- "Beta.BetaFunction.PerformBeta"
-- "Beta.BetaFunction.RecordBeta"
-- "Beta.BetaFunction.TestBeta"
+- "BETA.BETAFunction.AskBETA"
+- "BETA.BETAFunction.ChunkBETA.BETAChunk"
+- "BETA.BETAFunction.GetBETA"
+- "BETA.BETAFunction.GiveBETA"
+- "BETA.BETAFunction.LinkBETA"
+- "BETA.BETAFunction.MimeBETA"
+- "BETA.BETAFunction.Overview"
+- "BETA.BETAFunction.PerformBETA"
+- "BETA.BETAFunction.RecordBETA"
+- "BETA.BETAFunction.TestBETA"
 
 ---
 

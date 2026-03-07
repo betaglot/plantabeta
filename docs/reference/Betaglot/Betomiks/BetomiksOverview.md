@@ -4,7 +4,7 @@
 
 BETA can't be visualize using **only one** diagram
 
-There will always be information loss when betagramming real Beta.
+There will always be information loss when BETAGRAM real BETA.
 
 :::
 
@@ -16,7 +16,7 @@ There will always be information loss when betagramming real Beta.
 
 ### Paper into Page
 
-NovelBeta
+NovelBETA
 
 ### Page into Paper into Page
 

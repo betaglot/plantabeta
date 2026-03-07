@@ -21,6 +21,6 @@ search: false
 - SteepDeclineWalk
     - Use the Momentum from SteepDecline
     - Like how the chairlift chairs (or T-bar) whip up when they go around a corner
-- PanBeta(HammerToss, Discus)
+- PanBETA(HammerToss, Discus)
 
 :::

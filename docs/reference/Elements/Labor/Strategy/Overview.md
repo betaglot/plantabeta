@@ -24,7 +24,7 @@
         - Aktion: Drink Water
             - Tool: Bottle, (Watch OR Phone)
 
-- PlantaBETA.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+- PlantaBETA.Strategy: TeamBETA is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage

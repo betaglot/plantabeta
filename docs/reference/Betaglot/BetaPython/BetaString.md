@@ -1,8 +1,8 @@
-# <span class="beta">BetaString</span>
+# <span class="beta">BETA_String</span>
 
-People speak BetaStrings
+People speak BETA_Strings
 
-BetaStrings are in Natural Languages
+BETA_Strings are in Natural Languages
 
 Like JSON.stringify
 
@@ -12,7 +12,7 @@ Assign tasks as dicts
 
 ## Ellipsis
 
-BetaString continues
+BETA_String continues
 
 InceptionVault
 

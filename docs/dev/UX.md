@@ -13,7 +13,7 @@ What do the Atletes already know?
 
 ### GoPro
 
-- GoPros are used to record your Beta.
+- GoPros are used to record your BETA.
 - Video
 
 ### Phone
@@ -39,7 +39,7 @@ What do the Atletes already know?
 
 ### Physical Keyboard
 
-- When transcribing Beta it helps to have a Physical Keyboard so that all fingers can be used to type while maximizing the screen viewport
+- When transcribing BETA it helps to have a Physical Keyboard so that all fingers can be used to type while maximizing the screen viewport
 
 ## Search
 
