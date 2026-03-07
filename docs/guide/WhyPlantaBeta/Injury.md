@@ -2,7 +2,25 @@
 search: false
 ---
 
-# Prevent Injury
+# Reduce Injury
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- Weighted Doru for Antagonists. One bag up a day
+- Athleanx  reverse lunge is easier on knees into trenches
+- Planting doesnt nake you jacked but what if did
+    - Non monetary Benefit
+- TriggerFinger
+- The Claw hand
+- Antagonist Workout for Planters: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
+- How to fall safely
 
 ## Lost Time due to Injury
 
@@ -47,21 +65,4 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 <!-- <div class="d-flex py-2"><BB :b="{ l:'Spade',s:'',e:'Skreef',v:'',m:'', a:''}"/>&nbsp;instead of only&nbsp;<BB :b="{ l:'Boot',s:'',e:'Skreef',v:'',m:'', a:''}"/></div>
 <div class="d-flex py-2"> :b="{ l:'Klose',s:'Ha<BBnd',e:'',v:'',m:'', a:''}"/>&nbsp;instead of of&nbsp;<BB :b="{ l:'Klose',s:'Foot',e:'',v:'',m:'', a:''}"/></div> -->
 
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details & &&&
-
-- Weighted Doru for Antagonists. One bag up a day
-- Athleanx  reverse lunge is easier on knees into trenches
-- Planting doesnt nake you jacked but what if did
-    - Non monetary Benefit
-- TriggerFinger
-- The Claw hand
-- Antagonist Workout for Planters: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
-- How to fall safely
 :::

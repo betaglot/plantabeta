@@ -16,7 +16,6 @@ import GetStarted from '/vue/GetStarted.vue'
 
 <iframe class="youtube rounded-xl" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBETA_002: What is PlantaBETA?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ---
 
 <!-- =================================================== -->

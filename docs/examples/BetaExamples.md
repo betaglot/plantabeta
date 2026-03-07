@@ -95,7 +95,7 @@ is not a move, it is Beta since it is composed of 3 modules:
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details & &&&
+::: details &
 
 ## 🟩<span class="ekos">Piece</span>.<span class="via">Cover(Boustro)</span>
 

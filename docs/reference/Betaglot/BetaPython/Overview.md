@@ -20,7 +20,7 @@ Use Python's syntax to code PlantaBETA.
 ```py
 def Plant():
     
-
+ F
 for Tree in Bag:
     Plant(Tree)
 
@@ -245,7 +245,6 @@ for object in BetaList:
 ```
 
 ---
-
 
 <!-- =================================================== -->
 <!-- =================================================== -->

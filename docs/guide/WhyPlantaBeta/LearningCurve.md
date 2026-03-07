@@ -4,12 +4,22 @@ search: false
 
 # To Steepen Learning Curve
 
-::: warning Trial and Error
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+-
+
+## warning Trial and Error
 
 The difference between intelligence and wisdom is that an intelligent person knows all the theory and practices to solve a problem, but a wise person knows which theories and practices are best suited solve the particular problem.
 
 There will always be an element of Trial and Error in tree planting. A goal of PlantaBETA is to minimize Trial and Error's role in learning how to be a Planter.
-:::
 
 ## Decrease the time it takes to train a NovicePlanter
 
@@ -42,18 +52,5 @@ the minimum requirements for mathematical truths.
  Theory reductionism: the suggestion that a newer theory does not replace or absorb an older one, but reduces it to more basic terms. Theory reduction itself is divisible into three parts: translation, derivation, and explanation
 
  <https://iep.utm.edu/red-ism/>
-
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details & &&&
-
--
-
-- "Guide.Why.LearningCurve"
 
 :::

@@ -4,12 +4,6 @@ search: false
 
 # To Increase the Quality
 
-## Maximize Survival
-
-## Conform to the Specifications
-
-The specs
-
 ---
 
 <!-- =================================================== -->
@@ -20,5 +14,11 @@ The specs
 ::: details &
 
 -
+
+## Maximize Survival
+
+## Conform to the Specifications
+
+The specs
 
 :::

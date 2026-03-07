@@ -7,7 +7,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details & &&&
+::: details &
 
 - [Advice from “pracademics” of how to apply ecological dynamics theory to practice design](https://pmc.ncbi.nlm.nih.gov/articles/PMC10244496/)
 

@@ -281,7 +281,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details & &&&
+::: details &
 
 - "Dev.Breadcrumb"
 - "Dev.Carousel"

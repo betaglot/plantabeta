@@ -66,7 +66,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/WhatPlantaBETA/Overview',
+      link: '/guide/WhatPlantaBeta/Overview',
       activeMatch: '/guide/'
     },
     {
@@ -153,27 +153,27 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is <span class="beta">PlantaBETA</span>?', link: '/guide/WhatPlantaBETA/Overview' },
+        { text: 'What is <span class="beta">PlantaBETA</span>?', link: '/guide/WhatPlantaBeta/Overview' },
       ]
     },
-    // {
-    //   text: 'Purpose', collapsed: false, items: [
-    //     { text: 'To Increase Quality', link: '/guide/WhyPlantaBETA/Quality' },
-    //     { text: 'To Reduce Injury', link: '/guide/WhyPlantaBETA/Injury' },
-    //     { text: 'To Increase Productivity', link: '/guide/WhyPlantaBETA/Productivity' },
-    //     { text: 'To Improve Communication', link: '/guide/WhyPlantaBETA/Communication' },
-    //     { text: 'To Steepen Learning Curve', link: '/guide/WhyPlantaBETA/LearningCurve' },
-    //     { text: 'To Innovate', link: '/guide/WhyPlantaBETA/Innovation' },
+    {
+      text: 'Purpose', collapsed: false, items: [
+        { text: 'To increase <span class="labor">Quality</span>', link: '/guide/WhyPlantaBeta/Quality' },
+        { text: 'To reduce <span class="labor">Injury</span>', link: '/guide/WhyPlantaBeta/Injury' },
+        { text: 'To increase <span class="labor">Productivity</span>', link: '/guide/WhyPlantaBeta/Productivity' },
+        { text: 'To improve <span class="labor">Communication</span>', link: '/guide/WhyPlantaBeta/Communication' },
+        { text: 'To steepen the <span class="labor">Learning Curve</span>', link: '/guide/WhyPlantaBeta/LearningCurve' },
+        { text: 'To progress <span class="labor">Planting Theory</span>', link: '/guide/WhyPlantaBeta/Progression' },
 
-    //   ]
-    // },
+      ]
+    },
     {
       text: 'Who is <span class="beta">PlantaBETA</span> designed for?', collapsed: false, items: [
-        { text: '<span class="labor">Potential Planter</span>', link: '/guide/WhoPlantaBETA/PotentialPlanter' },
-        { text: '<span class="labor">Novice Planter</span>', link: '/guide/WhoPlantaBETA/NovicePlanter' },
-        { text: '<span class="labor">Veteran Planter</span>', link: '/guide/WhoPlantaBETA/VeteranPlanter' },
-        { text: '<span class="labor">Supervisor</span>', link: '/guide/WhoPlantaBETA/Supervisor' },
-        { text: '<span class="labor">Instructor</span>', link: '/guide/WhoPlantaBETA/Instructor' }
+        { text: '<span class="labor">Potential Planter</span>', link: '/guide/WhoPlantaBeta/PotentialPlanter' },
+        { text: '<span class="labor">Novice Planter</span>', link: '/guide/WhoPlantaBeta/NovicePlanter' },
+        { text: '<span class="labor">Veteran Planter</span>', link: '/guide/WhoPlantaBeta/VeteranPlanter' },
+        { text: '<span class="labor">Supervisor</span>', link: '/guide/WhoPlantaBeta/Supervisor' },
+        { text: '<span class="labor">Instructor</span>', link: '/guide/WhoPlantaBeta/Instructor' }
       ]
     },
     { text: 'Go to Examples', link: '/examples/ExamplesOverview' },
