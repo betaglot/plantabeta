@@ -1,15 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "VoronoiDiagram"
+let elementName = "Overlaps"
 
 </script>
 
-# 🔻<span class="via">Voronoi Diagram</span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+# 🔻<span class="via">Overlaps</span>
 
 ---
 
@@ -20,7 +16,6 @@ let elementName = "VoronoiDiagram"
 <!-- =================================================== -->
 ::: details &
 
--
-- Voronoi are mosaics
+- a overlaps b: they have some but not all points in common, they have the same dimension, and the intersection of the interiors of the two geometries has the same dimension as the geometries themselves.
 
 :::

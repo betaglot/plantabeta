@@ -23,5 +23,4 @@ let elementName = "Triad"
 -
 - Plant triads instead of triangles
 
-
 :::

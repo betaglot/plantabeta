@@ -1,15 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "VoronoiDiagram"
+let elementName = "CoveredBy"
 
 </script>
 
-# 🔻<span class="via">Voronoi Diagram</span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+# 🔻<span class="via">CoveredBy</span>
 
 ---
 
@@ -21,6 +17,5 @@ let elementName = "VoronoiDiagram"
 ::: details &
 
 -
-- Voronoi are mosaics
 
 :::

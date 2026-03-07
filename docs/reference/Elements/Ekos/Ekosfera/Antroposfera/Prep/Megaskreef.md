@@ -25,7 +25,7 @@ let elementName = "Megaskreef"
     - Skid to a stop
     - Skim the surface
     - Skrape off
-    - Skour 
+    - Skour
     - Ski down loose slopes like going down snowbanks in ski boots
 
 :::

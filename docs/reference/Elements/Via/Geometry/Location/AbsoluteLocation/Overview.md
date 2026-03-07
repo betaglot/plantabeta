@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "VoronoiDiagram"
+let elementName = "AbsoluteLocation"
 
 </script>
 
-# 🔻<span class="via">Voronoi Diagram</span>
+# 🔻<span class="via">Absolute Location</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,7 +20,7 @@ let elementName = "VoronoiDiagram"
 <!-- =================================================== -->
 ::: details &
 
--
-- Voronoi are mosaics
+- GIS
+- Mercator
 
 :::

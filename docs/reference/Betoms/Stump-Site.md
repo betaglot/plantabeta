@@ -18,6 +18,6 @@ search: false
 ::: details &
 
 - Only the first Aktion is a pry the rest are skim
-- 
+-
 
 :::
