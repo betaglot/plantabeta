@@ -841,7 +841,151 @@ search: false
 - Team-Taktik
 - Team-Taktik-Passage
 - (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half
--
+- Timelines of PlantaBeta
+    - Day
+    - piece
+    - block move
+- Intended Beta and Realized Beta and the explicit difference between them
+- Organon has the same number of syllables and Instrument
+    - Rename Tool to Organon
+    - The organic approach could be rephrased as the tool-based or mechanical or practiced approach
+- The graph theory of phenomenology
+- Darwin discovered the theory
+- A porism is a shortcut
+    - Heuristic is a shortcut
+- Using an Umbrella when walking along a sidewalk is computational geometry Praktik
+- Klose|Fingertip
+    - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize
+- CrumTask
+    - Make list
+    - Making lists doesn't require continuous concentration
+    - Discontinuous Task
+- Spatial sense also works for abstract space
+- Philosophical Entities of Betalogy
+    - Elements: Objects
+    - Betoms: Phenomena
+    - Beta: Phenomena
+    - Your Beta: Self
+    - Betarete: Semantics?
+    - Glyfs: Symbols
+    - Betaglot: Description of Beta
+    - Beta Synthesis: Synthesis
+    - Beta Analysis: Analysis
+    - Your Beta is an illusion because self is an illusion
+- You can only analyze Beta that you know works. Otherwise you'll need to use synthesis
+- Philosophy allows you to be explicit instead of using analogies.
+    - It's like a network
+    - It's like Euclid's Elements
+- Ta onta (τὰ ὄντα): Meaning "the things that are" or "beings." It refers to existing entities.
+    - In the context of the Greek phrase ta onta (τὰ ὄντα), ta (τὰ) translates directly to "the"
+    - Ta (τὰ): The (neuter plural article).
+    - Onta (ὄντα): Beings/existing things (neuter plural present participle of eimi).
+    - Be the being
+    - Be the Phenomena
+    - Be the Beta
+    - Don't just perceive the Beta as a subject, instead be the Beta because there is no subject and object. Awaken to the reality that there is no separation between the object and subject. You are non dual awareness and nothing else
+    - Be in the flow state. You (your self) are an object just like a strategy or hand or tree or affordance or force or attention.
+    - Attention is an object of awareness
+- [Stump|Morfos] doesn't require Time
+- Be as you wish to appear
+    - Be as you wish to phenomenize
+    - Ontos as you wish to phenomenize
+    - Beta is the appearance
+    - Be the Beta
+- Elements are objects, Betoms are phenomena
+- Validity of a proposition
+    - Methods are closer to propositions than attributes
+- Diffident is the antonym of confidence
+    - Fident is Faith
+    - Fidelis
+    - It's not that I don't trust Ben, I just don't believe in Ben- L.Knope
+- Somebody on your team needs to know how to sharpen skates
+- A Betomglyf is an Assignment Statement
+    - Propositions must be proved
+    - QED
+    - QEI
+    - Definitions don't have to be proved
+- Do you ever feel like people are spraying Beta
+- Via.Alignment.Colinear
+- Betamania
+- How did Darwin structure his books? Did they have propositions?
+- Betatekts synthesize Beta
+    - Betatletes Analyze Beta
+    - Beta Coaches
+    - Beta Commentators
+- Taktik to simplify piece shape. Orthogonate: To make into to right angles
+    - Rectify is too polysemous
+- Focus on every planter which has already learned the basics.
+- Could you tell me what this player is doing every second
+- "Be" is the cursor of Betaglot. Actual name. Kinda like "Sir" or Mrs.
+- Gymnosite is a Mikrosite without any duff
+    - Kryptosite
+- Depo instead of cache
+    - Apodepo
+- Spade is a Delphi Dolphin
+- Should PlantaBeta be public or Private?
+- Add Duff to Skreef, Skreefing, Klimon, Mikrosite
+    - Maybe Kryptoid instead of duff
+- HasProperty
+    - Aktion,HasProperty,Force
+    - Stump,,Protektor
+    - Log,,Protektor
+- Music.entrainment to counteract for fatigue
+- Strategy: Opening Statement
+- Klimonas Book has really good diagrams and graphic design. Better than Landscape architecture and more labbelled
+- Betarete is a forest. Betomrete isn't a forest
+    - A one component forest
+    - "Grab the hold" is a two component forest
+    - Grab is just a tree
+    - Hold is just a tree
+- Geodetic distance: The distance is the one that between two urban centers along the earth’s great circle.
+- Manhattan Distance: Latitude difference plus longitude difference (the name “Manhattan Distance” is because the Manhattan, street patterns can be modeled as a set of two vertical lines).
+- eating our own cooking <https://en.wikipedia.org/wiki/Eating_your_own_dog_food>
+- Be the originator of an element sponsor a road sponsor an element
+- AskPrepper
+- PlantaBeta: Pencil Notes
+- Be clear about what is Anxietiable
+- Distance between Point and Centroid of Voronoi
+    - Distance between Point and Centroid of Voronoi
+- Ask beaver people about how to plant q beaver ecosystem
+- Tacoma justification: How am we supposed to get to your camp, then camp there?
+- More durable wrist guard shaped radior
+- Which chain of logic would you like to see first?
+- What other Plants are circumboreal?
+    - Based on current understanding, fireweed (Chamaenerion angustifolium) does not have a single point of origin but is instead a circumboreal species, meaning it is native throughout the Northern Hemisphere. Its evolutionary history indicates that it spread across continents long ago, adapting to cold, temperate, and boreal climates
+- Cast Spade.Head
+- Make a 100 m rope
+- Insulated Sleeves
+- Edo is where you'll find Plantafor
+    - Diagonal rope keeps the shoulder armor in place when swinging sword up
+- CoverPath is knitted
+    - Overlap
+    - Spade is Needle
+    - Sewing machine moves instead of Fabric==Eko
+- If you click on a YouTube shorts title, then an expansion box opens with a line of metadata and a description.
+    - What markdown can you put in the description?
+- PlantaBeta_Video
+    - Aggregate Videos
+        - Edit the videos into hour long videos
+    - Subtitles: BetaTranscription
+        - Show video on separate screen if possible
+    1. DaVinci: Add a Subtitle for each Planted Tree then export .vtt file, then render
+    2. Upload Video to Youtube
+    3. VScode: Open .vtt in Vscode
+    4. Use Python to replace "subtitle" with a BetaMomentMatrix_CaptionTemplate
+    5. use Autocomplete to input the values for BetaMomentMatrix
+    6. Upload .vtt to Youtube
+- Differentiate(Homolog and Analog)
+    - homologue is Counterpart
+- Ask a pro gardener what they call skreefing or grubbing and where to find a collection of moves visualized
+    - PlantBETA doesn't require PutPlant
+    - What you do with the plant after putting it in the ground
+- ToPrint
+    - all elements as list and katagory dendrogram
+    - all pedagogy dev pages
+    - all planter questions
+    - all beta examples
+    - sistem dev
 -
 -
 -
