@@ -126,7 +126,7 @@ search: false
 <!-- - Plant triads instead of triangles -->
 - VillaBETA
 - Day Off Map of Penticton
-- Ask Guides agac? Of Canada about Layering and other BETA
+- Ask Guides AGAC? Of Canada about Layering and other BETA
 <!-- - BootFender -->
 <!-- - BlueWax -->
 <!-- - Rugby Goose Step -->
@@ -517,7 +517,7 @@ search: false
     - Stack -->
 - NovelVia(NeoSite)
     - Abandon CurrentSite for Neosite when you determine that CurrentSite isn't good
-    - Stop wasting time screefing through redrot and just find another site
+    - Stop wasting time skreefing through redrot and just find another site
 - Lokhmē "thicket": from the fact that one lays ambushes (lokhân) in such places. But Philoxenus derives it from the verb lazō "to seize", thick things being easier to grasp. Lazō, future laxō, noun lakhmos, as from krazō "to croak", kraxō and kragmos "croaking"; and the [g] having changed to [kh], *lakhmos; the feminine of the latter, lokhmē
 <!-- - Gather ExcessSoil at Posterior Bottom of Silvi -->
 - Via Radar
@@ -601,7 +601,7 @@ search: false
     - food, shelter, transport
 - Stick handling of goalie or players hockey spade move . Andre Doru
 <!-- - Bonobo Klose -->
-- FacebookGubern
+- FacebookKappa
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
     Lying to you about what pests are in the rooms you stay at. Gaslighting others into following their lead of tormenting you. Don’t be better then anyone or they will make up a reason to get rid of you. Holes not closed etc .. they will do whatever they can to make sure you aren’t getting fast and are miserable out there. Leave these places and never look back!!
@@ -640,8 +640,8 @@ search: false
     - Can confirm my foreman from my rookie season was the ONLY one who didn't set up on days off and we ran out of trees and had fuck around days more in a season than my boyfriend in 6 years. She was also a rookie foreman with 9 rookies on her crew but she had 10 years of experience in the bush. When I came back last year this other girl had only been planting for 4 years when she tried to foreman, she had ballers on her crew and was killing it every day.
     - Best crew bosses I've had did shit in the background that I had no idea needed to be done,
     - tagging ng along for stuff crew bosses are supposed to do before or after planters are dropped off sucks. 8-10 hours of physical labour I want the most recovery time possible (sitting in a truck is not recovery)
-    - when they need to demonstrate that they are the best, full of experience and you are f*cking them over planting too close, or something wrong. When they think that they have the power to talk to you like shit because they are foreman... etc
-    - Well if you know i will for sure be the person that puts in 4k 3k then it helps you plan and i don't have warm up days or ooh my lunch is better then just working. i will plant trees every day knowing this type of thing will help with planning who you want in a piece. You know the most common question people ask is how long they think the contract will go... are you going to put your baller in the snarbie corner probably not it will require lot of space so, why i find is faster you are the more consistent pieces become. Rookie on some road side piece close by so can check them easier.
+    - when they need to demonstrate that they are the best, full of experience and you are fucking them over planting too close, or something wrong. When they think that they have the power to talk to you like shit because they are foreman... etc
+    - Well if you know i will for sure be the person that puts in 4k 3k then it helps you plan and i don't have warm up days or ooh my lunch is better then just working. i will plant trees every day knowing this type of thing will help with planning who you want in a piece. You know the most common question people ask is how long they think the contract will go... are you going to put your baller in the snarby corner probably not it will require lot of space so, why i find is faster you are the more consistent pieces become. Rookie on some road side piece close by so can check them easier.
     - believe open, non judgement communication is the answer. Let the planters know in advance they’re allowed to tell you how they really feel and you’ll respect it. Even if they’re a bit snappy and curt , don’t take it personal. Planting is hard and we all have bad moods. Just give them space and you can always decompress once the day is done. They’re allows to protect their energy and be alone.
     Conversely , if I see a planter having a bad day who’s just sitting at the cache, don’t hover over them and remind them about quotas. It’s one thing if it’s a late day block close and everyone needs to work together , but just ask them if they want some space or some company. I feel like my crew bosses were always understanding when I needed some down time or a chill day, so I feel I have to pay it forward to my planters. If they’re chronically under performing that’s another issue , but even if in your mind you think “damn, I really wished they would finish this piece today”, its better for team cohesion in the long run to smile and say “okay, do what you need to do. Let me know if there’s anything I can do to help”
     TL;DR - establish from the start with your crew that 2 way honesty solves most every problem. Talk it out and take nothing personal
@@ -730,7 +730,7 @@ search: false
     - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
 - Self-avoiding walk Passage
     - <https://en.wikipedia.org/wiki/Self-avoiding_walk>
-- Baker for handklose
+- Baker for hand klose
 - Box yourself in
 - Weave is via
 - Disconnected boundary voronoi
@@ -932,7 +932,7 @@ search: false
     - Log,,Protektor
 - Music.entrainment to counteract for fatigue
 - Strategy: Opening Statement
-- Klimonas Book has really good diagrams and graphic design. Better than Landscape architecture and more labbelled
+- Klimonas Book has really good diagrams and graphic design. Better than Landscape architecture and more labelled
 - Betarete is a forest. Betomrete isn't a forest
     - A one component forest
     - "Grab the hold" is a two component forest
@@ -986,9 +986,70 @@ search: false
     - all planter questions
     - all beta examples
     - sistem dev
--
--
--
--
--
+- Waiting to turn is VIA
+- "Do they look the same" is anima
+- Split the day up into Acts and Scenes like Shakespeare
+- Chess Analog
+    - Move == Aktion
+    - Think three moves ahead or eight moves ahead if you're a master
+- The feeling of laying brick is in your hands and fingers Kontakts
+    - Soma can control anima
+- Algorithm for CacheLocation
+    - <https://en.wikipedia.org/wiki/Location-allocation>
+- Recreate PlantaBeta.Docs.Reference with Paper and Folders
+    - Get a compact carryon with good wheels or make one
+- Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID
+    - Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID
+- Intersecting vions
+- Shadow is ekos
+- Sailing rum line
+- Radial speed between handle and blade and make spade point medial or lateral. Into a kink
+- Flagging every tree can be avoided with computer Science
+- Get situated
+- Spade dribble
+- Interfernce between spade and body. One can absorb  the other or constructively interfere
+- Spacetime spade sculpture 50cm height. The longboarding jackson trails mental app in circa 2013, rotated to vertical
+- Tom Scott Youtuber visited a science place maybe the asymmetric geodesic dome where they used music to process data
+- Highlights like cod modern warfare only knives guy for PlantaBETA
+- Message Vice documentary surfer. Learn how to say Hawai'i
+- Record a video for Simard or be a coward
+- Step uphill to slow down
+- Established planters are not your target audience
+- Find a canadian bryophytes biologist
+- There are no celebrity planters but there are tons of celeb climbers
+- Planta is a Task
+    - Differentiate Aktion, Task
+- To minimize disturbing fragile soil formations slope cascade
+- Beer pong is via
+- Boustro sounds like it could be a meme
+- Planting as a dance
+- Zoomed in from a satellite
+- Exclude InstrumentDev from CoachingDev
+- Wear your bags down Baker
+- Backpack kid for loop
+- The best Markum won't be paper, but get into the paper business in the meantime
+- Catan or bust
+- Collision fraction is viamoton
+- tactical beaver
+- Pull into line like a lifty and a chairlift seat. In planting you move and in skiing the chair moves. RelativeMotion
+- If the goal is production and expression, then giving is the easiest method  
+- The basis of PlantaBeta pedagogy is Veritasium Expert Myth
+    - Anima not Soma, you still need muscle training
+- Demeter is the goddess of PlantaBeta
+- When StumpSkreefRedRot
+    - Start between the redrot and stump then pry instead of skimming from the within the red rot
+- Epicycle instead of passing a planter or bounce back
+    - Bounce implies going all the way back to the sideline
+- Fewer via increases teknik
+- Day1 training Test multiple sizes
+- Wine tour bus for groceries
+- Guide for rookies isn't a tutorial. Guide is mostly links and introductions
+- Economy of scale
+    - Buy in bulk
+    - Manufacture in bulk
+    - Mass production
+- StepOver is a slink
+- Via is backswing direction for Dyno or SpadeSlam
+- Via, you must back out instead of rotate, especially when you're in flora
+    - Go back the same way you came
 -
