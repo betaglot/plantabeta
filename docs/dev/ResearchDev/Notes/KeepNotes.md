@@ -1080,6 +1080,40 @@ search: false
 - Don't strip Bark as you push in the Stakes
 - Plant stake with at least 2 buds above ground 
 - Plant stake up until the High water mark, start at lowest point and radiate out. Start at Bathos
+- Strategy
+    1. PerimeterFollow. To gain a visuospatial mental map of piece  
+    2. Simplify "P". Fill in the lobe of the "P" to make the Piece Shape into a rectangle which can be filled using BoustroFill the full width of piece. Long Lines, straight lines take less time and energy than turns.
+- Move up scope when you're lost. 
+    - Where am I? 
+    - Where in the Piece.Part am I?
+    - Where in the Piece am I?
+    - Where am I relative to the cache?
+    - Where in the Block am I?
+    - Where is North?
+    - Where in Time(Taktik, Sequence, Strategy) am I?
+    - Where in my BagOut?
+        - Halfway done the BagOut
+        - "I only have quarter of a bag left"
+- you can use time to locate yourself. Un-lose yourself. Find yourself
+- Tension Flora to chop. What is the name of the Fate that holds the string of life. 
+    - Lachesis (the "Allotter") measures the length of the thread, determining how long a person's life will be.
+    - Time Affordance
+- Flora will rot away by the time that it would be an obstacle to the Seedling's trunk, especially burnt Flora. Flora rots at differing rates.
+- Markate during Ama or polevault
+- Poling like in Venice or Canary Island (Salto del Pastor)
+    - Historically, indigenous settlers and shepherds used a long wooden spear (known as a lanza or garrote) to quickly navigate the steep, rocky, and volcanic terrain of islands like Tenerife, La Palma, and Gran Canaria
+    - Poling with [Poling,Spade], [Poling,Dory], [Poling|Arm]
+    - Length is Fixed. [Kryos|Arm]
+    - KontaktPoint is fixed
+- Keeping bags on at the cache to stay warm right up until you need to BagIn. During [Get,Bundle], [Eat|At(Cache)]
+- MOTOR.Insulation, LABOR.InsulationLayer
+- MOTOR is mechanics and Thermodynamics, since both are based on movement and energy
+- set bags down before sitting beside them during BagIn. EndoBag, ExoBag
+- look at the mountain that you've mentally landmarked as North to know which side of Protektor to Select as a Mikrosite
+- Selected site won't necessarily be planted since it could turn out to be a PseudoSite
+- Checking Box Label for Trees per Bundle is a Habit when Bagging in a new species
+- "Bags, Flag, Spade" is a Habit that you remind yourself every time the truck drops you off at a cache.
+- The technique which has more explanation is more li
 - 
 - 
 - 
@@ -1093,6 +1127,4 @@ search: false
 - 
 - 
 - 
-- 
-
 

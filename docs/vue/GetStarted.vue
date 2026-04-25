@@ -9,7 +9,7 @@
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatPlantaBETA/Overview#what-is-plantabeta"
+                           href="/guide/WhatPlantaBeta/Overview#what-is-plantabeta"
                            rounded="xl"
                            size="x-large"
                            block>
@@ -21,7 +21,7 @@
                 <v-col>
                     <v-btn class="text-none "
                            height="80"
-                           href="/guide/WhatPlantaBETA/WhatPlantaBETA-Betaglot"
+                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Betaglot"
                            rounded="xl"
                            size="x-large"
                            block>
@@ -35,7 +35,7 @@
             <v-row>
                 <v-col>
                     <v-btn class="text-none "
-                           href="/guide/WhatPlantaBETA/WhatPlantaBETA-Function"
+                           href="/guide/WhatPlantaBeta/WhatPlantaBeta-Function"
                            height="80"
                            rounded="xl"
                            size="x-large"
