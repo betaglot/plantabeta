@@ -20,6 +20,7 @@ let elementName = "Flower"
 <!-- =================================================== -->
 ::: details &
 
--
+- Fireweed is a good holder for flag
+- snow peas flowers are blue and can be mistaken for Flag
 
 :::

@@ -26,5 +26,6 @@ let elementName = "Stump"
 - [Spade.Post|Stump]
 - StumpCluster
 - JaggedStump
+-
 
 :::

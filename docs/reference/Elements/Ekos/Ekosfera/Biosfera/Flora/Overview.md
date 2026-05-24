@@ -11,7 +11,7 @@ let elementName = "Flora"
 
 <ElementInfo :elementName=elementName />
 
-> all the plants which are already growing in the land
+> all the plants which are already growing in the land and are not crop trees
 
 ---
 
@@ -31,7 +31,8 @@ let elementName = "Flora"
     - Bifurcation (Fork)
     - Branch
 
-- "Eko.PlantIdentification"
-- "Eko.Plants.Fireweed"
-- "Eko.Plants.ResidualPatch"
+- [Identify|Flora]
+
+- "EKOS.Flora.Fireweed"
+- "EKOS.Flora.ResidualPatch"
 :::

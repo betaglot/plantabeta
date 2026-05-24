@@ -22,6 +22,9 @@ let elementName = "Poales"
 <!-- =================================================== -->
 ::: details &
 
--
+- Cow grass is dense and firmly interrooted
+- dead grass
+- sedges have thicker diameter Roots and are therefore more difficult to skreef
+- partial [Spade.Skim] then rip and throw or step on the flapper
 
 :::

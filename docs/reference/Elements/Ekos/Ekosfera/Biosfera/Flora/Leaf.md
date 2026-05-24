@@ -20,6 +20,10 @@ let elementName = "Leaf"
 <!-- =================================================== -->
 ::: details &
 
--
+- Skreef through leaves
+- Condensation on leaves
+- SummerPlant has more leaves than spring plant
+- FillPlant
+- Getting soaked from walking through wet bushes
 
 :::

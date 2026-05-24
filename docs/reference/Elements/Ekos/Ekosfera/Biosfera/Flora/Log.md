@@ -26,6 +26,7 @@ let elementName = "Log"
 - RedRotLog
 - LogDiameter
 - Bark or No Bark. Affects Safety FootSlip
--
+- LogStack
+- Breakable Rotten Log
 
 :::
