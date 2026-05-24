@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Hydro"
+let elementName = "Preskreef"
 
 </script>
 
-# 🟩<span class="ekos">Hydro</span>
+# 🟩<span class="ekos">Preskreef</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,7 +20,14 @@ let elementName = "Hydro"
 <!-- =================================================== -->
 ::: details &
 
-- Wet
-- Thin layer of water on a surface
-
+- (Preskreef)InsteadOf(Megaskreef)
+- Preskreefs can be 2 meters wide
+- A skreef is a Labon. You don't need to skreef that
+- NeoAktion BootSlideSkreef is a Skid
+    - Skid to a stop
+    - Skim the surface
+    - Skrape off
+    - Skour
+    - Ski down loose slopes like going down snowbanks in ski boots
+    - Scandinavian words which start with "sk"
 :::

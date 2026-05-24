@@ -20,6 +20,11 @@ let elementName = "Antroposfera"
 <!-- =================================================== -->
 ::: details &
 
--
+- Etymology
+    - Human
+    - Anthropomorphize
+    - Anthropocentric
+    - Anthropocene
+    - Anthropology
 
 :::
