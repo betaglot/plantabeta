@@ -20,6 +20,7 @@ let elementName = "Fungi"
 <!-- =================================================== -->
 ::: details &
 
--
+- Mushrooms are very easy to skim
+- Mycelieum mat under large logs, bark or under snow
 
 :::

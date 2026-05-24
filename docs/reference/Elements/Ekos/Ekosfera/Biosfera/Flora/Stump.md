@@ -21,7 +21,10 @@ let elementName = "Stump"
 ::: details &
 
 - Use stump as step on steep slopes
-
-- Octopus Stump
+- Octopus Stump [Stump|Morfos]
+- Protektor
+- [Spade.Post|Stump]
+- StumpCluster
+- JaggedStump
 
 :::

@@ -20,6 +20,8 @@ let elementName = "BurntFlora"
 <!-- =================================================== -->
 ::: details &
 
--
+- BurntBlock
+    - BurntFlora
+    - BurntSoil
 
 :::

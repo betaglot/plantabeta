@@ -5,7 +5,7 @@ let elementName = "Biosfera"
 
 </script>
 
-# 🟩<span class="ekos">Biosphere</span>
+# 🟩<span class="ekos">Biosfera</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,7 @@ let elementName = "Biosfera"
 <!-- =================================================== -->
 ::: details &
 
--
+- The plants, animals and fungi of a Block
+- Biosphere
 
 :::
