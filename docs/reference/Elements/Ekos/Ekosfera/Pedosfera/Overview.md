@@ -5,7 +5,7 @@ let elementName = "Pedosfera"
 
 </script>
 
-# 🟩<span class="ekos">Pedosfera</span>
+# 🟩<span class="ekos">Soil</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

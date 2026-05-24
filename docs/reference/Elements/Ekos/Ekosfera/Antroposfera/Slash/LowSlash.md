@@ -20,6 +20,7 @@ let elementName = "LowSlash"
 <!-- =================================================== -->
 ::: details &
 
--
+- Hop up onto LowSlash
+- Machete the Branches of LowSlash to clear a Mikrosite
 
 :::

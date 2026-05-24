@@ -5,7 +5,7 @@ let elementName = "Prep"
 
 </script>
 
-# 🟩<span class="ekos">Prep</span>
+# 🟩<span class="ekos">Prep (Prepared)</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,7 @@ let elementName = "Prep"
 <!-- =================================================== -->
 ::: details &
 
--
+- "get the Block prepared for planters"
+- Is Prep always done only for planters or are they used during the early life of seedling as a Protektor in BurntLand where all Floral Protektors have Burnt away?
 
 :::

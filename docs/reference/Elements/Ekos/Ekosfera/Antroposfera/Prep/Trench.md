@@ -44,5 +44,7 @@ let elementName = "Trench"
 - [Trench|RedRot] = "Don't Skreef in Trenches"
 - [Trench|RockySoil]
 - [Trench|Markation] = "Don't flag each tree in trenches"
+- [Trench.Markate|Entry]
+- [Trench.Markate|Exit]
 
 :::

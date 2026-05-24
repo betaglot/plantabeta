@@ -17,7 +17,10 @@ let elementName = ""
 ::: details &
 
 - Footprints in snow show via
-
+- Prints
+    - FootPrint
+    - SpadePrint
+        - Testing the soil when looking for Mikrosite
 - Spanish("rastrear")
 - When the Marka blow away in the wind
 - Anticipation
