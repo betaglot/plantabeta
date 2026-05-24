@@ -20,6 +20,7 @@ let elementName = "GroundWater"
 <!-- =================================================== -->
 ::: details &
 
--
+- Holes that fill with water
+- mud
 
 :::
