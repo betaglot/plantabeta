@@ -31,7 +31,6 @@ let elementName = "Plantafor"
     - Pack into itself for Transit, especially PostSeason
 
 - PlantaforCarry: One Shoulder strap when one side is empty
-    -
 
 - Plantafor.SubElements
     - Bag

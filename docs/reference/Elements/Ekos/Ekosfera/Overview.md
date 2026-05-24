@@ -20,6 +20,7 @@ let elementName = "Ekosfera"
 <!-- =================================================== -->
 ::: details &
 
--
+- Ecosphere
+- Ecology
 
 :::

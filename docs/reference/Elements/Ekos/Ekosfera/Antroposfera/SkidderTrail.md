@@ -38,6 +38,6 @@ let elementName = "SkidderTrail"
 - skidder trails usually contain stumps which have been "frayed" (mushrooming)
 - skidder trails can create a mixture of wood chips and soil which is difficult to Klose.
     - The mixture occurs when the trail goes through the part of the block where they delimb the trees and when the soil is mud.
-- 
+-
 
 :::

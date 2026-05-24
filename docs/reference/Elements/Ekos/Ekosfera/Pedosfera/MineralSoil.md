@@ -20,6 +20,7 @@ let elementName = "MineralSoil"
 <!-- =================================================== -->
 ::: details &
 
--
+- Usually Gray
+- (MineralSoil != OrganicSoil)
 
 :::

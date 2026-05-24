@@ -34,7 +34,7 @@ search: false
 28. Defined Seedling Anatomy. Pod, Stem, Collar. Pass out trees for each planter to hold while listening to anatomy being described
 29. Coaches with bags for first BagOut
 30. Groups separated enough to prevent cacophony
-31. "I like to...", "I prefer to..." 
+31. "I like to...", "I prefer to..."
 32. "Do I tie it around the tree?"
 33. How to prevent one planter just standing unengaged while coach is helping another planter. Either give them something to always fall back on or get them to listen to when coach says anything to any planter. "Always be listening even if not talking directly to you"
 34. Rookies split into four groups

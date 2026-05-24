@@ -22,7 +22,7 @@ let elementName = ""
     - SpadePrint
         - Testing the soil when looking for Mikrosite
 - Spanish("rastrear")
-- When the Marka blow away in the wind
+- When the Markums blow away in the wind
 - Anticipation
     - Where would I have gone?
 - ConfirmationBias
@@ -36,10 +36,10 @@ let elementName = ""
         - Indication
 - Useful when you need to traverse Residual to WalkIn or WalkOut of your piece.
 
-- Tracking is used in combination with Marka and Landscape
+- Tracking is used in combination with Markation and Landscape
 - Trace
 - Discern the tracks
 - It's possible to tell where you've already been
-- Mantracker
+- Mantracker TV show
 
 :::

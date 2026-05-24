@@ -21,8 +21,7 @@ let elementName = "Mound"
 ::: details &
 
 - Mounded Density
-- Mounds with Raw in between 
+- Mounds with Raw in between
 - Mounds + Preskreef
-    
 
 :::
