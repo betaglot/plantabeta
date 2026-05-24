@@ -3,11 +3,11 @@ search: false
 layout: false
 ---
 
-<!-- <script setup>
+<script setup>
 import AllElementCards from '/vue/Grid-AllElementCards.vue'
 
 </script>
 
-<AllElementCards /> -->
+<AllElementCards />
 
 # All Elements
