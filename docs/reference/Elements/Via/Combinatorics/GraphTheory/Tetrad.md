@@ -20,6 +20,6 @@ let elementName = "Tetrad"
 <!-- =================================================== -->
 ::: details &
 
--
+- You don't need to enumerate groups of four. You can use geometry instead. Most Natural Languages have monikers for groups of 4
 
 :::

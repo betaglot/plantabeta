@@ -6,7 +6,7 @@ let elementName = "SmallWorld"
 
 </script>
 
-# 🔻<span class="via">SmallWorld</span>
+# 🔻<span class="via">Small World Theory</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -21,6 +21,8 @@ let elementName = "SmallWorld"
 <!-- =================================================== -->
 ::: details &
 
--
+- Degrees of separation between members of a group
+- Is SmallWorld useful during Runtime? or only for RETE?
+    - Is Graph Traversal ever used during Runtime? Maybe for Anima.Select(Betom)
 
 :::

@@ -20,6 +20,7 @@ let elementName = "Pentad"
 <!-- =================================================== -->
 ::: details &
 
--
+- Planting PlotDensity5
+- 5 Bundles of 20 == 100 trees
 
 :::

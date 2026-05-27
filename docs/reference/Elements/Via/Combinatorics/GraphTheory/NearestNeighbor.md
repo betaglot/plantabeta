@@ -20,4 +20,7 @@ let elementName = "NearestNeighbor"
 <!-- =================================================== -->
 ::: details &
 
--
+- (NearestNeighbor != ShortestPath)
+- (Mounds, Preskreefs)
+
+:::

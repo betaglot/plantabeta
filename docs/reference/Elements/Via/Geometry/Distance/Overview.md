@@ -26,5 +26,10 @@ let elementName = "Distance"
 - Shortcut
 - Faster
 - Shorter
+- (Distance != Displacement)
+- Kinematics
+- Greater Distance allows more space to accelerate, especially when displacement is constrained
+    - [Constraint.Distance]
+    - [Constraint.Displacement]
 
 :::

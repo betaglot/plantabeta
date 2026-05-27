@@ -20,6 +20,12 @@ let elementName = "Permutation"
 <!-- =================================================== -->
 ::: details &
 
--
+- Spatial Permutation
+    - Makrosites of a Piece
+    - Solologic Games
+- Sequence Permutation
+Same Elements or BETOMs in a different configuration
+- Configuration of EKONs 
+    - Stumps and Mikrosites
 
 :::
