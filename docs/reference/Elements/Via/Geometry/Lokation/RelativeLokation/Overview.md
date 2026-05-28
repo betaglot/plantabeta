@@ -24,5 +24,7 @@ let elementName = "RelativeLokation"
 - Between
 - Middle
 - End
+- [Middle,Point] = "Midpoint"
+- Use (Superior,Inferior)InsteadOf(Above,Below) ToReduceConfusion with Direktions
 
 :::

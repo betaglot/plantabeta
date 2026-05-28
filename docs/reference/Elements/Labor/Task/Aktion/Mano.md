@@ -20,6 +20,9 @@ let elementName = "Mano"
 <!-- =================================================== -->
 ::: details &
 
+- Konkavitate
+    - Cupping Hands
+    - The Aktion of Konvexity
 - Grip
 - Dimano is both hands gripping the same object
 
