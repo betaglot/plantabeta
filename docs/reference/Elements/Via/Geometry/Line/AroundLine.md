@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "AroundLine"
+let elementName = "Around"
 
 </script>
 
-# 🔻<span class="via">AroundLine</span>
+# 🔻<span class="via">Around</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,8 @@ let elementName = "AroundLine"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Ally|Around]
+- [Around.Obstakle]
+- ((Circumvent)Implies(Avoid) != Around)
 
 :::

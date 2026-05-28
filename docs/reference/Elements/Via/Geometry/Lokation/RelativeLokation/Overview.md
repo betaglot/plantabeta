@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Location"
+let elementName = "RelativeLokation"
 
 </script>
 
-# 🔻<span class="via">Location</span>
+# 🔻<span class="via">Relative Lokation</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,9 @@ let elementName = "Location"
 <!-- =================================================== -->
 ::: details &
 
--
+- Triangulation
+- Between
+- Middle
+- End
 
 :::

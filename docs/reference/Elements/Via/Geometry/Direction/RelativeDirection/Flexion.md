@@ -25,7 +25,7 @@ let elementName = "Flexion"
 - LABOR:
     - Fold down Silvi to prevent it from filling with rain, hail, or snow
 - J-Root
-- Flexion is measured in Degress or Relative to Minimum or Maximum of Flexion RangeOfMotion
+- Flexion is measured in Degrees or Relative to Minimum or Maximum of Flexion RangeOfMotion
 - Bent Trees in Bag
     - [Error(Seedling)|Flexion]
 - Leaner?

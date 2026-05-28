@@ -16,6 +16,9 @@ let elementName = "Proximal"
 <!-- =================================================== -->
 ::: details &
 
--
+- Near
+- Nearness
+- {Direction: Proximal, Position:Proximity}
+- Anatomical Direktion or Position
 
 :::

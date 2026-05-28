@@ -5,7 +5,7 @@ let elementName = "Peri"
 
 </script>
 
-# 🔻<span class="via">Direction_Peri</span>
+# 🔻<span class="via">Peri</span>
 
 ---
 
@@ -20,5 +20,6 @@ let elementName = "Peri"
 - Peri
     - Perimeter
 - Circumvent
+- Differentiate(Peri, Around)
 
 :::
