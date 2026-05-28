@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Flexion"
+let elementName = "Extension"
 
 </script>
 
-# 🔻<span class="via">Flexion</span>
+# 🔻<span class="via">Extension</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,7 +20,8 @@ let elementName = "Flexion"
 <!-- =================================================== -->
 ::: details &
 
-- Flex is an ⭐<span class="labor">Aktion</span> , 🔻<span class="via">Flexion</span> is a 🔻<span class="via">Position</span> or 🔻<span class="via">Direction</span>
-- Flexion can apply to SOMA, or EKOS
+- Extend is an ⭐<span class="labor">Aktion</span> , 🔻<span class="via">Extension</span> is a 🔻<span class="via">Position</span> or 🔻<span class="via">Direction</span>
+- Extension can apply to SOMA, or EKOS
+- {Aktion: Extend, Direktion: Extension, Position:Extended}
 
 :::

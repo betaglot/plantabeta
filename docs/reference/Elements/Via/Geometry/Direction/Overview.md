@@ -20,6 +20,9 @@ let elementName = "Direction"
 <!-- =================================================== -->
 ::: details &
 
+- Taxonomy: Direktion
+    - Relative Direktion
+    - Absolute Direktion
 - Via: pitch yaw roll
 
 - Forwards

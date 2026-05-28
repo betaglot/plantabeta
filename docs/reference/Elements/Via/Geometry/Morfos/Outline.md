@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Passage"
+let elementName = "Outline"
 
 </script>
 
-# 🔻<span class="via">Passage</span>
+# 🔻<span class="via">Outline</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "Passage"
 <!-- =================================================== -->
 ::: details &
 
-- Detour
+-
 
 :::

@@ -11,7 +11,7 @@ let elementName = "Displacement"
 
 <ElementInfo :elementName=elementName />
 
-Length and Direction
+Distance and Direction
 
 ---
 
@@ -22,11 +22,22 @@ Length and Direction
 <!-- =================================================== -->
 ::: details &
 
+- ElementDependencies
+    - Direction
+    - Distance
 - "20 cm to the right"
 - "You need to jump higher"
+    - Jump isn't a straight line
 - ActualName("RadialDisplacement")
-- Move your hips further to the right
+- "Move your hips further to the right"
+    - (RelativeDistance+RelativeDirection)
 - closer
 - Proximity
+- knowing where your draw bag is without looking
+- PlotRadius
+- Minimize distance for a given Displacement
+- Displacement for BagOut is zero since it starts and stops at cache. What about PieceCache?
+- Units of Displacement is meters and VIA.Direction
+
 
 :::

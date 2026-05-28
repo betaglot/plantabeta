@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Extension"
+let elementName = "Flexion"
 
 </script>
 
-# 🔻<span class="via">Extension</span>
+# 🔻<span class="via">Flexion</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,7 +20,14 @@ let elementName = "Extension"
 <!-- =================================================== -->
 ::: details &
 
-- Extend is an ⭐<span class="labor">Aktion</span> , 🔻<span class="via">Extension</span> is a 🔻<span class="via">Position</span> or 🔻<span class="via">Direction</span>
-- Extension can apply to SOMA, or EKOS
+- Flex is an ⭐<span class="labor">Aktion</span> , 🔻<span class="via">Flexion</span> is a 🔻<span class="via">Position</span> or 🔻<span class="via">Direction</span>
+- Flexion can apply to SOMA, or EKOS
+- LABOR:
+    - Fold down Silvi to prevent it from filling with rain, hail, or snow
+- J-Root
+- Flexion is measured in Degress or Relative to Minimum or Maximum of Flexion RangeOfMotion
+- Bent Trees in Bag
+    - [Error(Seedling)|Flexion]
+- Leaner?
 
 :::

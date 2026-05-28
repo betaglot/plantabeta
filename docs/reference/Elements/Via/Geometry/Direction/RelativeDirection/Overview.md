@@ -5,7 +5,11 @@ let elementName = "RelativeDirection"
 
 </script>
 
-# 🔻<span class="via">Direction_Relative</span>
+# 🔻<span class="via">Relative Direction</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -16,6 +20,37 @@ let elementName = "RelativeDirection"
 <!-- =================================================== -->
 ::: details &
 
+- RelativeTo:
+    - Ally
+    - Cache
+    - Neosite
+    - Obstakle
+    - North
+    - Right
+    - Left
+    - Backwards
+    - CurrentDirection
+    - HipsOrientation
+    - ShouldersOrientation
+    - KneeOrientation
+    - HeadOrientation
+    - SpadeOrientation
+    - Orientation
+    - Neosite.Markum
+    - Cache.Markum
+    - Boundary.Markum
+    - Paleon.Markum
+    - Slope.Orientation
+    - Trench.Orientation
+    - To
+    - From
+    - Near
+    - Away From
+    - Mikrosite
+    - Makrosite.Boundary
+    - Ally.Passag
+    - Ally.
+- (Follow = RelativeTo(Neosite.Markum))
 - Mostly prepositions
 - Away from
 - Away to
@@ -31,5 +66,6 @@ let elementName = "RelativeDirection"
     'Until', 'Up',
     'While',
 ]
+
 
 :::

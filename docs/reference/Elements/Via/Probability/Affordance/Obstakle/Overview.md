@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "RelativeDirection"
+let elementName = "Obstakle"
 
 </script>
 
-# 🔻<span class="via">Relative Direction</span>
+# 🔻<span class="via">Obstakle</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "RelativeDirection"
 <!-- =================================================== -->
 ::: details &
 
--
+- Detour
 
 :::
