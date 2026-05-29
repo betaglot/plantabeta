@@ -20,6 +20,13 @@ let elementName = "Snow"
 <!-- =================================================== -->
 ::: details &
 
--
+- can't see ground
+- can't see flag
+- cold
+- ShortDay
+- RestDay
+- InsulationLayer
+- RainShell
+- ImpermeableGloves
 
 :::

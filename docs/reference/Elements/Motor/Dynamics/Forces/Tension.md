@@ -20,6 +20,12 @@ let elementName = "TensionForce"
 <!-- =================================================== -->
 ::: details &
 
--
-
+- CentripetalForce
+- Rip
+- [Spade.Skim.Mano|Difinger] TwoFingers
+- Revolve
+- Posture
+    - SOMA
+    - Limberness
+    - Suppleness
 :::

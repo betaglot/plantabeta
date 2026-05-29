@@ -21,7 +21,11 @@ let elementName = "Inertia"
 ::: details &
 
 - Rugby Goose Step
--
 - Stomp for boot [Purga|Inertia]
+- Tangent
+- ProjectileMotion
+- Stall
+- Is InertiaDistribution a thing? Like MassDistribution or WeightDistribution?
+- Pushing off unstable EKONs like logs and Rocks that (Roll,Slide,Pivot)
 
 :::

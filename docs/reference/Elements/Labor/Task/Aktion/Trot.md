@@ -20,6 +20,8 @@ let elementName = "Trot"
 <!-- =================================================== -->
 ::: details &
 
--
+- (Amble < Trot < Run)
+- [Trenches.Trot]
+- [Mounds.Trot]
 
 :::

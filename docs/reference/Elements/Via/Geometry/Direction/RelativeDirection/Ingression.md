@@ -1,15 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Hydration"
+let elementName = "Ingression"
 
 </script>
 
-# 🔷<span class="soma">Hydration</span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+# 🔻<span class="via">Ingression</span>
 
 ---
 
@@ -20,15 +16,6 @@ let elementName = "Hydration"
 <!-- =================================================== -->
 ::: details &
 
-- Prehydrate
-- Eating
-- Drink
-- Electrolytes
-- Habit
-- Cycle
-- Frequency
-- Sweating
-- Humidity
-- BodyTemperature
+- Exo -> Ingress -> Endo -> Egress -> Exo
 
 :::

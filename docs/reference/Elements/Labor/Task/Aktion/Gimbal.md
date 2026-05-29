@@ -20,6 +20,11 @@ let elementName = "Gimbal"
 <!-- =================================================== -->
 ::: details &
 
--
+- Steadicam
+- Maintain Lokation (and, or, XOR) Orientation
+- Balance
+- BETOMs
+    - [Amble|Log]
+    - [Spade.Gimbal]
 
 :::

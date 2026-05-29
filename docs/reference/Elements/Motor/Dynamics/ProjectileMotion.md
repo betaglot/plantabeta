@@ -20,6 +20,12 @@ let elementName = "ProjectileMotion"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Markate|ProjectileMotion]
+- [Ballista|ProjectileMotion]
+- [Skim|ProjectileMotion]
+- [Flora|ProjectileMotion]
+- [Transgress|ProjectileMotion]
+    - Jump over or across an EKON
+- Gravity
 
 :::

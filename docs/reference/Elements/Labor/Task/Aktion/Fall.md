@@ -20,6 +20,17 @@ let elementName = "Fall"
 <!-- =================================================== -->
 ::: details &
 
--
+- Slip
+- Stumble
+- Trip
+    - Obstakle
+    - Snag
+- Injury
+- Fall.Finish
+    - What are you falling onto?
+    - Landing
+    - Impakt
+- ControlledFall
+- UncontrolledFall
 
 :::

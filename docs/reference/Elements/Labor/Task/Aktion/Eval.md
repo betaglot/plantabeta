@@ -20,6 +20,18 @@ let elementName = "Eval"
 <!-- =================================================== -->
 ::: details &
 
--
+- Evaluate an Expression of BETA
+    - return
+        - Quantity
+        - Boolean
+        - String
+        - ELEMENT
+        - BETOM
+        - BETA
+            - [Mikrosite.Mound.Nadir] Evaluate to see if the bottom of a mound is a Mikrosite
+- Probe
+    - [Spade.Probe]
+    - [Mano.Probe]
+    - [Boot.Probe]
 
 :::

@@ -20,6 +20,9 @@ let elementName = "Momentum"
 <!-- =================================================== -->
 ::: details &
 
--
+- Momentum is a Vector Quantity
+- p = mv
+    - Mass
+    - Velocity
 
 :::

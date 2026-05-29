@@ -20,6 +20,9 @@ let elementName = "Initiate"
 <!-- =================================================== -->
 ::: details &
 
--
+- MOTOR.Jerk
+- "Build up"
+- "charge up"
+- Potentiate?
 
 :::

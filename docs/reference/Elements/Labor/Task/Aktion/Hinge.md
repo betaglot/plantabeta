@@ -20,6 +20,9 @@ let elementName = "Hinge"
 <!-- =================================================== -->
 ::: details &
 
--
+- BETOMs
+    - [Hinge|Hips]
+    - [Plantfor.Lift]
+    - [Korpo.Flex] Bend over
 
 :::

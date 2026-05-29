@@ -20,7 +20,25 @@ let elementName = "Rain"
 <!-- =================================================== -->
 ::: details &
 
--
-- <BB ekos="Rain" anima="Emotion"/>
+- Sadness
+- Cold
+- Fall -> (Slip,Slide, [Boot.AKTION])
+    - Wet
+    - Slippery
+- Clouds
+    - You can often see the Rain Clouds coming
+- Darkness
+- Shadow
+- Sound
+    - Loud when rain hits while wear a hood
+    - The rain is so loud that you can't hear your Music
+- RainShell
+    - Feelings of safety
+        - Fear of Hypothermia
+    - Sweating in RainShell
+        - Unzip the RainShell to allow for ventilation
+- GoOrNoGo
+    - Prediktion
+- Lightning
 
 :::

@@ -20,6 +20,9 @@ let elementName = "Tangent"
 <!-- =================================================== -->
 ::: details &
 
--
+- Onda
+- Orbit
+- [Spade.AKTION]
+- Helix
 
 :::

@@ -20,6 +20,20 @@ let elementName = "Flex"
 <!-- =================================================== -->
 ::: details &
 
--
+- Bend
+- Flexion
+- MultiJoint
+    - Arm
+        - ([Flex|Arm] = ([Flex|Elbow] + [Flex|Wrist]))
+    - Leg
+        - ([Flex|Leg] = ([Flex|Knee] + [Flex|Ankle] + [Flex|Hip]))
+    - Finger
+
+- Flex at Joint
+    - Ankle
+    - Hip
+    - Knee
+    - Wrist
+    - Spine
 
 :::

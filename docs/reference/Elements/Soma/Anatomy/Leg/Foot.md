@@ -20,6 +20,8 @@ let elementName = "Foot"
 <!-- =================================================== -->
 ::: details &
 
+- [Flex|Foot] = PlantarFlexion
+- [Extend|Foot] = FootDorsiFlexion
 -
 
 :::

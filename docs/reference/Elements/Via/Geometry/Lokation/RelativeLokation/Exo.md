@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Endo"
+let elementName = "Exo"
 
 </script>
 
-# 🔻<span class="via">Endo</span>
+# 🔻<span class="via">Exo</span>
 
 ---
 
@@ -16,6 +16,6 @@ let elementName = "Endo"
 <!-- =================================================== -->
 ::: details &
 
--
+- Outside
 
 :::

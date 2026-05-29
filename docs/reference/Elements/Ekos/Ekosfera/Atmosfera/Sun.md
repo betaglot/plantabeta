@@ -20,6 +20,14 @@ let elementName = "Sun"
 <!-- =================================================== -->
 ::: details &
 
--
+- Armor
+    - Hat
+- Ultraviolet Light
+- Shadow
+- Light
+    - GoodMood
+- Visibility
+- Time of Day
+    - North Side Shadow at Noon
 
 :::

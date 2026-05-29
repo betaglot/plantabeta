@@ -20,6 +20,11 @@ let elementName = "Crawl"
 <!-- =================================================== -->
 ::: details &
 
--
+- with or without Arms too
+    - [Crawl|Arm]
+        - Crawling with your arms while dragging your legs
+    - [Crawl|Leg]
+
+    - [Crawl|(Leg,Arm)]
 
 :::

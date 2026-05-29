@@ -21,5 +21,13 @@ let elementName = "Defend"
 ::: details &
 
 - Block, Defend, put up your guard, guard against, shield (verb)
+- Flora Whip
+- Hail
+- Sun
+- Passive Defend
+    - Keep your guard up in preparation
+- Active Defend
+    - Flora Whip
+    - React in time to Defend
 
 :::

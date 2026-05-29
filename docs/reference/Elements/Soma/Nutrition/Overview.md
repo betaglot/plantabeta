@@ -20,7 +20,11 @@ let elementName = "Nutrition"
 <!-- =================================================== -->
 ::: details &
 
--
 - Drink when you're not thirsty and stop eating while you're still hungry
+- Eat
+- Hydration
+- Protein
+- Digestion
+- Recovery
 
 :::

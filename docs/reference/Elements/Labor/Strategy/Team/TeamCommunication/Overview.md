@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "TeamCommunication"
+let elementName = "AlliesCommunication"
 
 </script>
 
-# ⭐<span class="labor">Team Communication</span>
+# ⭐<span class="labor">Allies Communication</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -34,5 +34,6 @@ let elementName = "TeamCommunication"
 - Ting your Spade to get someone's attention
 
 - Morning meeting: Circle crowd is not ideal
+- KappaBeta
 
 :::

@@ -22,5 +22,10 @@ let elementName = "Iguana"
 
 - RockOver
 - Used to get over Logs
+- Leg
+- Foot
+- Lever
+- [Flex|Leg]
+
 
 :::

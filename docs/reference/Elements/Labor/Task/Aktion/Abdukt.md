@@ -21,6 +21,12 @@ let elementName = "Abdukt"
 <!-- =================================================== -->
 ::: details &
 
--
+- Abduct
+- Etymology
+    - From Lead, lead from, lead away from
+- BETOMs
+    - [Addukt|Arm]
+    - [Spade.Addukt]
+    - [Abdukt|Leg]
 
 :::

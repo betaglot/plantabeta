@@ -23,12 +23,15 @@ let elementName = "Estimation"
 
 -
 
-- "ANIMA.Estimation"
-- "ANIMA.Estimation.BagCover"
-- "ANIMA.Estimation.LandEstimation.Fraction"
-- "ANIMA.Estimation.VIA_Estimation.AreaEstimation"
-- "ANIMA.Estimation.VIA_Estimation.AreaEstimation.AreaCompletionEstimation"
-- "ANIMA.Estimation.VIA_Estimation.LineDistanceEstimation"
-- "ANIMA.Estimation.VIA_Estimation.TimeEstimation"
+- ANIMA.Estimation
+- ANIMA.Estimation.BagCover
+- ANIMA.Estimation.LandEstimation.Fraction
+- ANIMA.Estimation.VIA_Estimation.AreaEstimation
+- ANIMA.Estimation.VIA_Estimation.AreaEstimation.AreaCompletionEstimation
+- ANIMA.Estimation.VIA_Estimation.LineDistanceEstimation
+- ANIMA.Estimation.VIA_Estimation.TimeEstimation
+- Guess
+- EducatedGuess
+- Algorithm to Estimate which can be updated when new information becomes available
 
 :::
