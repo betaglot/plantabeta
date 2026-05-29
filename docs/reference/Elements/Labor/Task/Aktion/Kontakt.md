@@ -20,6 +20,6 @@ let elementName = "Kontakt"
 <!-- =================================================== -->
 ::: details &
 
--
+- Kontakt is almost never a Point, not a ContactPoint. Points are not Concrete
 
 :::

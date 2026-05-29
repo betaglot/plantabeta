@@ -22,6 +22,8 @@ The point where RouteLines converge into or diverge from.
 <!-- =================================================== -->
 ::: details &
 
--
+- [Piece.Boundary]
+- Pinched Piece
+- Crossing when AlliedPlanting. The vertex of Passag
 
 :::

@@ -21,6 +21,13 @@ let elementName = "Kluster"
 <!-- =================================================== -->
 ::: details &
 
-- ClusterPlanting within Plots
+- KlusterPlanting within Plots
+- Kluster if Naturals
+- Kluster of Mikrosites
+- Kluster of Planters is usually a AlliedBetaError
+- Kluster of Shrubs spaced 5 meters apart
+- (Polygenus Planting)Ecology
+    - Polyfamily
+    - Polyorder
 
 :::

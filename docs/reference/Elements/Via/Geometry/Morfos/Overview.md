@@ -20,38 +20,41 @@ let elementName = "Morfos"
 <!-- =================================================== -->
 ::: details &
 
+- Every SOMON and EKON has Morfos as an Attribute
+- Size
 - 3 Dimensional Form
 - Precipice Prominence
     - Prominence of a mountain starts at the base, not sea level
-- [Mound.Morfos]
-- [Trench.Morfos]
-- [Hand.Morfos]
-- [Arm.Morfos]
-- [Spade.Morfos]
-- [Preskreef.Morfos]
-- [Protektor.Morfos]
-- [Riparian.Morfos]
-- [Piece.Morfos]
-- [Planter.Morfos]
-- [Ally.Morfos]
-- [Plantfor.Morfos]
-- [Markum.Morfos]
-- [Mikrosite.Morfos]
-- [Block.Morfos]
-- [Road.Morfos]
-- [Soil.Morfos]
-- [Slash.Morfos]
-- [BurnPile.Morfos]
-- [Valley.Morfos]
-- [Hat.Morfos]
-- [Boot.Sole.Morfos]
-- [Boot.Eyelets.Morfos]
-- [Boot.Rand.Morfos]
-- [Boot.Heel.Morfos]
-- [Boot.Toe.Morfos]
-- [Boot.Seams.Morfos]
-- [Boot.Eyelets.Morfos]
-- [Boot.Lace.Morfos]
+- BETOMs
+    - [Mound.Morfos]
+    - [Trench.Morfos]
+    - [Hand.Morfos]
+    - [Arm.Morfos]
+    - [Spade.Morfos]
+    - [Preskreef.Morfos]
+    - [Protektor.Morfos]
+    - [Riparian.Morfos]
+    - [Piece.Morfos]
+    - [Planter.Morfos]
+    - [Ally.Morfos]
+    - [Plantfor.Morfos]
+    - [Markum.Morfos]
+    - [Mikrosite.Morfos]
+    - [Block.Morfos]
+    - [Road.Morfos]
+    - [Soil.Morfos]
+    - [Slash.Morfos]
+    - [BurnPile.Morfos]
+    - [Valley.Morfos]
+    - [Hat.Morfos]
+    - [Boot.Sole.Morfos]
+    - [Boot.Eyelets.Morfos]
+    - [Boot.Rand.Morfos]
+    - [Boot.Heel.Morfos]
+    - [Boot.Toe.Morfos]
+    - [Boot.Seams.Morfos]
+    - [Boot.Eyelets.Morfos]
+    - [Boot.Lace.Morfos]
 - (Morfos != Topology)
     - Topology of GraphTheory
 - You don't need to describe the Morfos of Hands since it is common knowledge
@@ -66,7 +69,7 @@ let elementName = "Morfos"
 - [Hole.Morfos]
 - Etymology
     - Morphology
-    - morpheme 
+    - morpheme
     - metamorphosis
     - geomorphology
     - "morph into"

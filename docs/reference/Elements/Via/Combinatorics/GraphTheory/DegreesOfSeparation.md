@@ -21,6 +21,11 @@ let elementName = "DegreesOfSeparation"
 <!-- =================================================== -->
 ::: details &
 
--
+- Is DegreesOfSeparation useful during Runtime?
+- DegreesOfSeparation
+    - SmallWorlds
+    - ShortestPath
+- Number of Nodes between Start and Finish Nodes
+- GraphTraversal
 
 :::

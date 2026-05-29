@@ -21,5 +21,8 @@ let elementName = "Geometry"
 ::: details &
 
 -
+- MOTOR.MOTORAttributes.MOTONPlane.XYPlane
+- MOTOR.MOTORAttributes.MOTONPlane.XZPlane
+- MOTOR.MOTORAttributes.MOTONPlane.YZPlane
 
 :::

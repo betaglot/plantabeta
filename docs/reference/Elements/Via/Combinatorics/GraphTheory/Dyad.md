@@ -20,6 +20,7 @@ let elementName = "Dyad"
 <!-- =================================================== -->
 ::: details &
 
--
+- AlliedBETA(2)
+    - Alias: PartnerPlanting
 
 :::

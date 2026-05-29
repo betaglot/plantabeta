@@ -1,3 +1,10 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Point"
+
+</script>
+
 # 🔻 <span class="via">Point</span>
 
 ---
@@ -53,11 +60,20 @@ Makes the Voronoi Cells more
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
+- {VIA: Line, ANIMA: Reference}
+    - [EKON|Reference]
+    - [Point|Reference]
+    - [Line|Reference]
+- [Reflection.Point]
+    - Direction.Geometry
+    - Turn around
 - [Inflection.Point]
-- [Inflection.Edge]
+- [Inflection.Line]
 - [Flexion.Point]
 - [Extension.Point]
 - [Pivot.Point]
 - [CenterOfMass.Point]
+- To(Cache.Lokation.Point)
+- [LABON:Target|Point]
 
 :::

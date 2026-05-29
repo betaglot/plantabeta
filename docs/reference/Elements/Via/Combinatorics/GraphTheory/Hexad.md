@@ -20,6 +20,7 @@ let elementName = "Hexad"
 <!-- =================================================== -->
 ::: details &
 
--
+- Plot.Density(6)
+- AlliedBETA(6)
 
 :::

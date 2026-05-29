@@ -20,6 +20,16 @@ let elementName = "Aktion"
 <!-- =================================================== -->
 ::: details &
 
--
+- Redundant Aktion
+- Wasteful Aktion
+- SubAktion
+- SuperAktion
+
+- BETOMs
+    - [Aktion|Deadpoint]
+    - [Aktion.Start]
+    - [Aktion.HighestPoint]
+    - [Aktion.InflectionPoint]
+    - [Aktion.LowestPoint]
 
 :::
