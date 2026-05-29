@@ -20,7 +20,7 @@ let elementName = "Konvexity"
 <!-- =================================================== -->
 ::: details &
 
-- The Konvexity of Klimon is a hint of what lies hidden. KryptoSite. 
+- The Konvexity of Klimon is a hint of what lies hidden. KryptoSite.
 - Rock under Duff
 - RedRot under Duff
 - Konvexity mostly applies to EKONs

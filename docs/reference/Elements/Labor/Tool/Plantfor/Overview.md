@@ -1,19 +1,19 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Plantafor"
+let elementName = "Plantfor"
 
 </script>
 
-# ⭐<span class="labor">Plantafor</span>
+# ⭐<span class="labor">Plantfor</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
 
-## PlantaforAnatomy
+## PlantforAnatomy
 
-## PlantaforAttributes
+## PlantforAttributes
 
 ---
 
@@ -24,15 +24,15 @@ let elementName = "Plantafor"
 <!-- =================================================== -->
 ::: details &
 
-- Plantafor.Aktion
+- Plantfor.Aktion
     - Roll up your back bag layer to shell from water and dirt
     - Bag.Purga
     - Bag.Klose
     - Pack into itself for Transit, especially PostSeason
 
-- PlantaforCarry: One Shoulder strap when one side is empty
+- PlantforCarry: One Shoulder strap when one side is empty
 
-- Plantafor.SubElements
+- Plantfor.SubElements
     - Bag
         - Rim
         - SilviBag

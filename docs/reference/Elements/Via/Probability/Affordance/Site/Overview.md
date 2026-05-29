@@ -20,6 +20,12 @@ Aliases: Contact point, Contact surface
 - The Plural of "Site" is "Sites"
 - Footprints in snow show via
 
+- Antisite, Pseudosite, Kryptosite
+    - Antisites are sites to avoid
+        - [KLIMBETA]: Dual Texture Hold Surface
+    - Antisite
+    - Antisite is the antonym of Mikrosite. Where not to [Spade.Slam] or [Spade.Probe]
+
 - SomaSite
 - LaboSite
 

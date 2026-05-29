@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.On" />
+# <BB labor="Armor,Plantfor.Bag" />
 
 ---
 
@@ -17,14 +17,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- NeoAktion Arm thread through straps during PlantaforOn
-    - ArmSlot
+- Hoplite Shield
 
-- TeamBETA can be used for PlantaforOn
-- StandingPlantaforOn
-- SittingPlantaforOn
-    - BodyRockUp
-- BuckleMano
-    - You can lift the Plantafor on using BuckleMano if the bags are lightweight
-- ShoulderThread without touching Straps with dirty hands
 :::

@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.Bag.Lift" />
+# <BB labor="Plantfor.On" />
 
 ---
 
@@ -17,15 +17,14 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Distinction(BagLift != Plantafor.On)
-    - ("Lift your bags on" == Plantafor.On)
-    - ("Lift your bags over a stump" == Bag.Lift)
-- Lift Bags when BagSnag
-- Lift and Pull bags through a thicket
-- The VIA is almost always 🔻Over
-- Over HighStump on DeclineWalk
-- Constriction
-- Lift over Obstacle
-- ArmBagLift
-- LegBagLift
+- NeoAktion Arm thread through straps during PlantforOn
+    - ArmSlot
+
+- TeamBETA can be used for PlantforOn
+- StandingPlantforOn
+- SittingPlantforOn
+    - BodyRockUp
+- BuckleMano
+    - You can lift the Plantfor on using BuckleMano if the bags are lightweight
+- ShoulderThread without touching Straps with dirty hands
 :::

@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.Transport" />
+# <BB labor="Kontakt,Plantfor.Bag" />
 
 ---
 
@@ -17,10 +17,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Pack the Plantafor
-    - into Crummy
-    - onto Quad
-    - into truck bed
-    - into itself for after the season
+- BagRimKontakt
+- BagBodyKontakt
+- BagBottomKontakt
 
 :::

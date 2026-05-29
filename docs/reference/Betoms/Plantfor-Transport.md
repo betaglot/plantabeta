@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Armor,Plantafor.Bag" />
+# <BB labor="Plantfor.Transport" />
 
 ---
 
@@ -17,6 +17,10 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Hoplite Shield
+- Pack the Plantfor
+    - into Crummy
+    - onto Quad
+    - into truck bed
+    - into itself for after the season
 
 :::
