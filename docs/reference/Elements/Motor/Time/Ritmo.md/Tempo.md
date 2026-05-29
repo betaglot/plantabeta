@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Aktion"
+let elementName = "Tempo"
 
 </script>
 
-# ⭐<span class="labor">Aktions</span>
+# 🟠<span class="motor">Tempo</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,19 +20,9 @@ let elementName = "Aktion"
 <!-- =================================================== -->
 ::: details &
 
-- Redundant Aktion
-- Wasteful Aktion
-- SubAktion
-- SuperAktion
-- MOTOR.MOTORAttributes.SubmoveCount
-- NeoAktion
-    - ArmSlide across Torso
-
-- BETOMs
-    - ([Aktion|Deadpoint] == [Aktion|Acceleration(0)])
-    - [Aktion.Start]
-    - ([Aktion.HighestPoint] == [Aktion.Apex])
-    - [Aktion.InflectionPoint]
-    - ([Aktion.LowestPoint] == [Aktion.Nadir])
+- Import Tempo from MusicTheory
+- Tempo(Amble < Trot < Run)
+- (Tempo != (Speed,Velocity))
+- Tempo sets the relative durations of BETA within Sequences
 
 :::

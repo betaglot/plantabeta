@@ -20,6 +20,7 @@ let elementName = "RelativeLokation"
 <!-- =================================================== -->
 ::: details &
 
+- Apex, Nadir == Highest, Lowest
 - Triangulation
 - Between
 - Middle
