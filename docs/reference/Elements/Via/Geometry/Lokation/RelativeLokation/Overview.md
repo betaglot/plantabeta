@@ -23,6 +23,7 @@ let elementName = "RelativeLokation"
 - Triangulation
 - Between
 - Middle
+    [Point.Middle] == "Midpoint" == (VIA.Fraction + Point)
 - End
 - [Middle,Point] = "Midpoint"
 - Use (Superior,Inferior)InsteadOf(Above,Below) ToReduceConfusion with Direktions
