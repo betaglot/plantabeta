@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Time"
+let elementName = "Beat"
 
 </script>
 
-# 🟠<span class="motor">Time</span>
+# 🟠<span class="motor">Beat</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,13 +20,6 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
-- Tenet by Christopher Nolan
-- ObjectiveTime
-    - Clock, Sun
-- SubjectiveTime
-    - FlowState
-- Before, After, During, While, Forever, Constantly
-- Reverse
-- Process
+- Differentiate(Pulse,Beat)
 
 :::
