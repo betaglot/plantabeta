@@ -1,12 +1,11 @@
-
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Cluster"
+let elementName = "Oktad"
 
 </script>
 
-# 🔻<span class="via">Cluster</span>
+# 🔻<span class="via">Oktad</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -21,6 +20,6 @@ let elementName = "Cluster"
 <!-- =================================================== -->
 ::: details &
 
-- ClusterPlanting within Plots
+- Plot.Density(8)
 
 :::
