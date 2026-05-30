@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Klose"
+let elementName = "Axine"
 
 </script>
 
-# ⭐<span class="labor">Klose</span>
+# ⭐<span class="labor">Axine</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,11 +20,14 @@ let elementName = "Klose"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Skreef,Rip" soma="" ekos="" via="" motor="" anima=""/> before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
-
-- Bonobo Klose
-- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.
-- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
-- Ektomy is the opposite Aktion of SpadeKlose
-
+- Axe
+- Grip the side of the Spade.Handle
+- Impakt the Edge of the Blade, not the Tip
+- BETOMs
+    - [Spade.Axine.Mano.Handle|Site]
+    - [Axine|Branch]
+    - [Spade.Post.Axine|Stump]
+        - Axe your Spade into a Stump and it will stay
+- Power is proportional to [Backswing.Displacement]
+    - Horizontal Axe Swing gains less energy from Gravity than Vertical Swing
 :::

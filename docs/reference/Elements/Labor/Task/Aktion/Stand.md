@@ -20,6 +20,11 @@ let elementName = "Stand"
 <!-- =================================================== -->
 ::: details &
 
--
+- RookieStare
+- Viewpoint
+- BETOMs
+    - [Bags.Don.Stand]
+    - [Bags.Doff.Stand]
+
 
 :::

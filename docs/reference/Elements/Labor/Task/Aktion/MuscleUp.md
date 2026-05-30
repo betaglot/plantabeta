@@ -20,6 +20,11 @@ let elementName = "MuscleUp"
 <!-- =================================================== -->
 ::: details &
 
--
+- BETOMs
+    - [Spade.MuscleUp]
+    - [Spade.Ankor.MuscleUp]
+    - [MuscleUp|Stump]
+    - [MuscleUp|HighSlash]
+    - [MuscleUp|HighLog]
 
 :::

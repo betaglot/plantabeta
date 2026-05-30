@@ -20,6 +20,13 @@ let elementName = "Rotate"
 <!-- =================================================== -->
 ::: details &
 
--
+- BETOMs
+    - [Spade.Rotate]
+    - Twist
+    - [Rotate|Spine]
+    - [Rotate|Head]
+    - [Rotate|Forearm]
+        - Pronation
+        - Supination
 
 :::

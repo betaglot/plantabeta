@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Machete"
+let elementName = "Pantera"
 
 </script>
 
-# ⭐<span class="labor">Machete</span>
+# ⭐<span class="labor">Pantera</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "Machete"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Systele.Pantera]
 
 :::

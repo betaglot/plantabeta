@@ -24,5 +24,4 @@ let elementName = "Konstrukt"
 - [SummerCache.Konstrukt]
 - [Cache.Konstrukt]
 
-
 :::

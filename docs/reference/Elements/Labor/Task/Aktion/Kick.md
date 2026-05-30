@@ -21,5 +21,11 @@ let elementName = "Kick"
 ::: details &
 
 - Stomp is Down, Kick is Anterior or Lateral
+- BETOMs
+    - [Kick.Spartan|Branch]
+    - [Kick.Spartan|RottenLog]
+    - [Kick|Slash]
+    - [Systele.Kick]
+    - [Kick|Skreef]
 
 :::

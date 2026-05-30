@@ -24,9 +24,21 @@ let elementName = "Aktion"
 - Wasteful Aktion
 - SubAktion
 - SuperAktion
-- MOTOR.MOTORAttributes.SubmoveCount
+- MOTOR.MOTORAttributes.SubAktionCount
 - NeoAktion
     - ArmSlide across Torso
+
+- AKTIONs in OtherSports
+    - Tricks in Skateboarding
+    - Moves in Climbing
+    - Maneuvers in Kiteboarding
+    - Actions
+    - Elements in Gymnastics
+    - A skill in Gymnastics
+    - A technique in
+    - Motion
+
+- AKTIONs are grouped into Frases
 
 - BETOMs
     - ([Aktion|Deadpoint] == [Aktion|Acceleration(0)])
