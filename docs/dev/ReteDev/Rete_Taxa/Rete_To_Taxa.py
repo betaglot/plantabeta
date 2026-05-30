@@ -28,7 +28,7 @@ def create_folder_structure_json(path):
 
 
 # Specify the path to the folder you want to create the JSON for 
-folder_path = 'docs/reference'
+folder_path = 'docs/reference/Elements/Anima'
 
 # Call the function to create the JSON representation 
 folder_json = create_folder_structure_json(folder_path) 
@@ -38,3 +38,7 @@ folder_json_str = json.dumps(folder_json, indent=4)
 
 # Print the JSON representation of the folder structure 
 print(folder_json_str) 
+
+with open(r"C:\Users\chris\plantabeta\docs\dev\ReteDev\Rete_Taxa\Rete_Taxa.json", 'w',  encoding="utf-8") as file:
+	file.write(folder_json_str)
+
