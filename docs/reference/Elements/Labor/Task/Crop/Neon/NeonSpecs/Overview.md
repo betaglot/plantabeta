@@ -20,6 +20,14 @@ let elementName = "Specs"
 <!-- =================================================== -->
 ::: details &
 
+- Price Per Neon
+
+- Specifications of the contract.
+    - To specify exactly what the task is for a given Block or Piece
+
+- Etymology
+    - Abbreviation of "Specification"
+
 - ExposedMineralSoil
     - Created by Skreefing
     - Naturally present

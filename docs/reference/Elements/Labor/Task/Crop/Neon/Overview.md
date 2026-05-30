@@ -13,7 +13,7 @@ let elementName = "Neon"
 
 <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/tree-seed/tree-seed-publications/seed_handling_guidebook_hi.pdf>
 
-|Species| ID Common Name |Latin Name|
+|Species ID | Common Name |Latin Name|
 |------ |----- | ----- |
 |Bl| sub-alpine fir |Abies lasiocarpa|
 |Ba| amabilis fir |Abies amabilis|
@@ -29,7 +29,7 @@ let elementName = "Neon"
 |Fd| Douglas-fir |Pseudotsuga menziesii|
 |Pli| lodgepole pine  |Pinus contorta|
 |Pw| white pine |Pinus monticola|
-|Py| ponderosa pine |Pinus ponderosa|
+|Py| ponderosa pine, yellow pine |Pinus ponderosa|
 
 ---
 
@@ -40,6 +40,12 @@ let elementName = "Neon"
 <!-- =================================================== -->
 ::: details &
 
+- [Neon|Enumeration]
+    - How many seedlings you've planted so far
+    - How much money you've made so far
+    - Counting steps us a crutch for spacing and ultimately density
+
+- The Species_ID is written on the Box.Sticker
 - The Seedlings that you're planting are not part of EKOS, they are brought to the Block by your company.
 - NeonAnatomy
     - Stem

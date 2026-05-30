@@ -26,5 +26,6 @@ let elementName = "Crop"
 -
 - Neon, Paleon
 - A Pine seedling which is smaller than the Neon isn't a Paleon
+- Trees are the only plant being harvested
 
 :::

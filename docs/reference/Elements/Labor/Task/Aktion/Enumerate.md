@@ -20,6 +20,11 @@ let elementName = "Enumerate"
 <!-- =================================================== -->
 ::: details &
 
+- BETOMs
+    - [Neon.Enumerate]
+    - [BagOut.Enumerate]
+    - [PlantedNeon.Enumerate]
+
 - Count on your fingers
 - Externalize the numbers as much as possible since numbers are very easy to be corrupted by memory
 - Point at what you're counting

@@ -1,25 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Kompletion"
+let elementName = "Pleroo"
 
 </script>
 
-# ⭐<span class="labor">Kompletion</span>
+# ⭐<span class="labor">Pleroo</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
-
-## Etymology
-
-## Komplete = Fill = Close
-
-- Kompleted = full, filled, done
-- "To komplete" = "To fill"
-- "Komplete a block" = "Close a block"
-- "the piece is being completed fast" = "the piece is closing fast"
-- "that section was kompleted by them" = "that section was filled by them"
 
 ---
 
@@ -30,8 +20,26 @@ let elementName = "Kompletion"
 <!-- =================================================== -->
 ::: details &
 
+- How much of your Piece is Plerooned (filled)?
+
+- Etymology
+    - Pleroo
+        - "to fill"
+    - Pleroumenon
+        - "that which is being filled"
+        - Block, Piece, Makrosite, Mikrosite
+    - Pleroon
+        - "that which fills"
+    - Complete
+    -
+
+- Pleroon is the ELEMENT which fills (FillPlan)
+    - BoustroPleroon
+    - BouncingPleroon
+    - FollowPleroon
+
 - FillPlant == PaleonPlant
-    - PaleonKompletion
+    - PaleonPleroo
 
 - FrontierEdge
     - The edge is more precise than line

@@ -20,6 +20,9 @@ let elementName = "Slot"
 <!-- =================================================== -->
 ::: details &
 
--
+- ParallelSides
+- Ingress
+- BETOMs
+    - [Transgress.Slot|Bush]
 
 :::

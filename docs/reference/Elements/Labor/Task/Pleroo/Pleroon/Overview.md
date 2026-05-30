@@ -1,9 +1,11 @@
----
-search: false
----
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Pleroon"
 
+</script>
 
-# 🔻<span class="via">Coverage</span>
+# 🔻<span class="via">Pleroon</span>
 
 > A plan to complete a zone by using Lines, Divs, Deadwalking, Marka
 
@@ -56,22 +58,22 @@ BlockFill Pattern Planters usually it's only supervisors that need to know Block
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - <https://www.fujipress.jp/jrm/rb/robot003000010005/>
 
-- "VIA.ZoneFill.AreaBoundary.BoundaryLine"
-- "VIA.ZoneFill.AreaBoundary.BoundaryPoint"
-- "VIA.ZoneFill.AreaBoundary.SideBoundary"
-- "VIA.ZoneFill.AreaDefinition"
-- "VIA.ZoneFill.BagUpArithmetic"
-- "VIA.ZoneFill.BoustroFill"
-- "VIA.ZoneFill.CircleFill"
-- "VIA.ZoneFill.CircleCover.CircleSegmentFill"
-- "VIA.ZoneFill.CircleCover.SemicircleFill"
-- "VIA.ZoneFill.DiamondFill"
-- "VIA.ZoneFill.Overview"
-- "VIA.ZoneFill.PenroseFill"
-- "VIA.ZoneFill.SimplifyAreaShape"
-- "VIA.ZoneFill.SquareFill"
-- "VIA.ZoneFill.TrapezoidFill"
-- "VIA.ZoneFill.TriangleFill"
+- "VIA.ZonePleroon.AreaBoundary.BoundaryLine"
+- "VIA.ZonePleroon.AreaBoundary.BoundaryPoint"
+- "VIA.ZonePleroon.AreaBoundary.SideBoundary"
+- "VIA.ZonePleroon.AreaDefinition"
+- "VIA.ZonePleroon.BagUpArithmetic"
+- "VIA.ZonePleroon.BoustroPleroon"
+- "VIA.ZonePleroon.CirclePleroon"
+- "VIA.ZonePleroon.CircleCover.CircleSegmentPleroon"
+- "VIA.ZonePleroon.CircleCover.SemicirclePleroon"
+- "VIA.ZonePleroon.DiamondPleroon"
+- "VIA.ZonePleroon.Overview"
+- "VIA.ZonePleroon.PenrosePleroon"
+- "VIA.ZonePleroon.SimplifyAreaShape"
+- "VIA.ZonePleroon.SquarePleroon"
+- "VIA.ZonePleroon.TrapezoidPleroon"
+- "VIA.ZonePleroon.TrianglePleroon"
 - "VIA.Chunking"
 - "VIA.Chunking.ChunkNaming"
 - "VIA.Chunking.ChunkPair"
@@ -84,13 +86,13 @@ BlockFill Pattern Planters usually it's only supervisors that need to know Block
 - "VIA.Chunking.Fraction.ThirdQuarterVia"
 - "VIA.Chunking.Landmark"
 - "VIA.Chunking.Tessellation"
-- "VIA.PieceCover.ZoneFill"
-- "VIA.PieceCover.BackFill"
-- "VIA.PieceCover.OpenEndedFill"
+- "VIA.PieceCover.ZonePleroon"
+- "VIA.PieceCover.BackPleroon"
+- "VIA.PieceCover.OpenEndedPleroon"
 - "VIA.PieceCover.Overview"
-- "VIA.PieceCover.PerimeterFill"
-- "VIA.PieceCover.PocketFill"
-- "VIA.PieceCover.StraightenFill"
-- "VIA.PieceCover.TypewriterFill"
+- "VIA.PieceCover.PerimeterPleroon"
+- "VIA.PieceCover.PocketPleroon"
+- "VIA.PieceCover.StraightenPleroon"
+- "VIA.PieceCover.TypewriterPleroon"
 
 :::

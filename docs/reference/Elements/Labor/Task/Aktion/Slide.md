@@ -20,6 +20,13 @@ let elementName = "Slide"
 <!-- =================================================== -->
 ::: details &
 
--
+- (Side != Slip)
+- Slide Hand to a new grip site
+- Slide down the Silvi.Endon to the Bottom of the Silvi
+- Slide [Spade.Tip] down a stump, then [Spade.Skim.Pry|Skreef]
+- Slide Flag through Flagger to load it
+- Slide through Hand
+- Slide TreeHand and Seedling down [Blade.Konvex] during [Mikrosite.Ingress]
+- Hand Slide up seedling to support it while [Systele.Boot]
 
 :::

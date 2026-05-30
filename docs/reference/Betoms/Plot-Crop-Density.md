@@ -20,5 +20,7 @@ Density of Crops
 ::: details &
 
 - <BB labor="Plot.Mikrosite" via="Density"/>
+- Bonus Tree Stumped trees don't count in plots
+
 
 :::

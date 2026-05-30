@@ -20,6 +20,19 @@ let elementName = "Snap"
 <!-- =================================================== -->
 ::: details &
 
--
+- Break wood into two pieces
+- Branch Snap
+- Snap and Rip
+    - Green Stem snap often keeps bark intact so you must rip to fully separate
+- BETOMs
+    - [Snap.Twist]
+    - [Snap.Flex]
+    - [Snap.Extend]
+    - [Snap.Slap]
+    - [Snap.Axine]
+    - [Snap.Stomp]
+    - [Snap.Skim]
+    - [Snap.Chop]
+    -
 
 :::

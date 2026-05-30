@@ -26,5 +26,4 @@ let elementName = "Stand"
     - [Bags.Don.Stand]
     - [Bags.Doff.Stand]
 
-
 :::

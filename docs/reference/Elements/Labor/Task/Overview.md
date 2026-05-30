@@ -5,7 +5,7 @@ let elementName = "Task"
 
 </script>
 
-# ⭐<span class="labor">Tasks</span>
+# ⭐<span class="labor">Task</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,14 @@ let elementName = "Task"
 <!-- =================================================== -->
 ::: details &
 
--
+- To be completed
+- Aliases
+    - Challenges
+    - Goals
+    - "How to score"
+    - Job
+    - work to be done
+    - assigned duties
+    - mission
 
 :::
