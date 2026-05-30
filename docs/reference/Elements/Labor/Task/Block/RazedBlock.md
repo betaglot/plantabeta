@@ -1,24 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "FillBlock"
+let elementName = "RazedBlock"
 
 </script>
 
-# ⭐<span class="labor">FillBlock</span>
+# ⭐<span class="labor">RazedBlock</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
-
-## FillBlock Purpose
-
-- BurntBlock
-
-## CoverBlock Attributes
-
-- CropTreeAge
--
 
 ---
 
@@ -29,6 +20,9 @@ let elementName = "FillBlock"
 <!-- =================================================== -->
 ::: details &
 
--
+- Almost no Flora left standing
+- Clearcutting
+- Most Trenched Blocks are RazedBlock
+- RazedBlock is the opposite of PaleoBlock
 
 :::

@@ -20,6 +20,6 @@ let elementName = "Whip"
 <!-- =================================================== -->
 ::: details &
 
--
+- Differentiate(Whip,Onda)
 
 :::

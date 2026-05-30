@@ -58,6 +58,8 @@ BlockFill Pattern Planters usually it's only supervisors that need to know Block
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - <https://www.fujipress.jp/jrm/rb/robot003000010005/>
 
+- OpenEndedPleroon
+
 - "VIA.ZonePleroon.AreaBoundary.BoundaryLine"
 - "VIA.ZonePleroon.AreaBoundary.BoundaryPoint"
 - "VIA.ZonePleroon.AreaBoundary.SideBoundary"

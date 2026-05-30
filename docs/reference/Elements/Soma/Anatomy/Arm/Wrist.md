@@ -20,6 +20,6 @@ let elementName = "Wrist"
 <!-- =================================================== -->
 ::: details &
 
--
+- "Hand Dorsi Flex" = [Extend|Hand]
 
 :::

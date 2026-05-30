@@ -66,7 +66,7 @@
     - the big picture
 
 - Marka (Flagging) is a Taktik, Markum (Flag) is a Tool.
-- ApogeeFill
+- ApogeePleroon
 - StartWithApogee
 - Hierarchy(Strategy > Plan > Taktik > Aktion > SubAktion > Element)
 
@@ -74,15 +74,37 @@
     - Ecological Approach
     - What is your approach
 
+- Control
+    - OffensiveControl
+    - DefensiveControl
+    - "this level of control is only possible when a fighter knows all of the options available"
+        - Affordances
+    - "effortless fighting is possible when all of the options and outcomes are controlled. They control the range, the rhythm and the engagements"
+        - Ritmo, Passag, Kontakt
+        - ErrorRecovery
+            - Knowing how to recover from every error
+
 - Defensive Strategy
+    - "be able to react to any AKTION or Event"
     - "Defend"
+    - DefensiveControl
+        - Defend against Weather
     - Using a particular defensive formation
 - Offensive Strategy
     - "Attack"
+    - "To have the initiative"
+    - OffensiveControl
 
-- "How do you want to fill this"
-- "How do you want to work the piece"
-- "How are you working this piece, where's the open land?"
+- AdaptiveStrategy
+    - Cycle of defining what the goal is, gathering BETA, analyzing the current state, selecting BETA, Implementing BETA
+
+    - Select option
+        - "They thought that they had an opportunity, however..."
+        - "How do you want to fill this"
+        - "How do you want to work the piece"
+        - "out of options"
+    - Inform
+        - "How are you working this piece, where's the open land?"
 
 - Examples of Strategy
     - Dump and chase

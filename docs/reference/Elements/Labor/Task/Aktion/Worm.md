@@ -28,4 +28,9 @@ let elementName = "Worm"
 - <BB labor="Worm,Dory" soma="" ekos="" via="" motor="" anima=""/>
 - <BB labor="Worm" soma="Finger" ekos="" via="" motor="" anima=""/>
 
+- worm your fingers under and between rocks
+- worm into Backbag to get FlagRoll
+- worm down Bagged Trees to gra a handful of trees for transfer
+- (ArmPush+Finger.(Extend<->Flex))Cycle
+
 :::

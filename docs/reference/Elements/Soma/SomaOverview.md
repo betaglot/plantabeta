@@ -6,12 +6,6 @@ import FaktorEmblem from '/vue/FaktorEmblem.vue'
 
 <FaktorEmblem imageSource='/Emblem/Soma-Emblem.png' />
 
-## What is <span class="soma">SOMA</span>?
-
-::: details Why is it called <span class="soma">SOMA</span>?
-
-:::
-
 ---
 
 <!-- =================================================== -->
@@ -21,6 +15,9 @@ import FaktorEmblem from '/vue/FaktorEmblem.vue'
 <!-- =================================================== -->
 ::: details &
 
--
+- Etymology
+    - Somatic
+    - Body
+    - Body-Mind
 
 :::

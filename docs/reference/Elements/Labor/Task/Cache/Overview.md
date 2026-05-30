@@ -20,6 +20,10 @@ let elementName = "Cache"
 <!-- =================================================== -->
 ::: details &
 
+- BETOMs
+    - [Cache.Konstrukt]
+    - [Cache.Enumerate]
+
 - <BB labor="Cutblock,Cache" soma="" ekos="" via="" motor="" anima=""/>
 - <BB labor="Piece,Cache" soma="" ekos="" via="" motor="" anima=""/>
 - <BB labor="Cache" soma="" ekos="Road" via="" motor="" anima=""/>
@@ -27,6 +31,7 @@ let elementName = "Cache"
 
 - SubTypes
     - SummerCache
+        - Tarp Props
     - SpringCache
 
 - CacheTarp
@@ -40,5 +45,9 @@ let elementName = "Cache"
 
 - 🔻<span class="via">Layout</span>
     - KitLocation
+        - Under Tarp
+        - Outside Tarp
+
+- (Cache ?= Contains(Kit))
 
 :::

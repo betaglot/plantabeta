@@ -20,6 +20,8 @@ let elementName = "Wrap"
 <!-- =================================================== -->
 ::: details &
 
--
+- BETOMs
+    - [Flag.Wrap]
+    - [Markum.Wrap]
 
 :::

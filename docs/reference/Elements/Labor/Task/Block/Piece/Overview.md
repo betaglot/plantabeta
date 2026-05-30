@@ -11,36 +11,6 @@ let elementName = "Piece"
 
 <ElementInfo :elementName=elementName />
 
-## PieceAnatomy
-
-## PieceDifficulty
-
-- Easiest part of Piece. Creamiest part.
-
-### Piece.Boundary
-
-- TreeLine
-- Road
-- ContiguousPiece
-- Cliff
-- PieceBack
-- PieceSide
-    - PieceLeftSide
-    - PieceRightSide
-- PieceFront
-
-### ResidualPatch
-
-## Piece Shape
-
-### SquarePiece
-
-### TrianglePiece
-
-### PocketPiece
-
-### HourglassPiece
-
 ---
 
 <!-- =================================================== -->
@@ -50,7 +20,40 @@ let elementName = "Piece"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Piece.Anatomy]
+- [Piece.Difficulty]
+    [Piece.Difficulty.Krux]
+    - Easiest part of Piece. Creamiest part.
 
-- "Eko.Piece.Overview"
+- [Piece.Boundary.]
+    - [Piece.Boundary.Treeline]
+    - [Piece.Boundary.Road]
+    - ContiguousPiece
+    - [Piece.Boundary.Cliff]
+    - PieceBack
+
+    - ([Piece.LeftSide] != [Piece.Boundary.Left])
+    - PieceSide
+        - PieceLeftSide
+        - PieceRightSide
+    - PieceFront
+    - ResidualPatch
+        - Wildlife Tree Patch (WTP)
+        - Island
+        - ResidualPatchCount
+        - ResidualPatch
+            - [ResidualPatch|Marked]
+            - [ResidualPatch|Unmarked]
+
+- [Piece.Morfos]
+    - SquarePiece
+    - TrianglePiece
+    - PocketPiece
+    - HourglassPiece
+- "cut the piece"
+    - Delimit
+    - "Markate the Piece"
+        - [Piece.Markate]
+        - [Piece.Markation] includes Block boundary flag place by foresters
+
 :::
