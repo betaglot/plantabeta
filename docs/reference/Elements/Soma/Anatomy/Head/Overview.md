@@ -20,6 +20,17 @@ let elementName = "Head"
 <!-- =================================================== -->
 ::: details &
 
--
+- Hat
+- LookAt
+- Chin Tuck
+- SubSOMONs
+    - Neck
+    - Face
+    - Ears
+    - Chin
+    - Eyes
+- [Head.Injury]
+- Glasses
+- Earphones
 
 :::

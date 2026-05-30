@@ -5,7 +5,7 @@ let elementName = "Body"
 
 </script>
 
-# 🔷<span class="soma">Body</span>
+# 🔷<span class="soma">Korpo</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "Body"
 <!-- =================================================== -->
 ::: details &
 
--
+- All Limbs
 
 :::

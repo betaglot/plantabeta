@@ -20,6 +20,12 @@ let elementName = "Ribs"
 <!-- =================================================== -->
 ::: details &
 
--
+- popped a rib, waist belt too tight
+- overreaching
+- ShoulderStraps
+- Breathing
+- CoreTension
+- Defend Ribs with Arm
+
 
 :::

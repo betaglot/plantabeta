@@ -20,6 +20,10 @@ let elementName = "Femur"
 <!-- =================================================== -->
 ::: details &
 
+- [Femur.Length]
+- Femur.Morfos
+- Knee
+- Hip
 -
 
 :::

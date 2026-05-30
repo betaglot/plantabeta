@@ -20,6 +20,7 @@ let elementName = "Suppleness"
 <!-- =================================================== -->
 ::: details &
 
--
+- Limberness
+- RangeOfMotion
 
 :::

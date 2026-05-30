@@ -22,6 +22,10 @@ let elementName = "Foot"
 
 - [Flex|Foot] = PlantarFlexion
 - [Extend|Foot] = FootDorsiFlexion
--
+- Eversion
+- Inversion
+- Leg
+- Boot
+- Heel
 
 :::

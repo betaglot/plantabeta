@@ -20,6 +20,9 @@ let elementName = "InjuryPrevention"
 <!-- =================================================== -->
 ::: details &
 
--
+- Take rest days
+- Do the physio
+- Jelly Pumps
+- Warm Up in the morning and after BlockMove
 
 :::

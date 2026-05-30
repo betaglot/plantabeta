@@ -20,6 +20,14 @@ let elementName = "Hip"
 <!-- =================================================== -->
 ::: details &
 
--
+- Hips can share AKTIONs or they can be performing Different AKTIONs in synkrony
+- Taxonomy: Hips in Korpo or Legs
+- Hip Hinge
+- Sacrum
+- Sacroiliac Joint (SI Joint)
+- Leg
+- BETOMs
+    - [Kryos|Hip]
+    - [Kryos|Hips]
 
 :::

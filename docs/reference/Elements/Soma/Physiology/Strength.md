@@ -16,6 +16,9 @@ let elementName = "Strength"
 <!-- =================================================== -->
 ::: details &
 
--
+- ConcentricContraction
+- EccentricContraction
+- IsometricContraction
+- Ability to create force by contracting MotorUnits of muscles
 
 :::

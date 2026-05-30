@@ -1,15 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Hips"
+let elementName = "Rest"
 
 </script>
 
-# 🔷<span class="soma">Hips</span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+# ⭐<span class="labor">Rest</span>
 
 ---
 
@@ -20,6 +16,14 @@ let elementName = "Hips"
 <!-- =================================================== -->
 ::: details &
 
--
+- Active Rest isn't an Oxymoron
+- BETOMs
+    - [Rest.Stand]
+    - [Rest.Ama]
+    - [Rest|Sleep]
+    - [Rest.Shakeout]
+    - [Rest.Elevate]
+    - [Rest.Sit]
+    - [Transit.Rest]
 
 :::

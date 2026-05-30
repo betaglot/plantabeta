@@ -20,6 +20,12 @@ let elementName = "Neck"
 <!-- =================================================== -->
 ::: details &
 
--
+- BETOMs
+    - [Flex|Neck]
+    - [Extend|Neck]
+    - [Rotate|Neck]
+    - [Defend|Neck]
+    - [Gimbal|Neck]
+    - [Kontakt|Neck]
 
 :::

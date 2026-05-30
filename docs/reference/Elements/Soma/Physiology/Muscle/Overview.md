@@ -1,34 +1,53 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Muscle"
 
 </script>
 
-# 💜 <span class="anima">Muscle</span>
+# 🔷<span class="soma">Muscle</span>
 
-## Slow Twitch Muscle
+---
 
-## Fast Twitch Muscle
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
 
-## Muscle Activation
+- BETOMs
+    - [Muscle.Suppleness]
+    - [Muscle.Strength]
 
-### Muscle Fiber Recruitment Count
+- (Arm = (Muscle+Bone+Joint+Skin+Blood))
+    - What ELEMENTs are required for [Arm]?
 
-Fraction
+- List of all Muscles
+    - [Tricep.Suppleness]
+    - [Tricep.Strength]
 
-Percentage
+- Keep Spine Straight
 
-### Glute Activation
+- Slow Twitch Muscle
+
+- Fast Twitch Muscle
+
+- Muscle Activation
+    - Subjective Muscle Activation
+    - Objective Muscle Activation
+    - Muscle Fiber Recruitment Count
+    - Fraction of muscle recruited
+    - Percentage
+        - Glutes Activation
 
 - Squat from the Hips, not the knees
+    - Pelvic Floor Activation
 
-### Pelvic Floor Activation
+- Central Pattern Generator
 
-## Central Pattern Generator
+- Maintain Posture
+    - Scapula Posture
+    - Hollow Body Position
 
-## Maintain Posture
-
-### Scapula Posture
-
-### Hollow Body Position
+:::

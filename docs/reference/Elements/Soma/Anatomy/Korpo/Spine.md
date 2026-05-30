@@ -20,6 +20,11 @@ let elementName = "Spine"
 <!-- =================================================== -->
 ::: details &
 
--
+- Vertebrae
+- BETOMs
+    - [Extend|Spine]
+    - [Twist|Spine]
+    - [Flex|Spine]
+    - [Kryos|Spine]
 
 :::
