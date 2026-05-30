@@ -20,6 +20,10 @@ let elementName = "Kontakt"
 <!-- =================================================== -->
 ::: details &
 
+- Loading a Site
+- Fixed Point Kontakt
+- Sliding
+- Kontakt is a State?
 - Kontakt is almost never a Point, not a ContactPoint. Points are not Concrete
 
 :::

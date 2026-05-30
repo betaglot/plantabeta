@@ -20,6 +20,9 @@ let elementName = "Konstrukt"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Box.Konstrukt]
+- [SummerCache.Konstrukt]
+- [Cache.Konstrukt]
+
 
 :::
