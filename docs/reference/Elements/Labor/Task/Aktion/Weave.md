@@ -20,6 +20,13 @@ let elementName = "Weave"
 <!-- =================================================== -->
 ::: details &
 
--
+- Flag Weave
+- Weave Flora into other Flora to prevent it from springing back into [Mirkosite.Passag.Obstakle]
+    - Pliable, Exply
+- "S" weave Flag around two knobs 
+    - InsertDiagram
+- (Weave+Wrap) wrap to increase Friction
+    - InsertDiagram
+- [Finger.AKTION]
 
 :::

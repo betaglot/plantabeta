@@ -36,9 +36,18 @@ let elementName = "Boot"
     - Upper
     - Arch
 
-- BootMano
-- "MOTON.InstrumentMOTON.BootMOTON.BootOff"
-- "MOTON.InstrumentMOTON.BootMOTON.BootOn"
-- "MOTON.InstrumentMOTON.BootMOTON.Overview"
+
+- BETOMs
+    - [Boot.Mano]
+    - [Boot.Don]
+    - [Boot.Doff]
+    - [Boot.Tighten]
+    - [Boot.Loosen]
+    - [Boot.Skim]
+    - [Boot.Klose]
+    - [Boot.Don]
+    - [Boot.Don]
+
+
 
 :::

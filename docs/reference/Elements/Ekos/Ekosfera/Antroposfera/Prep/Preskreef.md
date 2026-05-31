@@ -20,14 +20,11 @@ let elementName = "Preskreef"
 <!-- =================================================== -->
 ::: details &
 
+- Gaps
+    - "Mind the Gaps"
+    - RawLand in the Gaps
+    - "Put a tree in the raw between the Prep"
+
 - (Preskreef)InsteadOf(Megaskreef)
 - Preskreefs can be 2 meters wide
-- A skreef is a Labon. You don't need to skreef that
-- NeoAktion BootSlideSkreef is a Skid
-    - Skid to a stop
-    - Skim the surface
-    - Skrape off
-    - Skour
-    - Ski down loose slopes like going down snowbanks in ski boots
-    - Scandinavian words which start with "sk"
 :::

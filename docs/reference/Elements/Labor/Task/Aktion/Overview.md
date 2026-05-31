@@ -40,6 +40,14 @@ let elementName = "Aktion"
 
 - AKTIONs are grouped into Frases
 
+- NeoAktion BootSlideSkreef is a Skid
+    - Skid to a stop
+    - Skim the surface
+    - Skrape off
+    - Skour
+    - Ski down loose slopes like going down snowbanks in ski boots
+    - Scandinavian words which start with "sk"
+
 - BETOMs
     - ([Aktion|Deadpoint] == [Aktion|Acceleration(0)])
     - [Aktion.Start]

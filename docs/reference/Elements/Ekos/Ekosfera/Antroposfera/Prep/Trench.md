@@ -20,6 +20,11 @@ let elementName = "Trench"
 <!-- =================================================== -->
 ::: details &
 
+- Gaps
+    - "Mind the Gaps"
+    - RawLand in the Gaps
+    - "Put a tree in the raw between the Prep"
+
 - BonusTree Stumped Neons don't count in plots, when the Stumps are outside the Trench
 - Trench DeadEnds
 - NeonMano on FlipSide of trench. Perpendicular Blade

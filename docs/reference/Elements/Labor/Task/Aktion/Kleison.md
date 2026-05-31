@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Systele"
+let elementName = "Kleison"
 
 </script>
 
-# ⭐<span class="labor">Systele</span>
+# ⭐<span class="labor">Kleison</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,22 +20,26 @@ let elementName = "Systele"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Skreef,Rip" soma="" ekos="" via="" motor="" anima=""/> before BootSystele, but after NeonSlot. Instead of Skreefing before NeonSlot
+- <BB labor="Skreef,Rip" soma="" ekos="" via="" motor="" anima=""/> before BootKleison, but after NeonSlot. Instead of Skreefing before NeonSlot
+
+- Etymology
+    - Κλεῖσον (Kleison) - "Shut!" or "Close!"Meaning: Used literally for objects like a door, window, or box.
+    - claustrophobia
 
 - BETOMs
-    - [Systele.Bonobo]
-    - [Systele.Pantera]
-    - [Systele.Mano]
-    - [Systele.Spade]
-    - [Systele.Boot]
-    - [Systele.Boot.Toe]
-    - [Systele.Boot.Tarsal]
-    - [Systele.Boot.Arch]
-    - [Systele.Boot.Heel]
-- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Systeled hole.
+    - [Kleison.Bonobo]
+    - [Kleison.Pantera]
+    - [Kleison.Mano]
+    - [Kleison.Spade]
+    - [Kleison.Boot]
+    - [Kleison.Boot.Toe]
+    - [Kleison.Boot.Tarsal]
+    - [Kleison.Boot.Arch]
+    - [Kleison.Boot.Heel]
+- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Kleisond hole.
     - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.Injury]
 - <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
-- Ektomy is the opposite Aktion of Spade.Systele
+- Ektomy is the opposite Aktion of Spade.Kleison
 
 - Etymology
     - Active Imperative Second Singular Verb of συστέλλω

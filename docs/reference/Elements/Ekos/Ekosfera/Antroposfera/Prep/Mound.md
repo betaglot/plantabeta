@@ -20,6 +20,11 @@ let elementName = "Mound"
 <!-- =================================================== -->
 ::: details &
 
+- Gaps
+    - "Mind the Gaps"
+    - RawLand in the Gaps
+    - "Put a tree in the raw between the Prep"
+
 - Mounded Density
 - Mounds with Raw in between
 - Mounds + Preskreef

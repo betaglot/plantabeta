@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Diastele"
+let elementName = "Dilate"
 
 </script>
 
-# ⭐<span class="labor">Diastele</span>
+# ⭐<span class="labor">Dilate</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -24,7 +24,7 @@ let elementName = "Diastele"
     - Derivative isn't variation
     - Soil type determines hole
 
-- Diastele is in x-axis
+- Dilate is in x-axis
 - To make wider
 - To spread apart
 

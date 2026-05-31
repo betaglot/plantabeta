@@ -40,6 +40,8 @@ let elementName = "Neon"
 <!-- =================================================== -->
 ::: details &
 
+- "Neosite" doesn't make sense, a planted Neon is a Neon. Neons in your Bag aren't instantiated. Besides the weight of Bags, there is no experience of a Neon unless it's in your hand or you're looking at it already planted in the land. There should never be any dropped trees to be confusing. A Mikrosite which has been planted is no longer a Mikrosite for another Neon.
+
 - [Neon|Enumeration]
     - How many seedlings you've planted so far
     - How much money you've made so far
