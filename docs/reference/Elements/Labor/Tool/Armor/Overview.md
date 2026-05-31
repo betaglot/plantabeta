@@ -20,12 +20,17 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
+- 
+- Never place the inner surface of Armor on the ground
 - Lace up armor
 - Pull the outer layer of clothing in the opposite direction to precompensate
     - Ratchet
     - When your sleeve getting jammed
     - Sleeve or pant
-- ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
+
+- Grip your cuff when adding another layer to prevent your sleeve from getting pushed up or snagged at your Elbow
+
 - When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting
+- [Error:Armor.(Jammed,Snagged,Twisted)]
 
 :::

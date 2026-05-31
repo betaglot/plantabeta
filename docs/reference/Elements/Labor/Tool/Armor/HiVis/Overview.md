@@ -20,6 +20,14 @@ let elementName = "HiVis"
 <!-- =================================================== -->
 ::: details &
 
--
+- Retroreflector
+- Orange, LimeGreen
+- Minimize Layers
+- Ideally Armor doubles as HiVis
+- Straps
+- Cape
+- [HiVis.ShoulderPads] See Assassins Creed Costume Designs
+- [HiVis.Bags]
+- [HiVis.Hat]
 
 :::

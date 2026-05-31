@@ -20,6 +20,11 @@ let elementName = "Fastener"
 <!-- =================================================== -->
 ::: details &
 
--
+- Button
+- Zipper
+- (Hook+Loop)
+    - See(Inception Winter Costume)
+- Snap Button
+- RopeKNot like Japanese Armor
 
 :::

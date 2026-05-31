@@ -20,6 +20,7 @@ let elementName = "Velcro"
 <!-- =================================================== -->
 ::: details &
 
--
+- Avoid velcro cuffs since they always get full of soil and no longer function
+- Don't grip the Velcro with Soiled Gloves
 
 :::

@@ -19,6 +19,8 @@ Aliases: Spade Clean, Spade Purge
 <!-- =================================================== -->
 ::: details &
 
+- [Spade.Purga.Skrape]
+
 - Remove Soil which is stuck on the blade
     - ClaySoil
     - WetSoil

@@ -20,7 +20,11 @@ let elementName = "Zipper"
 <!-- =================================================== -->
 ::: details &
 
--
+- Avoid using any zippers since they erode from the grit in the teeth.
+- Leave RainShell unzipped if only light rain
 - Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink
+- BETOMs
+    - [Zipper.Purga]
+        - Zippers full of Mud
 
 :::

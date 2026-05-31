@@ -20,8 +20,11 @@ let elementName = "Bottoms"
 <!-- =================================================== -->
 ::: details &
 
+- (Tights+Shorts)
+- Bags erode side seams of Pants
+- Avoid zippers on the side of les since they will be pressed into legs by Bags
 - Pants
-- Leggings
+- Leggings (Tights)
 - Shorts
 - Short Shorts
     - Running Shorts

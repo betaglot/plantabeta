@@ -36,7 +36,6 @@ let elementName = "Boot"
     - Upper
     - Arch
 
-
 - BETOMs
     - [Boot.Mano]
     - [Boot.Don]
@@ -48,6 +47,10 @@ let elementName = "Boot"
     - [Boot.Don]
     - [Boot.Don]
 
-
+- Boot.Morfos
+    - Asolo, Scarpa
+    - Wide Sole is available
+    - Highrise
+- DuctTape Boots to legs instead of using Gaiters to prevent stuff from entering Boot  
 
 :::

@@ -11,15 +11,6 @@ let elementName = "Glove"
 
 <ElementInfo :elementName=elementName />
 
-## Glove.Anatomy
-
-- Cuff
-- Dorsal
-- Palm
-- Rubber
-
-## Glove.Attributes
-
 ---
 
 <!-- =================================================== -->
@@ -29,11 +20,24 @@ let elementName = "Glove"
 <!-- =================================================== -->
 ::: details &
 
+- Glove.Anatomy
+    - Knuckle
+    - Cuff
+    - Dorsal
+    - Palm
+    - Rubber
+    - Tip
+
+- Glove.Attributes
+
+-
+
 - <BB labor='WaterproofGlove, Kit, Waterproof Bag'soma=''ekos=''via=''motor=''anima=''/> Waterproof gloves should be stored dry in a waterproof bag
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMOTON
     - GloveOff
-- GloveWipe
+- [Glove.Purga]
+    - [Glove.Purga.(Skrape,Slap)]
     - To remove Mud
         - When Swapping SpadeHands for AmbiPlanter
 

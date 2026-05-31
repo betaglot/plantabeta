@@ -7,7 +7,9 @@ The most important constraint for Tools is the space it takes in the Truck.
 
 ## <span class="labor">ArmorDev</span>
 
+- ArmorDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
 - Cache Poncho
+- Plantcho: Planting Poncho
 - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open
 - Cowl
 - ClothingDev: Jacket Backpack straps like Rudsak

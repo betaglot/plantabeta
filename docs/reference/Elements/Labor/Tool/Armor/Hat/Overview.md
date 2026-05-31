@@ -20,6 +20,7 @@ let elementName = "Hat"
 <!-- =================================================== -->
 ::: details &
 
--
+- Sun Hat
+- BaseballHat with ActualName(Curtain) allows you to rub neck for itches or to kill insects, without getting soil on your skin, or down your shirt
 
 :::
