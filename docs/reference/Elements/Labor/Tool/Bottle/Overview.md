@@ -22,6 +22,8 @@ Aliases: water bottle
 <!-- =================================================== -->
 ::: details &
 
+- Backbag Bottle
+- Metal Bottle for coffee in the morning. NonInsultated so you can use it to warm up by [Kontakt|Hand.GlabrousSkin]
 - Water
 - Coffee
 - Mixture

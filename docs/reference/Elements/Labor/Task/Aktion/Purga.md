@@ -22,7 +22,7 @@ let elementName = "Purga"
 
 - Stomp for boot [Purga|Inertia]
 
-- <BB labor="Silvi.Purga" soma="" ekos="" via="" motor="" anima=""/>
+- [Silvi.Purga]
 - Gather ExcessSoil at Posterior Bottom of Silvi
 -
 

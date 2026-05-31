@@ -7,8 +7,6 @@ let elementName = "Radior"
 
 # ⭐<span class="labor">Radior</span>
 
-Aliases: Vambrace, Forearm Guard
-
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
@@ -22,6 +20,10 @@ Aliases: Vambrace, Forearm Guard
 <!-- =================================================== -->
 ::: details &
 
+- Aliases: Vambrace, Forearm Guard
+- HiVis
+- BETOMs
+    - [Radior.Defend]
 - ForearmSlide
 - ForearmSlide To FloraMano
 

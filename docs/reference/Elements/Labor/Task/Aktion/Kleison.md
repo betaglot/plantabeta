@@ -20,7 +20,7 @@ let elementName = "Kleison"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Skreef,Rip" soma="" ekos="" via="" motor="" anima=""/> before BootKleison, but after NeonSlot. Instead of Skreefing before NeonSlot
+- [Rip|Skreef] before BootKleison, but after NeonSlot. Instead of Skreefing before NeonSlot
 
 - Etymology
     - Κλεῖσον (Kleison) - "Shut!" or "Close!"Meaning: Used literally for objects like a door, window, or box.
@@ -36,9 +36,9 @@ let elementName = "Kleison"
     - [Kleison.Boot.Tarsal]
     - [Kleison.Boot.Arch]
     - [Kleison.Boot.Heel]
-- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Kleisond hole.
+- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Kleisoned hole.
     - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.Injury]
-- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
+- [Kompakt|Soil]
 - Ektomy is the opposite Aktion of Spade.Kleison
 
 - Etymology

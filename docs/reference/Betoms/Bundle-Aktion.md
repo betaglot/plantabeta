@@ -17,10 +17,13 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- BundleWrap
+- [Bundle.Consolidate]
+- [Bundle.Wrap]
     - BlockClose
     - Wrap up excess trees
-- BundleTuck: Roll bundles in to bags during BagIn
+- [Bundle.Tuck] 
+    - Roll bundles in to bags during BagIn
+    - [Bundle.Tuck] == ([Push|Finger.Tip]+[Flex|Finger])
 
 - "Aktion.ToolAktion.BundleAktion.BundleRoll"
 - "Aktion.ToolAktion.BundleAktion.BundleUnwrap"

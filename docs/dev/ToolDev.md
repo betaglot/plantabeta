@@ -381,6 +381,8 @@ Mail at joints
 
 ### ⭐<span class="labor">RadiorDev</span>
 
+- Radior with Translucent container for map or notes like in A24.Warfare movie about Navy Seals
+
 #### Etymology(Radior)
 
 "Radius" + "or" :: Agent of Forearm

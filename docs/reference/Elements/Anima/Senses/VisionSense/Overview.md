@@ -21,6 +21,6 @@ let elementName = "VisionSense"
 ::: details &
 
 - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street
-- <BB labor='LookTo'motor='Rhythm'/> Head look like breathing rhythm if swimming front crawl
+- [LookTo|Ritmo] Head look like breathing rhythm if swimming front crawl
 
 :::

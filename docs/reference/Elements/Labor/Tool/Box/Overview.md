@@ -13,10 +13,6 @@ let elementName = "Box"
 
 <PageImage source="Labor_Box.jpeg" />
 
-- <BB labor='Box.Handle'via='Site'/> is the main 🔻<span class="via">Site</span> of ⭐<span class="labor">Box</span>.
-
-- <BB labor='Box.Corner'via='Site'/> is a 🔻<span class="via">Site</span> used only when carrying a single box.
-
 ---
 
 <!-- =================================================== -->
@@ -26,32 +22,37 @@ let elementName = "Box"
 <!-- =================================================== -->
 ::: details &
 
-- BoxConsolidate
+- [Box.Handle|Site] is the main Site of Box.
+
+- [Box.Corner|Site] is a Site used only when carrying a single box.
+
+- [Box.Consolidate]
     - PartialBox
-- Single BoxCarry
-- Double BoxCarry
+- Single Box.Transport.Carry
+- Double Box.Transport.Carry
     - Stacked not Akimbo
-- BoxDrag
-- BoxAttributes
-    - BoxWeight
-    - BoxDimension
-        - BoxLength
-        - BoxHeight
+- BETOMs
+    - [Box.Drag]
+- Box.Attributes
+    - Box.Weight
+    - Box.Morfos
+        - Box.Length
+        - Box.Height
             - SummerTrees
             - SpringTrees
         - BoxWidth
-    - BoxMaterial
+    - Box.Material
         - Waxed or Unwaxed
-    - BoxPlantCount
-    - BoxSpecies
-- BoxAnatomy
-    - BoxHandle
-    - BoxCorner
-    - BoxEdge
-    - BoxFlap
-    - BoxLock
-    - BoxSide
-    - BoxBase
+    - Box.PlantCount
+    - Box.Species
+- Box.Anatomy
+    - Box.Handle
+    - Box.Corner
+    - Box.Edge
+    - Box.Flap
+    - Box.Lock
+    - Box.Side
+    - Box.Base
 
 - "MOTON.InstrumentMOTON.BoxMOTON.BoxOpen"
 - "MOTON.InstrumentMOTON.BoxMOTON.BoxSlide"

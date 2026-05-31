@@ -21,7 +21,7 @@ let elementName = "Neonektomy"
 ::: details &
 
 -
-- <BB labor='Spade'soma=''ekos=''via='Anterior Hole'motor=''anima=''/> undercuts anterior to tree, then <BB labor="Pry,Spade"/>
+- [Spade|Anterior(Hole)] undercuts anterior to tree, then [Spade.Pry]
 - Replanting a Block, Piece, Makrosite, Mikrosite
 - caught a DoublePlantError before leaving the Mikrosite. Pulling a tree right after you plant it because you noticed another tree too close, which would be a DoublePlant Fault Error
 - SlowPull

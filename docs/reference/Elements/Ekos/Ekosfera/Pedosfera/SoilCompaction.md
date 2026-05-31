@@ -23,6 +23,6 @@ let elementName = "SoilCompaction"
 - Soil so soft that the blade goes in a stays by itself when dropped from a given height
 
 - Stomp or Press fluffy Silt Soil before opening a hole.
-- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
+- [Soil|Compaction]
 
 :::

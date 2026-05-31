@@ -20,8 +20,8 @@ let elementName = "Plot"
 <!-- =================================================== -->
 ::: details &
 
-- KappaBeta
-- <BB labor='Plot'via='Landmark'anima='Clarity'/> You don't need to start a plot on a tree if an EKONs is more distinctive
+- KappaBETA
+- [Plot|Landmark|Clarity] You don't need to start a plot on a tree if an EKONs is more distinctive
 - PlotCord
 - SubAKTIONs
     - [Plot.Post]

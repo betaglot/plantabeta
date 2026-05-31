@@ -21,5 +21,6 @@ let elementName = "Hand"
 ::: details &
 
 -
+- Metal Bottle for coffee in the morning. NonInsultated so you can use it to warm up by [Kontakt|Hand.GlabrousSkin]
 
 :::

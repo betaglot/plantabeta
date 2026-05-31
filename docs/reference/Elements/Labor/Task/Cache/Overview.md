@@ -24,10 +24,10 @@ let elementName = "Cache"
     - [Cache.Konstrukt]
     - [Cache.Enumerate]
 
-- <BB labor="Cutblock,Cache" soma="" ekos="" via="" motor="" anima=""/>
-- <BB labor="Piece,Cache" soma="" ekos="" via="" motor="" anima=""/>
-- <BB labor="Cache" soma="" ekos="Road" via="" motor="" anima=""/>
-- <BB labor="Cache" soma="" ekos="QuadTrail" via="" motor="" anima=""/>
+- [Block.Cache]
+- [Piece.Cache]
+- [Road.Cache]
+- [ATVtrail.Cache]
 
 - SubTypes
     - SummerCache

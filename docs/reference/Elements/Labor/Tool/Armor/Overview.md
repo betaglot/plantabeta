@@ -20,7 +20,7 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
-- 
+-
 - Never place the inner surface of Armor on the ground
 - Lace up armor
 - Pull the outer layer of clothing in the opposite direction to precompensate

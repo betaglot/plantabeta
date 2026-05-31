@@ -20,9 +20,13 @@ let elementName = "InsulationTop"
 <!-- =================================================== -->
 ::: details &
 
--
-- First bagIn with insulation layer since it's usually cold in the morning
+- Roll up and place in backbag if you remove it in the piece
 
-- Insulation keeps you warm,bit doesn't make you warm
+- BETOMs
+    - [InsulationTop|Homeostasis]
+        - Remove insulation once you start sweating on your back
+        - wear insulation at the cache, then remove it before going back into the piece
+        - First bagIn with insulation layer since it's usually cold in the morning
+        - Insulation keeps you warm, but doesn't make you warm
 
 :::

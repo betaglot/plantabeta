@@ -50,9 +50,9 @@ Kit = {
     - Things swinging while you walk
     - Like a cowbell
     - For example a water bottle
-- <BB labor='WaterproofGlove, Kit, WaterproofBag'/> Waterproof gloves should be stored dry in a waterproof bag
+- [Glove.Waterproof,Kit,WaterproofBag] Waterproof gloves should be stored dry in a waterproof bag
 - RepairKit (For on the Block)
-    - <BB labor='RepairKit'/> RepairKit
+    - RepairKit
     - ZipTies
     - Laces
     - DuctTape

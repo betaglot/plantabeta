@@ -24,7 +24,7 @@ let elementName = "Effort"
 - Complacency
     - <https://dictionary.cambridge.org/dictionary/english/complacency>
     - a feeling of calm satisfaction with your own abilities or situation that prevents you from trying harder
-    - <BB labor='Complacency'soma='Fatigue'ekos=''via=''motor=''anima=''/> Complacency from fatigue
+    - [Complacency|Fatigue] Complacency from fatigue
 - Effort
     - Exertion
     - Grit

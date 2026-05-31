@@ -20,6 +20,6 @@ let elementName = "Ski"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor='Boot, Ski'soma=''ekos='LooseSoil'via='Down'motor=''anima=''/> Boot loose soil down surf
+- [Boot.Ski|LooseSoil|Down] Boot loose soil down surf
 
 :::

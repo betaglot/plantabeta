@@ -20,8 +20,7 @@ let elementName = "Tops"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons
-
+- Remove cuff buttons, at least on SpadeArmSleeve
 - Jacket
 - Rain Shell
 - Insulation Layer
@@ -29,5 +28,7 @@ let elementName = "Tops"
 - Collar
 - Hem
 - Cuff
+- HiVis
+- Larger than Normal Shirt Size to allow for maximum range of motion
 
 :::

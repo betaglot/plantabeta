@@ -29,10 +29,15 @@ let elementName = "Glove"
     - Tip
 
 - Glove.Attributes
+    - Impermeability
+    - Materials
+        - Knitted
+            - Cut resistant
+            - Cotton
+            - Synthetic
+        - Rubber
 
--
-
-- <BB labor='WaterproofGlove, Kit, Waterproof Bag'soma=''ekos=''via=''motor=''anima=''/> Waterproof gloves should be stored dry in a waterproof bag
+- [Glove.Waterproof,Kit,WaterproofBag|Precipitation] Waterproof gloves should be stored dry in a waterproof bag
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMOTON
     - GloveOff

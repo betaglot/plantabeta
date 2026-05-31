@@ -21,7 +21,7 @@ let elementName = "Recursion"
 ::: details &
 
 - Aliases: Nested, Embedded
-- <BB via="Recursion+Geometry"/> == Fractal
+- [Recursion+Geometry] == Fractal
 - Forests are fractals. use for testing ease
 - Boustro within Boustro
 

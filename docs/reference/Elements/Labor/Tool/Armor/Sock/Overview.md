@@ -20,6 +20,9 @@ let elementName = "Sock"
 <!-- =================================================== -->
 ::: details &
 
--
+- Remove Grit from between toes before [Sock.Don]
+- Pull socks up so there are no wrinkles before [Boot.Don]
+- Hiking Socks
+- How to repair the Heel since socks literally have an Achilles Heel?
 
 :::

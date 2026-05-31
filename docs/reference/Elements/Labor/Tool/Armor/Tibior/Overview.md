@@ -11,7 +11,7 @@ let elementName = "Tibior"
 
 <ElementInfo :elementName=elementName />
 
-Aliases: Gaiter, Shin Pad
+
 
 ---
 
@@ -22,8 +22,11 @@ Aliases: Gaiter, Shin Pad
 <!-- =================================================== -->
 ::: details &
 
+- Aliases: Gaiter, Shin Pad, Greaves
+- [Tibior.Purga]
+- Ideally Tibior is an impermeable ripstop material with rigid protection on Anterior surface like Hockey.ShinPads
+- HiVis
 - Tibior anchors around foot in boot. Not how it's currently around boot
-
 - RemoveMud to prevent mud from slowly releasing its water content onto your leg
 
 :::

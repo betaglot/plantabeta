@@ -20,17 +20,23 @@ let elementName = "Bundle"
 <!-- =================================================== -->
 ::: details &
 
+- BETOMs
+    - [Bundle.Enumerate]
+    - [Bundle.Enumerate.Stack]
+    - [Bundle.Stack]
+    - [Bundle.Unwrap]
+    - [Bundle.Wrapper.Weave]
+        - Weave Wrapper between Legs and Bags to prevent Wrapper from flying away
+    - [Bundle.Wrapper.Kneel]
+        - Put your knee on Wrapper to prevent Wrapper from flying away 
+    - [Bundle.Unwrap]
+    - [Bundle.Wrap]
+        - Block.Close
+        - Wrap up excess trees
+
+- 
 - Bundle wrappers which haven't been frozen are more elastic and clingy
-
-- Bundle.Unwrap
-- Bundle.Wrap
-    - BlockClose
-    - Wrap up excess trees
-- BundleTuck: Roll bundles in to bags during BagIn
-
-- "MOTON.InstrumentMOTON.BundleMOTON.BundleRoll"
-- "MOTON.InstrumentMOTON.BundleMOTON.BundleUnwrap"
-- "MOTON.InstrumentMOTON.BundleMOTON.MOTONError.WrapperLitter"
-- "MOTON.InstrumentMOTON.BundleMOTON.Overview"
+- Error
+    - Wrappers that fly away
 
 :::

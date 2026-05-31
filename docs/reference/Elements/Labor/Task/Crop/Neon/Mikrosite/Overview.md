@@ -19,9 +19,9 @@ let elementName = "Mikrosite"
 - Aliases:
     - Plantable Spots
 - Neosite doesn't include Natural Crop Trees
-- <BB labor="Mikrosite" via="Density"/>
-- <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection
-- StumpSite Density <BB labor="Mikrosite"ekos="Stump" via="Density"/>
+-  [Mikrosite|Density]
+- [Priority|Stump|Predictability] Priority to stumps to increase predictability. affordance of neosite selection
+- StumpSite Density [Mikrosite|Stump|Density]
 
 - Neosite is a planted Mikrosite
 

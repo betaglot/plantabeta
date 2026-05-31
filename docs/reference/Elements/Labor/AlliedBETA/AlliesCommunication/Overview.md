@@ -20,13 +20,13 @@ let elementName = "AlliesCommunication"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line?
+- [AlliedBETA|Question] Do you mind if I Jump your line?
 - Increase decrease density gestures when yelling is too difficult
 
 - Planter communication  
     - "I'm gonna area plant this section"
 
-- <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore
+- [Semaphore.T|FrontierLine|Gesture] T pose for I'm on the line. Semaphore
 - Yelling
 - Get someone's attention
 - whistle
