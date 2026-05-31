@@ -12,8 +12,6 @@ let elementName = "AlliedBETA"
 
 <ElementInfo :elementName=elementName />
 
-
-
 ---
 
 <!-- =================================================== -->
@@ -34,7 +32,7 @@ let elementName = "AlliedBETA"
 - PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
 - Error,TeamBETA = Smother
     - Smother = BoxedIn
- - PlantaBETA.Strategy: TeamBETA is an effort to avoid capturing, which is the opposite Strategy of Chess.
+- PlantaBETA.Strategy: TeamBETA is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
