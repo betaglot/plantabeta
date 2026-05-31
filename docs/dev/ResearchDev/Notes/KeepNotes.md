@@ -1114,6 +1114,52 @@ search: false
 - Checking Box Label for Trees per Bundle is a Habit when Bagging in a new species
 - "Bags, Flag, Spade" is a Habit that you remind yourself every time the truck drops you off at a cache.
 - The technique which has more explanation is more li
+- passus
+    - Vulgar Latin *passare "to step, walk, pass," from Latin passus "step, pace" 
+- Don't unbundle all trees when your block is about to close and it's your last bag up. To avoid messing up the ratio of the postc dent block and to be able to give a more acxutate number of tree ls being transferred
+- Multiple Seedlots in a block. Look at box stickers
+- Break apart seedling on bag rim
+- Alias allotrope alter allobeta alterbeta diffbeta
+- Waxed flower petal. They stick together by the wax cohesion so you can use paper to negate the cohesion in the middleso post it dispenser magazine.
+- Bumetallic strip yo cutl end of markum for easy pinch 
+- Being a tour guide can disttact your crew long Eno gh to afford ate a fresh motivational mood and to instantiate a motivator
+- Sacrifice thinming about anything rlse for the entire day shift season 
+- All the beta whete you can hit your face with spade conspade
+- Greenhouse on a gym
+- Dress for the weather not how your body feels, if you put on insulation only when you're cold then you've wasted energy
+- Log minimums
+- Slippery palm cover for spade hand
+- BoustroTaktik ApogeeStrategy FollowTaktik BouncingTaktik for TeamBeta
+- Loose pack box. Claim a box
+- Rookies reunite for a day to comapre their experience and to discuss and teach each other
+- Est-il vrai que l'écart entre riches et pauvres est à son apogée ?
+- Passive capture like horse rider MythBusters Inflafe reflect air from bend over. amplifier. Drag is the payment for amplification. Fin wings. Bellow between torso and arms 
+- How to find next tree
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -
