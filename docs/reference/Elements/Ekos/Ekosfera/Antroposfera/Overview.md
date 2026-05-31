@@ -20,6 +20,8 @@ let elementName = "Antroposfera"
 <!-- =================================================== -->
 ::: details &
 
+- Barbed wire
+
 - Etymology
     - Human
     - Anthropomorphize

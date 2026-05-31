@@ -21,5 +21,7 @@ let elementName = "Onda"
 ::: details &
 
 -
+- Tension when back swinging
+
 
 :::

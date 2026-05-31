@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Layer.Insulation.Aktion" />
+# <BB labor="Layer.Insulation.AKTION" />
 
 ---
 
@@ -17,6 +17,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
--
+- Dress for the weather not how your body feels, if you put on insulation only when you're cold then you've wasted energy
 
 :::

@@ -12,6 +12,7 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
--
+- Udini
+- The best coach is not the best athlete
 
 :::

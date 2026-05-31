@@ -23,6 +23,7 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Pull up on flora to lock the orientation of the plane of your body during RevolveBody like a barndoor
 - Soccer ball control is flora move. Constant contact and no kicking
 
 - WristHook

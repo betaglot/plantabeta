@@ -8,31 +8,6 @@ search: false
 
 # <BB labor="Spade.Aktion" />
 
-## SpadeAktion.Anatomy
-
-- Blade
-    - BladeConvex
-    - BladeConcave
-    - BladeTip
-    - BladeEdge
-    - BladeWeight
-    - BladeLength
-    - BladeWidth
-    - BladeMaterial
-- Collar
-    - CollarDiameter
-    - CollarLength
-- Shaft
-    - ShaftLength
-- Handle
-    - HandleWidth
-    - HandleDiameter
-    - HandleForm
-    - HandleMaterial
-- Tab
-    - TabWidth
-
-## Spade Attributes
 
 ---
 
@@ -42,6 +17,9 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
+- Inertial pivot point actual name. Dolfin and Pike
+- Pike is what fish and gymnasts do. Pisces
 
 - throw your spade over a high obstacle first, so you can use two hands to climb
 

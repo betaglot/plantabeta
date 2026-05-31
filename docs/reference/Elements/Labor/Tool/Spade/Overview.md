@@ -13,29 +13,31 @@ let elementName = "Spade"
 
 Aliases: Shovel
 
+
+
 ## Spade.Anatomy
 
 - Blade
-    - BladeConvex
-    - BladeConcave
-    - BladeTip
-    - BladeEdge
-    - BladeWeight
-    - BladeLength
-    - BladeWidth
-    - BladeMaterial
+    - Blade.Konvex
+    - Blade.Koncave
+    - Blade.Tip
+    - Blade.Edge
+    - Blade.Weight
+    - Blade.Morfos.Length
+    - Blade.Morfos.Width
+    - Blade.Material
 - Collar
-    - CollarDiameter
-    - CollarLength
+    - Collar.Morfos.Diameter
+    - Collar.Morfos.Length
 - Shaft
-    - ShaftLength
+    - Shaft.Morfos.Length
 - Handle
-    - HandleWidth
-    - HandleDiameter
-    - HandleForm
-    - HandleMaterial
+    - Handle.Morfos.Width
+    - Handle.Morfos.Diameter
+    - Handle.Morfos
+    - Handle.Material
 - Tab
-    - TabWidth
+    - Tab.Width
 
 ## Spade Attributes
 

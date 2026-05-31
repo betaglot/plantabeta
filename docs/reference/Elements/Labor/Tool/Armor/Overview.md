@@ -20,7 +20,7 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
--
+- Lace up armor
 - Pull the outer layer of clothing in the opposite direction to precompensate
     - Ratchet
     - When your sleeve getting jammed

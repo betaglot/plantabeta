@@ -1,0 +1,25 @@
+- priority area takes grass
+- planting designed to mimic nature
+- "hit" stumps
+- planting grass 600/area
+- how to BagUp Grass?
+- Festuca Campestris and Pseudororegneria spicata
+- cluster of shrubs
+- Space 5 meters off Hiking Path and Road. Buffer zone along pathway
+- [(Rotate+Evert)|Foot]
+- When walking through tall grass to push the grasses down instead of stepping between . [Boot.Arch|Site]
+- where to go next after piece is Komplete
+- "use your minimums"
+- spec sets
+- how to tell which shrub is which
+- spinea, trembling aspen, mock orange
+- 10 meter spacing between some species of shrubs and other are planted in pentad clusters (0.2m spacing). Mixed species cluster
+- practice steps to familiarize and prime the step count required for contract spacing. Memory too
+- Saskatoon Berry, Chokeberry, elderberry
+- Affords danger. Eye Pokable
+- place grass cubes on their sides to be more visible for follower. TeamBeta. [Pod|Morfos]
+- Grass Cube Dyad
+- Live Stake, Red Ozier, Dogwood, Willow
+- Don't strip Bark as you push in the Stakes
+- Plant stake with at least 2 buds above ground
+- Plant stake up until the High water mark, start at lowest point and radiate out. Start at Bathos

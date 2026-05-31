@@ -58,7 +58,6 @@ search: false
 - Get in the zone
 <!-- - Distance to the back -->
 - Kickstarter Give them markums
-- <BB labor='RoleModel'/> Hyperhero
 <!-- - <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore -->
 <!-- - <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine -->
 <!-- - Could you identify a Planter by their motion captured model? -->
@@ -83,7 +82,7 @@ search: false
 <!-- - The probability of piece pinch increases proportional to Planter count -->
 <!-- - Drink and Eat before replanting -->
 - If i had already sold twelve works of art then I'd know how to sell one
-- Tension when backswing
+<!-- - Tension when backswing -->
 <!-- - Accusations while replanting a cattle plant -->
 - Elevation instead of level
 <!-- - Low D in the flat high d in the slope -->
@@ -141,7 +140,7 @@ search: false
 - Bonsai instead of toddler trees
 - are you interested in BETA testing PlantaBETA?
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
-- Unit instead of team
+<!-- - Unit instead of team -->
 <!-- - You have the money for PlantaforDev -->
 - Via: Hold the door open for someone anterior posterior lateral relative to you
 <!-- - Stomp for boot purga -->
@@ -359,11 +358,11 @@ search: false
 - Heuristic then algorithm
     - If: Plant the low spots
     - Else: use a proposition
-- What is an open ended version of "Does that make sense?". TeamBETA
-    - PodTuck naturally angles the Neons in Silvi
-    - Bunching
-    - Angled Down to anterior decreases probability of neons slipping out during bend over
-    - Especially important when silvi is more than 75% full
+<!-- - What is an open ended version of "Does that make sense?". TeamBETA -->
+- PodTuck naturally angles the Neons in Silvi
+- Bunching
+- Angled Down to anterior decreases probability of neons slipping out during bend over
+- Especially important when silvi is more than 75% full
 <!-- - MarkumDev: Flag length doesn't need to be variable
     - Design Constraint: Flag length must be standardized
     - Press
@@ -567,9 +566,9 @@ search: false
     - What Betoms are most connected to other Betoms
     - Is this different from asking about Betom Frequency?
     - A climber's IdioBetaRete grows as they learn. Preferential Attachment to the hubs that they already have. Slab climbers get more growth at Prokline clusters than Rekline. A well rounded climber has more hubs? -->
-- PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
+<!-- - PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
 - Error,TeamBETA = Smother
-    - Smother = BoxedIn
+    - Smother = BoxedIn -->
 - How does a device relate to tactics? A device can be abstract or concrete
 - PlantaBETA.Strategy: Simplify things
     - Piece Shape
@@ -721,10 +720,10 @@ search: false
     - Advantage isn't binary
     - Advantageous != Disadvantageous
     - Neutral ActualName
-- TeamBETA: allow for
+<!-- - TeamBETA: allow for
     - Allow for coplanter's VIA
     - ChessBETA: Restrict to add pressure
-    - Minimize Pressure when TeamBETA
+    - Minimize Pressure when TeamBETA -->
 - Motor
     - In chess, tempo (plural: tempi) refers to a single turn or "unit of time" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.
     - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
@@ -738,7 +737,7 @@ search: false
 - Planters on lakeside beach
 - You've planted a tree as every emotion
 - BisBoxTransport
-- Lane
+<!-- - Lane
     - Passing Lane
     - Stay in your lane
     - TeamBETA
@@ -746,7 +745,7 @@ search: false
     - To gain control of the area
 - Cut out your section
     - TeamBETA
-    - Claim your area
+    - Claim your area -->
 - Hamiltonian path
 - Eulerian path
 - Reference Class Forecasting of PlantaBETA.com
@@ -754,7 +753,7 @@ search: false
 - Kairos is affordance
 - Spade|HalfPipe, the part where the Skiier goes up the wall of the pipe, has air then returns back down is like <BB labor="Spade.Onda" via="Medial" motor="Dynamics"/>
 - Sequential graphs kinograms look like Graph Bus Topology
-- Team: Congestion
+<!-- - Team: Congestion -->
 - Strategy Backfire
 - Gesture
     - Beckoning (come here)
@@ -822,8 +821,8 @@ search: false
     - Resource efficiency
 - One Million at 7s is 714 hectares
     - According to the most recent figures available in Statistics Canada's 2021 Census of Agriculture, the average farm size in Saskatchewan is about 714 hectares (or 1,766 acres ) — almost double the national average of about 327 hectares (or 809 acres).  
-- Team Pak
-    - Pack Etymology
+<!-- - Team Pak
+    - Pack Etymology -->
 - Poll for options to method to explain PlantaBETA to Reddit
 - Do the math usually refers to logic. Do the logic. Analyze the logic
 - Strategic Ambitions
@@ -838,9 +837,9 @@ search: false
     - Anxietable
     - Contemptible
 - Conemotion
-- Team-Taktik
+<!-- - Team-Taktik
 - Team-Taktik-Passage
-- (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half
+- (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half -->
 - Timelines of PlantaBeta
     - Day
     - piece
@@ -899,7 +898,7 @@ search: false
     - Fident is Faith
     - Fidelis
     - It's not that I don't trust Ben, I just don't believe in Ben- L.Knope
-- Somebody on your team needs to know how to sharpen skates
+<!-- - Somebody on your team needs to know how to sharpen skates -->
 - A Betomglyf is an Assignment Statement
     - Propositions must be proved
     - QED
@@ -1115,31 +1114,73 @@ search: false
 - "Bags, Flag, Spade" is a Habit that you remind yourself every time the truck drops you off at a cache.
 - The technique which has more explanation is more li
 - passus
-    - Vulgar Latin *passare "to step, walk, pass," from Latin passus "step, pace" 
+    - Vulgar Latin *passare "to step, walk, pass," from Latin passus "step, pace"
 - Don't unbundle all trees when your block is about to close and it's your last bag up. To avoid messing up the ratio of the postc dent block and to be able to give a more acxutate number of tree ls being transferred
 - Multiple Seedlots in a block. Look at box stickers
 - Break apart seedling on bag rim
 - Alias allotrope alter allobeta alterbeta diffbeta
-- Waxed flower petal. They stick together by the wax cohesion so you can use paper to negate the cohesion in the middleso post it dispenser magazine.
-- Bumetallic strip yo cutl end of markum for easy pinch 
-- Being a tour guide can disttact your crew long Eno gh to afford ate a fresh motivational mood and to instantiate a motivator
-- Sacrifice thinming about anything rlse for the entire day shift season 
+- Waxed flower petal. They stick together by the wax cohesion so you can use paper to negate the cohesion in the middle so post it dispenser magazine.
+- Bimetallic strip to curl end of Markum for easy pinch
+- Being a tour guide can distract your crew long Eno gh to afford ate a fresh motivational mood and to instantiate a motivator
+- Sacrifice thinming about anything rlse for the entire day shift season
 - All the beta whete you can hit your face with spade conspade
 - Greenhouse on a gym
-- Dress for the weather not how your body feels, if you put on insulation only when you're cold then you've wasted energy
+<!-- - Dress for the weather not how your body feels, if you put on insulation only when you're cold then you've wasted energy -->
 - Log minimums
 - Slippery palm cover for spade hand
-- BoustroTaktik ApogeeStrategy FollowTaktik BouncingTaktik for TeamBeta
+<!-- - BoustroTaktik ApogeeStrategy FollowTaktik BouncingTaktik for TeamBeta -->
 - Loose pack box. Claim a box
-- Rookies reunite for a day to comapre their experience and to discuss and teach each other
-- Est-il vrai que l'écart entre riches et pauvres est à son apogée ?
-- Passive capture like horse rider MythBusters Inflafe reflect air from bend over. amplifier. Drag is the payment for amplification. Fin wings. Bellow between torso and arms 
+- Rookies reunite for a day to compare their experience and to discuss and teach each other
+<!-- - Est-il vrai que l'écart entre riches et pauvres est à son apogée ? -->
+- Passive capture like horse rider MythBusters Inflate reflect air from bend over. amplifier. Drag is the payment for amplification. Fin wings. Bellow between torso and arms
 - How to find next tree
--
--
--
--
--
+- HiVis sign sticker shoulder pads
+- Rip line is more proximal than next markum's kontakt site.
+- Cape suspenders
+- Perforated on one side and fully cut in middle
+- Richmond fair scrambler is like SpadeMove holding pattern. Epicycles to maintain momentum in a controlled Passag and in every direction to be balanced
+- Refresher
+- Gather closer for huddle
+- Doing the right moves at the beginning of season to prevent injuries
+- Supervisor can see the GPS of the planters
+- Tony stark visor graphics use projective geometry to appear to be three dimensional illusion
+- A trench is a Makrosite
+- Ipad screen protector for Visor, remove the cover instead of replacing the Visor, like how MontrealMetro has stickers on their windows to remove graffiti
+<!-- - Inertial pivot point actual name. Dolphin and Pike
+- Pike is what fish and gymnasts do. Pisces -->
+- Dimano Kite to visualize time and force patterns.
+- Cast a Gaiter with natural mush around natural fiber mesh
+<!-- - Pull up on flora to lock the orientation of the plane of your body during RevolveBody like a barndoor -->
+- Cut the tibia off winter boots for durable gaiter
+- Does drag pull trees over or is it totally the push of wind
+- Bag shell that turns into a wheel
+- Bury
+- "Plantcho" planting poncho
+<!-- - Barbed wire -->
+- Cut at knee and invert HiVis durable leg to get sealing cuff then use the pattern of a gaiter for the bottom
+- Shadow instead of cover water ro keep cool from sun radiation. Only conduction from ground and air
+<!-- - The harder you hit a dead branch the further it flies off  pull your punches when you're hitting a branch who's trajectory might be towards yourself -->
+- Pictures of balsam and fir for ipad
+<!-- - The best coach is not the best athlete -->
+<!-- - Lace up armor -->
+<!-- - Rip in into -->
+- Inflate an air reservoir so you don't need to carry it in the land. The reservoir passively releases the air and also provides shade. Reservoir Backpack
+    - <https://www.staples.ca/products/3114278-en-bullseye-pocket-air-portable-rechargeable-tire-inflator-air-compressor-and-powerbank>
+- IceVent Honeycomb <https://www.qoreperformance.com/en-ca/products/icevents-classic-2-pack>
+- "bring it in" for rally, gather, "group up", cluster, aggregate
+- Bird on a wire or edge shuffles along laterally, similar to Honnolding. Log Shuffle
+- Proving what is a mistake is easier on egos than proving what is correct
+- Dekonstrukt
+- Machete up to break [DeadTree.Branch|Horizontal] so you have access to Mikrosite for Skreef then Dilate and so you don't poke your eye during insert
+- A follow up question to my last poll (again for experienced planters):
+How much of your planting knowledge would it be possible to teach a rookie BEFORE their first day?
+- Agape
+- Spade LED is really easy to make
+- AlliedBETA
+    - "hot on someone's heels"
+    - "bringing up the rear"
+- Reddit: BarkSite have you ever planted a bark <https://youtu.be/x50U-xXY6Pc?si=bxBpJL38cPQi2T_F>
+- Do you want to learn how to spade skreef?
 -
 -
 -
