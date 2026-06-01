@@ -16,15 +16,36 @@ let elementName = "Dia"
 <!-- =================================================== -->
 ::: details &
 
-- Etymolog(Dia)
+-
+
+- Etymology(Dia)
+    - Dilate
+        - "make wider across"
+    - Dissect
     - Through
-    - Diameter
-    - Diagonal
+    - diameter
+    - diagonal
+        - dia + gon = across + angle
     - diagnosis
     - diagram
     - dialect
     - dialog
     - diorama
     - diuretic
+
+- GraphTheory.Diameter
+
+- Plot
+    - Diameter of Plot
+
+- Skreef.Diameter
+
+- Cross over a (Mound, Preskreef, Trench)Prep
+
+- Stump Diameter
+- Dendron Diameter
+- Flora Diameter
+- Minimum Slash Diameter to be considered a Protektor (>50mm)
+- Mound  
 
 :::

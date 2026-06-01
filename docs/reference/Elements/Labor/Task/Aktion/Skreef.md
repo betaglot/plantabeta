@@ -20,6 +20,11 @@ let elementName = "Skreef"
 <!-- =================================================== -->
 ::: details &
 
+- [Skreef.Morfos]
+    - Are Skreefs supposed to be Squares or Circles
+        - "10 by 10 skreef" is a Square
+        - "dinner plate skreef" is a Circle
+
 - Sometimes you need to cut to skreef. Kicking a log away is skreefing. Flipping over a rock is skreefing.
 
 - skreef (noun)
