@@ -20,6 +20,19 @@ let elementName = "ElasticEnergy"
 <!-- =================================================== -->
 ::: details &
 
--
+- Accelerates when releasing Energy
+    - Non Linear Acceleration
+- Onda
+- "wind up"
+- Elastic Potential Energy
+- Resistance
+- Absorb
+- Twist
+- [Whip|Flora|ElasticEnergy]
+- [Lean|(Flora+Wind)|Elastic]
+
+- [Tendon|ElasticEnergy]
+- [Fascia|ElasticEnergy]
+- [Skin|ElasticEnergy]
 
 :::
