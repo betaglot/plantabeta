@@ -20,6 +20,10 @@ let elementName = "Addukt"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Spade.Addukt]
+- [Spade.Addukt.Onda]
+    - Swing the Spade Medially
+- "move your arm towards yourself"
+- Figure Skater Angular Momentum Mass Distribution
 
 :::

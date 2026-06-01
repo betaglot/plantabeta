@@ -20,6 +20,21 @@ let elementName = "Acceleration"
 <!-- =================================================== -->
 ::: details &
 
--
+- Jerk
+- Speed
+- Velocity
+- Distance
+- Displacement
+- Gravity
+    - 9.8 m/s^2
+
+- Direction
+    - Change Direction
+        - "Accelerate out of the corner"
+            - RacingLine == Passag
+        - "Brake into the corner"
+            - Decelerate
+- What AKTIONs require (ConstantVelocity == Acceleration(0))?
+- Newton
 
 :::

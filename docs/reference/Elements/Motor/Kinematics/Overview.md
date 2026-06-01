@@ -20,6 +20,10 @@ let elementName = "Kinematics"
 <!-- =================================================== -->
 ::: details &
 
--
+- Newton
+- Motion
+- Speed,Acceleration
+- You use the relationships between kinematic elements during runtime
+    - You can't influence time directly, but you can use Energy to move faster (Speed) and [VIA|ANIMA] to choose a shorter passag (Distance) .
 
 :::

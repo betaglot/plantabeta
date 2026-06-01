@@ -61,6 +61,8 @@ Output the betaglyf string along the bottom, but store as an object
 ::: details &
 
 - Positional Notation
--
+
+- 
+- Fenoms have the methods of 
 
 :::

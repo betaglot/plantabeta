@@ -28,9 +28,14 @@ Observation to LessonPlan
 
 ## Page Components
 
+Page is Read from Bottom Left to Top Right. New BETA is added on top of Current BETA
+
+
 ### Title
 
 ### Panel
+
+Each Panel is a FENOM, FENOMs are the units of Experience. The contents of Consciousness are Phenomena
 
 #### Moment
 
@@ -38,11 +43,11 @@ Observation to LessonPlan
 
 ##### Moment to Moment
 
-##### Move to Move
+##### AKTION to AKTION
 
-##### Atlete to Atlete
+##### Planter to Ally
 
-##### EKOS to Eko
+##### EKON to EKON
 
 #### Attendo (Frame)
 
@@ -101,6 +106,9 @@ First Panel contains an UltimateView of Eko.
 <!-- =================================================== -->
 ::: details &
 
+- Chart
+    - Time is the vertical Axis
+        - 
 - In-between chart
 - Debugger shows the Planters experience through Betomiks.py in slowmo
 - Guitar hero streak for Betomiks game, like dance dance too

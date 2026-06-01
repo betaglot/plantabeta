@@ -20,6 +20,10 @@ let elementName = "Velocity"
 <!-- =================================================== -->
 ::: details &
 
--
+- PhysicsSyntax:(Speed+Direction), BETAGLOTsyntax: [Speed+Direction]
+- VectorAddition
+    - (SOMON.Velocity+Spade.Velocity) Every ConcreteELEMENT has the Attribute of Velocity even if it's almost always or always zero. Stationary. Not Moving
+- Apparent Velocity, Absolute Velocity, Relative Velocity
+- All ELEMENTs are Phenomena
 
 :::
