@@ -16,6 +16,7 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
--
+- A VION is an ELEMENT of the VIA FAKTOR
+- VIONs
 
 :::

@@ -30,6 +30,9 @@ import ElementsFilter from '/vue/ElementsFilter.vue';
 <!-- =================================================== -->
 ::: details &
 
+- What is an ELEMENT?
+- Why are there ELEMENTs in the first place?
+- ELEMENTs connect to other ELEMENTs to make BETOMs. Which are the units of BETA.
 -
 
 :::

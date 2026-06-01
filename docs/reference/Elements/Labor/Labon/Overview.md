@@ -16,6 +16,6 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
--
+- A LABON is an ELEMENT of the LABOR FAKTOR
 
 :::

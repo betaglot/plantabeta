@@ -16,6 +16,13 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
+- LABON.Metod
+    - Add to Advantage
+    - Show Leaderboard
+    -
+
+- ELEMENT.Metod
+- ClassMetod
 - Modifying an Element Atribut Value
 
 :::

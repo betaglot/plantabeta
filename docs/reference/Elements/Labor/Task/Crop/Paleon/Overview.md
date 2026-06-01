@@ -1,6 +1,35 @@
-# Paleon
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Paleon"
 
-Alias: A Natural
+</script>
+
+# ⭐<span class="labor">Paleon</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
+<https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/tree-seed/tree-seed-publications/seed_handling_guidebook_hi.pdf>
+
+|Species ID | Common Name |Latin Name|
+|------ |----- | ----- |
+|Bl| sub-alpine fir |Abies lasiocarpa|
+|Ba| amabilis fir |Abies amabilis|
+|Bg| grand fir |Abies grandis|
+|Cw| western redcedar |Thuja plicata|
+|Cy| yellow cedar |Callitropsis nootkatensis|
+|Hw| western hemlock |Tsuga heterophylla|
+|At| trembling aspen |Populus tremuloides|
+|Ep| paper birch |Betula papyrifera|
+|Ss| Sitka spruce |Picea sitchensis|
+|Sx| interior spruce |Picea glauca X P. engelmannii|
+|Lw| western larch |Larix occidentalis|
+|Fd| Douglas-fir |Pseudotsuga menziesii|
+|Pli| lodgepole pine  |Pinus contorta|
+|Pw| white pine |Pinus monticola|
+|Py| ponderosa pine, yellow pine |Pinus ponderosa|
 
 ---
 
@@ -11,6 +40,20 @@ Alias: A Natural
 <!-- =================================================== -->
 ::: details &
 
--
+- "respect the naturals"
+- "respect knee height naturals"
+
+- DripLine
+    - DripLining
+    - [Paleon.Pleroon]
+        - InsertDiagram
+    - Pleroon.Morfos
+
+- Paleon.Anatomy
+    - Stem
+    - RootPod
+    - Apical End
+    - Needle
+    - Leaf
 
 :::
