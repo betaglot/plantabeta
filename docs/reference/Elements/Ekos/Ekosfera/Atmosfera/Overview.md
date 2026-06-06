@@ -20,25 +20,24 @@ let elementName = "Atmosfera"
 <!-- =================================================== -->
 ::: details &
 
--
+- "EKOS.Weather.Overview"
+- Atmosfera_AirQuality_SmokeConcentration_ParticulateMatterConcentration_
+- Atmosfera_Climate_ClimateChange_Evolution_
+- Atmosfera_Climate_ClimateChange_SpeciesDistribution_
+- Atmosfera_Cloud_AirHumidity
+- Atmosfera_Cloud_CloudShadow
+- Atmosfera_HighAltitudeLand_CloudCoverage
+- Atmosfera_HighAltitudeLand_InsideCloud_AirHumidity_
+- Atmosfera_HighAltitudeLand_InsideCloud_Shadow_
+- Atmosfera_Weather_Radio_WeatherStation_WeatherUpdate_HighAltitude_
+- Atmosfera_Weather_WeatherSurprise
 
-- "Eko.Weather.Overview"
-- Geology_Atmosfera_AirQuality_SmokeConcentration_ParticulateMatterConcentration_
-- Geology_Atmosfera_Climate_ClimateChange_Evolution_
-- Geology_Atmosfera_Climate_ClimateChange_SpeciesDistribution_
-- Geology_Atmosfera_Cloud_AirHumidity
-- Geology_Atmosfera_Cloud_CloudShadow
-- Geology_Atmosfera_HighAltitudeLand_CloudCoverage
-- Geology_Atmosfera_HighAltitudeLand_InsideCloud_AirHumidity_
-- Geology_Atmosfera_HighAltitudeLand_InsideCloud_Shadow_
-- Geology_Atmosfera_Weather_Radio_WeatherStation_WeatherUpdate_HighAltitude_
-- Geology_Atmosfera_Weather_WeatherSurprise
-- Dust Cloud
-
-- Pollen
-
-- Smoke
-
--
+- Wind
+    - Fetch
+    - Exposed Block at High Altitude has a huge amount of Fetch
+- Precipitation
+- Sky
+- Weather
+- Meteorology
 
 :::

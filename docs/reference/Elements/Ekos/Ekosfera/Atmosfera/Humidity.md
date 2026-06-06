@@ -20,7 +20,14 @@ let elementName = "Humidity"
 <!-- =================================================== -->
 ::: details &
 
--
+- Precipitation
 
-- "Eko.Weather.Humidity"
+- WetSlash
+- Not drying off from rain even if the rain has stopped
+- Hydrology
+- Condensation
+- Evapotranspiration doesn't work as well because the Atmosfera is already saturated with water, so there is less space to absorb the sweat in the air
+- Wetlands
+- Dense Flora drying off after rain
+
 :::

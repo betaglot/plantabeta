@@ -20,6 +20,9 @@ let elementName = "Lightning"
 <!-- =================================================== -->
 ::: details &
 
--
+- Thunder
+- Metal Spade
+- When to leave your Piece
+- DangerZone
 
 :::

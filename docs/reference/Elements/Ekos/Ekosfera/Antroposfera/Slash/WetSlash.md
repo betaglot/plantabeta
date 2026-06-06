@@ -20,6 +20,21 @@ let elementName = "WetSlash"
 <!-- =================================================== -->
 ::: details &
 
--
+- Hydros
+- [Slip|Site]
+    - Slippable surface
+- Rotten WetSlash
+    - Skim through
+    - Chop through
+- [Amble|WetSlash]
+- [Amble.SpikedBoot|WetSlash]
+- Bark peels off easily
+- Coastal
+- Rain
+- Snow
+- Condensation
+- How to walk on wet logs and when to avoid altogether?
+    - TooDangerous
+    - TooRisky
 
 :::

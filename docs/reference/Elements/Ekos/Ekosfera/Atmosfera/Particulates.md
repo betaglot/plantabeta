@@ -47,7 +47,10 @@ let elementName = "Particulates"
     - Burn Block
     - Burn Pit
     - Becomes airborne from Skreefing or just walking through a thick layer of dry Ash
-    - The white stuff, not the black stuff
+    - The white stuff, not the black stuff. A burnt log isn't ash
+        - Get definitions of burnt EKONs from Akademia
+    - Inhale Ash
+    - Trapped Air in Deep Valley
 
 - Particulates affect Breathing (Respiration)
     - [Breathe|Particulates]

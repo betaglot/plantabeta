@@ -101,6 +101,8 @@ ANIMA == PSYCHE == SPIRITUS
 <!-- =================================================== -->
 ::: details &
 
+- Runtime
+
 - The Jungian definition does not apply
 
 - In Law, *animus* means intent

@@ -17,5 +17,17 @@ let elementName = "Ektos"
 ::: details &
 
 - Out of
+- Pull out
+- Extract
+- Remove
+- Etymology
+    - ectomy
+    - ex + tomy
+    - out cut
+    - cut out
+    -
+- out of Mikrosite usually
+- Throw a rock or log out of Mikrosite
+- Remove Neon from a Mikrosite
 
 :::

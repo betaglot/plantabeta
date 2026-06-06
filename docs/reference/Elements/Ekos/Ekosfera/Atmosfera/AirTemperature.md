@@ -20,6 +20,8 @@ let elementName = "AirTemperature"
 <!-- =================================================== -->
 ::: details &
 
--
+- Raining and Cold
+- AirTemperature can be difficult to be objective about, because of Wind Chill
+    - How to distinguish the experience of SOMA.Temperature and Atmosfera.Temperature?
 
 :::
