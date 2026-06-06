@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Ash"
+let elementName = "Ingress"
 
 </script>
 
-# 🟩<span class="ekos">Ash</span>
+# ⭐<span class="labor">Ingress</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "Ash"
 <!-- =================================================== -->
 ::: details &
 
--
+- Direct Seedling into Hole
 
 :::

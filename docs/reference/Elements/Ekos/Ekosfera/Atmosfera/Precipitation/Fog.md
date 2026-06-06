@@ -20,6 +20,9 @@ let elementName = "Fog"
 <!-- =================================================== -->
 ::: details &
 
--
+- What seems like Fog is actually a cloud that you're in at HighAltitude
+- Smog
+- More difficult to use Landmarks since your Range of Sight is constrained to dozens of meters instead of hundreds
+    - You can't use far mountains as Landmarks for North
 
 :::

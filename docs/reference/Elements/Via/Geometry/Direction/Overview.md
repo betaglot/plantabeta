@@ -28,4 +28,12 @@ let elementName = "Direction"
 - Forwards
 - Reverse
 
+- Etymology
+    - Use words which come from the same etymology
+    - Progression 
+    - Regression
+    - Ingression
+    - Egression
+
+
 :::

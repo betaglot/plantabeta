@@ -20,6 +20,14 @@ let elementName = "Hail"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Hail|Morfos]
+    - Diameter measured in mm
+- cold hands
+- Hail to rain to Hail
+- Hail to snow
+- Hail that hurts
+    - 10mm
+- Hail builds up along waistbelt and in Backbag
+    - Accumulation
 
 :::
