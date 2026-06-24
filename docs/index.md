@@ -66,7 +66,7 @@ hero:
         <div class="text-h5 my-4">
             Last Updated on
         </div>
-          <div class="text-h6">April 16, 2026</div>
+          <div class="text-h6">June 23, 2026</div>
         <div class="pt-16">Contact:</div>
         <span class="beta">betaglot@betaglot.org</span>
     </VSheet>
