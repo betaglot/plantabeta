@@ -21,5 +21,14 @@ let elementName = "Pressure"
 ::: details &
 
 -
-
+- [Spade.Tip]  
+- [Spade.Slam]  
+- [Spade.Probe]  
+- [Spade.Tip.(Slam,Probe,Post)]  
+- Crush  
+    - [Error: Crush]  
+- Kompress  
+- Kleison  
+- Pressure of waistbelt on waist  
+- Kompakt
 :::

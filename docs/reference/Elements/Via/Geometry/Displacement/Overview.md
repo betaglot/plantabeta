@@ -39,5 +39,4 @@ Distance and Direction
 - Displacement for BagOut is zero since it starts and stops at cache. What about PieceCache?
 - Units of Displacement is meters and VIA.Direction
 
-
 :::

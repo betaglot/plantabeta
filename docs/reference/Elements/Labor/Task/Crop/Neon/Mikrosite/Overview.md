@@ -19,7 +19,7 @@ let elementName = "Mikrosite"
 - Aliases:
     - Plantable Spots
 - Neosite doesn't include Natural Crop Trees
--  [Mikrosite|Density]
+- [Mikrosite|Density]
 - [Priority|Stump|Predictability] Priority to stumps to increase predictability. affordance of neosite selection
 - StumpSite Density [Mikrosite|Stump|Density]
 

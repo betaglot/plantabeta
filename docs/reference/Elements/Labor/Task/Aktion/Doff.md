@@ -23,4 +23,12 @@ let elementName = "Doff"
 - Remove
 - Off
 
+- Contraction of “Do off”  
+- Opposite of Don  
+- RainShell Don and Doff when the weather is frequently changing from Rain to \!Rain  
+- InsulationLayer DonDoff when Atmosfera is variable
+    - Oscillation  
+- TooHot  
+- TooSweaty  
+- To get a rock out of Boot
 :::

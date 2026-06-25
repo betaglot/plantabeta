@@ -21,5 +21,11 @@ let elementName = "Ankor"
 ::: details &
 
 -
+- Lever on a Log so you can use the log which has a diameter that’s too large to grip  
+    - Difficulty(SloperGrip > HandleGrip)  
+- Keep Thumb off to the side  
+    - [Extend|Thumb]  
+- [Spade.Ankor|LooseSoil]  
+- Ankor to step down carefully
 
 :::

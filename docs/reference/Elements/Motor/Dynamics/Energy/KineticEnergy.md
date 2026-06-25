@@ -21,5 +21,12 @@ let elementName = "KineticEnergy"
 ::: details &
 
 -
-
+- Slam  
+- Post  
+- Absorb  
+- Onda  
+- Helix  
+- Energy of MOvement  
+- Efficiency  
+- More energy , more power, fewer AKTIONs
 :::

@@ -30,10 +30,18 @@ let elementName = "Direction"
 
 - Etymology
     - Use words which come from the same etymology
-    - Progression 
+    - Progression
     - Regression
     - Ingression
     - Egression
 
+- Direction.Over
+    - [Spade.Helix|Log|Over]  
+    - [Spade.Egress.Helix|Mound|Over]  
+    - [Spade.Helix|Stump|Over]  
+    - JumpOver  
+    - StepOver  
+    - REachOver  
+    - Plant a tree while reaching over a waist height HorizontalLog. Constrained from waist down, like reaching over the counter as a server
 
 :::

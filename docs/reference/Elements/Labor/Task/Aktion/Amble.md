@@ -21,5 +21,11 @@ let elementName = "Amble"
 ::: details &
 
 -
-
+- Walk  
+- [Amble|Arm]  
+    - Along slash  
+    - Hand over hand or shuffle  
+- [Amble|Leg]  
+- [Amble|(Leg,Arm)]  
+    - MowgliWalk JungleBook
 :::

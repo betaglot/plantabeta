@@ -20,6 +20,17 @@ let elementName = "Ear"
 <!-- =================================================== -->
 ::: details &
 
--
+- Ears
 
+- Hat  
+- Listen  
+- Earphone  
+    - Bears  
+    - Evacuation  
+    - Allied Communication
+- Bugs  
+- Hat  
+- Listen  
+- Earphone  
+    - BEars
 :::

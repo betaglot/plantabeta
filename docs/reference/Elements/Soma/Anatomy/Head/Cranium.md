@@ -21,5 +21,14 @@ let elementName = "Cranium"
 ::: details &
 
 -
+- Head first though a bush  
+- crawling under (Slash, Log, DeadTree, BurntTree, Spruce.(Spiked,Poked))  
+    - [Cranium|Position.TooHigh]  
+- [Head.Injury]  
+- Hat  
+- Headband  
+- Glasses  
+- Hair  
+- Hail
 
 :::

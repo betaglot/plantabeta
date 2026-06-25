@@ -21,5 +21,21 @@ let elementName = "Energy"
 ::: details &
 
 -
+- Senses  
+- Phenomenology of Energy  
+- Energy of ANIMA  
+    - Perception is of Energy  
+        - YOu can only Perceive Energy  
+        - Energy is the Binary Code of experience  
+        - Joy and Sadness and [Spade.Slam] use Energy  
+- RagePlanting has more Mental and KineticEnergy than Sad Planting  
+- Thermal Energy  
+- KineticEnergy  
+- Work  
+- Joules  
+    - Kilojoules  
+    - Calories  
+        - Nutrition  
+            - Food -> Planter -> AKTION -> Tool -> EKOS
 
 :::

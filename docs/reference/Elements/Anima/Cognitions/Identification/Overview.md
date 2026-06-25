@@ -22,5 +22,12 @@ let elementName = "Identification"
 ::: details &
 
 -
+- Epistemology  
+    - How to know  
+- Ontology  
+    - What things are  
+- Analysis  
+- Differentiate(Identification, Perception)  
+    - Do I Identify or Perceive Affordances.(Site, Passag)?
 
 :::

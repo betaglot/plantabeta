@@ -1181,7 +1181,70 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - "bringing up the rear"
 - Reddit: BarkSite have you ever planted a bark <https://youtu.be/x50U-xXY6Pc?si=bxBpJL38cPQi2T_F>
 - Do you want to learn how to spade skreef?
--
+- How to replant too many larch in a Plot?  
+    - Carry around a bundle  
+    - [Neon.Replace]  
+        - NeoAktion(Replace)  
+        - Neonektomy before Inserting replacement since Ektomy loosens soil which makes it easier to Dilate and Ingress and also would unKompakt the Replacement  
+- Put the universal Species in the Bottom of Bags, so that you’re not left with a species that can’t be planted on any mikrosite.
+    - Like O-Negative Blood Donor  
+- Plant Less Lines not fewer lines. AreaPlanting instead of Line Planting is better for complex specs  
+- Plot ActualName(Distance from Center) Ray? Not Radius  
+- (Strategy.TradeOff \!= Sacrifice)  
+- Timestamp for when Ingress to reach tree, not when pulling out a tree. So you can synchronize the Geolocation and Neons.  
+- Density Heuristic  
+    - HusserlRetention  
+    - HOw many trees did see in this eyes scan?  
+    - In the eye scan what is the time between trees?  
+- Onda along plane of North-South to orient yourself  
+    - Calibration  
+    - Use more than just a single Direction. Sometimes North Landmarks are not available so you can use landmarks of other directions
+    - PlaneOfDirection? PlaneOfOrientation  
+- Get paid from the body cam footage
+    - Rolling logs into a protektor position  
+    - Position=(Lokation+Orientation)  
+- Loud Horn for Mountainous area where acoustics reflect Sound away or there is no reflection at all.  
+    - NoEcho Echolocation.
+    - Echos amplify and transmit the sound of the truck  
+- [EKON|Point]  
+- [Piece|Point] PieceCache, RoadCache  
+- [Piece.Boundary|Point]  
+- Boundary doesn’t need to be a line  
+- BagIn while you wait to be moved to another piece on the block. Waiting for another planter to finish their piece. Why not just help them finish their piece? Maybe if they’re replanting?  
+- Plant in Shadow because shadow will be North to NE after noon PM PostMeridian  
+- ElbowHook for [Spade.Transport]  
+- people not wanting to leave the crew is a sign of a good supervisor  
+    - Can be seen when planters are sad when volentold to be on another crew, especially when the specs and money that they’re being sent to is better than what their crew is doing  
+- Founded on a FuckYou. Founded to affordate a FuckYou. With this system you can say FuckYou to the gatekeepers and conceited elite  
+    - GIGAS(Grinch)= “Litany of job title and maybe even proper names of people”  
+        - ForLoop  
+    - Proof by contradiction  
+        - You can prove what BETAGLOT’s Telos is by showing what it is not. BETAGLOT doesn’t try to hinder, oppress, control you. It is a tool to empower you.  
+        - GIGAS(Turing)  
+        - Computable BETA, Uncomputable BETA  
+        - Rational BETA
+        - IrrationalBETA= Contains(IrrationalThought(Emotion,Instinct,SocialAnimal, Memory))  
+        - Differentiate(Compute, Construct) Verbs  
+- Wearing sunscreen under shirt due to the shirt’s lack of UV protection  
+- HIt all the stumps Heuristic can result in HyperDensity if the [Stump|Density] is higher than [Neon|Density]. [Spec|Density] IntendedDensity  
+- Lokation  
+- Close to head  
+- Spade close near head during [Spade.Onda]  
+- Slash  
+- DangerZone  
+- When letting Slash within the DangerZone, you must pay close attention  
+- (Near)InsteadOf(Close) ToReduceConfusion(Klose,Close)  
+- ShakeBag to settle dirt into one corner to ensure that the corner is the lowest Point [Bag|Nadir]  
+- “Tighten up on the flat [only]”  
+    - RelativeTo(Limit)  
+    - Steep is rarely HyperDensity  
+    - SuperDensity, SubDensity  
+        - [VIA.Limit]  
+        - Supersonic, Subsonic  
+- Optimal isn’t a Limit  
+    - Range of Optimal \= Area  
+    - Threshold of Optimal \= (Line+Integral)  
+    - Average of Optimal \= Line
 -
 -
 -

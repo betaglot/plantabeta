@@ -27,5 +27,4 @@ let elementName = "Ribs"
 - CoreTension
 - Defend Ribs with Arm
 
-
 :::

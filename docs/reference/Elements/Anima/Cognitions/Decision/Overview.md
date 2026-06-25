@@ -32,5 +32,8 @@ let elementName = "Decision"
 -
 
 - "ANIMA.Decision"
-
+- Subconscious  
+- Not conscious  
+- Not Surface Conscious  
+- Is DecisionFatigue Real?
 :::

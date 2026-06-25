@@ -28,13 +28,13 @@ let elementName = "Bundle"
     - [Bundle.Wrapper.Weave]
         - Weave Wrapper between Legs and Bags to prevent Wrapper from flying away
     - [Bundle.Wrapper.Kneel]
-        - Put your knee on Wrapper to prevent Wrapper from flying away 
+        - Put your knee on Wrapper to prevent Wrapper from flying away
     - [Bundle.Unwrap]
     - [Bundle.Wrap]
         - Block.Close
         - Wrap up excess trees
 
-- 
+-
 - Bundle wrappers which haven't been frozen are more elastic and clingy
 - Error
     - Wrappers that fly away

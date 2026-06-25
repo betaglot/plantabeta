@@ -21,5 +21,15 @@ let elementName = "GravityForce"
 ::: details &
 
 -
-
+- Acceleration due to gravity  
+- F=mg  
+- EarthGravitationalConstant \= 9.8 m/s^2  
+- VectorAddition with Down  
+- GravitationalPotentialEnergy  
+- Step Down synkronous with [Spade.Slam]  
+- Weight  
+    - BagInSize  
+    - Carrying around the weight of 500 trees  
+        - PieceCache  
+        - LongNarrow Piece
 :::

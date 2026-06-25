@@ -21,5 +21,10 @@ let elementName = "Drag"
 ::: details &
 
 -
+- [Plantfor.Drag]  
+- [Box.Drag]  
+- [Drag|Log]  
+- [Bags.Drag]  
+- [Drag|Slash]
 
 :::

@@ -25,7 +25,7 @@ let elementName = "Permutation"
     - Solologic Games
 - Sequence Permutation
 Same Elements or BETOMs in a different configuration
-- Configuration of EKONs 
+- Configuration of EKONs
     - Stumps and Mikrosites
 
 :::

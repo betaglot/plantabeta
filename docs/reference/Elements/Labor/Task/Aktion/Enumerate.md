@@ -31,5 +31,10 @@ let elementName = "Enumerate"
 - Form geometric shapes instead of counting
     - Count up to 4
         - 4x4 grid is easier and faster to do than counting from one to sixteen
-
+- Count with your fingers  
+- Pause your music to focus
+- [Box.Enumerate]  
+- [Bundle.Enumerate]  
+- [Seedling.Enumerate]  
+- Enumerate by stacking into small groups, then counting the number of groups
 :::

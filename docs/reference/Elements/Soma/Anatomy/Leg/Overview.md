@@ -21,5 +21,17 @@ let elementName = "Leg"
 ::: details &
 
 -
+- Flex  
+- Extend  
+- Addukt  
+- Abdukt  
+- Stomp  
+- Kryos  
+- Skim  
+- [Leg.Length]  
+- [Leg.Strength]  
+- Mobility constrains AKTIONs  
+    - RangeOfMotion  
+- Bags.Weight
 
 :::

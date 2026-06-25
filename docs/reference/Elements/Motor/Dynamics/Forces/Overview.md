@@ -21,5 +21,19 @@ let elementName = "Force"
 ::: details &
 
 -
+- Accelerate to increase Force  
+- Decelerate to decreased Force  
+- Increase Mass to increase Force  
+- Shift MassDistribution to increase Force  
+    - “Put your whole body behind a punch”  
+    - LocalWeight  
+    - Local Mass using Gravity to add energy to an AKTION  
+        - Klose  
+        - Kompress  
+        - Slam  
+        - Probe  
+        - (SlabClimb \== [AKTION|Leg|Prokline])  
+- F=ma  
+    - The acceleration can be caused by another Force
 
 :::

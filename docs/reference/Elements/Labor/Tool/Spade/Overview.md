@@ -13,8 +13,6 @@ let elementName = "Spade"
 
 Aliases: Shovel
 
-
-
 ## Spade.Anatomy
 
 - Blade

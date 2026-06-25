@@ -62,7 +62,7 @@ Output the betaglyf string along the bottom, but store as an object
 
 - Positional Notation
 
-- 
-- Fenoms have the methods of 
+-
+- Fenoms have the methods of
 
 :::

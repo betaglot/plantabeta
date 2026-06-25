@@ -23,5 +23,4 @@ let elementName = "Orientation"
 - (Orientation != Direction)
 - (Orientation ?= Permutation)
 
-
 :::

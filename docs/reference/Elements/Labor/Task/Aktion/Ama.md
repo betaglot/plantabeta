@@ -21,5 +21,13 @@ let elementName = "Ama"
 ::: details &
 
 -
+- Absorb  
+- “post up”, Wrestling(“Post a leg out”)  
+- Prop  
+- LegProp  
+- Kryos  
+- Kontakt at the Distal end of a Kryos limb
+    - Climbing(“Flagging”)  
+- Polynesian Etymology Canoe
 
 :::

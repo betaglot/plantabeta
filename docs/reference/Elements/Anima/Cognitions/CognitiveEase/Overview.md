@@ -36,7 +36,7 @@ let elementName = "CognitiveEase"
 
 - RehearsedMovement
     - AdamOndra climbing the Routes with Klaus Isele, who mimics the ViaSurfaces.
-        - [Silence | World's Hardest Route 9c | Adam Ondra\](https://youtu.be/ZRTNHDd0gL8?t=560)(9:20)
+        - [Silence | World's Hardest Route 9c | Adam Ondra](https://youtu.be/ZRTNHDd0gL8?t=560)(9:20)
         - [Adam Ondra #39: Visualization: A Crucial Part of Climbing](https://www.youtube.com/watch?v=3WO6rcosZ-o)
     - Miming
 
@@ -146,7 +146,7 @@ overweights low probabilities*
 - Understand simple sentences
 - Associate the description 'quiet and structured person with an eye for details' with a specific job
 
-- CoordinationMoto
+- CoordinationMove
     - RapidCognition
     - ReflexMovement
     - ContactStrength
@@ -168,8 +168,8 @@ Lazy Controller
 - Substitution
     - Thinking about hand placement instead of TorsoPosition, ShoulderPosition, ElbowPosition. Deadpoints rely on the Proprioceptive ability to attain optimal BodyPosition more than Muscle or Acceleration.
         - ClimberPosition = Requires(Proprioception)
-        - (“Optimization of movement” < MotoIntensity(++))CognitiveEase\MotoComplexityLow
-            - Increasing MotoIntensity is a cognitive action.
+        - (“Optimization of movement” < MoveIntensity(++))CognitiveEase\MoveComplexityLow
+            - Increasing MoveIntensity is a cognitive action.
 
 ### Examples of System 2
 
@@ -199,3 +199,23 @@ HiddenHold
 Onsight
 
 > I didn't even know that was possible until I saw you do it
+
+- ClarityEase  
+- Obvious  
+- RepetitionEase  
+    - Planter performs a Frase  
+    - Redpoint  
+    - Remember  
+    - It has become Habit  
+    - it has become automatic  
+    - Been there before  
+    - Recognition  
+        - Veritasium ExpertMyth  
+    - Rehearsed MOvement Via.Sites  
+- PrimingEase  
+    - Miming is like Golfing PracticeSwing  
+    - Get Primed  
+        - FirstStepped  
+        - Get firsted  
+        - prior  
+        - Get Started

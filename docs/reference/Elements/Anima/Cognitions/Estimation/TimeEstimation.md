@@ -20,6 +20,8 @@ let elementName = "TimeEstimation"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+TimeEstimation is a BETOM
+[MOTOR:Time|ANIMA:Estimation]
 
 -
 

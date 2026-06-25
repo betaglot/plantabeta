@@ -22,7 +22,7 @@ let elementName = "Triad"
 
 - groups of three
 - Triad of Neosites, Stumps, Protektors
-- Triad of Bundles for Bundles of 20. Use Tetrads for Bundles of 15. 
+- Triad of Bundles for Bundles of 20. Use Tetrads for Bundles of 15.
     - Hexagesimal Base60
 - Plant triads instead of triangles
 

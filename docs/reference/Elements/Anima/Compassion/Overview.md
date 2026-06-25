@@ -24,5 +24,10 @@ let elementName = "Compassion"
 ::: details &
 
 -
-
+- (Empathy+ReduceSuffering)  
+- AlliedBETA  
+- KappaBETA  
+- Response to another person’s suffering
+    - Injury  
+    - Loss from Non Planting Life
 :::

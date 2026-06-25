@@ -30,7 +30,6 @@ Observation to LessonPlan
 
 Page is Read from Bottom Left to Top Right. New BETA is added on top of Current BETA
 
-
 ### Title
 
 ### Panel
@@ -49,7 +48,7 @@ Each Panel is a FENOM, FENOMs are the units of Experience. The contents of Consc
 
 ##### EKON to EKON
 
-#### Attendo (Frame)
+#### Attention (Frame)
 
 Frame
 
@@ -107,8 +106,10 @@ First Panel contains an UltimateView of Eko.
 ::: details &
 
 - Chart
-    - Time is the vertical Axis
-        - 
+
+- Time is the vertical Axis
+        -
+
 - In-between chart
 - Debugger shows the Planters experience through Betomiks.py in slowmo
 - Guitar hero streak for Betomiks game, like dance dance too

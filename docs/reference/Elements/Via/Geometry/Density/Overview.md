@@ -33,7 +33,7 @@ let elementName = "Density"
     - <https://observablehq.com/@d3/circle-dragging-iii?collection=@d3/d3-drag>
 - BETOMs
     - [Site.Density]
-    - [Mano|E|Site.Density] An EKON has lots of ways to be gripped 
+    - [Mano|E|Site.Density] An EKON has lots of ways to be gripped
 - ([Aktion.Density|CreamySoil] > [Aktion.Density|RockCapSoil])
     - TypeOf(Integer)
 

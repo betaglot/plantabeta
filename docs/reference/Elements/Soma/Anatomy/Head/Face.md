@@ -21,5 +21,10 @@ let elementName = "Face"
 ::: details &
 
 -
-
+- Eyes  
+- Mouth  
+- [Eye.Poke] is the most vulnerable SOMON  
+    - [Rotate.Away()]  
+    - [Rotate.Away([EyePoke|EKON|Affordable])]  
+        - BETAGLOT.Syntax: PlaceHolder
 :::

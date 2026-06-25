@@ -11,8 +11,6 @@ let elementName = "Tibior"
 
 <ElementInfo :elementName=elementName />
 
-
-
 ---
 
 <!-- =================================================== -->
