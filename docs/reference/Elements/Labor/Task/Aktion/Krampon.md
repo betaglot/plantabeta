@@ -22,5 +22,7 @@ let elementName = "Krampon"
 
 -
 - Krampon Aktion requires rigid BootSole
+- Kick into the slope like how Alpinists kick into snow with spikes. Even a Blunt BootSole can Krampon into CutBanks and other LooseSoil Slopes
+- (Weight, Test) the Kontakt before using [Krampon.Kontakt]
 
 :::

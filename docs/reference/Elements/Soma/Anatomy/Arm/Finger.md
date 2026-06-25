@@ -20,6 +20,12 @@ let elementName = "Finger"
 <!-- =================================================== -->
 ::: details &
 
--
+- 3Joints
+    - PIP Proximal Interphalangeal Joint
+    - DIP Distal Interphalangeal Joint
+    - MCP Metacarpophalangeal Joint
+- Three Finger
+- Palmar side of Fingers, Dorsal Side of Fingers
+- [Bonobo|Finger.MedialPhalanges.Dorsal]
 
 :::

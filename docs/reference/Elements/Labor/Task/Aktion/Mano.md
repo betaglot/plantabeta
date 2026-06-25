@@ -25,5 +25,6 @@ let elementName = "Mano"
     - The Aktion of Konvexity
 - Grip
 - Dimano is both hands gripping the same object
-
+- Bonobo is a HandMove [AKTION|Hand], but not a Grip [Mano]
+- (Mano)Implies(Hand) always
 :::

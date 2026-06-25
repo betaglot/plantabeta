@@ -20,6 +20,10 @@ let elementName = "Deltoid"
 <!-- =================================================== -->
 ::: details &
 
--
+- Kontakt
+- Deltoid is the muscle and the Skin covering the muscle
+    - [Kontakt|Deltoid]
+- (Kontakt = Climbing("smear"))
+
 
 :::

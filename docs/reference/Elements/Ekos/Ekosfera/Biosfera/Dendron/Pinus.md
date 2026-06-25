@@ -22,6 +22,8 @@ Pine
 <!-- =================================================== -->
 ::: details &
 
--
+- Most common Genus to be Planted
+    - Ponderosa
+    - LodgepolePine
 
 :::

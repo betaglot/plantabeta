@@ -20,6 +20,10 @@ let elementName = "Lift"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Spade.Lift]
+- [Bags.Lift]
+- [Kit.Lift]
+- ([Squat.HipHinge]+[Box.Kryos|Arms])
+
 
 :::

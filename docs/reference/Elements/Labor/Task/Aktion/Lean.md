@@ -24,5 +24,5 @@ let elementName = "Lean"
 
 - Lean can be supported or unsupported
     - Unsupported in running or lean into slope, lean into wind
-
+- Differentiate(Lean,Ama)
 :::
