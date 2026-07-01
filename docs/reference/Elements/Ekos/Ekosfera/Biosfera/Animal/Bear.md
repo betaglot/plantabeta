@@ -20,6 +20,9 @@ let elementName = "Bear"
 <!-- =================================================== -->
 ::: details &
 
--
+- Frequency of seeing a Bear
+- GrizzlyBear
+- BlackBear
+- Cubs
 
 :::

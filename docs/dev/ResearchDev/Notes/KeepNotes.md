@@ -1242,9 +1242,16 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
         - [VIA.Limit]  
         - Supersonic, Subsonic  
 - Optimal isn’t a Limit  
-    - Range of Optimal \= Area  
-    - Threshold of Optimal \= (Line+Integral)  
-    - Average of Optimal \= Line
+    - Range of Optimal = Area  
+    - Threshold of Optimal = (Line+Integral)  
+    - Average of Optimal = Line
+- Legal
+    - I don't want to be liable for Bear Advice BearBETA
+    - Liability
+    - Disclaimer
+    - Injury
+    - International Law
+
 -
 -
 -

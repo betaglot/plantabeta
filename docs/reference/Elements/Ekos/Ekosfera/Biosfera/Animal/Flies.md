@@ -20,6 +20,8 @@ let elementName = "Flies"
 <!-- =================================================== -->
 ::: details &
 
--
+- Blackflies
+- Dragonfly
+- Horsefly
 
 :::

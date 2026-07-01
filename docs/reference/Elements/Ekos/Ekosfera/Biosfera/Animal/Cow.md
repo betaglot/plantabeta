@@ -21,5 +21,12 @@ let elementName = "Cow"
 ::: details &
 
 - Cow Patty
+- Cow Grass
+- Mullen
+- Strawberries, Thistle, Dandelions, Roses?
+- Barbed wire
+- Cattle Guard
+- Don't plant in trench Nadir because cows ActualName(Tightrope walk) along the center
+- Cows make paths through the pieces and throughout the residual
 
 :::

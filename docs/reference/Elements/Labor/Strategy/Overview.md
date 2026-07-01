@@ -54,7 +54,7 @@
     - Middlegame
     - Endgame == Closing the Piece
     - Transpose
-        - In chess, a transposition is a sequence of moves that leads to a position reachable by a different, usually more standard, move orde
+        - In chess, a transposition is a sequence of moves that leads to a position reachable by a different, usually more standard, move order
 
 - Sitrep (Situation Report)
     - a concise, periodic, and structured update used to communicate the status of an ongoing operation, incident, or project.
@@ -138,10 +138,20 @@
     - How?
 
 - ((Strategy + Taktik - Plan) = Uncoordinated Action). You know what you want to do and how to do it, but nobody knows who is doing it or when it starts.
-    - Cattle Plant where a group arrives at the cache, when the rest of the planters are too far into the land to communicate with.
+    - AlliedBETA where a group arrives at the cache, when the rest of the planters are too far into the land to communicate with.
 - ((Strategy + Plan - Taktik) = Rigid Inflexibility). You have a goal and a schedule, but you don't know how to actually execute the maneuvers on the ground.
     - A Team of Rookies who don't know what Bouncing is.
 - ((Taktik + Plan - Strategy) = Busy Work). You are doing lots of things efficiently and on schedule, but you have no idea why or if it's actually helping you win.
     - Competing against another planter who is at a different cache, you don't know their current number. Kappas use this to uncertainty as motivation to play planters off each other.
 
+- Strategists can tell if they're winning. Planners, not as much?
+- Tacticians
+- When is an AKTION a Taktik?
+- Taktikate, Taktify
+    - Taktik raises to an AKTION to it's superlative
+        - Fastest, Largest, Deepest, Most Fluid, Most Efficient, Effortlessly
+- Taktik constrains the AKTIONs like Aerodynamic position in cycling
+- Taktikal Skim
+- [Taktik.Walk]
+    - Taktikal Walking
 :::
