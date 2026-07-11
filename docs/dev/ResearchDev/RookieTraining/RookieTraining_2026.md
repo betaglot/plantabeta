@@ -144,4 +144,42 @@ search: false
 128. Besides faults, how can you differentiate the planted land of rookies and experienced planters? Experienced planters would probably have fewer faults. The research goal is to find examples of inefficiencies. Inefficiencies on a continuum Rookie's examples are easier to spot. More obvious. Obviously wrong. Explicit
 129. TeamPlant Errors
 130. Does wearing shoulder straps increase SpadeSlam power by chaining hanging mass off shoulder blades. Acceleration ---> Momentum. Bags increase Mass. Bags are always accelerating down due to gravity.
-131. Practice BagUp with Bags off even though it is possible. It is only possible because their BagUps are so small. 
+131. Practice BagUp with Bags off even though it is possible. It is only possible because their BagUps are so small.
+132. ways to add vertical momentum to SpadeSlam. To maximize Speed On(Impakt)
+    - StepInto
+    - StepDown
+    - HopDown
+    - BendDown
+    - Step(Into+Down)
+    - StepDown+BendDown
+    - [Extend|Arm]
+    - SpineTwist
+    - Increase Lift Phase, to Raise Spade higher
+    - FlipOver SpadeOnda
+133. A good time to do it (because, while) you're getting minimum wage
+134. Coaches should think longer about stuff since to be proven wrong reduces authority. Think longer about the answers that they give
+135. Kennedy(Different EKOMEs each day by visiting all the main crew's blocks)
+136. PlanterAssessment questions are mostly about health and safety. Total Physio. overreaching, over twisting
+137. Changing coaching groups benefits the coaches too
+138. Additive not substitutive. Markum placement. Rookies are placing their flag right beside the Neon, not at the optimal, most visible site. Refine Instead of correcting. Refinement can be additive is not an oxymoron
+139. RawLand day 2 would teach when not to skreef
+
+## Day 3
+
+140. "Up then right" is more accurate than "up and right". "In and right"
+141. Defined Bouncing
+142. could use a visual laminated papers to use when defining
+143. Defined a DoublePlant
+144. Snake game is like Fill Pattern
+145. HandleGrip while deadwalking to be able to [(Absorb,Ama).Spade]. You can't do many AKTIONs if you're gripping the shaft or not gripping the spade at all.
+146. Super long cache breaks
+147. Bagging up full when finishing a piece, to avoid needed to return to the cache for a very small BagIn
+148. Frontfilling is nearly always an error
+149. Larger BagUps for day 3, but still limit BagOut time to an hour. Deadwalking with trees is ok since it will exercise legs to build stamina and strength
+150. Spade Rotation for Dilation is super inefficient and therefore shouldn't be done
+151. "bump up density"
+152. creme brule, burnt cream
+153. Day 3 is a good time to separate planters into 
+154. watch coaches TeamPlant while head coach has a commentary
+155. How to learn from partner planting with experienced planter. Observe, Mimic, AskQuestions
+156. "What trees are you following?" is a Sokratik way to label ghostlining
