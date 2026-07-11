@@ -92,4 +92,56 @@ search: false
 
 ## Day 2
 
-
+82. Reviewed Specs
+83. Finish Mini Pieces
+84. Throw plots for everything
+85. What is remembered from yesterday?
+86. Add: Start day with a demonstration and get them to analyze as a test
+87. Demonstrator: "What am I doing wrong?"
+88. Fastest planter should be on the perimeter to avoid passing and therefore waiting or having to think about where other planters will plantate their next tree. Planters should be following trees and not planters in the same way that they only follow trees when in piece alone
+89. Too many subaktions for [Klose|Mano]
+90. Nobody knows what SpadeSkreef is
+91. How to tell difference between natural and planted tree? Skreef
+92. Is there a benefit to changing the coaches each day and changing the groups of planters too? Or is the familiarityEase an advantage?
+93. Dynamic formation. Allies don't need to maintain their formation
+94. Dyads are more efficient than Triads
+95. Focusing on minimum wage is a waste of time given that 1000 trees isn't a good goal. MegaLowBaller
+96. Don't change leaders by deliberation. Leader and Follower AlliedTaktik
+97. Coach selects and dilates Mikrosites for following planters to insert and Close. Plantate
+98. Don't wait for Team members to start your next bag out
+99. Planters usually don't talk the whole time when planting as a team
+100. Skreefing loose dirt unnecessarily 
+101. Sense of urgency
+102. For Planters: "What did you do differently today from yesterday?""
+103. For Planters: "What questions arose?"
+104. The benefit of Rookie groups is that you can explain BETA in parallel instead of for each individual  separately (in series)
+105. Coaches need to have gloves and a spade so they can demonstrate
+106. What is the most relativistic BETA? Markate?
+107. 2 Demonstrators to demonstrate Dyadik planting
+108. No flagging in trenches is too advanced for first shift, especially with messy trenches
+109. Debrief at finish of (BagOut, Day)
+110. Kit Labelled for easier CacheMoves. Put the planter's name or symbol on their Kit
+111. HeadCoach's plan is not known by other coaches. Error
+112. DripLine explanation is easiest by analogy with umbrella
+113. walking to new cache is often faster than getting in truck then driving over and getting out. Just walk down the road to the next cache
+114. Coach flags the boundary of pieces since map BETA isn't important for RookieShift
+115. Defined Tree Patch
+116. Defined Natural Trees
+117. Defined Dripline
+118. (DripLine = Requires([Look|Up]))
+119. "Once you get around here, the line curves up" is unnecessary BETA. The following planter should be able to figure it out by themselves. Excessive talking distracts both planters. Error:ExtraBETA
+120. Defined orange boundary Flag. What is the verb of relevance "To give meaning"? Relevance, Purpose, Telos, WhoCares?
+121. (TwinnedTrees,Twinned Seedling) can be planted. How to differentiate Twins from seedlings which are just stuck together? Coherent, StuckByRoots, StuckByIce, StuckByWater
+122. "Coach, I'm just having trouble with..." AskingForHelp. How to facilitate and encourage planters to ask coaches questions? Listening is analysis, questions are synthesis?
+123. Crying on the block is normal. Shame from comparison can cause crying. Women are more likely to cry (to, while talking to) woman coach? At least a coach that they don't know  
+124. Walking through Rookie Planted land. Can you tell the planter's ability by walking through the land? 
+    - Flagging location (Wasted Flag)
+    - Multiple Kompress prints. (Knuckle+Knuckle), (Knuckle+Boot), (Boot+Boot)
+    - Not Minimal, Inoptimal, Aminimal Klose Aktion Count
+125. talk to other people to compensate for relativism. The goal of planting is not creativity. Being special or unique, your own way of doing things has no intrinsic value, unlike in other performing arts like film, theatre, painting, visual arts in general.
+126. Groups should be rearranged given the observation of personalities like GouldLake trip group sets. {coach:"",Planter1:"",Planter2,""}. Specify the DataStructures required for input. An app or paper template form input paper, input form could facilitate the dynamics of RookieShift. To keep track of people that you don't have a salient mental model (mental data structure) yet. To use to organize planters
+127. Good Mikrosite that was erroneously abandoned. An open fully dilated hole in cream which was abandoned for no apparent reason is a sign of a rookie's doubt
+128. Besides faults, how can you differentiate the planted land of rookies and experienced planters? Experienced planters would probably have fewer faults. The research goal is to find examples of inefficiencies. Inefficiencies on a continuum Rookie's examples are easier to spot. More obvious. Obviously wrong. Explicit
+129. TeamPlant Errors
+130. Does wearing shoulder straps increase SpadeSlam power by chaining hanging mass off shoulder blades. Acceleration ---> Momentum. Bags increase Mass. Bags are always accelerating down due to gravity.
+131. Practice BagUp with Bags off even though it is possible. It is only possible because their BagUps are so small. 
