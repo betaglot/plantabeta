@@ -4,6 +4,8 @@ search: false
 
 # Rookie Training 2026-05-01
 
+## Day 1
+
 1. What's a cache?
 2. What to bring, check the night before like Gould Lake or NOLS. Not enough water
 3. Peppering in information non sequiturs to current Lesson
@@ -42,10 +44,10 @@ search: false
 36. PLots could be taught before
 37. "Plant 3 trees anywhere and I'll come back to check them"
 38. Sokratik("Where would you plant a tree in this area?")
-39. J-Rot could be predefined 
+39. J-Rot could be predefined
 40. "I think this is the most effective"
 41. Sharing a google drive directory is better than dropbox since most people are using Gmail
-42. "You'll get the hang of it" 
+42. "You'll get the hang of it"
 43. A breakdown of raw and prep for claiming could be determined from Drones. Drone Footage
 44. Contract spacing could happen outside of Block
 45. "Key learning outcomes"
@@ -74,5 +76,20 @@ search: false
 66. Lesson stations in series instead of in parallel soo that coaches can be specialists at a particular lesson
 67. The block could be preflagged into pieces or stations
 68. AnteSeason: Bags could be fitted and flagger pouch attached
-69. Coach takes a planter's bags and planter(s) watches coach as they Plantate a few trees 
-70. 
+69. Coach takes a planter's bags and planter(s) watches coach as they Plantate a few trees
+70. thick socks
+71. Enumerate a plot. Measure a plot
+72. Check the coach's trees
+73. Give them candy on their first day
+74. Defined Piece.Hole
+75. Follow coach. Coach narrates the BETA, don't forget about ANIMONs
+76. Defined DripLine
+77. What to do with the varying abilities, some planters are naturals, how to adapt tailor for each planter so the everybody is fully engaged whatever their current ability is
+78. How to encourage Rookies to work together?
+79. 15 trees/30min. 30 trees/hour. Rookie PlantingRate
+80. Same BagUp size to prevent going too fast
+81. Rookies check their own trees and understand why they're faults
+
+## Day 2
+
+
