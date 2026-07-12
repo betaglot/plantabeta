@@ -1251,7 +1251,875 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Disclaimer
     - Injury
     - International Law
-
+- Flag tail method (gripping flag with SpadeHand) prevents swapping grip type and therefore limits SpadeAktion repertoire.
+- LogAKTION
+    - StaticLog 
+    - DynamicLog.(Roll,Slide,Lever)
+    - [Amble|Log]
+- Hurdles use Lateral Foot
+- Slide from Spade.Neck.Mano to handle using Inertia
+- "Leave a line" for someone, for yourself
+- Gloves for splinters
+- "Go back on your line to prevent pinching Ally"
+- (Ally == OtherPlanter), (AlliedPlant == (TeamPlant, CattlePlant))
+- ["Step backwards downhill"+Spade.Slam] NeoBETOM
+- Go on Tip toes to add to slam Acceleration Time Lift Height PlantarFlexion
+- Flag Fumble
+- Look to see which species is currently in your hand
+- Why don't living bushes count as Protektors from sun and cows?
+- Seedling.Fumble
+- Error:Fumble
+- Fumble.Recovery
+- Handle Sleeve to prevent glove and Handle Erosion or at least Glove Erosion. Plastic wrapped in Hockey Tape
+- Conditional Ambi. All fir in one side and the rest in the other side when planting Block where Fir must have Protektion
+- Apply Phenomenology to ELEMENTs before BETOMIKs or BETAGLOT
+    - Time
+    - Space
+    - Intention
+- You can only see into your bags when Torso is vertical, ie. not when BentOver
+- Correlation doesn't necessitate causation. Highballers don't necessarily use the optimal BETA
+- Geometrically define when to retire your Blade. Reuse handle. Define "Spoon"
+- Start on sticker side of Spade always to prevent losing count when plotting
+- Spade(AdduktionSlap,AbduktionSlap). (Abduktion.Slap == Slap.Backhand). Slap with LooseGrip for Mano.Revolve or with Spade.Kryos to make a single or double pendulum
+- Don't zigzag on LineIn
+- Pinching another Planter instead of Bouncing or Crossing
+- Drag Skidder trails so that the logs line up with a NorthFacing side, ie. choose the direction of SkidderTrails strategically
+- Planters of Delphi. Pythian Planters
+    - Know Thyself
+        - Take Plots
+    - Nothing in Excess
+        - Don't plant nines 
+- Always walk clockwise when Enumerating a plot
+- Sites
+    - Mikrosite
+    - Mesosite
+    - Makrosite
+    - Oligosite
+    - Polysite
+    - Dysite
+    - Trisite
+    - Tetrasite
+    - Pentasite
+    - Kryptosite
+    - Pseudosite
+    - Aristosite
+        - "Best site"
+- Turn into the snag to avoid tearing clothing while [Absorb|Korpo] to stop and remove the snag. Give yourself time to slow to a stop
+- LoadingPhase. 
+    - Relative wind up
+        - Lift Spade or drop torso while Spade.Gimbal or in the direction of site like Allyoop in basketball (Site == Hoop)
+- Grip used when [Revolve|Korpo] around Spade. 
+    - [Revolve|Korpo|Pivot(Spade)]
+- Multiple seedlots within one piece or within one block
+- Fold tarp then roll so you can unroll easily. Unfurl
+- TotalPhysio
+    - the company is 12 years old
+    - camp talks
+    - infosession
+    - aggravated
+    - manage athletes
+    - 25 most common injuries
+    - loading your body
+    - you can tell if someone has backpain by how they're sitting
+    - "get on top of it early". Early intervention
+    - rounded back
+    - intervertebral disk pressure
+    - KorpoBend with lumbar curve
+    - Regular JellyPumps instead of all at once
+    - SI joint strain on SpadeSide from Femur.InternalRotation from Bags pushing on legs
+        - lift SpadeSide leg then JellyPump
+    - Doing the chickenHead bob hurts C7 joint. Looking up while bending over
+    - ChinTuck + Jelly Pump wave
+    - They've treated 6000 planters
+    - Dominant Treeside == side which most often has the role of tree side 
+    - Dehydrated SOMONs increase chance of injury
+    - 0.5 tsp per liter of water Electrolyte
+    - Grip+ DorsiFlexion causs tendon rubbing on corners of joints and bones
+    - Achilles Tendo from excessive DorsiFlexion
+    - 10 sec Ice Rub then 
+    - Rub Patellar Tendon
+    - Q angle is Valgus, Varus is cowboy
+    - PatellarFemoralPain from being pulled up and lateral
+        - Test is to apply pressure on Lateral side and if it helps the it is
+        - Lengthen Quads
+    - Foam roll. 15 rolls on Quads in morning and night to lengthen quads
+    -
+    -
+    -
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 -
 -
 -
