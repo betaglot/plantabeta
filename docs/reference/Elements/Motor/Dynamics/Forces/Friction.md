@@ -20,7 +20,12 @@ let elementName = "FrictionForce"
 <!-- =================================================== -->
 ::: details &
 
--
+- (Bark + Cambium)
+- (Bark + Sapwood)
+- (Handle + Glove + Hand)
+- (Boot+Sock+Foot)
+- Tipping over uses StaticFriction
+- What are the physics of when you stab your spade into an EKON to act as a Kontakt for Ama or PoleVault?
 - NormalForce  
 - [Boot|EKON]  
 - [Boot|E|Friction]  

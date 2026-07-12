@@ -1343,12 +1343,25 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
         - Test is to apply pressure on Lateral side and if it helps the it is
         - Lengthen Quads
     - Foam roll. 15 rolls on Quads in morning and night to lengthen quads
-    -
-    -
-    -
--
--
--
+- don't put Markum on sharp wood since you could lose control while reaching and stab or cut yourself by mistake.
+    - Slip FootSlip Injury
+    - [Markate|Site]
+- MarkumDev
+    - Three types of Markums
+        1. Hook partially blue
+        2. Weighted totally blue
+        3. Beacon only the outer surfaces are blue
+    - Frequency of use {1:Weighted, 2:Hook, 3:Beacon}
+    - Size (Beacon,Weighted,Hook)
+    - MarkaforLocation
+        - Hook: SideBag
+        - Weighted: Radior
+        - Beacon: Backbag
+        - Accessibility is proportional to Frequency
+    - Which Markum to use for a given site?
+- StartWithEasy Line
+    - Logs Configuration
+    - Diagramming logs is an easier way to get to Diagramming Area Planting than from principles. Discovery Via Analysis
 -
 -
 -

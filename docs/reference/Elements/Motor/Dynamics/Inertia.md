@@ -20,6 +20,10 @@ let elementName = "Inertia"
 <!-- =================================================== -->
 ::: details &
 
+- Ballista
+- Slam
+- Centrifugal Force of Spade
+- Skreef Ballista
 - Rugby Goose Step
 - Stomp for boot [Purga|Inertia]
 - Tangent
