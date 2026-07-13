@@ -20,7 +20,15 @@ let elementName = "Pop"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Spade.Pop]
+- [Pop|Redirection]
+- [Lift.Pop]
+- [Pry.Pop]
+- [Fall.Recovery.Pop|Leg]
+- [Fall.Recovery.Pop|Arm]
+- [Fall.Recovery.Spade.Pop]
+- Redirection
+- Physics.Jerk
 - Rugby Goose Step
 
 :::

@@ -1338,6 +1338,30 @@
             ""
         ]
     },
+     "Triad": {
+        "elementEnglishName": "Triad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Triad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Heptad": {
         "elementEnglishName": "Heptad",
         "elementFaktor": "Via",
@@ -2300,14 +2324,14 @@
             ""
         ]
     },
-    "Kompletion": {
-        "elementEnglishName": "Kompletion",
+    "Pleroo": {
+        "elementEnglishName": "Pleroo",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Kompletion"
+            "Pleroo"
         ],
         "elementAlias": [],
         "elementDescription": "",

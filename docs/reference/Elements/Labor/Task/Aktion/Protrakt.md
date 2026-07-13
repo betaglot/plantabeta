@@ -20,6 +20,10 @@ let elementName = "Protrakt"
 <!-- =================================================== -->
 ::: details &
 
--
+- Shoulder
+- Overreaching
+- [Spade.Pop.Deepen]
+- [Spade.Pry.Pop]
+
 
 :::

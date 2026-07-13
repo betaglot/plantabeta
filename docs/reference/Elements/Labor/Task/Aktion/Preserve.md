@@ -20,6 +20,6 @@ let elementName = "Preserve"
 <!-- =================================================== -->
 ::: details &
 
--
+- Doing something to make your tool or Korpo last longer
 
 :::

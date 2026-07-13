@@ -20,7 +20,9 @@ let elementName = "Acceleration"
 <!-- =================================================== -->
 ::: details &
 
-- Jerk
+-
+- Acceleration is partially composed of Direction. Changing the Direction changes the acceleration even if the magnitude stays the same
+- (Jerk == Pop)
 - Speed
 - Velocity
 - Distance

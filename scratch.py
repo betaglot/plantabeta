@@ -4,8 +4,4 @@ Labor_Task_Aktion_Kleison
 
 Labor_Task_Aktion_Predikt
 
-Labor_Task_Crop_Neon_Mikrosite_Trogl_Overview
 
-Labor_Task_Pleroo_Overview
-
-Via_Combinatorics_GraphTheory_Triad

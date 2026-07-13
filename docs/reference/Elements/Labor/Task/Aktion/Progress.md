@@ -20,6 +20,12 @@ let elementName = "Progress"
 <!-- =================================================== -->
 ::: details &
 
--
+- Advancing towards your goal. Literally or Metaphorically
+- AntiElement of Regress
+- Reach
+- Get closer
+- Move towards
+- Advance Forwards
+- Progression
 
 :::

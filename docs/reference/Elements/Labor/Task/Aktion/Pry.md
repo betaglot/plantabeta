@@ -20,6 +20,13 @@ let elementName = "Pry"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Skim.Pry|Stump]
+- [Skim.Pry|Log]
+- [Skim.Pry|Rock]
+- [Dilate.Pry|Rock]
+- [Dilate.Pry|AngularRockSoil]
+
+- Slam -> Pry -> Slam
+
 
 :::

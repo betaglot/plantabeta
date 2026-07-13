@@ -20,6 +20,9 @@ let elementName = "Orbit"
 <!-- =================================================== -->
 ::: details &
 
--
+- Differentiate(Orbit,Revolve)
+    - Revolve is connected to the center. Inertia reliant on center. CentripetalForce. TensionForce
+    - Orbit is not connected to center. Inertia isolated from center trying not to touch the center
+- Conical Passag
 
 :::
