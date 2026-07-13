@@ -1253,7 +1253,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - International Law
 - Flag tail method (gripping flag with SpadeHand) prevents swapping grip type and therefore limits SpadeAktion repertoire.
 - LogAKTION
-    - StaticLog 
+    - StaticLog
     - DynamicLog.(Roll,Slide,Lever)
     - [Amble|Log]
 - Hurdles use Lateral Foot
@@ -1288,7 +1288,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Know Thyself
         - Take Plots
     - Nothing in Excess
-        - Don't plant nines 
+        - Don't plant nines
 - Always walk clockwise when Enumerating a plot
 - Sites
     - Mikrosite
@@ -1305,10 +1305,10 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Aristosite
         - "Best site"
 - Turn into the snag to avoid tearing clothing while [Absorb|Korpo] to stop and remove the snag. Give yourself time to slow to a stop
-- LoadingPhase. 
+- LoadingPhase.
     - Relative wind up
         - Lift Spade or drop torso while Spade.Gimbal or in the direction of site like Allyoop in basketball (Site == Hoop)
-- Grip used when [Revolve|Korpo] around Spade. 
+- Grip used when [Revolve|Korpo] around Spade.
     - [Revolve|Korpo|Pivot(Spade)]
 - Multiple seedlots within one piece or within one block
 - Fold tarp then roll so you can unroll easily. Unfurl
@@ -1331,12 +1331,12 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Doing the chickenHead bob hurts C7 joint. Looking up while bending over
     - ChinTuck + Jelly Pump wave
     - They've treated 6000 planters
-    - Dominant Treeside == side which most often has the role of tree side 
+    - Dominant Treeside == side which most often has the role of tree side
     - Dehydrated SOMONs increase chance of injury
     - 0.5 tsp per liter of water Electrolyte
     - Grip+ DorsiFlexion causs tendon rubbing on corners of joints and bones
     - Achilles Tendo from excessive DorsiFlexion
-    - 10 sec Ice Rub then 
+    - 10 sec Ice Rub then
     - Rub Patellar Tendon
     - Q angle is Valgus, Varus is cowboy
     - PatellarFemoralPain from being pulled up and lateral
@@ -1362,49 +1362,83 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - StartWithEasy Line
     - Logs Configuration
     - Diagramming logs is an easier way to get to Diagramming Area Planting than from principles. Discovery Via Analysis
-- Staff training and orientation syllabus 
+- Staff training and orientation syllabus
 - Trees are air benders. The grow in rocks from air
 - KB: To lead even when it's not asked of you
 - Dust causes nose bleeds
-- Watch what the person ahead of you does when going through gha difficult passag. Precedent can be copied or avoided 
+- Watch what the person ahead of you does when going through gha difficult passag. Precedent can be copied or avoided
 - Mix your bags so you can grab what you need to grab when you need to grab it
 - All stumps must have trees, but not all trees must be beside stumps
 - Autorepo self replant. Replant without being asked to do so by super or checker
-- 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+- KB: search protocol for lost planter, conscious and unconscious
+- KB: Cache tarp count is the limiting factor which can prevent everyone from having their own piece
+- Wrestling leg is Spade shaft
+- You can't be a planter without being a mikrosite. Betoms are the atoms of being a planter and climber
+- Pseudosoil
+- Downers have primingease effect on crew
+- How to avoid double planting
+- Horizontal stemming like
+- Flag the larch red
+- Not the one on the corner is more clear than the one beaide the corner
+- Kb: how far away you stand while delivering feedback
+- Skidder prep is trench. Excavator prep is skreefs
+- Put rookie in same piece ro chase the big dogs
+- Land with somon site alteady parallel to allositr rkon site somon site tool site
+- Can you impart spin on soil from impacting at an angle ot altrady in a vector forces ditection. Like tennis or bouncy ball under table
+- MotelBETA squeaky door
+- How to plot in dense area with lots of naturals
+- The presence of organic material reduces the density of soil
+- PlantaBeta.BookNotes: A Little History of Mathematics
+    - knowing where the exit is in an enclosed space is a form of math
+    - recognizing patterns and connecting them to other patterns
+    - use math to make predictions in seemlingly chaotic fields
+    - PlantaBETA uses applied Math, not Pure Mathematics
+    - formulate rules and make generalizations to make sense of patterns
+- Have you ever seen a rookie do something which they thought was advantageous but is actually unambiguously disadvantageous?
+    - Right and wrong
+    - Correct and incorrect
+    - Use advantage trichotomy instead of those binaries
+    - tying flag
+    - kneeling during insert
+    - skreefing laterally
+- I have to do something to address the situation on the side of the piece
+    - I need to change taktiks
+    - I need to change strategy
+- finite amount of trees so fastest gets the most
+- I don't know what it's like to be a rookie or a supervisor or a checker or a forester or an owner. Planters experience all these people on the block. PlantaBeta is for on the block, anyone on the block.
+- KB: What are the calls that your crew makes
+    - what times
+    - what sounds
+    - what meanings
+    - what variations
+    - sound sample
+        - howl
+        - bark
+        - yell
+- The nerds of Materiom.com can make flag if you ask them
+- A stump is unity without ANIMA
+- Leaf
+    - Greek petannynai "to spread out," petalon "a leaf,"
+    - Greek petannynai "to spread out," petalon "a leaf,"
+- Canada’s protected areas were built for the past; research shows they may not support the future
+    - <https://news.ok.ubc.ca/2026/04/22/canadas-protected-areas-were-built-for-the-past-research-shows-they-may-not-support-the-future/>
+- TeamBeta.Role
+    - Neoelement
+- Barry Boots Voronoi
+- Weighted Voronoi Diagrams | Wolfram Demonstrations Project
+    - <https://demonstrations.wolfram.com/WeightedVoronoiDiagrams/>
+- Network Motif - an overview | ScienceDirect Topics
+    - <https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/network-motif>
+- Alpha Complex and Union of Growing Disks | Wolfram Demonstrations Project
+    - <https://demonstrations.wolfram.com/AlphaComplexAndUnionOfGrowingDisks/>
+- Physics Questions
+    - FreeBodyDiagram
+    - SmallStep up slope
+    - Spade Chaos Pendulum
+    - spade whip up
+    - skreefing body angles
+    - Body position changes the mass on impact OneLegSpade Slam is more Momentum than TwoLegSpadeSlam. With same acceleration
+    - Body Lean adds to Spade RadialSwing
 -
 -
 -
