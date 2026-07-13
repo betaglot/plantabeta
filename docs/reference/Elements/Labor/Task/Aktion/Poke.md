@@ -20,6 +20,9 @@ let elementName = "Poke"
 <!-- =================================================== -->
 ::: details &
 
--
+- Probe
+- Seedling Poke
+- Testing the soil
+- Testing an [Amble|Site]
 
 :::

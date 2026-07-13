@@ -20,7 +20,19 @@ let elementName = "Onda"
 <!-- =================================================== -->
 ::: details &
 
--
+- Wave
+- Swing
+- Undulation
+- Spade
+- Arm
+- Leg
+- Korpo
+- Slacklining
+- Redirect
+- Absorb
+- Momentum
+- Transition between AKTIONs
+- Flailing to regain control
 - Tension when back swinging
 
 :::

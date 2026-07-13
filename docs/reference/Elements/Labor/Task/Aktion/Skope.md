@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Dilate"
+let elementName = "Skope"
 
 </script>
 
-# ⭐<span class="labor">Dilate</span>
+# ⭐<span class="labor">Skope</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,17 +20,15 @@ let elementName = "Dilate"
 <!-- =================================================== -->
 ::: details &
 
-- DoubleTap
-- [Spade.Pry]
-- Wider deeper
-- Minimize the size of the Hole
-- Rookies pry TooMuch when Slam is required Pry Dilates and sometimes makes the Hole deeper, but not always
-- Soil type affords Hole variation
-    - Derivative isn't variation
-    - Soil type determines hole
-
-- Dilate is in x-axis
-- To make wider
-- To spread apart
+- Scope
+- Periscope
+- "Scope it out"
+- Telescope
+- [AKTION|Head]
+- [AKTION|Eyes]
+- VisionSense
+- LookAt()
+- "Look to see before Predikting"
+    - Investigate
 
 :::

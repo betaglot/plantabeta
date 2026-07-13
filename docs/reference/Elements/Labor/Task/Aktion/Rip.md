@@ -22,5 +22,9 @@ let elementName = "Rip"
 
 - "Rip in"
 - "rip out"
+- Mano
+- Direction
+- HandRip
+- Rip something that you just SpadeSkimmed and is just holding on by a thread
 
 :::

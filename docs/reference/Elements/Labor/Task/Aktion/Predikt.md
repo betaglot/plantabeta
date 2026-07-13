@@ -21,5 +21,14 @@ let elementName = "Predikt"
 ::: details &
 
 - Erratic
+- [Predikt.Say]
+- [Predikt|Mikrosite]
+- [Predikt|Passag]
+- [Predikt|Soil]
+    - "It looks creamy, so I'll bag up big"
+- [Predikt.Skope]
+- [Predikt|Hypothesis]
+- [Predikt|BETA]
+- [VIA.Logic]
 
 :::

@@ -20,6 +20,11 @@ let elementName = "Pogo"
 <!-- =================================================== -->
 ::: details &
 
--
+- HardSoil
+- DenseSoil
+- DenseRoots
+- [Spade.Handle.Dimano]
+- [Pogo.Pry]
+- [Spade.Tab.Kontakt.Boot.(MedialSole,MedialRand)]
 
 :::
