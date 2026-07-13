@@ -1362,15 +1362,15 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - StartWithEasy Line
     - Logs Configuration
     - Diagramming logs is an easier way to get to Diagramming Area Planting than from principles. Discovery Via Analysis
--
--
--
--
--
--
--
--
--
+- Staff training and orientation syllabus 
+- Trees are air benders. The grow in rocks from air
+- KB: To lead even when it's not asked of you
+- Dust causes nose bleeds
+- Watch what the person ahead of you does when going through gha difficult passag. Precedent can be copied or avoided 
+- Mix your bags so you can grab what you need to grab when you need to grab it
+- All stumps must have trees, but not all trees must be beside stumps
+- Autorepo self replant. Replant without being asked to do so by super or checker
+- 
 -
 -
 -
