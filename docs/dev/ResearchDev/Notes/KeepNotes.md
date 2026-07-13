@@ -90,7 +90,7 @@ search: false
 - Overtake Pass
 <!-- - Flagging Pull a bit more out with SpadeHand after ripping with TreeHand -->
 <!-- - Maintain a couple trees buffer between Planters -->
-<!-- - PlantaforCarry: One Shoulder strap when one side is empty -->
+<!-- - PlantforCarry: One Shoulder strap when one side is empty -->
 <!-- - Fireweed MarkumSite -->
 <!-- - Defined Leader in trenches -->
 <!-- - ManoSkreef before BootKlose, but after NeonInsert -->
@@ -141,7 +141,7 @@ search: false
 - are you interested in BETA testing PlantaBETA?
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 <!-- - Unit instead of team -->
-<!-- - You have the money for PlantaforDev -->
+<!-- - You have the money for PlantforDev -->
 - Via: Hold the door open for someone anterior posterior lateral relative to you
 <!-- - Stomp for boot purga -->
 - SetUp a job for September
@@ -153,7 +153,7 @@ search: false
 - Sift
 <!-- - Krampon Aktion requires rigid BootSole -->
 - Use protein powder jar for nut mix
-<!-- - Plantafor folds into a hoplite shield -->
+<!-- - Plantfor folds into a hoplite shield -->
 - PropositionEkos: There is a type of moss which grows only on Creamy Soil
 - Planters carry spray can
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
@@ -181,7 +181,7 @@ search: false
 - stuffed pepper
 - Axiom: Gravity
 - PlantaBETA: A video game that's designed to be not fun
-- Clay Plantafor Sculpture
+- Clay Plantfor Sculpture
 <!-- - ShoeResole without glue -->
 - Morning Meditation
 - Shoot the wire from the fully deployed skidder crane tree delivery zipline
@@ -303,7 +303,7 @@ search: false
     - Accordion reinforced folds -->
 <!-- - Rotate blade to perpendicular to cut roots during skim
     - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt -->
-<!-- - NeoAktion Arm thread through straps during PlantaforOn -->
+<!-- - NeoAktion Arm thread through straps during PlantforOn -->
 <!-- - Soil type affords Hole variation
     - Derivative isn't variation
     - Soil type determines hole -->
@@ -331,7 +331,7 @@ search: false
     - LookDistal, look Medial, DistalMedialLook
     - Hook along Tail
     - Saddle slide between thumb and index -->
-<!-- - PlantaforDev: Phone case front bag attachment
+<!-- - PlantforDev: Phone case front bag attachment
     - HardShell
     - Coil Kord around Kase -->
 <!-- - RainJacket which turns into a Bellow
@@ -493,7 +493,7 @@ search: false
 <!-- - NeoAktion(SpadeSpike)
     - SpikeBall
     - Spike the Spade into ground when Reloading Flag or when you need both hands -->
-<!-- - PlantaforDev: Overall+Bags. Built-in Bags -->
+<!-- - PlantforDev: Overall+Bags. Built-in Bags -->
 <!-- - Box ollie
     - BoxPop
     - (Pop)InsteadOf(Ollie) -->
@@ -955,7 +955,7 @@ search: false
 - Cast Spade.Head
 - Make a 100 m rope
 - Insulated Sleeves
-- Edo is where you'll find Plantafor
+- Edo is where you'll find Plantfor
     - Diagonal rope keeps the shoulder armor in place when swinging sword up
 - CoverPath is knitted
     - Overlap
@@ -1303,11 +1303,12 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Kryptosite
     - Pseudosite
     - Aristosite
+        - AristoBETA
         - "Best site"
 - Turn into the snag to avoid tearing clothing while [Absorb|Korpo] to stop and remove the snag. Give yourself time to slow to a stop
 - LoadingPhase.
     - Relative wind up
-        - Lift Spade or drop torso while Spade.Gimbal or in the direction of site like Allyoop in basketball (Site == Hoop)
+        - Lift Spade or drop torso while Spade.Gimbal or in the direction of site like Alleyoop in basketball (Site == Hoop)
 - Grip used when [Revolve|Korpo] around Spade.
     - [Revolve|Korpo|Pivot(Spade)]
 - Multiple seedlots within one piece or within one block
@@ -1315,12 +1316,12 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - TotalPhysio
     - the company is 12 years old
     - camp talks
-    - infosession
+    - info session
     - aggravated
     - manage athletes
     - 25 most common injuries
     - loading your body
-    - you can tell if someone has backpain by how they're sitting
+    - you can tell if someone has back pain by how they're sitting
     - "get on top of it early". Early intervention
     - rounded back
     - intervertebral disk pressure
@@ -1331,11 +1332,11 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Doing the chickenHead bob hurts C7 joint. Looking up while bending over
     - ChinTuck + Jelly Pump wave
     - They've treated 6000 planters
-    - Dominant Treeside == side which most often has the role of tree side
+    - Dominant Tree side == side which most often has the role of tree side
     - Dehydrated SOMONs increase chance of injury
     - 0.5 tsp per liter of water Electrolyte
-    - Grip+ DorsiFlexion causs tendon rubbing on corners of joints and bones
-    - Achilles Tendo from excessive DorsiFlexion
+    - Grip+ DorsiFlexion cause tendon rubbing on corners of joints and bones
+    - Achilles Tendonitis from excessive DorsiFlexion
     - 10 sec Ice Rub then
     - Rub Patellar Tendon
     - Q angle is Valgus, Varus is cowboy
@@ -1375,16 +1376,16 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - Wrestling leg is Spade shaft
 - You can't be a planter without being a mikrosite. Betoms are the atoms of being a planter and climber
 - Pseudosoil
-- Downers have primingease effect on crew
+- Downers have PrimingEase effect on crew
 - How to avoid double planting
 - Horizontal stemming like
 - Flag the larch red
-- Not the one on the corner is more clear than the one beaide the corner
+- Not the one on the corner is more clear than the one beside the corner
 - Kb: how far away you stand while delivering feedback
 - Skidder prep is trench. Excavator prep is skreefs
 - Put rookie in same piece ro chase the big dogs
-- Land with somon site alteady parallel to allositr rkon site somon site tool site
-- Can you impart spin on soil from impacting at an angle ot altrady in a vector forces ditection. Like tennis or bouncy ball under table
+- Land with somon site already parallel to allosite Ekon site somon site tool site
+- Can you impart spin on soil from impacting at an angle ot already in a vector forces direction. Like tennis or bouncy ball under table
 - MotelBETA squeaky door
 - How to plot in dense area with lots of naturals
 - The presence of organic material reduces the density of soil
@@ -1423,7 +1424,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - Canada’s protected areas were built for the past; research shows they may not support the future
     - <https://news.ok.ubc.ca/2026/04/22/canadas-protected-areas-were-built-for-the-past-research-shows-they-may-not-support-the-future/>
 - TeamBeta.Role
-    - Neoelement
+    - NeoELEMENT
 - Barry Boots Voronoi
 - Weighted Voronoi Diagrams | Wolfram Demonstrations Project
     - <https://demonstrations.wolfram.com/WeightedVoronoiDiagrams/>

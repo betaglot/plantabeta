@@ -2,11 +2,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Kluster"
+let elementName = "Cluster"
 
 </script>
 
-# 🔻<span class="via">Kluster</span>
+# 🔻<span class="via">Cluster</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -22,10 +22,10 @@ let elementName = "Kluster"
 ::: details &
 
 - KlusterPlanting within Plots
-- Kluster if Naturals
-- Kluster of Mikrosites
-- Kluster of Planters is usually a AlliedBetaError
-- Kluster of Shrubs spaced 5 meters apart
+- Cluster of Naturals
+- Cluster of Mikrosites
+- Cluster of Planters is usually a AlliedBetaError
+- Cluster of Shrubs spaced 5 meters apart
 - (Polygenus Planting)Ecology
     - Polyfamily
     - Polyorder

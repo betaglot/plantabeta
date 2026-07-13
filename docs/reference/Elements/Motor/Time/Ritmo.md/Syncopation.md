@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Synkopation"
+let elementName = "Syncopation"
 
 </script>
 
-# 🟠<span class="motor">Synkopation</span>
+# 🟠<span class="motor">Syncopation</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
