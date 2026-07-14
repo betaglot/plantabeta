@@ -20,6 +20,6 @@ let elementName = "Competition"
 <!-- =================================================== -->
 ::: details &
 
--
+- A competition. Plantatlon
 
 :::

@@ -20,7 +20,13 @@ let elementName = "Slam"
 <!-- =================================================== -->
 ::: details &
 
--
+- Backswing, Upswing
+- DoubleTap
+- {Slam,Pry,Slam}
+- Use leg to Balance Korpo while Spade.Onda
+- JumpDown+Spade.Slam
+- (Fall+Spade.Slam) to Absorb
+- You can use Tree Hand to assist Spade.Slam from Spade.Skreef
 - SpadeLeg and ArmOnda and Spade.Aktion at same time
     - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
 

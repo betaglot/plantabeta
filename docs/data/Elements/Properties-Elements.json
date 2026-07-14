@@ -3184,6 +3184,30 @@
             "elementQuote": []
         }
     },
+        "Plantate": {
+        "elementEnglishName": "Plantate",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Aktion",
+            "Plantate"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            "The cycle of getting a tree from your bag, opening a hole, inserting the seedling, then closing the hole is Plantate"
+        ],
+        "elementBetanyms": [
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Execution": {
         "elementEnglishName": "Execution",
         "elementFaktor": "Labor",
@@ -3232,15 +3256,15 @@
             "elementQuote": []
         }
     },
-    "FillBlock": {
-        "elementEnglishName": "FillBlock",
+    "PaleoBlock": {
+        "elementEnglishName": "PaleoBlock",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Task",
             "Block",
-            "FillBlock"
+            "PaleoBlock"
         ],
         "elementAlias": [],
         "elementDescription": [
@@ -3285,6 +3309,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
+            "Task",
+            "Crop",
             "Neon"
         ],
         "elementAlias": [
@@ -3295,6 +3321,35 @@
             "the plants that are being planted",
             "the word originates from the term \"neophyte\" which literally means \"new plant\", planters add new plants to a block",
             "including but not limited to trees"
+        ],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Ope": {
+        "elementEnglishName": "Ope",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Crop",
+            "Neon",
+            "Mikrosite",
+            "Ope"
+        ],
+        "elementAlias": [
+            "hole"
+        ],
+        "elementDescription": [
+         "The hole that you put the seedling into to Plantate it"
         ],
         "elementBetanyms": [
             ""

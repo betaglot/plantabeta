@@ -22,6 +22,9 @@ let elementName = "SiltSoil"
 <!-- =================================================== -->
 ::: details &
 
--
+- Kompress
+- Kompakt
+- [Dry+Compacted+Dense] really difficult to Ingress
+- SiltMud
 
 :::

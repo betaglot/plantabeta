@@ -26,6 +26,17 @@
 <!-- =================================================== -->
 ::: details &
 
+- CrewHighballer
+- CampHighballer
+- Highballer
+- LowBaller
+- MidBaller
+- TeamBest
+- PersonalBest
+    - RawPersonalBest
+    - PrepPersonalBest
+- DailyNumber
+- TeamNumber
 -
 
 :::

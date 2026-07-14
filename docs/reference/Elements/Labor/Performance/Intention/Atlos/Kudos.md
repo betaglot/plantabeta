@@ -1,11 +1,4 @@
-<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🟠<span class="motor">MOTON: Atributs</span>
+# <span class="beta">Kudos</span>
 
 ---
 
@@ -16,6 +9,12 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
--
+- Praise
+- Glory
+- 1000
+- 2000
+- 3000
+- 4000
+- 5000
 
 :::

@@ -24,4 +24,11 @@ let elementName = "WetSoil"
 - (WetSoil != WetLand)
 - "Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
 
+- Slip
+- Slide
+- Ski
+- Slide into a mound then submerge your boot past the cuff
+- WetSoil over the top of your [Boot.Cuff] will run down your leg into to boot
+- [Slap.Kleison|WetSoil]
+
 :::

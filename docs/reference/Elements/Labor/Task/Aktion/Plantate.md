@@ -1,23 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Plantate"
 
 </script>
 
-# 🟠<span class="motor">MOTONKratos</span>
+# ⭐<span class="labor">Plantate</span>
 
-> the power of this Element
->
-## <span class="beta">BetaAnalogy</span>
+<ElementTaxonomy :elementName="elementName" />
 
-## Kratos = (Geometry + Via)
-
-Distance in what direction and how fast. VIA has time, since movements are experienced by way of time.
-
-## StaticMOTON or DynamicMOTON
-
-"ConstantMOTON" is more accurate than "StaticMOTON"
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -28,6 +20,10 @@ Distance in what direction and how fast. VIA has time, since movements are exper
 <!-- =================================================== -->
 ::: details &
 
--
+- The cycle of getting a tree from your bag, opening a hole, inserting the seedling, then closing the hole is Plantate
+
+- I plantate, you plantate, we plantate, we plantated
+- "We already plantated that part of the piece"
+- "We already planted that part of the piece"
 
 :::

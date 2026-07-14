@@ -21,6 +21,14 @@ let elementName = "RestDay"
 <!-- =================================================== -->
 ::: details &
 
--
+- Eating
+- Drink electrolytes
+- Stretch
+- Foam roller
+- laydown as much as possible
+- meal prep
+- laundry
+- repair tools
+- preserve tools
 
 :::

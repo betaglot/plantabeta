@@ -20,6 +20,12 @@ let elementName = "Execution"
 <!-- =================================================== -->
 ::: details &
 
--
+- Runtime
+- You know what to do, then you must do it
+- Alias: Implementation
+- Adapt to execution
+- Cycle of Strategic Adaptation
+    - Execution, Planning, Strategy
+- "Talk the talk, then walk the walk"
 
 :::

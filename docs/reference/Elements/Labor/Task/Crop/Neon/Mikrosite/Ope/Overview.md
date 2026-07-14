@@ -1,23 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Ope"
 
 </script>
 
-# 💜 <span class="anima">ANIMON: Morfo</span>
+# ⭐<span class="labor">Ope</span>
 
-## <span class="beta">BetaAnalogy</span>
+<ElementTaxonomy :elementName="elementName" />
 
-## Faktors
-
-🔻<span class="via">VIA</span>, 🟩<span class="ekos">EKOS</span>, 🟠<span class="motor">MOVE</span>
-
-## Relative Geometry
-
-A MOTON that's big for a small athlete, isn't big for a large athlete.
-
-Jumping a third of your height
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -28,6 +20,6 @@ Jumping a third of your height
 <!-- =================================================== -->
 ::: details &
 
--
+- 
 
 :::

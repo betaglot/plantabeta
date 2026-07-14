@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "SuperSpike"
+let elementName = "SuperSlam"
 
 </script>
 
-# ⭐<span class="labor">SuperSpike</span>
+# ⭐<span class="labor">SuperSlam</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,8 +20,11 @@ let elementName = "SuperSpike"
 <!-- =================================================== -->
 ::: details &
 
-- DorySuperSpike
-- SpadeSuperSpike
+- SuperSlam is probably a BETOM
+
+- DorySuperSlam
+- SpadeSuperSlam
+
 - Superman Punch
 
 :::

@@ -24,6 +24,11 @@ let elementName = "Production"
 ::: details &
 
 - Semantics(Counterproductive == Countereffective)
+- ProductivePhilosophy
+- Hectares
+- ProductionRate
+    - Trees/(Day,Shift,Season)
+- Production is Quantitative
+- "Effective" can be subjective
 
 :::
- T

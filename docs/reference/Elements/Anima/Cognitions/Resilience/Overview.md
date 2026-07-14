@@ -39,4 +39,10 @@ You don't need to do it alone
 - Adaptation
 - Mitigation
 
+- Cold
+- Long day
+- Fatigue
+- Frustration
+- Shit Land
+
 :::
