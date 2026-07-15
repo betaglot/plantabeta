@@ -20,6 +20,11 @@ let elementName = "Regress"
 <!-- =================================================== -->
 ::: details &
 
--
+- Change direction of Passag
+- Go back the way that you came
+- [Regress|Site]
+    - Site1 -> Site2 -> Site1 -> Site3
+- [Regress|SOMON|Position]
+
 
 :::

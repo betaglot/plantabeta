@@ -23,7 +23,10 @@ Aliases: Cache Bag
 Kit = {
     'Carabiner',
     'DryBag',
-    'ExtraMarkaRoll',
+    'ExtraFlagRoll'
+    'Laces',
+    'Lighter',
+    'Knife',
     'ExtraGloves',
     'FoodContainer',
     'InsulationLayer',

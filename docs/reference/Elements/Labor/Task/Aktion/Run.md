@@ -20,6 +20,10 @@ let elementName = "Run"
 <!-- =================================================== -->
 ::: details &
 
--
+- RunningInitiation (Running Start) to ascend steep cut bank from road. [Korpo|Momentum]
+- [Absorb.Run|SteepSlope|Downwards]
+    - Run it out
+    - Truck run away lane beside highway
+    - EccentricContraction take energy from Gravity
 
 :::

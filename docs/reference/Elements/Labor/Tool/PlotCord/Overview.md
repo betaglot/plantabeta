@@ -21,7 +21,7 @@ let elementName = "PlotCord"
 ::: details &
 
 - PlotKord.Aktion
-    - Helix over a tree
+    - Horizontal Helix over a tree or to untangle from a bush
     - See Rodeo for terminology
     - Dimano
     - Transport
@@ -29,10 +29,12 @@ let elementName = "PlotCord"
     - CoilTransport
     - Loop around Spade and Unloop
     - HandOver Hand pull Medial
+        - To pull yourself back to the Spade,especially if Spade is Ankored uphill from you
     - ConcentricLine
     - RadialLine
     - Center==Spade
     - Maintain tension like walking a dog
+        - To prevent the Cord from drooping down into a snag
     - ArmExternalRotation
     - InsideGrip twirl
     - OutsideGrip has no twirl
@@ -45,5 +47,9 @@ let elementName = "PlotCord"
     - Hook along Tail
     - Saddle slide between thumb and index
 - PlotKord Coil
+- [PlotCord.Drag]
+- Always walk in the same direction
+- wrap around Forearm
+- wrap between Thumb and Tricep
 
 :::

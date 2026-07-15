@@ -23,7 +23,13 @@ let elementName = "Purga"
 - Stomp for boot [Purga|Inertia]
 
 - [Silvi.Purga]
-- Gather ExcessSoil at Posterior Bottom of Silvi
--
+- Gather ExcessSoil at Posterior Bottom of Silvi, then scoop out
+- Invert bags with silvis removed
+- remove soil or water from back bag
+- [Purga.Axine]
+- [Purga.Slam]
+- [Purga.Skim]
+
+- Using your fingers or a chunk of wood to scrape off soil from the blade
 
 :::

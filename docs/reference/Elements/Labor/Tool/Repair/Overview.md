@@ -11,34 +11,32 @@ let elementName = "Repair"
 
 <ElementInfo :elementName=elementName />
 
-Temporary Repair until you can have your Instruments repaired by a professional.
+Temporary Repair until you can have your Tools repaired by a professional.
 
-Maintain your Instruments to ensure that they last as long a possible and to maintain their utility.
+Maintain your Tools to ensure that they last as long a possible and to maintain their utility.
 
-## Maintenance Factors
-
-### Sewing
+## Sewing
 
 - Sewing Clothing
 - Sewing Durable material
     - Bags
     - Tibior
 
-### Glueing
+## Glueing
 
 - Covering in Holes
 
-### Taping
+## Taping
 
 [Tenacious Tape](https://www.gearaid.com/collections/tenacious-tape) is recommended by Patagonia
 
 - Duct Tape can be used for temporary fixes and will not last long before getting damaged again.
 
-### Cleaning
+## Cleaning
 
 - Remove dirt
 
-## Instrument Repair Guide
+## Tool Repair Guide
 
 ### Boot Repair
 
@@ -61,6 +59,7 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 - ShoeResole without glue
 
 - Where to buy a hook needle for Asolo heel panel
--
+- (Preserve != Repair)
+    - Prevent Damage, Damage has already happened
 
 :::

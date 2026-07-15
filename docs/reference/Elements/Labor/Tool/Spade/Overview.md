@@ -17,7 +17,7 @@ Aliases: Shovel
 
 - Blade
     - Blade.Konvex
-    - Blade.Koncave
+    - Blade.Konkave
     - Blade.Tip
     - Blade.Edge
     - Blade.Weight
@@ -56,5 +56,6 @@ Aliases: Shovel
 - Push off like swimming with your arms or legs or Spade
 - BladeMano
     - BladePinchCheekMano
+        - [Pinch|(Thumb+IndexFinger.MedialPhalanges)]
 
 :::

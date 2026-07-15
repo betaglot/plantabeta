@@ -33,4 +33,6 @@ let elementName = "Karabiner"
 - Kit
 - Grommet
 - Tarp
+- Not wire gate
+- not screw gate since soil will lock the threads
 :::

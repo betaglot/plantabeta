@@ -20,6 +20,10 @@ let elementName = "Task"
 <!-- =================================================== -->
 ::: details &
 
+- Attempt
+    - Reattempt
+        - Retry
+
 - To be completed
 - Aliases
     - Challenges
