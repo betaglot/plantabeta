@@ -16,6 +16,8 @@ let elementName = "Rest"
 <!-- =================================================== -->
 ::: details &
 
+- Swap hands AmbiPlanting
+    - In hard or rocky ground swap hands when your wrist hurts too much
 - Active Rest isn't an Oxymoron
 - BETOMs
     - [Rest.Stand]

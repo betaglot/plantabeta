@@ -28,5 +28,4 @@ let elementName = "Slap"
 - Using the convex or concave surface of Blade
 - [Slap|"Dense Fireweed"]
 
-
 :::

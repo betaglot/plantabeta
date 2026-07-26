@@ -25,5 +25,4 @@ let elementName = "Protrakt"
 - [Spade.Pop.Deepen]
 - [Spade.Pry.Pop]
 
-
 :::

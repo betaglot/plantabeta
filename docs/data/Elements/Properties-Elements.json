@@ -512,7 +512,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Defend"
         ],
         "elementAlias": [],
@@ -536,7 +536,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Branta"
         ],
         "elementAlias": [],
@@ -632,7 +632,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Dilate"
         ],
         "elementAlias": [],
@@ -656,7 +656,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Abdukt"
         ],
         "elementAlias": [],
@@ -728,7 +728,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Doff"
         ],
         "elementAlias": [],
@@ -799,7 +799,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Don"
         ],
         "elementAlias": [],
@@ -846,7 +846,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Cross"
         ],
         "elementAlias": [],
@@ -916,7 +916,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Addukt"
         ],
         "elementAlias": [],
@@ -1338,7 +1338,7 @@
             ""
         ]
     },
-     "Triad": {
+    "Triad": {
         "elementEnglishName": "Triad",
         "elementFaktor": "Via",
         "elementID": "",
@@ -1658,7 +1658,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Exit"
         ],
         "elementAlias": [],
@@ -1682,7 +1682,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "MuscleUp"
         ],
         "elementAlias": [],
@@ -1730,7 +1730,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Retrakt"
         ],
         "elementAlias": [],
@@ -1754,7 +1754,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Stand"
         ],
         "elementAlias": [],
@@ -1804,7 +1804,10 @@
             "Crop",
             "Paleon"
         ],
-        "elementAlias": ["a natural plant", "crop tree"],
+        "elementAlias": [
+            "a natural plant",
+            "crop tree"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1825,7 +1828,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Pogo"
         ],
         "elementAlias": [],
@@ -1849,7 +1852,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Rotate"
         ],
         "elementAlias": [],
@@ -1873,7 +1876,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Slide"
         ],
         "elementAlias": [],
@@ -1922,7 +1925,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Lean"
         ],
         "elementAlias": [],
@@ -1946,7 +1949,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Poke"
         ],
         "elementAlias": [],
@@ -1970,7 +1973,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Kneel"
         ],
         "elementAlias": [],
@@ -1987,17 +1990,19 @@
             ""
         ]
     },
-    "RazedBlock": {
-        "elementEnglishName": "Razed Block",
+    "BurntBlock": {
+        "elementEnglishName": "Burnt Block",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Task",
             "Block",
-            "RazedBlock"
+            "BurntBlock"
         ],
-        "elementAlias": ["Burnt Block"],
+        "elementAlias": [
+            "Burnt Block"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -2011,7 +2016,33 @@
             ""
         ]
     },
-     "Block": {
+    "PrepBlock": {
+        "elementEnglishName": "Prep Block",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Block",
+            "PrepBlock"
+        ],
+        "elementAlias": [
+            "Prepared Block"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Block": {
         "elementEnglishName": "Block",
         "elementFaktor": "Labor",
         "elementID": "",
@@ -2020,31 +2051,9 @@
             "Task",
             "Block"
         ],
-        "elementAlias": ["cutblock"],
-        "elementDescription": "",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        },
-        "dev": [
-            ""
-        ]
-    },
-    "PaleoBlock": {
-        "elementEnglishName": "PaleoBlock",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Task",
-            "Block",
-            "PaleoBlock"
+        "elementAlias": [
+            "cutblock"
         ],
-        "elementAlias": ["fill plant block"],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -2089,7 +2098,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Stomp"
         ],
         "elementAlias": [],
@@ -2113,7 +2122,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Jump"
         ],
         "elementAlias": [],
@@ -2137,7 +2146,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Kick"
         ],
         "elementAlias": [],
@@ -2187,7 +2196,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Konstrukt"
         ],
         "elementAlias": [],
@@ -2211,7 +2220,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Neonektomy"
         ],
         "elementAlias": [],
@@ -2235,7 +2244,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Trot"
         ],
         "elementAlias": [],
@@ -2283,7 +2292,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Krampon"
         ],
         "elementAlias": [],
@@ -2307,7 +2316,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Regress"
         ],
         "elementAlias": [],
@@ -2426,7 +2435,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Spike"
         ],
         "elementAlias": [],
@@ -2450,7 +2459,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Weave"
         ],
         "elementAlias": [],
@@ -2474,7 +2483,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Mano"
         ],
         "elementAlias": [],
@@ -2498,7 +2507,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Run"
         ],
         "elementAlias": [],
@@ -2515,15 +2524,15 @@
             ""
         ]
     },
-    "SuperSpike": {
-        "elementEnglishName": "SuperSpike",
+    "SuperSlam": {
+        "elementEnglishName": "SuperSlam",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
-            "SuperSpike"
+            "Aktion",
+            "SuperSlam"
         ],
         "elementAlias": [],
         "elementDescription": "",
@@ -2546,7 +2555,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Post"
         ],
         "elementAlias": [],
@@ -2570,7 +2579,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Pugno"
         ],
         "elementAlias": [],
@@ -2594,7 +2603,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Flex"
         ],
         "elementAlias": [],
@@ -2618,7 +2627,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Sit"
         ],
         "elementAlias": [],
@@ -2642,7 +2651,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Twist"
         ],
         "elementAlias": [],
@@ -2666,7 +2675,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Iguana"
         ],
         "elementAlias": [],
@@ -2763,7 +2772,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Protrakt"
         ],
         "elementAlias": [],
@@ -2787,7 +2796,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Initiate"
         ],
         "elementAlias": [],
@@ -3184,7 +3193,7 @@
             "elementQuote": []
         }
     },
-        "Plantate": {
+    "Plantate": {
         "elementEnglishName": "Plantate",
         "elementFaktor": "Labor",
         "elementID": "",
@@ -3198,8 +3207,7 @@
         "elementDescription": [
             "The cycle of getting a tree from your bag, opening a hole, inserting the seedling, then closing the hole is Plantate"
         ],
-        "elementBetanyms": [
-        ],
+        "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
         "elementExample": {
@@ -3245,6 +3253,29 @@
         "elementDescription": [
             "individuals working together in a group to achieve a common task"
         ],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "AlliesCommunication": {
+        "elementEnglishName": "AlliesCommunication",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Performance",
+            "AlliedBETA",
+            "AlliedCommunication"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [
             ""
         ],
@@ -3349,7 +3380,7 @@
             "hole"
         ],
         "elementDescription": [
-         "The hole that you put the seedling into to Plantate it"
+            "The hole that you put the seedling into to Plantate it"
         ],
         "elementBetanyms": [
             ""
@@ -3891,6 +3922,52 @@
             "To swap hands or feet",
             "To pass an object from one hand to the other"
         ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Skope": {
+        "elementEnglishName": "Skope",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Skope"
+        ],
+        "elementAlias": [
+            "Look at",
+            "Find",
+            "Look for"
+        ],
+        "elementDescription": [],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Predikt": {
+        "elementEnglishName": "Predikt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Predikt"
+        ],
+        "elementAlias": [
+            "Predict"
+        ],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4791,7 +4868,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Pull"
         ],
         "elementAlias": [],
@@ -4839,7 +4916,7 @@
         "elementTaxonomy": [
             "Labor",
             "Task",
-            "Aktions",
+            "Aktion",
             "Push"
         ],
         "elementAlias": [],
@@ -5480,10 +5557,8 @@
             "Advantage"
         ],
         "elementAlias": [],
-        "elementDescription": [
-        ],
-        "elementBetanyms": [
-        ],
+        "elementDescription": [],
+        "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
         "elementExample": {
@@ -5492,7 +5567,7 @@
             "elementQuote": []
         }
     },
-        "Sacrifice": {
+    "Sacrifice": {
         "elementEnglishName": "Sacrifice",
         "elementFaktor": "Labor",
         "elementID": "",
@@ -5503,10 +5578,8 @@
             "Sacrifice"
         ],
         "elementAlias": [],
-        "elementDescription": [
-        ],
-        "elementBetanyms": [
-        ],
+        "elementDescription": [],
+        "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
         "elementExample": {
@@ -5515,7 +5588,6 @@
             "elementQuote": []
         }
     },
-
     "Taktik": {
         "elementEnglishName": "Taktik",
         "elementFaktor": "Labor",

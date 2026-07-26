@@ -25,7 +25,7 @@ let elementName = "Kick"
     - [Kick.Spartan|Branch]
     - [Kick.Spartan|RottenLog]
     - [Kick|Slash]
-    - [Kleison.Kick]
+    - [Klose.Kick]
     - [Kick|Skreef]
 
 :::

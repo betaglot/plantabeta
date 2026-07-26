@@ -31,5 +31,4 @@ let elementName = "Rekky"
     - extra spruce for wet areas
     - BagIn size
 
-
 :::

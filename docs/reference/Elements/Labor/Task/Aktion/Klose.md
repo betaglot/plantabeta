@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Kleison"
+let elementName = "Klose"
 
 </script>
 
-# ⭐<span class="labor">Kleison</span>
+# ⭐<span class="labor">Klose</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,26 +20,22 @@ let elementName = "Kleison"
 <!-- =================================================== -->
 ::: details &
 
-- [Rip|Skreef] before BootKleison, but after NeonSlot. Instead of Skreefing before NeonSlot
-
-- Etymology
-    - Κλεῖσον (Kleison) - "Shut!" or "Close!"Meaning: Used literally for objects like a door, window, or box.
-    - claustrophobia
+- [Rip|Skreef] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
 
 - BETOMs
-    - [Kleison.Bonobo]
-    - [Kleison.Pantera]
-    - [Kleison.Mano]
-    - [Kleison.Spade]
-    - [Kleison.Boot]
-    - [Kleison.Boot.Toe]
-    - [Kleison.Boot.Tarsal]
-    - [Kleison.Boot.Arch]
-    - [Kleison.Boot.Heel]
-- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Kleisoned hole.
+    - [Klose.Bonobo]
+    - [Klose.Pantera]
+    - [Klose.Mano]
+    - [Klose.Spade]
+    - [Klose.Boot]
+    - [Klose.Boot.Toe]
+    - [Klose.Boot.Tarsal]
+    - [Klose.Boot.Arch]
+    - [Klose.Boot.Heel]
+- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.
     - Avoid RadialDeviation or UlnarDeviation, instead maintain a Neutral Wrist. To avoid [Wrist.Injury]
 - [Kompakt|Soil]
-- Ektomy is the opposite Aktion of Spade.Kleison
+- Ektomy is the opposite Aktion of Spade.Klose
 
 - Etymology
     - Active Imperative Second Singular Verb of συστέλλω

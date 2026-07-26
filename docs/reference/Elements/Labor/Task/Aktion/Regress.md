@@ -26,5 +26,4 @@ let elementName = "Regress"
     - Site1 -> Site2 -> Site1 -> Site3
 - [Regress|SOMON|Position]
 
-
 :::

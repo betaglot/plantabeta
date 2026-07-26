@@ -110,7 +110,7 @@ search: false
 97. Coach selects and dilates Mikrosites for following planters to insert and Close. Plantate
 98. Don't wait for Team members to start your next bag out
 99. Planters usually don't talk the whole time when planting as a team
-100. Skreefing loose dirt unnecessarily 
+100. Skreefing loose dirt unnecessarily
 101. Sense of urgency
 102. For Planters: "What did you do differently today from yesterday?""
 103. For Planters: "What questions arose?"
@@ -134,7 +134,7 @@ search: false
 121. (TwinnedTrees,Twinned Seedling) can be planted. How to differentiate Twins from seedlings which are just stuck together? Coherent, StuckByRoots, StuckByIce, StuckByWater
 122. "Coach, I'm just having trouble with..." AskingForHelp. How to facilitate and encourage planters to ask coaches questions? Listening is analysis, questions are synthesis?
 123. Crying on the block is normal. Shame from comparison can cause crying. Women are more likely to cry (to, while talking to) woman coach? At least a coach that they don't know  
-124. Walking through Rookie Planted land. Can you tell the planter's ability by walking through the land? 
+124. Walking through Rookie Planted land. Can you tell the planter's ability by walking through the land?
     - Flagging location (Wasted Flag)
     - Multiple Kompress prints. (Knuckle+Knuckle), (Knuckle+Boot), (Boot+Boot)
     - Not Minimal, Inoptimal, Aminimal Klose Aktion Count
@@ -179,7 +179,7 @@ search: false
 150. Spade Rotation for Dilation is super inefficient and therefore shouldn't be done
 151. "bump up density"
 152. creme brule, burnt cream
-153. Day 3 is a good time to separate planters into 
+153. Day 3 is a good time to separate planters into
 154. watch coaches TeamPlant while head coach has a commentary
 155. How to learn from partner planting with experienced planter. Observe, Mimic, AskQuestions
 156. "What trees are you following?" is a Sokratik way to label ghostlining

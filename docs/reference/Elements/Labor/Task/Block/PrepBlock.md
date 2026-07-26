@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "RazedBlock"
+let elementName = "PrepBlock"
 
 </script>
 
-# ⭐<span class="labor">RazedBlock</span>
+# ⭐<span class="labor">PrepBlock</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -19,10 +19,5 @@ let elementName = "RazedBlock"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
-- Almost no Flora left standing
-- Clearcutting
-- Most Trenched Blocks are RazedBlock
-- RazedBlock is the opposite of PaleoBlock
 
 :::

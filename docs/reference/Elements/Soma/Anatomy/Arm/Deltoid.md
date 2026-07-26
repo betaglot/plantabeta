@@ -25,5 +25,4 @@ let elementName = "Deltoid"
     - [Kontakt|Deltoid]
 - (Kontakt = Climbing("smear"))
 
-
 :::

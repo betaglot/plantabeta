@@ -25,5 +25,4 @@ let elementName = "Lift"
 - [Kit.Lift]
 - ([Squat.HipHinge]+[Box.Kryos|Arms])
 
-
 :::
