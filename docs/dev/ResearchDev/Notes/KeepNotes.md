@@ -600,7 +600,7 @@ search: false
     - food, shelter, transport
 - Stick handling of goalie or players hockey spade move . Andre Doru
 <!-- - Bonobo Klose -->
-- FacebookKappa
+<!-- - FacebookKappa
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
     Lying to you about what pests are in the rooms you stay at. Gaslighting others into following their lead of tormenting you. Don’t be better then anyone or they will make up a reason to get rid of you. Holes not closed etc .. they will do whatever they can to make sure you aren’t getting fast and are miserable out there. Leave these places and never look back!!
@@ -645,7 +645,7 @@ search: false
     Conversely , if I see a planter having a bad day who’s just sitting at the cache, don’t hover over them and remind them about quotas. It’s one thing if it’s a late day block close and everyone needs to work together , but just ask them if they want some space or some company. I feel like my crew bosses were always understanding when I needed some down time or a chill day, so I feel I have to pay it forward to my planters. If they’re chronically under performing that’s another issue , but even if in your mind you think “damn, I really wished they would finish this piece today”, its better for team cohesion in the long run to smile and say “okay, do what you need to do. Let me know if there’s anything I can do to help”
     TL;DR - establish from the start with your crew that 2 way honesty solves most every problem. Talk it out and take nothing personal
     - One little trick I like is to put sticks with flagger on them at intersections to help with directions, if you're working a large block system. That way, if you're at a contract where it may be necessary to direct people to their next piece without accompanying them, you can say things like "Walk that way, take a left at the intersection with two red flags, follow that to the turn with two blue flags, then turn right. Yours is the 2nd cache down. Your piece is on the left side of the road. Cut in straight and work left back to Sally's line."
-    Obvs this is likely unnecessary on a truck access block but can be very useful in the prairie provinces, where you're likely working with quad access and bigger crews. Very helpful with making people more certain they're going the right way.
+    Obvs this is likely unnecessary on a truck access block but can be very useful in the prairie provinces, where you're likely working with quad access and bigger crews. Very helpful with making people more certain they're going the right way. -->
 - Are are the most technical specs that you've ever had to plant?
 - Once like 6 years ago now BCTS had these test plots that was a tiny fraction of the contract that needed to be planted, and I ended up being the one planting most of it. I think I was getting 6-8 cents more than the base price at the time which .28-.30 cents tree.
     - It was the strangest planting I've ever done. They were determining the effects of planting two shade trees in close proximity to a crop tree rather than obstacle planting. It was in pretty concrete rocky rips as well. Basically I would plant a crop tree in the rip which I believe was Fir, and then plant two aspen 20 cm exactly South and South West of the crop tree I just planted outside of the rip, basically making a right-angled Isosceles triangle. The hard part was if I found a good spot for the crop tree, the shade trees literally had to go in the next already determined spots based on the specs, and sometimes you would run into rock or an unplantable spot which would cause you to have to choose a new spot for the crop tree.
@@ -1365,14 +1365,14 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Diagramming logs is an easier way to get to Diagramming Area Planting than from principles. Discovery Via Analysis
 - Staff training and orientation syllabus
 - Trees are air benders. The grow in rocks from air
-- KB: To lead even when it's not asked of you
+<!-- - KB: To lead even when it's not asked of you -->
 - Dust causes nose bleeds
 - Watch what the person ahead of you does when going through gha difficult passag. Precedent can be copied or avoided
 - Mix your bags so you can grab what you need to grab when you need to grab it
 - All stumps must have trees, but not all trees must be beside stumps
 - Autorepo self replant. Replant without being asked to do so by super or checker
-- KB: search protocol for lost planter, conscious and unconscious
-- KB: Cache tarp count is the limiting factor which can prevent everyone from having their own piece
+<!-- - KB: search protocol for lost planter, conscious and unconscious
+- KB: Cache tarp count is the limiting factor which can prevent everyone from having their own piece -->
 - Wrestling leg is Spade shaft
 - You can't be a planter without being a mikrosite. Betoms are the atoms of being a planter and climber
 - Pseudosoil
@@ -1381,7 +1381,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - Horizontal stemming like
 - Flag the larch red
 - Not the one on the corner is more clear than the one beside the corner
-- Kb: how far away you stand while delivering feedback
+<!-- - Kb: how far away you stand while delivering feedback -->
 - Skidder prep is trench. Excavator prep is skreefs
 - Put rookie in same piece ro chase the big dogs
 - Land with somon site already parallel to allosite Ekon site somon site tool site
@@ -1407,7 +1407,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - I need to change strategy
 - finite amount of trees so fastest gets the most
 - I don't know what it's like to be a rookie or a supervisor or a checker or a forester or an owner. Planters experience all these people on the block. PlantaBeta is for on the block, anyone on the block.
-- KB: What are the calls that your crew makes
+<!-- - KB: What are the calls that your crew makes
     - what times
     - what sounds
     - what meanings
@@ -1415,7 +1415,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - sound sample
         - howl
         - bark
-        - yell
+        - yell -->
 - The nerds of Materiom.com can make flag if you ask them
 - A stump is unity without ANIMA
 - Leaf

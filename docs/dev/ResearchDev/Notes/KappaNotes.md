@@ -1,9 +1,12 @@
 ---
 search: false
 ---
-# GuberDev
 
-- Increase decrease density gestures when yelling is too difficult
+# LeaderDev
+
+> Added to Leader.md on 2026_07_26
+
+<!-- - Increase decrease density gestures when yelling is too difficult
 - Pull up slow to reduce the momentum of dust cloud
 - taping
 - Planter drop off sequence
@@ -71,4 +74,4 @@ search: false
     - Greeting before business talk
 - Tablet Satchel
     - Loop from the two corners of the short side
-- Drink and Eat before replanting
+- Drink and Eat before replanting -->

@@ -3264,6 +3264,34 @@
             "elementQuote": []
         }
     },
+    "LeaderBETA": {
+        "elementEnglishName": "LeaderBETA",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "AlliedBETA",
+            "LeaderBETA"
+        ],
+        "elementAlias": [
+            "crew boss",
+            "supervisor",
+            "foreman",
+            "overseer",
+            "crew lead"
+        ],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "AlliesCommunication": {
         "elementEnglishName": "AlliesCommunication",
         "elementFaktor": "Labor",
