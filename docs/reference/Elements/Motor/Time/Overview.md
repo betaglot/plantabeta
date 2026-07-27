@@ -20,6 +20,9 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
+- Time is a cycle
+- Minimal break
+
 - Tenet by Christopher Nolan
 - ObjectiveTime
     - Clock, Sun

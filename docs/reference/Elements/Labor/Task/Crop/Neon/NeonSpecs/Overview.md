@@ -21,6 +21,8 @@ let elementName = "Specs"
 ::: details &
 
 - Have a checker talk directly to planters to give them confidence by reducing the unknown of how the checker thinks
+- Planters should be saying That's good enough, instead of Fuck it!
+- A Skreef is evidence of effort
 
 - Price Per Neon
 

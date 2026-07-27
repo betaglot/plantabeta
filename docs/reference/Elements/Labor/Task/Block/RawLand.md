@@ -1,11 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Rest"
+let elementName = "RawLand"
 
 </script>
 
-# ⭐<span class="labor">Rest</span>
+# ⭐<span class="labor">RawLand</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -15,18 +19,11 @@ let elementName = "Rest"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-- Minimal break
 
-- Swap hands AmbiPlanting
-    - In hard or rocky ground swap hands when your wrist hurts too much
-- Active Rest isn't an Oxymoron
-- BETOMs
-    - [Rest.Stand]
-    - [Rest.Ama]
-    - [Rest|Sleep]
-    - [Rest.Shakeout]
-    - [Rest.Elevate]
-    - [Rest.Sit]
-    - [Transit.Rest]
+- Raw is a continuum
+
+
+- The backs of pieces. Piece distal to road is more raw since less slash has been dragged through it
+- The space between road and piles is often better than prep
 
 :::

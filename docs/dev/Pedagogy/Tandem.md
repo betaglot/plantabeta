@@ -25,8 +25,8 @@ Shadow a Gnomon
 <!-- =================================================== -->
 ::: details &
 
--
-- Invite some people into your land
+- Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
 
+- Invite some people into your land
 
 :::

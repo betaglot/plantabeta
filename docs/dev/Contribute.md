@@ -143,6 +143,7 @@ Maximum Length
 - "Join a community" instead of just contribute this project. Remember that some people don't want to join a community and remain anonymous.
 - Discussion in chats contribute without pull requests. Conversation leads to code.
 - Community of Planters
+- 2$ for anyone that can provide evidence from a scientific paper
 
 - "Dev.Donation"
 - "Dev.Feedback"

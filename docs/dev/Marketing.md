@@ -135,7 +135,6 @@ Most Epic BC day, Most shitty Ontario day
 
 #### ExperiencedPlanterPrize
 
-
 ---
 
 <!-- =================================================== -->
@@ -145,7 +144,16 @@ Most Epic BC day, Most shitty Ontario day
 <!-- =================================================== -->
 ::: details &
 
+- The "nothing" landscape of up North is the place that absorbs humanity's carbon
+- If you want to know more, there is a place you can go. If you're at all interested in PlantaBETA
+- The goal is to dance while planting
+
+- Proof is more important for getting experienced Planters to use PlantaBETA than rookies
+    - Rookies aren't set in their ways
+    - If it's not broke don't fix it. I'll need to prove that it's broken
 - Tree planter dance meme for Shorts
--
+- around the planet instead of around the world
+- Use coastal autumn experience as marketing shorts for PlantaBETA
+- Kickstarter Give them markums
 
 :::

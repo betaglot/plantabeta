@@ -14,6 +14,7 @@ import FaktorEmblem from '/vue/FaktorEmblem.vue'
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+- Working too hard
 
 - Etymology
     - Somatic

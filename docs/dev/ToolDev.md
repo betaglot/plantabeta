@@ -5,6 +5,14 @@ search: false
 
 The most important constraint for Tools is the space it takes in the Truck.
 
+## <span class="labor">TruckDev</span>
+
+- CrummyDev
+    - All tools for adjustment Bag Spade
+    - Genius Loci CrummyDev
+- Treadcart (like a tank tread) remove tread for flat transport
+    - CrummyWhiteboard
+
 ## <span class="labor">ArmorDev</span>
 
 - ArmorDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
@@ -66,7 +74,9 @@ Not a place where many duplicates items are stored
 ## ⭐<span class="labor">MarkumDev</span>
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
+
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
+- <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
 
 - Maybe painting the paper with nontoxic blue paint will be easier.
 - Planters carry spray can
@@ -160,7 +170,11 @@ Recycled Paper is usually to dark to dye light blue. Tint isn't easily added to 
 
 <https://www.cbc.ca/news/canada/calgary/university-of-calgary-1.6125840>
 
-## ⭐<span class="labor">DendroforDev</span>
+## ⭐<span class="labor">CampDev</span>
+
+- MechanicalDryer
+
+## ⭐<span class="labor">NeonforDev</span>
 
 Hold the thing that holds the Neon
 
@@ -207,7 +221,8 @@ Partially Disassemble to reduce space
 
 ### ⭐<span class="labor">PieceCacheDev</span>
 
-Somehow use Plantafor to carry a PieceCache
+- Somehow use Plantafor to carry a PieceCache
+- Shoot the wire from the fully deployed skidder crane tree delivery zipline
 
 ### ⭐<span class="labor">BagMaterialDev</span>
 
@@ -352,6 +367,8 @@ Protein Powder Cookies
 ## ⭐<span class="labor">Water VolumeDev</span>
 
 ## ⭐<span class="labor">ArmorDev</span>
+
+- Patagonia Orange Epaulets on bags and mount for ventilator. Copy Paramedic Ventilator
 
 ### SuitModularity
 

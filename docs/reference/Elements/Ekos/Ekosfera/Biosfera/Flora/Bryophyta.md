@@ -22,6 +22,8 @@ Aliases: Moss
 <!-- =================================================== -->
 ::: details &
 
+- Sfagnum
+
 - MossSkreef
 - CreamSoil under moss
 

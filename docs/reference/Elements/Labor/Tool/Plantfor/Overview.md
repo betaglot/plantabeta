@@ -24,6 +24,10 @@ let elementName = "Plantfor"
 <!-- =================================================== -->
 ::: details &
 
+- BagAdjust ManoBagRim instead of SilviAktion, close the bag instead of closing the Silvi
+- PodTuck naturally angles the Neons in Silvi
+    - Angled Down to anterior decreases probability of neons slipping out during bend over
+    - Especially important when silvi is more than 75% full
 - Plantfor.Aktion
     - Roll up your back bag layer to shell from water and dirt
     - Bag.Purga

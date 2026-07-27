@@ -19,6 +19,8 @@ Does Sistem really need axioms?
 <!-- =================================================== -->
 ::: details &
 
+- Axiom: Gravity
+
 -
 
 :::

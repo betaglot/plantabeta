@@ -20,6 +20,10 @@ let elementName = "Morfos"
 <!-- =================================================== -->
 ::: details &
 
+- Ekon ContourLine
+- Ekon: Dihedral
+- Minute physics mountain valley illusion for Ekon Form
+
 - Every SOMON and EKON has Morfos as an Attribute
 - Size
 - 3 Dimensional Form

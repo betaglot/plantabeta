@@ -217,8 +217,17 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_Replant_MissedMikrosite_TreeMarka
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
-- Add japanese crowd walk to via overview
 
+- Add japanese crowd walk to via overview
+- Plant hypotenuse in flat terrain and "L" on slope
+- Run a line. Run to the back
+- Proposition: Walking to prevent pinch is the same amount of deadwalking as walking through the pinch, but deadwalking in first has a more clear start, especially when the start is high flagged
 - See Daredevil for Via like ACreed
+- Proposition: LookDown the slope to reduce chance of high Density
+    - Choose the next spot before walking up hill to it
+    - Turning around on a hill is more difficult since turn around step is more difficult on slope land than on flat
+    - KorpoRotate
+    - KorpoTwist
+    - NeckTwist
 
 :::

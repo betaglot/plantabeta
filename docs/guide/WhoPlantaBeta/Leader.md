@@ -27,7 +27,14 @@ Also known as:
 <!-- =================================================== -->
 ::: details &
 
-- Supervisor is too many syllables.
+- Planters and Supervisors should be hired for their character
+- "They were going ham". Implies density. Anima can be a descriptor of density
+- Each interaction needs to eased into with small talk
+    - You're the only person that they've interacted with in the last few hours
+    - Beginnings are delicate
+    - Begin Again
+    - Greeting before business talk
+- "Supervisor" is too many syllables.
 - Recruiter
 - Increase decrease density gestures when yelling is too difficult
 - Pull up slow to reduce the momentum of dust cloud

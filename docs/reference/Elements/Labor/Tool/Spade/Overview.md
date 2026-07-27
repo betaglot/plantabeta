@@ -47,6 +47,7 @@ Aliases: Shovel
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+- SpadeDribble PanBETA(Basketball)
 
 - KickerPlate is the Hilt of a Spade
 - Vertical Blade in constrained area

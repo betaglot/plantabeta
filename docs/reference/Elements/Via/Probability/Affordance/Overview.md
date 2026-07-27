@@ -20,6 +20,8 @@ let elementName = "Affordance"
 <!-- =================================================== -->
 ::: details &
 
+- A Skreef is evidence of effort
+    - "At least you tried to find a plantable spot"
 - Suitable
 - suitability
 - Susceptible describes being easily influenced, affected, or harmed by something, such as a disease, emotion, or external influence

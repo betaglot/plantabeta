@@ -78,7 +78,9 @@ The Bear, Season 3, Episode 7 "Legacy"
 - Golden Age of Planting
 - Veteran Planter The Bear Kitchen Legacy. The legacy of chefs is how their disciples spread their idiosyncracies to other kitchens that they work for. Their legacy elevates the whole field.
 - Annual refresher, Early season refresher
-
+- Proof is more important for getting experienced Planters to use PlantaBETA than rookies
+    - Rookies aren't set in their ways
+    - If it's not broke don't fix it. I'll need to prove that it's broken
 - "Guide.Who.VeteranPlanter"
 
 :::

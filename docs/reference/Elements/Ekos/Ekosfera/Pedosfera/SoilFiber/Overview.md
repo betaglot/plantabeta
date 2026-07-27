@@ -21,5 +21,7 @@ let elementName = "SoilFiber"
 ::: details &
 
 -
+- Plantate redrot to make it high density
+
 
 :::

@@ -1,15 +1,8 @@
 ---
 search: false
 ---
-# Art
 
-Art which represents Planting
-
-Art inspired by Planting
-
----
-
----
+# Book Dev
 
 ---
 
@@ -20,9 +13,7 @@ Art inspired by Planting
 <!-- =================================================== -->
 ::: details &
 
+- Each page of Booklet has a qr code which links to PlantaBETA
 -
-- Clay Plantfor Sculpture
-
-- "Dev.Sculpture"
 
 :::

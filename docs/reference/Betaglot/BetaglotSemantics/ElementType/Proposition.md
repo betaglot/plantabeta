@@ -338,5 +338,6 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
 - Teorem: On a slope there shouldn't be trees below you
 - Teorem to know if you're ghost lining
 - QED Quod Erat Demonstratum
+- Proposition: Planters take shorter steps in slashy areas, which leads to HighDensity
 
 :::

@@ -20,6 +20,8 @@ let elementName = "Skreef"
 <!-- =================================================== -->
 ::: details &
 
+- Sift
+
 - [Skreef.Morfos]
     - Are Skreefs supposed to be Squares or Circles
         - "10 by 10 skreef" is a Square

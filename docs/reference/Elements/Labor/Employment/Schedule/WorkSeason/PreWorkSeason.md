@@ -22,5 +22,7 @@ let elementName = "PreWorkSeason"
 ::: details &
 
 -
+- Certified that they completed Trainer's course and are therefore muscularly ready for the upcoming season
+- AtClimbingGym Reset for Quastuco demo
 
 :::

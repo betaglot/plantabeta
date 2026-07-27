@@ -160,7 +160,19 @@ Recall what you learned during the morning truck ride
 ::: details &
 
 - Seek out good teachers to learn the practice of teaching
-
+- <BB labor='MinimumWage'/> Wanna surpass minimum wage?
+- Ubc planter school
+- Pythagoras for theorem example and first via proposition after definitions
+- PlantaBETA: A video game that's designed to be not fun
+- Teaching no flag, but its optional maybe isn't good
+- Teach someone to teach. Triad. Student teacher me
+- Define the range for NovicePlanters, so they know what to expect
+    - This is as steep as it gets
+    - This is the best land
+    - This is the worst land
+    - This is probably going to be the worst day of the season
 - Programming instead of curriculum
+- No background music during Pedagogy. Turn off the music that you've been listening to while planting
+
 
 :::

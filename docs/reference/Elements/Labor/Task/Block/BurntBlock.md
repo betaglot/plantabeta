@@ -20,7 +20,8 @@ let elementName = "BurntBlock"
 <!-- =================================================== -->
 ::: details &
 
--
+- Follow the Fire Line
+
 - Almost no Flora left standing
 - Clear cutting
 - Most Trenched Blocks are RazedBlock

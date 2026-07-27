@@ -19,7 +19,9 @@ let elementName = "ComputationalGeometry"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
+- Heuristic then algorithm
+    - If: Plant the low spots
+    - Else: use a proposition
 -
 
 :::

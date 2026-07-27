@@ -102,6 +102,8 @@ ANIMA == PSYCHE == SPIRITUS
 ::: details &
 
 - Runtime
+- Get in the zone
+- Morning Meditation
 
 - The Jungian definition does not apply
 
@@ -112,6 +114,10 @@ ANIMA == PSYCHE == SPIRITUS
     - *animus nocendi*: "intent to return"
     - *anima mundi*: "The Kosmos is a soul"
         - Not the same as NonDual
+- To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
+- Start doing fastBagOuts to experiment with Stoicism for Anima
+- Decisions evaporate when you're following wanting. The choice is always obvious
+    - When you want to 3k, then there are no decision at the cache about whether or not to break
 
 - ControlFlowStatements are ANIMA
 
