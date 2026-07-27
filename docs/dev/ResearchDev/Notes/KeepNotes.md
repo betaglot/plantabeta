@@ -1304,8 +1304,10 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Pseudosite
     - Aristosite
         - AristoBETA
+            - Best BETA
         - "Best site"
 - Turn into the snag to avoid tearing clothing while [Absorb|Korpo] to stop and remove the snag. Give yourself time to slow to a stop
+    - [Absorb.Rotate|Korpo]
 - LoadingPhase.
     - Relative wind up
         - Lift Spade or drop torso while Spade.Gimbal or in the direction of site like Alleyoop in basketball (Site == Hoop)
