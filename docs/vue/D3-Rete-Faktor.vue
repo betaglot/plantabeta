@@ -11,7 +11,7 @@
 
 import * as d3 from 'd3';
 import { ref, onMounted } from 'vue';
-import dataJSON from '/data/Rete/Faktors-Parent-Child.json'
+import dataJSON from '/data/ReteData/Faktors-Parent-Child.json'
 
 import CardElementInfo from '/vue/ElementPage/Card-ElementInfo.vue'
 

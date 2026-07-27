@@ -232,7 +232,7 @@
 <script setup>
 import { ref, watch, computed, useTemplateRef, onMounted, reactive } from 'vue';
 import Betomglyf from '/vue/Betomglyf.vue'
-import BetomLogicJSON from '/data/Betaglyf/Betaglyf-Logic.json'
+import BetomLogicJSON from '/data/BetaglyfData/Betaglyf-Logic.json'
 
 // BetomLogic-Data
 
