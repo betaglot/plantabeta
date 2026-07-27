@@ -87,7 +87,7 @@
 </template>
 
 <script setup>
-import jsonDataImport from '/data/Elements/Properties-Elements.json'
+import jsonDataImport from '/data/ElementData/Properties-Elements.json'
 
 const props = defineProps({
     elementName: String,
