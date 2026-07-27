@@ -3,7 +3,7 @@ search: false
 ---
 # 🛠 DX: Developer Experience
 
-## How can PlantaBETA be developped while in transit?
+## How can PlantaBETA be developed while in transit?
 
 Learning D3.js terms
 

@@ -12,7 +12,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Chris Duncan
-    - 200 word bio like WakingUp Teacher Profile
+-
 
 :::

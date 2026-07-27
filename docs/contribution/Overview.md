@@ -1,7 +1,3 @@
----
-search: false
----
-
 # Contribution Guide
 
 > How to contribute to PlantaBETA

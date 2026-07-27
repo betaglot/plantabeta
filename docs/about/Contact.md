@@ -1,6 +1,3 @@
----
-search: false
----
 # Contact
 
 ```py
