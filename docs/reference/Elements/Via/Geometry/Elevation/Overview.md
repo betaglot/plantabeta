@@ -19,6 +19,7 @@ let elementName = "Elevation"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+- Elevation instead of level
 
 - High, Low
 - Step down into trench

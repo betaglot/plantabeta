@@ -66,8 +66,10 @@ Not a place where many duplicates items are stored
 ## ⭐<span class="labor">MarkumDev</span>
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
+- Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
 
 - Maybe painting the paper with nontoxic blue paint will be easier.
+- Planters carry spray can
 
 - Ferrous weighted markum allows magnetic storage
 - Send PaperTowel company a message about Markums

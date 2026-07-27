@@ -49,6 +49,7 @@ Aliases: Shovel
 ::: details &
 
 - KickerPlate is the Hilt of a Spade
+- Vertical Blade in constrained area
 
 - Spade with a Shaft that's too long leads to overuse of tab and tears along medial side of boot sole and rand
 - SpadeSkreef isn't a move

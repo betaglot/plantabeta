@@ -217,6 +217,7 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_Replant_MissedMikrosite_TreeMarka
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
+- Add japanese crowd walk to via overview
 
 - See Daredevil for Via like ACreed
 

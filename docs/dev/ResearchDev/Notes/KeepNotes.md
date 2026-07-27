@@ -41,8 +41,8 @@ search: false
 <!-- - Record the extremities -->
 <!-- - <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti) -->
 <!-- - Tag myriad using tagspaces then display with vuetify -->
-- Buy your apprentise Patagonia
-- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBETA
+<!-- - Buy your apprentise Patagonia -->
+<!-- - Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBETA -->
 - Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
 <!-- - Spruce root increases soil teknik and possibly soil Kratos -->
 - <BB labor='MinimumWage'/> Wanna surpass minimum wage?
@@ -65,7 +65,7 @@ search: false
 <!-- - Gripping flag on  spade doesn't afford Palm or IsometricGrip -->
 <!-- - <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense -->
 <!-- - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging -->
-- Invite some people into your land
+<!-- - Invite some people into your land -->
 <!-- - <BB labor='Neon, Piece, Markum'anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon -->
 <!-- - <BB labor='Plot'via='Landmark'anima='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive -->
 <!-- - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street -->
@@ -81,13 +81,13 @@ search: false
 <!-- - Probe on blunt spade -->
 <!-- - The probability of piece pinch increases proportional to Planter count -->
 <!-- - Drink and Eat before replanting -->
-- If i had already sold twelve works of art then I'd know how to sell one
+<!-- - If i had already sold twelve works of art then I'd know how to sell one -->
 <!-- - Tension when backswing -->
 <!-- - Accusations while replanting a cattle plant -->
-- Elevation instead of level
+<!-- - Elevation instead of level -->
 <!-- - Low D in the flat high d in the slope -->
 <!-- - AreaPlant the cul-de-sac -->
-- Overtake Pass
+<!-- - Overtake Pass -->
 <!-- - Flagging Pull a bit more out with SpadeHand after ripping with TreeHand -->
 <!-- - Maintain a couple trees buffer between Planters -->
 <!-- - PlantforCarry: One Shoulder strap when one side is empty -->
@@ -101,68 +101,68 @@ search: false
 <!-- - RookieFreeze is more apt than rookieStare -->
 <!-- - U instead of O Grip GentleGrip SpadeGrip -->
 <!-- - Where to buy a hook needle for Asolo heel panel -->
-- Deep enough neons are less floppy
-- Vertical Blade in constrained area
+<!-- - Deep enough neons are less floppy -->
+<!-- - Vertical Blade in constrained area -->
 <!-- - Repeat pry to get under a big chunk of redrot or other low density duff worm -->
-- Email Jared to build planter confidence
+<!-- - Email Jared to build planter confidence -->
 <!-- - PlotKord Coil -->
 <!-- - Use stump as step on steep slopes -->
 <!-- - Counting steps us a crutch for spacing and ultimately density -->
 <!-- - Steadicam is Gimbal -->
 <!-- - Via: pitch yaw roll -->
-- Teorem: On a slope there shouldn't be trees below you
-- Teorem to know if you're ghost lining
-- Seek out good teachers to learn the practice of teaching
+<!-- - Teorem: On a slope there shouldn't be trees below you
+- Teorem to know if you're ghost lining -->
+<!-- - Seek out good teachers to learn the practice of teaching -->
 <!-- - ClusterPlanting within Plots -->
 <!-- - Morning meeting: Circle crowd is not ideal -->
 <!-- - Bonus Tree stumped trees don't count in  plots -->
-- Dot instead of point in glyphs
+<!-- - Dot instead of point in glyphs -->
 <!-- - SpadeSkreef isn't a move -->
 <!-- - It seems like you view me negatively -->
 <!-- - Aquarium bubbler for ventilator -->
 <!-- - Fold Markum into figure 4 -->
 <!-- - Spade Peck -->
 <!-- - Plant triads instead of triangles -->
-- VillaBETA
-- Day Off Map of Penticton
-- Ask Guides AGAC? Of Canada about Layering and other BETA
+<!-- - VillaBETA
+- Day Off Map of Penticton -->
+<!-- - Ask Guides AGAC? Of Canada about Layering and other BETA -->
 <!-- - BootFender -->
 <!-- - BlueWax -->
 <!-- - Rugby Goose Step -->
 <!-- - Send PaperTowel company a message about Markums -->
-- Constrain PlantaBETA to students
+<!-- - Constrain PlantaBETA to students -->
 - Grant
-- Add japanese crowd walk to via overview
+<!-- - Add japanese crowd walk to via overview -->
 <!-- - Ferrous weighted markum allows magnetic storage -->
-- Calendar for motel
+<!-- - Calendar for motel -->
 <!-- - Gray honey paint tryptic at NAG -->
-- Norah isochrone
-- Bonsai instead of toddler trees
-- are you interested in BETA testing PlantaBETA?
+<!-- - Norah isochrone -->
+<!-- - Bonsai instead of toddler trees -->
+<!-- - are you interested in BETA testing PlantaBETA? -->
 <!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 <!-- - Unit instead of team -->
 <!-- - You have the money for PlantforDev -->
-- Via: Hold the door open for someone anterior posterior lateral relative to you
+<!-- - Via: Hold the door open for someone (anterior, posterior, lateral) relative to you -->
 <!-- - Stomp for boot purga -->
-- SetUp a job for September
-- Find a Canadian Mossy Earth
+<!-- - SetUp a job for September -->
+<!-- - Find a Canadian Mossy Earth -->
 <!-- - Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind -->
 <!-- - Labor of love -->
-- Tree planter dance meme for Shorts
+<!-- - Tree planter dance meme for Shorts -->
 <!-- - Voronoi are mosaics -->
 - Sift
 <!-- - Krampon Aktion requires rigid BootSole -->
 - Use protein powder jar for nut mix
 <!-- - Plantfor folds into a hoplite shield -->
-- PropositionEkos: There is a type of moss which grows only on Creamy Soil
-- Planters carry spray can
-- Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
+<!-- - PropositionEkos: There is a type of moss which grows only on Creamy Soil -->
+<!-- - Planters carry spray can -->
+<!-- - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades -->
 <!-- - Coffee filters don't fall apart when wet, neither do napkins -->
 <!-- - Truckers hitch for quad -->
 <!-- - Delta is chance and via and a greek triangle letter -->
 <!-- - Via: get through before the door closes -->
 <!-- - When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting -->
-- Shade is a Shadow large enough to sit in
+<!-- - Shade is a Shadow large enough to sit in -->
 <!-- - Soccer ball control is flora move -->
 <!-- - BirchBark Marka dyed -->
 <!-- - KickerPlate is the Hilt of a Spade -->

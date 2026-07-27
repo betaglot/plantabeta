@@ -335,6 +335,8 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
 <!-- =================================================== -->
 ::: details &
 
+- Teorem: On a slope there shouldn't be trees below you
+- Teorem to know if you're ghost lining
 - QED Quod Erat Demonstratum
 
 :::

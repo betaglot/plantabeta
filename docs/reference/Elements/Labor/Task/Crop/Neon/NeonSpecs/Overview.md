@@ -20,6 +20,8 @@ let elementName = "Specs"
 <!-- =================================================== -->
 ::: details &
 
+- Have a checker talk directly to planters to give them confidence by reducing the unknown of how the checker thinks
+
 - Price Per Neon
 
 - Specifications of the contract.

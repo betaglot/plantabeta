@@ -159,6 +159,8 @@ Recall what you learned during the morning truck ride
 <!-- =================================================== -->
 ::: details &
 
+- Seek out good teachers to learn the practice of teaching
+
 - Programming instead of curriculum
 
 :::

@@ -11,6 +11,8 @@ The written form of <span class="beta">BETA</span>
 <!-- =================================================== -->
 ::: details &
 
+- The word "Dot" instead of "point" in glyphs
+    - DotNotation
 -
 
 :::

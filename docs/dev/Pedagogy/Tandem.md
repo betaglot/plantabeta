@@ -26,5 +26,7 @@ Shadow a Gnomon
 ::: details &
 
 -
+- Invite some people into your land
+
 
 :::

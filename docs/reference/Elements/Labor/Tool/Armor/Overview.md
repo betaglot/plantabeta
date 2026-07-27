@@ -20,6 +20,8 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
+- Ask Guides AGAC? Of Canada about Layering and other BETA
+
 - [Armor.Adapt]
 - Never place the inner surface of Armor on the ground
 - Lace up armor
