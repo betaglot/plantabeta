@@ -62,3 +62,61 @@ BETAGLOT is the glowing stuff that Dumbledore pulls out of his head. It wasn't a
 I feel like I need to justify its existence. You don't need to justify. The reader should be able to see for themselves. Proof is not meaning to be convincing. You shouldn't be convinced of the truth, truth isn't an opinion. There is no place for doubt within the system. You can doubt the system, but the system doesn't use doubt.
 
 Just show what BETAGLOT is.
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- Philosophical Entities of Betalogy
+    - Elements: Objects
+    - Betoms: Phenomena
+    - Beta: Phenomena
+    - Your Beta: Self
+    - Betarete: Semantics?
+    - Glyfs: Symbols
+    - Betaglot: Description of Beta
+    - Beta Synthesis: Synthesis
+    - Beta Analysis: Analysis
+    - Your Beta is an illusion because self is an illusion
+
+- You can only analyze Beta that you know works. Otherwise you'll need to use synthesis
+- Philosophy allows you to be explicit instead of using analogies.
+    - It's like a network
+    - It's like Euclid's Elements
+- Ta onta (τὰ ὄντα): Meaning "the things that are" or "beings." It refers to existing entities.
+    - In the context of the Greek phrase ta onta (τὰ ὄντα), ta (τὰ) translates directly to "the"
+    - Ta (τὰ): The (neuter plural article).
+    - Onta (ὄντα): Beings/existing things (neuter plural present participle of eimi).
+    - Be the being
+    - Be the Phenomena
+    - Be the Beta
+    - Don't just perceive the Beta as a subject, instead be the Beta because there is no subject and object. Awaken to the reality that there is no separation between the object and subject. You are non dual awareness and nothing else
+    - Be in the flow state. You (your self) are an object just like a strategy or hand or tree or affordance or force or attention.
+    - Attention is an object of awareness
+- Be as you wish to appear
+    - Be as you wish to phenomenize
+    - Ontos as you wish to phenomenize
+    - Beta is the appearance
+    - Be the Beta
+
+- Elements are objects, Betoms are phenomena
+
+- Data structures are fundamental ways to organize, store, and manage data in a computer for efficient access and modification, forming the backbone for effective algorithms and software, with common types including linear ones like arrays, linked lists, stacks, and queues, and non-linear ones like trees, graphs, and hash tables, each suited for different tasks from databases to search engines. They provide the physical structure for abstract data types (ADTs), making large datasets manageable for applications
+
+- BETA_Structure
+    - BETA_List
+    - BETA_Dict
+    - BETA_String
+    - BETA_Graph
+    - BETA_Tree
+    - BETA_Stack
+    - BETA_Queue
+
+- "Be" is the cursor of Betaglot. Actual name. Kinda like "Sir" or Mrs.
+
+:::

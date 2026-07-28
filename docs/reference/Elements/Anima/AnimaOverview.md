@@ -123,6 +123,12 @@ ANIMA == PSYCHE == SPIRITUS
 
 > It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBETA. Every section needs to directly link back to a Planter's experience and not a person's experience in general.
 
+- PlantaMaki
+    - When you're tired or the land is shit
+    - Just lock in on planting
+    - Relax breathe and plant
+    - 3:15
+    - <https://youtu.be/F5MODFj28oU?feature=shared>
 - "ANIMA.CognitiveEase"
 - "ANIMA.CognitiveEase.Clarity"
 - "ANIMA.CognitiveEase.FeelsEffortless"

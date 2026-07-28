@@ -34,7 +34,7 @@ Philosophical analysis is a method of breaking down complex ideas, concepts, or 
 ::: details &
 
 - Playback on ipad like nhl
-
+    - "Could you tell me what this player is doing every second?"
 - Analysis during morning crummy faster than real
     - Analyze planters during the ride to the block in the morning
 

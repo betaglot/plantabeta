@@ -20,6 +20,8 @@ let elementName = "Ingress"
 <!-- =================================================== -->
 ::: details &
 
+- L-notch planting
+    - Special form of slit planting involving two slits at right angles with the seedling placed at the apex of the L.
 - Direct Seedling into Hole
 
 :::

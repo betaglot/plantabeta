@@ -22,6 +22,8 @@ let elementName = "PreWorkSeason"
 ::: details &
 
 -
+- Slush is mud. Video of you walking in slush
+
 - Certified that they completed Trainer's course and are therefore muscularly ready for the upcoming season
 - AtClimbingGym Reset for Quastuco demo
 

@@ -16,5 +16,8 @@
 - Time saver
 - Energy Save
     - (Save == "prevent future loss")
-
+- Efficiency of Knowledge
+    - Tractability
+    - Pragmatically efficient
+    - Resource efficiency
 :::

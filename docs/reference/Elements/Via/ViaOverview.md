@@ -73,6 +73,13 @@ Road, Path, Route, through, using, composed of
 <!-- =================================================== -->
 ::: details &
 
+- "Box yourself in"
+- Weave is via
+- Disconnected boundary voronoi
+- NeoVION(NeoSite)
+    - Abandon CurrentSite for Neosite when you determine that CurrentSite isn't good
+    - Stop wasting time skreefing through redrot and just find another site
+
 ## <span class="via">Affordance</span>
 
 ### <span class="via">Purpose of VIA</span>

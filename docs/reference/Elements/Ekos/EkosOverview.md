@@ -51,8 +51,15 @@ The word "<span class="ekos">EKOS</span>system" was derived from <span class="ek
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-- PropositionEkos: There is a type of moss which grows only on Creamy Soil
 
+- PropositionEkos: There is a type of moss which grows only on Creamy Soil
+- Seasons affects Ekosfera. Where are Seasons located within Geology?
+    - WetSeason
+    - SpringSeason
+    - WinterSeason
+    - AutumnSeason
+    - SummerSeason
+    - DrySeason
 - All Land is EKOS, but not all EKOS is Land. Atmosphere
 - EKOS a subset of ANIMA. EKOS is perceived. The map is not the territory. ANIMA objectifies earth.
 - A storm on the other side of your valley is not EKOS.

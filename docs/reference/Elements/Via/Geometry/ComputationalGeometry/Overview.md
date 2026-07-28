@@ -19,9 +19,18 @@ let elementName = "ComputationalGeometry"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
+- Using an Umbrella when walking along a sidewalk is computational geometry Praktik
 - Heuristic then algorithm
     - If: Plant the low spots
     - Else: use a proposition
--
-
+- Via Radar
+    - Proximal tree
+    - Like a plot
+    - Use Voronoi
+- A tesselation is not a triangulation
+- Hamiltonian path
+- Eulerian path
+- A porism is a shortcut
+    - Heuristic is a shortcut
 :::

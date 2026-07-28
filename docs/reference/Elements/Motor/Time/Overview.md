@@ -20,6 +20,11 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
+- Sym is Simultaneous
+    - SymBetom
+    - SymElement
+    - Symultaneous
+
 - Time is a cycle
 - Minimal break
 

@@ -20,6 +20,20 @@ let elementName = "Affordance"
 <!-- =================================================== -->
 ::: details &
 
+- Conemotion
+
+- Emotionable
+    - Angerable
+    - Fearable
+    - Enjoyable
+    - Sadable
+    - Disgustable
+    - Anxietable
+    - Contemptible
+
+- Kairos is affordance
+    - Kairos is an ancient Greek word meaning the exact, critical, or opportune moment for action. It contrasts with chronos, which refers to ordinary quantitative clock time
+        - <https://en.wikipedia.org/wiki/Kairos>
 - A Skreef is evidence of effort
     - "At least you tried to find a plantable spot"
 - Suitable

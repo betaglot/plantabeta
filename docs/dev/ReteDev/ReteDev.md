@@ -143,13 +143,13 @@ Dependencies
 - "_Requires_The_Moton_","_Is_A_Moton_Required_By_"
 - "_Requires_The_Animon_","_Is_An_Animon_Required_By_"
 
-#### Tool
+#### Organon
 
-- "_Is_A_Possible_Tool_Of_","_Has_A_Possible_Tool_"
+- "_Is_A_Possible_Organon_Of_","_Has_A_Possible_Organon_"
 
 #### Method
 
-> Plantafor,HasTheMethod,Don
+> Plantfor,HasTheMethod,Don
 
 - "_Is_A_Possible_Method_Of_","_Has_The_Possible_Method_"
 
@@ -267,12 +267,17 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
 <!-- =================================================== -->
 ::: details 🛠
 
+- HasProperty
+    - Aktion,HasProperty,Force
+    - Stump,,Protektor
+    - Log,,Protektor
+
 - It . Network theory analyses these networks over the symmetric relations or asymmetric relations between their (discrete) components.
 - How to use Python to compare config and docs/*
 
 - How can you use Relationships which have already been recorded?
     - HasLabon
-        - UsesTool
+        - UsesOrganon
         - IsSubAktion
             - Append "HasLabon" Relationship when
         - RelationshipClasses

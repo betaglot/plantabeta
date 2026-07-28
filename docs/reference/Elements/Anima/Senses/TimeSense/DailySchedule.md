@@ -8,7 +8,7 @@ let elementName = ""
 
 </script>
 
-# 💜 <span class="anima">DailySchdule</span>
+# 💜 <span class="anima">Daily Schedule</span>
 
 ---
 
@@ -19,6 +19,9 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
--
+- Timelines of PlantaBeta
+    - Day
+    - piece
+    - block move
 
 :::

@@ -228,7 +228,7 @@
                 ]
             },
             {
-                "name": "Tool",
+                "name": "Organon",
                 "faktor": "",
                 "children": [
                     {
@@ -273,7 +273,7 @@
                         ]
                     },
                     {
-                        "name": "Kontakt Tool",
+                        "name": "Kontakt Organon",
                         "faktor": "",
                         "children": [
                             {

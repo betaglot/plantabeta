@@ -20,7 +20,8 @@ let elementName = "Geometry"
 <!-- =================================================== -->
 ::: details &
 
--
+- Millimeters remove the necessity of decimals of a Meter and therefore doesn't conflict with DotNotation Semantics
+
 - MOTOR.MOTORAttributes.MOTONPlane.XYPlane
 - MOTOR.MOTORAttributes.MOTONPlane.XZPlane
 - MOTOR.MOTORAttributes.MOTONPlane.YZPlane

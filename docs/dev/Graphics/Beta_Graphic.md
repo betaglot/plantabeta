@@ -72,6 +72,8 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 <!-- =================================================== -->
 ::: details &
 
+- Klimonas Archeology Book at UOttawa has really good diagrams and graphic design. Better than Landscape architecture and more labelled
+
 - ScaleBar
 - Have a BETAGraphic of your piece with recommended Line VIA-Path.
 - Arrow of Attention is Violet

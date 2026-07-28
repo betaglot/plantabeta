@@ -1,20 +1,11 @@
-
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Fear"
+let elementName = "Alignment"
 
 </script>
 
-# 💜 <span class="anima">Fear </span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
-
-## Doubt
-
-### Confidence
+# 🔻<span class="via">Alignment</span>
 
 ---
 
@@ -25,8 +16,15 @@ let elementName = "Fear"
 <!-- =================================================== -->
 ::: details &
 
-- Treefault is loss
-    - Fear of loss
-    - Fear of replant
-
+- Via.Alignment.Colinear
+- During SelectSite
+- SitePolygon
+- ExtendAlignment
+- ParallelAlignment
+- PerpendicularAlignment
+- SiteAlignment
+- MarkaAlignment
+- EkonAlignment
+    - How much is left in the piece?
+    - Cutting your LineIn
 :::

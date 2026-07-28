@@ -1,12 +1,11 @@
-
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Cognition"
+let elementName = "InjuryPrevention"
 
 </script>
 
-# 💜 <span class="anima">Cognition</span>
+# 🔷<span class="soma">Injury Prevention</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,8 +19,12 @@ let elementName = "Cognition"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
-- RookieFreeze is more apt than rookieStare
--
+- BETA_Selection
+    - Injury weights the BETA_Alternatives
+    - Knee injury increases the weight of ManoKlose
+- Take rest days
+- Do the physio
+- Jelly Pumps
+- Warm Up in the morning and after BlockMove
 
 :::

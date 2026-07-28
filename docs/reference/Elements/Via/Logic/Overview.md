@@ -20,6 +20,8 @@ let elementName = "Logic"
 <!-- =================================================== -->
 ::: details &
 
+- That which isn't wrong isn't necessarily right
+
 - Boolean Logic
 - Inductive Logic
 - Deductive Logic

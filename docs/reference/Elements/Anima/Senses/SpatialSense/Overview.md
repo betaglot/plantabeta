@@ -96,7 +96,7 @@ When to slow down
 ::: details &
 
 -
-
+- Spatial sense also works for abstract space
 - Spatially complex
 
 - "ANIMA.Alignment"

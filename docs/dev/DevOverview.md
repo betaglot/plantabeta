@@ -55,11 +55,12 @@ Download Printable resources
 - "Dev.Overview"
 - "Dev.PlantaBETA.SeedIdea"
 - "Dev.Youtube"
-
+- Reference Class Forecasting of PlantaBETA.com
+    - <https://anatomy.app/>
 :::
 
-<script setup>
+<!-- <script setup>
 import BetomsTest from '/vue/BetomsTest.vue'
 </script>
 
-<BetomsTest />
+<BetomsTest /> -->

@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-// BetomName=""
-</script>
-
-# <BB labor="Spade.Pop" />
+# ChessBETA
 
 ---
 
@@ -16,8 +8,8 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-- Spade Ollie is as useful as board ollie
-- Spade is a Delphi Dolphin
+
+- ChessBETA: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA
 -
 
 :::

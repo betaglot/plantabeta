@@ -59,6 +59,7 @@ BlockFill Pattern Planters usually it's only supervisors that need to know Block
 - <https://www.fujipress.jp/jrm/rb/robot003000010005/>
 
 - OpenEndedPleroon
+- Plenus
 
 - "VIA.ZonePleroon.AreaBoundary.BoundaryLine"
 - "VIA.ZonePleroon.AreaBoundary.BoundaryPoint"

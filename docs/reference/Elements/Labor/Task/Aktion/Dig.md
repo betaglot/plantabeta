@@ -20,6 +20,7 @@ let elementName = "Dig"
 <!-- =================================================== -->
 ::: details &
 
--
+- [Dig|Hand] != [Dig|Arm]
+        - DigHand only has movement distal of wrist
 
 :::

@@ -1,10 +1,16 @@
----
-search: false
----
 
-# The Inforation Science of <span class="beta">BETA</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Contempt"
 
-BETA is not evenly distributed. PolyBETAs are more dense eumonoBETAs are rare. Action Directe move is a eumonobeta
+</script>
+
+# 💜 <span class="anima">Contempt </span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

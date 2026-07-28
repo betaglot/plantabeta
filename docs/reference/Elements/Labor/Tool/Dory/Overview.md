@@ -21,5 +21,6 @@ let elementName = "Dory"
 ::: details &
 
 - Distance height of Mikrosite above foot equals distance from DoryNeck
+- Stick handling of goalie or players hockey spade move . Andre Doru
 
 :::

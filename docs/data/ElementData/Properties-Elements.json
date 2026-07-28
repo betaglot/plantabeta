@@ -467,7 +467,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Tops",
             "RainShell"
@@ -1299,7 +1299,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Tops"
         ],
@@ -1703,7 +1703,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Sock"
         ],
@@ -1784,7 +1784,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Cache",
             "Tarp"
         ],
@@ -1838,7 +1838,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Tops",
             "InsulationTop"
@@ -1920,7 +1920,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Bottoms"
         ],
@@ -2138,7 +2138,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Fastener",
             "Velcro"
@@ -2551,7 +2551,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Fastener"
         ],
@@ -2658,7 +2658,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Pocket"
         ],
@@ -2685,7 +2685,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Hat"
         ],
@@ -2712,7 +2712,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "HiVis"
         ],
@@ -3036,7 +3036,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Fastener",
             "Button"
@@ -3064,7 +3064,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "Armor",
             "Fastener",
             "Zipper"
@@ -3092,7 +3092,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tools",
+            "Organon",
             "ATV"
         ],
         "elementAlias": [],
@@ -4303,7 +4303,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Cache"
         ],
         "elementAlias": [],
@@ -5546,7 +5546,7 @@
         ],
         "elementAlias": [],
         "elementDescription": [
-            "to remove soil which is stuck on a tool"
+            "to remove soil which is stuck on a Organon"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -6059,7 +6059,7 @@
         ],
         "elementAlias": [],
         "elementDescription": [
-            "to bring a tool from one place to another without using it"
+            "to bring a Organon from one place to another without using it"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -6351,15 +6351,15 @@
             "elementQuote": []
         }
     },
-    "Tool": {
-        "elementEnglishName": "Tool",
+    "Organon": {
+        "elementEnglishName": "Organon",
         "elementFrenchName": "",
         "elementSpanishName": "",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool"
+            "Organon"
         ],
         "elementAlias": [],
         "elementDescription": [
@@ -6383,7 +6383,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "FallProtection"
         ],
         "elementAlias": [],
@@ -6408,7 +6408,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Boot"
         ],
         "elementAlias": [],
@@ -6433,7 +6433,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Bottle"
         ],
         "elementAlias": [],
@@ -6458,7 +6458,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Box"
         ],
         "elementAlias": [],
@@ -6484,7 +6484,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Bundle"
         ],
         "elementAlias": [],
@@ -6509,7 +6509,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Dory"
         ],
         "elementAlias": [
@@ -6536,7 +6536,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Rope"
         ],
         "elementAlias": [],
@@ -6561,8 +6561,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
-            "KontaktTool",
+            "Organon",
+            "KontaktOrganon",
             "Glove"
         ],
         "elementAlias": [],
@@ -6587,7 +6587,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Clothing"
         ],
         "elementAlias": [],
@@ -6612,7 +6612,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Karabiner"
         ],
         "elementAlias": [],
@@ -6637,12 +6637,12 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Kit"
         ],
         "elementAlias": [],
         "elementDescription": [
-            "a bag used to transport tools"
+            "a bag used to transport Organons"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -6688,7 +6688,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Markum"
         ],
         "elementAlias": [
@@ -6716,7 +6716,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Plantfor"
         ],
         "elementAlias": [
@@ -6744,7 +6744,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "PlotCord"
         ],
         "elementAlias": [],
@@ -6794,7 +6794,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Radior"
         ],
         "elementAlias": [
@@ -6822,7 +6822,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Repair"
         ],
         "elementAlias": [],
@@ -6847,12 +6847,12 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Spade"
         ],
         "elementAlias": [],
         "elementDescription": [
-            "a tool used for digging straight-edged holes"
+            "a Organon used for digging straight-edged holes"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -6872,7 +6872,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tool",
+            "Organon",
             "Tibior"
         ],
         "elementAlias": [

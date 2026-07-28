@@ -18,8 +18,13 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- PlantaBETA.Strategy: Simplify things
+    - Piece Shape
 - ConcaveHull
 - ConvexHull
 - Split
+
+- Taktik to simplify piece shape. Orthogonate: To make into to right angles
+    - Rectify is too polysemous
 
 :::

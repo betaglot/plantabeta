@@ -20,8 +20,10 @@ let elementName = "Klose"
 <!-- =================================================== -->
 ::: details &
 
+- Baker for hand klose
 - [Rip|Skreef] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
-
+- Klose|Fingertip
+    - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize
 - BETOMs
     - [Klose.Bonobo]
     - [Klose.Pantera]

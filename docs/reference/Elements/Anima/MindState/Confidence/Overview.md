@@ -16,7 +16,7 @@ let elementName = "Confidence"
 
 - Ambiguous eko
 - Road to piece
-- Boundary Markas
+- Boundary Markums
 Planter Confidence is the solution to Ambiguity
 
 ---
@@ -29,7 +29,10 @@ Planter Confidence is the solution to Ambiguity
 ::: details &
 
 - Self awareness
-
+- Diffident is the antonym of confidence
+    - Fident is Faith
+    - Fidelis
+    - It's not that I don't trust Ben, I just don't believe in Ben- L.Knope
 - Good tree
 
 - Good spacing

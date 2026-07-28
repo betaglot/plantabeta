@@ -21,5 +21,7 @@ let elementName = "Passag"
 ::: details &
 
 - Detour
+- Self-avoiding walk Passage
+    - <https://en.wikipedia.org/wiki/Self-avoiding_walk>
 
 :::

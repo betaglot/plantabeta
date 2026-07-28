@@ -22,6 +22,9 @@ let elementName = "Box"
 <!-- =================================================== -->
 ::: details &
 
+- Carry boxes like a portage. Wannigan
+    - <https://www.canadianoutdoorequipment.com/recreational-barrel-works-wannigan-harness.html?srsltid=AfmBOoozgFwxHHhYxo_dOVxk0oOMzyJBmVTfz1yTpijhVttA5UjC8AMm>
+
 - [Box.Handle|Site] is the main Site of Box.
 
 - [Box.Corner|Site] is a Site used only when carrying a single box.

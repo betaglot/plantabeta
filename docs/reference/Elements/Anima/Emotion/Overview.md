@@ -17,6 +17,7 @@ let elementName = "Emotion"
 😠 Anger
 😞 Sadness
 😤 Disgust
+🙄 Contempt
 
 ---
 
@@ -28,5 +29,15 @@ let elementName = "Emotion"
 ::: details &
 
 - Avoid the dichotomy of Joy and Sadness, since aren't actually opposites. Antagonists
+- You've planted a tree as every emotion
+- Conemotion
 
+- Emotionable
+    - Angerable
+    - Fearable
+    - Enjoyable
+    - Sadable
+    - Disgustable
+    - Anxietable
+    - Contemptible
 :::

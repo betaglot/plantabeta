@@ -1,11 +1,16 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "AlignedTo"
+let elementName = "Cognition"
 
 </script>
 
-# 🔻<span class="via">AlignedTo</span>
+# 💜 <span class="anima">Cognition</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -16,14 +21,8 @@ let elementName = "AlignedTo"
 <!-- =================================================== -->
 ::: details &
 
-- During SelectSite
-- SitePolygon
-- ExtendAlignment
-- ParallelAlignment
-- PerpendicularAlignment
-- SiteAlignment
-- MarkaAlignment
-- EkonAlignment
-    - How much is left in the piece?
-    - Cutting your LineIn
+- RookieFreeze is more apt than rookieStare
+- Thousand mile stare. RookieStare. RookieFreeze
+
+
 :::

@@ -31,4 +31,7 @@ let elementName = "Predikt"
 - [Predikt|BETA]
 - [VIA.Logic]
 
+- Worst case scenario
+    - Best case scenario
+    - Most likely case scenario
 :::

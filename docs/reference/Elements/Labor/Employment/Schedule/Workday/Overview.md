@@ -20,6 +20,10 @@ let elementName = "Workday"
 <!-- =================================================== -->
 ::: details &
 
+- Timelines of PlantaBeta
+    - Day
+    - piece
+    - block move
 - Quality decreases at the end of day
 
 - Workday.SubElements

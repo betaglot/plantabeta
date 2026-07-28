@@ -335,6 +335,13 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
 <!-- =================================================== -->
 ::: details &
 
+- A Betomglyf is an Assignment Statement
+    - Propositions must be proved
+    - QED
+    - QEI
+    - Definitions don't have to be proved
+- Validity of a proposition
+    - Methods are closer to propositions than attributes
 - Teorem: On a slope there shouldn't be trees below you
 - Teorem to know if you're ghost lining
 - QED Quod Erat Demonstratum

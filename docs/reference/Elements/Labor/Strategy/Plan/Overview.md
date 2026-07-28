@@ -8,7 +8,13 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
+- Plan
+    - Where to start
+    - How to start
+    - Talk it through
+    - Run me through how you're going to do that
+    - Run me through the plan
+    - repeat the plan back to me
 - Givens
     - Size of Piece
         - Distance to the back

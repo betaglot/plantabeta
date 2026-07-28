@@ -13,6 +13,9 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Progression towards Professional Sports
+    - "Could you tell me what this player is doing every second?"
+
 - Progression of FreeStyle Skiing
     - <https://www.redbull.com/ca-en/episodes/progression-of-freestyle-ultimate-rush-s01-e13>
 
@@ -34,7 +37,7 @@ search: false
 - Silvitekture
 - Planting more than just trees
 
-### ToolDev
+### OrganonDev
 
 ## SOMAdev
 

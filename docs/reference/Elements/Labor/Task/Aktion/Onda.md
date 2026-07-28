@@ -20,6 +20,9 @@ let elementName = "Onda"
 <!-- =================================================== -->
 ::: details &
 
+- Start Aktion of (Spade,Skreef)
+    - ArmOnda to BladeTipKonSite OR BladeTipKonSite
+
 - Wave
 - Swing
 - Undulation

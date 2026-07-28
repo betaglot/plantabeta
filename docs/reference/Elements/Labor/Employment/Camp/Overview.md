@@ -21,6 +21,7 @@ let elementName = "Camp"
 <!-- =================================================== -->
 ::: details &
 - (Squire, Page, PitCrew, Dresser(person)) Support GlialCell Scaffold Framework SupportStaff PitCrew
+- Reefer.Unload
 
 - MessTent
 - DryTent

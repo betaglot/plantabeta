@@ -144,6 +144,20 @@ Most Epic BC day, Most shitty Ontario day
 <!-- =================================================== -->
 ::: details &
 
+- Climate Change will take less time than the tree needs to grow large enough to be cut down
+    - In 30 years nobody will want to cut it down
+- Baseball pitch is spade is accessible to millions
+- Tibia spade is a concrete panbeta and should be the first
+- PlantaBETA Shorts
+    - do you want to be a tree planter?
+    - do you want to pay for university?
+    - do you want to get injured?
+- Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
+- KKR: Share anything that you've published in Academia or Journalism  
+- PlantaBETAShorts: Pull element cards out of your bags like trees
+- KKR, Reddit: Ask for help getting and writing a grant for PlantaBETA
+- Reddit: Are you able to dance while planting
+- Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant
 - The "nothing" landscape of up North is the place that absorbs humanity's carbon
 - If you want to know more, there is a place you can go. If you're at all interested in PlantaBETA
 - The goal is to dance while planting

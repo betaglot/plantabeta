@@ -19,6 +19,7 @@ let elementName = "SoilFiber"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+- Duff
 
 -
 - Plantate redrot to make it high density

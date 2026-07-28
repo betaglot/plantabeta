@@ -20,6 +20,10 @@ let elementName = "AdaptiveProximity"
 <!-- =================================================== -->
 ::: details &
 
+- NeonDensity: Dial it in
+    - Dialed
+    - Tuning dial on radio
+    - Tune like Recording Studio
 - Counting steps us a crutch for spacing and ultimately density
 
 :::

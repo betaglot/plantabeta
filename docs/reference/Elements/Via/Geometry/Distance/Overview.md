@@ -20,6 +20,8 @@ let elementName = "Distance"
 <!-- =================================================== -->
 ::: details &
 
+- Geodetic distance: The distance is the one that between two urban centers along the earth’s great circle.
+- Manhattan Distance: Latitude difference plus longitude difference (the name “Manhattan Distance” is because the Manhattan, street patterns can be modeled as a set of two vertical lines).
 - Meander
 - ScenicRoute
 - Take the long way

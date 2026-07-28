@@ -20,6 +20,8 @@ let elementName = "Atmosfera"
 <!-- =================================================== -->
 ::: details &
 
+- Thermocline
+    - "abrupt temperature gradient" in a lake, ocean, etc., 1897, from thermo- "temperature, heat" + -cline, from Greek klinein "to slope" (see cline).
 - "EKOS.Weather.Overview"
 - Atmosfera_AirQuality_SmokeConcentration_ParticulateMatterConcentration_
 - Atmosfera_Climate_ClimateChange_Evolution_

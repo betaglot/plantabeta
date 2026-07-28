@@ -20,6 +20,8 @@ let elementName = "Cache"
 <!-- =================================================== -->
 ::: details &
 
+- Depo instead of cache
+    - Apodepo
 - BETOMs
     - [Cache.Konstrukt]
     - [Cache.Enumerate]

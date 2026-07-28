@@ -431,20 +431,20 @@ search: false
     - Less accessible than back bag
     - Or but everything in the cape so back bag can carry bundles
     - Pocket curtains beechfern -->
-- Worst case scenario
+<!-- - Worst case scenario
     - Best case scenario
-    - Most likely case scenario
-- Start Aktion of (Spade,Skreef)
-<!-- - ArmOnda to BladeTipKonSite OR BladeTipKonSite -->
-- PlantaMaki
+    - Most likely case scenario -->
+<!-- - Start Aktion of (Spade,Skreef)
+    - ArmOnda to BladeTipKonSite OR BladeTipKonSite -->
+<!-- - PlantaMaki
     - When you're tired or the land is shit
     - Just lock in on planting
     - Relax breathe and plant
     - 3:15
-    - <https://youtu.be/F5MODFj28oU?feature=shared>
-- BETA_Selection
+    - <https://youtu.be/F5MODFj28oU?feature=shared> -->
+<!-- - BETA_Selection
     - Injury weights the BETA_Alternatives
-    - Knee injury increases the weight of ManoKlose
+    - Knee injury increases the weight of ManoKlose -->
 <!-- - Error.KitTransport
     - Things swinging while you walk
     - Like a cowbell
@@ -458,8 +458,8 @@ search: false
     - Arms can step
     - Fingers can step
     - Step your arms -->
-- Be a "Stoic", not a "roman" or a "greek"
-    - Be a "Stoic", not a "roman" or a "greek"
+<!-- - Be a "Stoic", not a "roman" or a "greek"
+    - Be a "Stoic", not a "roman" or a "greek" -->
 <!-- - Spike instead of Propel or Slam or Throw
     - SpadeSpike
     - DoruSpike
@@ -467,14 +467,14 @@ search: false
 <!-- - Close Glove to keep thermal energy
     - When removing a mid layer, keep the outer layer wrapped -->
 <!-- - Professionalism: Leave nothing to chance -->
-- Thousand mile stare. RookieStare. RookieFreeze
+<!-- - Thousand mile stare. RookieStare. RookieFreeze -->
 <!-- - PieceWalkOut => PieceExit
     - PieceWalkOut => PieceExit -->
 <!-- - Paint instead of complete or cover
     - Paint yourself into a corner -->
 <!-- - ClothingDev: Jacket Backpack straps -->
-- L-notch planting
-    - Special form of slit planting involving two slits at right angles with the seedling placed at the apex of the L.
+<!-- - L-notch planting
+    - Special form of slit planting involving two slits at right angles with the seedling placed at the apex of the L. -->
 <!-- - Pull the outer layer of clothing in the opposite direction to precompensate
     - Ratchet
     - When your sleeve getting jammed
@@ -485,11 +485,11 @@ search: false
     - Captain
     - Quarterback
     - NOT necessarily by Seniority! -->
-- Thermocline
-    - "abrupt temperature gradient" in a lake, ocean, etc., 1897, from thermo- "temperature, heat" + -cline, from Greek klinein "to slope" (see cline).
-- Where is your line?
+<!-- - Thermocline
+    - "abrupt temperature gradient" in a lake, ocean, etc., 1897, from thermo- "temperature, heat" + -cline, from Greek klinein "to slope" (see cline). -->
+<!-- - Where is your line?
     - Where is the border of the area that's already filled?
-    - Line of Planted trees is Cover
+    - Line of Planted trees is Cover -->
 <!-- - NeoAktion(SpadeSpike)
     - SpikeBall
     - Spike the Spade into ground when Reloading Flag or when you need both hands -->
@@ -514,31 +514,31 @@ search: false
 <!-- - Pods should be planar instead of cylinder
     - Envelope is easier to design than cylinder
     - Stack -->
-- NovelVia(NeoSite)
+<!-- - NovelVia(NeoSite)
     - Abandon CurrentSite for Neosite when you determine that CurrentSite isn't good
-    - Stop wasting time skreefing through redrot and just find another site
-- Lokhmē "thicket": from the fact that one lays ambushes (lokhân) in such places. But Philoxenus derives it from the verb lazō "to seize", thick things being easier to grasp. Lazō, future laxō, noun lakhmos, as from krazō "to croak", kraxō and kragmos "croaking"; and the [g] having changed to [kh], *lakhmos; the feminine of the latter, lokhmē
+    - Stop wasting time skreefing through redrot and just find another site -->
+<!-- - Lokhmē "thicket": from the fact that one lays ambushes (lokhân) in such places. But Philoxenus derives it from the verb lazō "to seize", thick things being easier to grasp. Lazō, future laxō, noun lakhmos, as from krazō "to croak", kraxō and kragmos "croaking"; and the [g] having changed to [kh], *lakhmos; the feminine of the latter, lokhmē -->
 <!-- - Gather ExcessSoil at Posterior Bottom of Silvi -->
-- Via Radar
+<!-- - Via Radar
     - Proximal tree
     - Like a plot
-    - Use Voronoi
-- Inertia To break apart pods which are held together by a few roots
-- NeonDensity: Dial it in
+    - Use Voronoi -->
+<!-- - Inertia To break apart pods which are held together by a few roots -->
+<!-- - NeonDensity: Dial it in
     - Dialed
     - Tuning dial on radio
-    - Tune like Recording Studio
-- Soil flip to expose mineral soil, when there is Organic Material on top of MineralSoil and the space if too tight to fully Skreef
+    - Tune like Recording Studio -->
+<!-- - Soil flip to expose mineral soil, when there is Organic Material on top of MineralSoil and the space if too tight to fully Skreef
     - SoilBall to ManoRelease
-    - Lift ball three cm above hole rim before drop
-- Head Planter or Planter Coach
+    - Lift ball three cm above hole rim before drop -->
+<!-- - Head Planter or Planter Coach
     - repair gear
     - fit gear
     - stretching
     - seminars
     - train pacers
     - not therapy physical or mental
-    - train instructors
+    - train instructors -->
 <!-- - Cache Poncho -->
 <!-- - Efficiency.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
     - Efficiency and Effectiveness are the goals to which Strategies aim to achieve
@@ -569,11 +569,11 @@ search: false
 <!-- - PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
 - Error,TeamBETA = Smother
     - Smother = BoxedIn -->
-- How does a device relate to tactics? A device can be abstract or concrete
-- PlantaBETA.Strategy: Simplify things
-    - Piece Shape
-- We have achieved a strategically rich position full of imbalances
-- The opposite of Strategic is Aggressive
+<!-- - How does a device relate to tactics? A device can be abstract or concrete -->
+<!-- - PlantaBETA.Strategy: Simplify things
+    - Piece Shape -->
+<!-- - We have achieved a strategically rich position full of imbalances
+- The opposite of Strategic is Aggressive -->
 <!-- - Taktik
     - All Taktiks are Aktions, but not all Aktions are Taktikal -->
 <!-- - PlantaBETA.Strategy: TeamBETA is an effort to avoid capturing, which is the opposite Strategy of Chess.
@@ -581,24 +581,24 @@ search: false
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
     - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking. -->
-- Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
-- PlantaBETA: Phases Fases: Opening, Middle, End
-- ChessBETA: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA
+<!-- - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media -->
+<!-- - PlantaBETA: Phases Fases: Opening, Middle, End -->
+<!-- - ChessBETA: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBETA -->
 <!-- - Taktik: Desperado
     - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece. -->
-- KKR: Share anything that you've published in Academia or Journalism  
-- PlantaBETAShorts: Pull element cards out of your bags like trees
+<!-- - KKR: Share anything that you've published in Academia or Journalism   -->
+<!-- - PlantaBETAShorts: Pull element cards out of your bags like trees
 - KKR, Reddit: Ask for help getting and writing a grant for PlantaBETA
 - Reddit: Are you able to dance while planting
-- Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant
-- Slush is mud. Video of you walking in slush
-- Hurdle is like Spade over Stump in BeachBETA video
-- KKR: Cattle Plant Strategy
+- Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant -->
+<!-- - Slush is mud. Video of you walking in slush -->
+<!-- - Hurdle is like Spade over Stump in BeachBETA video -->
+<!-- - KKR: Cattle Plant Strategy
     - PlantaBETA climate
     - tree quality
     - efficiency reduces overhead costs to climate
-    - food, shelter, transport
-- Stick handling of goalie or players hockey spade move . Andre Doru
+    - food, shelter, transport -->
+<!-- - Stick handling of goalie or players hockey spade move . Andre Doru -->
 <!-- - Bonobo Klose -->
 <!-- - FacebookKappa
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
@@ -646,45 +646,45 @@ search: false
     TL;DR - establish from the start with your crew that 2 way honesty solves most every problem. Talk it out and take nothing personal
     - One little trick I like is to put sticks with flagger on them at intersections to help with directions, if you're working a large block system. That way, if you're at a contract where it may be necessary to direct people to their next piece without accompanying them, you can say things like "Walk that way, take a left at the intersection with two red flags, follow that to the turn with two blue flags, then turn right. Yours is the 2nd cache down. Your piece is on the left side of the road. Cut in straight and work left back to Sally's line."
     Obvs this is likely unnecessary on a truck access block but can be very useful in the prairie provinces, where you're likely working with quad access and bigger crews. Very helpful with making people more certain they're going the right way. -->
-- Are are the most technical specs that you've ever had to plant?
-- Once like 6 years ago now BCTS had these test plots that was a tiny fraction of the contract that needed to be planted, and I ended up being the one planting most of it. I think I was getting 6-8 cents more than the base price at the time which .28-.30 cents tree.
-    - It was the strangest planting I've ever done. They were determining the effects of planting two shade trees in close proximity to a crop tree rather than obstacle planting. It was in pretty concrete rocky rips as well. Basically I would plant a crop tree in the rip which I believe was Fir, and then plant two aspen 20 cm exactly South and South West of the crop tree I just planted outside of the rip, basically making a right-angled Isosceles triangle. The hard part was if I found a good spot for the crop tree, the shade trees literally had to go in the next already determined spots based on the specs, and sometimes you would run into rock or an unplantable spot which would cause you to have to choose a new spot for the crop tree.
-    - They wanted a density of 10s for the crop tree, which means 30 a plot with the shade trees since you'll also have two shade trees planted on each crop tree, which meant 6000 stems per hectare lol. I've never moved so little in a day and this ended up being pretty bad for my arms too from all the opening. I think I was only putting in 1600-1800 a day because it was more about doing a great job since these were experimental.
-    - The forester came in and checked my stuff, and decided he wanted the trees in more of an "equilateral triangle" rather than right-angled Isosceles, and I asked him if he still wanted them to be 20 cm away and still South and South West facing on the crop tree which he said yes that needs to remain the same. I knew at the time that this was impossible if the orientation was to remain the same, but I wasn't about to argue triangles specifics with the forester in the middle of this experimental piece so I just said, "YOU GOT IT!!", and went right back to doing exactly what I was doing before and they ended up being super happy with it lol.
-    - Most species I've planted in a day was 6 I think around Lumby up Sugar on a burn 4 years ago. Can't remember them all, but I remember the ratio that day was insane, I specifically remember it being 2% cedar so one bundle every other bag up or some shit.
-- Planting Dance. Planting Music. Plant to a drum
-- A tesselation is not a triangulation
-- Baseball pitch is spade is accessible to millions
-- Tibia spade is a concrete panbeta and should be the first
-- PlantaBETA Shorts
+<!-- - What are are the most technical specs that you've ever had to plant?
+    - Once like 6 years ago now BCTS had these test plots that was a tiny fraction of the contract that needed to be planted, and I ended up being the one planting most of it. I think I was getting 6-8 cents more than the base price at the time which .28-.30 cents tree.
+        - It was the strangest planting I've ever done. They were determining the effects of planting two shade trees in close proximity to a crop tree rather than obstacle planting. It was in pretty concrete rocky rips as well. Basically I would plant a crop tree in the rip which I believe was Fir, and then plant two aspen 20 cm exactly South and South West of the crop tree I just planted outside of the rip, basically making a right-angled Isosceles triangle. The hard part was if I found a good spot for the crop tree, the shade trees literally had to go in the next already determined spots based on the specs, and sometimes you would run into rock or an unplantable spot which would cause you to have to choose a new spot for the crop tree.
+        - They wanted a density of 10s for the crop tree, which means 30 a plot with the shade trees since you'll also have two shade trees planted on each crop tree, which meant 6000 stems per hectare lol. I've never moved so little in a day and this ended up being pretty bad for my arms too from all the opening. I think I was only putting in 1600-1800 a day because it was more about doing a great job since these were experimental.
+        - The forester came in and checked my stuff, and decided he wanted the trees in more of an "equilateral triangle" rather than right-angled Isosceles, and I asked him if he still wanted them to be 20 cm away and still South and South West facing on the crop tree which he said yes that needs to remain the same. I knew at the time that this was impossible if the orientation was to remain the same, but I wasn't about to argue triangles specifics with the forester in the middle of this experimental piece so I just said, "YOU GOT IT!!", and went right back to doing exactly what I was doing before and they ended up being super happy with it lol.
+        - Most species I've planted in a day was 6 I think around Lumby up Sugar on a burn 4 years ago. Can't remember them all, but I remember the ratio that day was insane, I specifically remember it being 2% cedar so one bundle every other bag up or some shit. -->
+<!-- - Planting Dance. Planting Music. Plant to a drum -->
+<!-- - A tesselation is not a triangulation -->
+<!-- - Baseball pitch is spade is accessible to millions
+- Tibia spade is a concrete panbeta and should be the first -->
+<!-- - PlantaBETA Shorts
     - do you want to be a tree planter?
     - do you want to pay for university?
-    - do you want to get injured?
-- Climate Change will take less time than the tree needs to grow large enough to be cut down
-    - In 30 years nobody will want to cut it down
-- PlantaBETA: To plant efficiently and effectively by using BETA
-    - BETA implies Strategy, but not every Betom
+    - do you want to get injured? -->
+<!-- - Climate Change will take less time than the tree needs to grow large enough to be cut down
+    - In 30 years nobody will want to cut it down -->
+<!-- - PlantaBETA: To plant efficiently and effectively by using BETA
+    - BETA implies Strategy, but not every Betom -->
 <!-- - Taktik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange -->
 <!-- - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next. -->
-- Walking in tread print line.
+<!-- - Walking in tread print line.
     - To Prevent need for Purga
     - Because you can choose which footprints to follow. Take the successful paths, and avoid the
-    - The prints that filled up with water probably not good to follow
-- A turnkey solution is a fully developed, ready-to-use product or service that a provider supplies, installs, and commissions, allowing the client to start using it immediately without further configuration. These all-in-one packages, common in IT, manufacturing, and construction, streamline processes by handling design, construction, and implementation, essentially allowing the user to simply "turn the key" to begin operations.  
-- When to step in puddles
-- Duff
-- Necessary but not sufficient
-- Plan
+    - The prints that filled up with water probably not good to follow -->
+<!-- - A turnkey solution is a fully developed, ready-to-use product or service that a provider supplies, installs, and commissions, allowing the client to start using it immediately without further configuration. These all-in-one packages, common in IT, manufacturing, and construction, streamline processes by handling design, construction, and implementation, essentially allowing the user to simply "turn the key" to begin operations.   -->
+<!-- - When to step in puddles -->
+<!-- - Duff -->
+<!-- - Necessary but not sufficient -->
+<!-- - Plan
     - Where to start
     - How to start
     - Talk it through
     - Run me through how you're going to do that
     - Run me through the plan
-    - repeat the plan back to me
-- Performance
-    - Strengths and weaknesses
-- Strategy
+    - repeat the plan back to me -->
+<!-- - Performance
+    - Strengths and weaknesses -->
+<!-- - Strategy
     - Clear the way for
     - Clear a path for
     - Jeopardize
@@ -713,30 +713,30 @@ search: false
     - Small Steps, Chess is played one move at a time, you don't need clusters.
     - PlantaBETA.Local and Global Strategy
         - BoustroKomplete is a Taktik
+    - I can't see any advantage
+        - But is there any disadvantage
+        - Advantage isn't binary
+        - Advantageous != Disadvantageous
+        - Neutral ActualName -->
+<!-- - On my way -->
 
-- On my way
-- I can't see any advantage
-    - But is there any disadvantage
-    - Advantage isn't binary
-    - Advantageous != Disadvantageous
-    - Neutral ActualName
 <!-- - TeamBETA: allow for
     - Allow for coplanter's VIA
     - ChessBETA: Restrict to add pressure
     - Minimize Pressure when TeamBETA -->
-- Motor
+<!-- - Motor
     - In chess, tempo (plural: tempi) refers to a single turn or "unit of time" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.
-    - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
-- Self-avoiding walk Passage
-    - <https://en.wikipedia.org/wiki/Self-avoiding_walk>
-- Baker for hand klose
-- Box yourself in
+    - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.   -->
+<!-- - Self-avoiding walk Passage
+    - <https://en.wikipedia.org/wiki/Self-avoiding_walk> -->
+<!-- - Baker for hand klose -->
+<!-- - Box yourself in
 - Weave is via
-- Disconnected boundary voronoi
-- Spade Ollie is as useful as board ollie
-- Planters on lakeside beach
-- You've planted a tree as every emotion
-- BisBoxTransport
+- Disconnected boundary voronoi -->
+<!-- - Spade Ollie is as useful as board ollie -->
+<!-- - Planters on lakeside beach -->
+<!-- - You've planted a tree as every emotion -->
+<!-- - BisBoxTransport -->
 <!-- - Lane
     - Passing Lane
     - Stay in your lane
@@ -746,121 +746,121 @@ search: false
 - Cut out your section
     - TeamBETA
     - Claim your area -->
-- Hamiltonian path
-- Eulerian path
-- Reference Class Forecasting of PlantaBETA.com
-    - <https://anatomy.app/>
-- Kairos is affordance
-- Spade|HalfPipe, the part where the Skiier goes up the wall of the pipe, has air then returns back down is like <BB labor="Spade.Onda" via="Medial" motor="Dynamics"/>
-- Sequential graphs kinograms look like Graph Bus Topology
+<!-- - Hamiltonian path
+- Eulerian path -->
+<!-- - Reference Class Forecasting of PlantaBETA.com
+    - <https://anatomy.app/> -->
+<!-- - Kairos is affordance -->
+<!-- - Spade|HalfPipe, the part where the Skier goes up the wall of the pipe, has air then returns back down is like <BB labor="Spade.Onda" via="Medial" motor="Dynamics"/> -->
+<!-- - Sequential graphs kinograms look like Graph Bus Topology -->
 <!-- - Team: Congestion -->
-- Strategy Backfire
-- Gesture
+<!-- - Strategy Backfire -->
+<!-- - Gesture
     - Beckoning (come here)
     - keep going
-    - go back
-- [Spade|Motoid] <https://en.wikipedia.org/wiki/Lissajous_curve>
+    - go back -->
+<!-- - [Spade|Motoid] <https://en.wikipedia.org/wiki/Lissajous_curve>
 - Spade Stall
     - Poi Staggered Stalls
-        - <https://www.youtube.com/watch?v=LtbMbOWrA-o>
-- Strategy: Proximal Motive, Ulterior Motive
-- Surprisal
+        - <https://www.youtube.com/watch?v=LtbMbOWrA-o> -->
+<!-- - Strategy: Proximal Motive, Ulterior Motive -->
+<!-- - Surprisal
     - Claude Shannon's definition of self-information was chosen to meet several axioms:
     - An event with probability 100% is perfectly unsurprising and yields no information.
     - The less probable an event is, the more surprising it is and the more information it yields.
-    - If two independent events are measured separately, the total amount of information is the sum of the self-information of the individual events.
-- Reefer.Unload
-- PlantaBETAComDev Taktik
-    - Foot-in-the-door (FITD) technique is a compliance tactic that aims at getting a person to agree to a large request by having them agree to a modest request first
-- Sym is Simultaneous
+    - If two independent events are measured separately, the total amount of information is the sum of the self-information of the individual events. -->
+<!-- - Reefer.Unload -->
+<!-- - PlantaBETAComDev Taktik
+    - Foot-in-the-door (FITD) technique is a compliance tactic that aims at getting a person to agree to a large request by having them agree to a modest request first -->
+<!-- - Sym is Simultaneous
     - SymBetom
     - SymElement
-    - Symultaneous
-- UnEnglishable
-    - Terrence McKenna
-- Labor: Flex, Soma: Somon.Flexed, Ekon: Ekon.Flexed, Via: Flexion
-- Millimeters remove the necessity of decimals of a Meter and therefore doesn't conflict with DotNotation Semantics
-- Seasons affects Ekosfera. Where are Seasons located within Geology?
+    - Symultaneous -->
+<!-- - UnEnglishable
+    - Terrence McKenna -->
+<!-- - Labor: Flex, Soma: Somon.Flexed, Ekon: Ekon.Flexed, Via: Flexion -->
+<!-- - Millimeters remove the necessity of decimals of a Meter and therefore doesn't conflict with DotNotation Semantics -->
+<!-- - Seasons affects Ekosfera. Where are Seasons located within Geology?
     - WetSeason
     - SpringSeason
     - WinterSeason
     - AutumnSeason
     - SummerSeason
-    - DrySeason
-- Walking, like graph theory, BETARETE is like running the code of BETAGLOT
-    - BETAGLOT isn't a linear language  
-- Plenus
-- Remove Woody from mineral soil config
-- [Dig|Hand] != [Dig|Arm]
-    - DigHand only has movement distal of wrist
-- Remove Plants and just use Flora
-- Move Dendron to Crop
-- Strategy
+    - DrySeason -->
+<!-- - Walking, like graph theory, BETARETE is like running the code of BETAGLOT
+    - BETAGLOT isn't a linear language   -->
+<!-- - Plenus -->
+<!-- - Remove Woody from mineral soil config -->
+<!-- - [Dig|Hand] != [Dig|Arm]
+    - DigHand only has movement distal of wrist -->
+<!-- - Remove Plants and just use Flora -->
+<!-- - Move Dendron to Crop -->
+<!-- - Strategy
     - Gains and losses
     - What's the play
-- Strategy: Lay the groundwork for
-- Add Contempt to Emotion
-- Carry boxes like a portage. Wannigan
-    - <https://www.canadianoutdoorequipment.com/recreational-barrel-works-wannigan-harness.html?srsltid=AfmBOoozgFwxHHhYxo_dOVxk0oOMzyJBmVTfz1yTpijhVttA5UjC8AMm>
-- Remove hearts from Anima Config.Cognitions and others
-- That which isn't wrong isn't necessarily right
-- Trinity of Advantage
+- Strategy: Lay the groundwork for -->
+<!-- - Add Contempt to Emotion -->
+<!-- - Carry boxes like a portage. Wannigan
+    - <https://www.canadianoutdoorequipment.com/recreational-barrel-works-wannigan-harness.html?srsltid=AfmBOoozgFwxHHhYxo_dOVxk0oOMzyJBmVTfz1yTpijhVttA5UjC8AMm> -->
+<!-- - Remove hearts from Anima Config.Cognitions and others -->
+<!-- - That which isn't wrong isn't necessarily right -->
+<!-- - Trinity of Advantage
     - Advantageous, Neutral, Disadvantageous
     - 1,0,-1
-    - Positive, Neutral,Negative
-- Spade.Kryos is when you tighten your grip so the Handle doesn't rotate
+    - Positive, Neutral,Negative -->
+<!-- - Spade.Kryos is when you tighten your grip so the Handle doesn't rotate
     - Kryos is used for aiming
-    - to control the posture of spade
-- Strategy: Play to win
-- If your trajectory is too close then side step to increase the distance while maintaining the same anterior direction. Like a juke
-- Vision: Parallax
-- Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT?
-- Efficiency of Knowledge
+    - to control the posture of spade -->
+<!-- - Strategy: Play to win -->
+<!-- - Proposition: If your trajectory is too close then side step to increase the distance while maintaining the same anterior direction. Like a juke -->
+<!-- - Vision: Parallax -->
+<!-- - Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT? -->
+<!-- - Efficiency of Knowledge
     - Tractability
     - Pragmatically efficient
-    - Resource efficiency
-- One Million at 7s is 714 hectares
-    - According to the most recent figures available in Statistics Canada's 2021 Census of Agriculture, the average farm size in Saskatchewan is about 714 hectares (or 1,766 acres ) — almost double the national average of about 327 hectares (or 809 acres).  
+    - Resource efficiency -->
+<!-- - One Million at 7s is 714 hectares
+    - According to the most recent figures available in Statistics Canada's 2021 Census of Agriculture, the average farm size in Saskatchewan is about 714 hectares (or 1,766 acres ) — almost double the national average of about 327 hectares (or 809 acres).   -->
 <!-- - Team Pak
     - Pack Etymology -->
 - Poll for options to method to explain PlantaBETA to Reddit
 - Do the math usually refers to logic. Do the logic. Analyze the logic
 - Strategic Ambitions
-- SpadeDev <ploughing@lemken.com> <https://lemken.com/en-en/agricultural-machines/soil-cultivation/ploughing/equipment/bodies>
-- PlantaCoach Get planters to buy. they initiate instead of management. Get a certain amount before going to a bush camp. Appointment Count
-- Emotionable
+<!-- - SpadeDev <ploughing@lemken.com> <https://lemken.com/en-en/agricultural-machines/soil-cultivation/ploughing/equipment/bodies> -->
+<!-- - PlantaCoach Get planters to buy. they initiate instead of management. Get a certain amount before going to a bush camp. Appointment Count -->
+<!-- - Emotionable
     - Angerable
     - Fearable
     - Enjoyable
     - Sadable
     - Disgustable
     - Anxietable
-    - Contemptible
-- Conemotion
+    - Contemptible -->
+<!-- - Conemotion -->
 <!-- - Team-Taktik
 - Team-Taktik-Passage
 - (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half -->
-- Timelines of PlantaBeta
+<!-- - Timelines of PlantaBeta
     - Day
     - piece
-    - block move
-- Intended Beta and Realized Beta and the explicit difference between them
-- Organon has the same number of syllables and Instrument
+    - block move -->
+<!-- - Intended Beta and Realized Beta and the explicit difference between them -->
+<!-- - Organon has the same number of syllables and Instrument
     - Rename Tool to Organon
-    - The organic approach could be rephrased as the tool-based or mechanical or practiced approach
-- The graph theory of phenomenology
-- Darwin discovered the theory
-- A porism is a shortcut
-    - Heuristic is a shortcut
-- Using an Umbrella when walking along a sidewalk is computational geometry Praktik
-- Klose|Fingertip
-    - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize
-- CrumTask
+    - The organic approach could be rephrased as the tool-based or mechanical or practiced approach -->
+<!-- - The graph theory of phenomenology -->
+<!-- - Darwin discovered the theory -->
+<!-- - A porism is a shortcut
+    - Heuristic is a shortcut -->
+<!-- - Using an Umbrella when walking along a sidewalk is computational geometry Praktik -->
+<!-- - Klose|Fingertip
+    - Piano already has the data. Copy piano close ups to chunk. Katalog Katagorize -->
+<!-- - CrumTask
     - Make list
     - Making lists doesn't require continuous concentration
-    - Discontinuous Task
-- Spatial sense also works for abstract space
-- Philosophical Entities of Betalogy
+    - Discontinuous Task -->
+<!-- - Spatial sense also works for abstract space -->
+<!-- - Philosophical Entities of Betalogy
     - Elements: Objects
     - Betoms: Phenomena
     - Beta: Phenomena
@@ -870,8 +870,8 @@ search: false
     - Betaglot: Description of Beta
     - Beta Synthesis: Synthesis
     - Beta Analysis: Analysis
-    - Your Beta is an illusion because self is an illusion
-- You can only analyze Beta that you know works. Otherwise you'll need to use synthesis
+    - Your Beta is an illusion because self is an illusion -->
+<!-- - You can only analyze Beta that you know works. Otherwise you'll need to use synthesis
 - Philosophy allows you to be explicit instead of using analogies.
     - It's like a network
     - It's like Euclid's Elements
@@ -884,68 +884,68 @@ search: false
     - Be the Beta
     - Don't just perceive the Beta as a subject, instead be the Beta because there is no subject and object. Awaken to the reality that there is no separation between the object and subject. You are non dual awareness and nothing else
     - Be in the flow state. You (your self) are an object just like a strategy or hand or tree or affordance or force or attention.
-    - Attention is an object of awareness
+    - Attention is an object of awareness -->
 - [Stump|Morfos] doesn't require Time
-- Be as you wish to appear
+<!-- - Be as you wish to appear
     - Be as you wish to phenomenize
     - Ontos as you wish to phenomenize
     - Beta is the appearance
-    - Be the Beta
-- Elements are objects, Betoms are phenomena
-- Validity of a proposition
-    - Methods are closer to propositions than attributes
-- Diffident is the antonym of confidence
+    - Be the Beta -->
+<!-- - Elements are objects, Betoms are phenomena -->
+<!-- - Validity of a proposition
+    - Methods are closer to propositions than attributes -->
+<!-- - Diffident is the antonym of confidence
     - Fident is Faith
     - Fidelis
-    - It's not that I don't trust Ben, I just don't believe in Ben- L.Knope
+    - It's not that I don't trust Ben, I just don't believe in Ben- L.Knope -->
 <!-- - Somebody on your team needs to know how to sharpen skates -->
-- A Betomglyf is an Assignment Statement
+<!-- - A Betomglyf is an Assignment Statement
     - Propositions must be proved
     - QED
     - QEI
-    - Definitions don't have to be proved
-- Do you ever feel like people are spraying Beta
-- Via.Alignment.Colinear
-- Betamania
-- How did Darwin structure his books? Did they have propositions?
-- Betatekts synthesize Beta
+    - Definitions don't have to be proved -->
+<!-- - Do you ever feel like people are spraying Beta -->
+<!-- - Via.Alignment.Colinear -->
+<!-- - Betamania -->
+<!-- - How did Darwin structure his books? Did they have propositions? -->
+<!-- - Betatekts synthesize Beta
     - Betatletes Analyze Beta
     - Beta Coaches
-    - Beta Commentators
-- Taktik to simplify piece shape. Orthogonate: To make into to right angles
-    - Rectify is too polysemous
-- Focus on every planter which has already learned the basics.
-- Could you tell me what this player is doing every second
-- "Be" is the cursor of Betaglot. Actual name. Kinda like "Sir" or Mrs.
-- Gymnosite is a Mikrosite without any duff
-    - Kryptosite
-- Depo instead of cache
-    - Apodepo
-- Spade is a Delphi Dolphin
-- Should PlantaBeta be public or Private?
-- Add Duff to Skreef, Skreefing, Klimon, Mikrosite
-    - Maybe Kryptoid instead of duff
-- HasProperty
+    - Beta Commentators -->
+<!-- - Taktik to simplify piece shape. Orthogonate: To make into to right angles
+    - Rectify is too polysemous -->
+<!-- - Focus on every planter which has already learned the basics. -->
+<!-- - Could you tell me what this player is doing every second -->
+<!-- - "Be" is the cursor of Betaglot. Actual name. Kinda like "Sir" or Mrs. -->
+<!-- - Gymnosite is a Mikrosite without any duff
+    - Kryptosite -->
+<!-- - Depo instead of cache
+    - Apodepo -->
+<!-- - Spade is a Delphi Dolphin -->
+<!-- - Should PlantaBeta be public or Private? -->
+<!-- - Add Duff to Skreef, Skreefing, Klimon, Mikrosite
+    - Maybe Kryptoid instead of duff -->
+<!-- - HasProperty
     - Aktion,HasProperty,Force
     - Stump,,Protektor
-    - Log,,Protektor
-- Music.entrainment to counteract for fatigue
-- Strategy: Opening Statement
-- Klimonas Book has really good diagrams and graphic design. Better than Landscape architecture and more labelled
-- Betarete is a forest. Betomrete isn't a forest
+    - Log,,Protektor -->
+<!-- - Music.entrainment to counteract for fatigue -->
+<!-- - Strategy: Opening Statement -->
+<!-- - Klimonas Archeology Book at UOttawa has really good diagrams and graphic design. Better than Landscape architecture and more labelled -->
+<!-- - Betarete is a forest. Betomrete isn't a forest
     - A one component forest
     - "Grab the hold" is a two component forest
     - Grab is just a tree
-    - Hold is just a tree
-- Geodetic distance: The distance is the one that between two urban centers along the earth’s great circle.
-- Manhattan Distance: Latitude difference plus longitude difference (the name “Manhattan Distance” is because the Manhattan, street patterns can be modeled as a set of two vertical lines).
+    - Hold is just a tree -->
+<!-- - Geodetic distance: The distance is the one that between two urban centers along the earth’s great circle.
+- Manhattan Distance: Latitude difference plus longitude difference (the name “Manhattan Distance” is because the Manhattan, street patterns can be modeled as a set of two vertical lines). -->
 - eating our own cooking <https://en.wikipedia.org/wiki/Eating_your_own_dog_food>
 - Be the originator of an element sponsor a road sponsor an element
 - AskPrepper
 - PlantaBeta: Pencil Notes
-- Be clear about what is Anxietiable
-- Distance between Point and Centroid of Voronoi
-    - Distance between Point and Centroid of Voronoi
+<!-- - Be clear about what is Anxietable -->
+<!-- - Distance between Point and Centroid of Voronoi
+    - Distance between Point and Centroid of Voronoi -->
 - Ask beaver people about how to plant q beaver ecosystem
 - Tacoma justification: How am we supposed to get to your camp, then camp there?
 - More durable wrist guard shaped radior
@@ -1290,7 +1290,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Nothing in Excess
         - Don't plant nines
 - Always walk clockwise when Enumerating a plot
-- Sites
+<!-- - Sites
     - Mikrosite
     - Mesosite
     - Makrosite
@@ -1305,7 +1305,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - Aristosite
         - AristoBETA
             - Best BETA
-        - "Best site"
+        - "Best site" -->
 - Turn into the snag to avoid tearing clothing while [Absorb|Korpo] to stop and remove the snag. Give yourself time to slow to a stop
     - [Absorb.Rotate|Korpo]
 - LoadingPhase.

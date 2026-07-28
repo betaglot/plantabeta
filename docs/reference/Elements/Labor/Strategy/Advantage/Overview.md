@@ -20,6 +20,10 @@ let elementName = "Advantage"
 <!-- =================================================== -->
 ::: details &
 
+- Trinity of Advantage
+    - Advantageous, Neutral, Disadvantageous
+    - 1,0,-1
+    - Positive, Neutral,Negative
 - Advantages are how you win when all other Faktors are equal
 - "Make it easier on yourself"
 - "Make the most of every advantage given to you"

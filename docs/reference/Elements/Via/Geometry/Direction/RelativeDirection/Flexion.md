@@ -29,5 +29,5 @@ let elementName = "Flexion"
 - Bent Trees in Bag
     - [Error(Seedling)|Flexion]
 - Leaner?
-
+- LABOR: Flex, SOMA: Somon.Flexed, EKOS: Ekon.Flexed, VIA: Flexion
 :::

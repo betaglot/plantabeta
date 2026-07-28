@@ -1,12 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-// BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Performance"
+
 </script>
 
-# <BB labor="Machete,Spade"  ekos="Flora" />
+# ⭐<span class="labor">Performance</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -17,6 +20,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Machete" soma="Arm"/> is possible
+- Strengths and weaknesses
 
 :::

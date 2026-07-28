@@ -22,7 +22,8 @@ Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. 
 ::: details &
 
 - Confidence is how much you trust yourself. Doubt. "Was that a good tree, should I Test it?"
-
+- RookieFreeze is more apt than rookieStare
+- Thousand mile stare. RookieStare. RookieFreeze
 - RookieStare
     - Where should I go next
     - Anxiety

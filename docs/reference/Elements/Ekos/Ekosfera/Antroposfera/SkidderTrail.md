@@ -20,6 +20,10 @@ let elementName = "SkidderTrail"
 <!-- =================================================== -->
 ::: details &
 
+- Walking in tread print line.
+    - To Prevent need for Purga
+    - Because you can choose which footprints to follow. Take the successful paths, and avoid the
+    - The prints that filled up with water probably not good to follow
 - CompactedSoil
 - mistaken for preskreefs
 - easiest way up a slope, the TreadPrints can be used like rungs of a ladder

@@ -20,6 +20,8 @@ let elementName = "VisionSense"
 <!-- =================================================== -->
 ::: details &
 
+- Vision: Parallax
+
 - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street
 - [LookTo|Ritmo] Head look like breathing rhythm if swimming front crawl
 

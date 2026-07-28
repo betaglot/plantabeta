@@ -20,6 +20,8 @@ let elementName = "Inertia"
 <!-- =================================================== -->
 ::: details &
 
+- Inertia To break apart pods which are held together by a few roots
+
 - Ballista
 - Slam
 - Centrifugal Force of Spade

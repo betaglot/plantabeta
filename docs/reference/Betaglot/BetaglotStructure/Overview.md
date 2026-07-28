@@ -1,12 +1,8 @@
 ---
-aside: false
 search: false
 ---
-<script setup>
-// BetomName=""
-</script>
 
-# <BB labor="Spade.Spike" />
+# BETAGLOT Structure
 
 ---
 
@@ -16,8 +12,10 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
-- Spike is what you use to get the Blade into the Soil, then you <BB labor="Spade.Dilate"/>
-- <BB labor='Spade.Spike.Snap'ekos='Root'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods
+- Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT?
+- How did Darwin structure his books? Did they have propositions?
+- Axiomatic System
+- Walking, like graph theory, BETARETE is like running the code of BETAGLOT
+    - BETAGLOT isn't a linear language  
 
 :::

@@ -20,6 +20,8 @@ let elementName = "Taktik"
 <!-- =================================================== -->
 ::: details &
 
+- How does a device relate to tactics? A device can be abstract or concrete
+
 - AreaPlanting
     - AreaPlant the cul-de-sac
         - [Piece|Morfos] affects the Taktik being used.

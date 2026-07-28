@@ -20,6 +20,9 @@ let elementName = "Skreef"
 <!-- =================================================== -->
 ::: details &
 
+- Soil flip to expose mineral soil, when there is Organic Material on top of MineralSoil and the space if too tight to fully Skreef
+    - SoilBall to ManoRelease
+    - Lift ball three cm above hole rim before drop
 - Sift
 
 - [Skreef.Morfos]

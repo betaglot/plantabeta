@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Machete.Spade" />
+# <BB labor="Axine.Spade" />
 
 ---
 
@@ -18,14 +18,14 @@ search: false
 ::: details &
 
 - Knuckles Parallel to shaft
-- SpadeMacheteSkreef
-    - SpadeMachete is used anywhere, SpadeMacheteSkreef is only used when Skreefing a Site.
-    - SpadeMachete is often a Loop
-    - RedRotMachete
-        - Machete a RedRot log into a smaller chunk, then throw it
-    - BranchMachete
+- SpadeAxineSkreef
+    - SpadeAxine is used anywhere, SpadeAxineSkreef is only used when Skreefing a Site.
+    - SpadeAxine is often a Loop
+    - RedRotAxine
+        - Axine a RedRot log into a smaller chunk, then throw it
+    - BranchAxine
         - Aim for where the branch connects to the trunk, so the branch can't elastically absorb the impact
-    - PoaMachete or RizoMachete
+    - PoaAxine or RizoAxine
         - Poa must be under tension
             - BootSlide to apply tension
 

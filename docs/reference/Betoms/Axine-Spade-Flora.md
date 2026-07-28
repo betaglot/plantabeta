@@ -1,16 +1,12 @@
-
+---
+aside: false
+search: false
+---
 <script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Joy"
-
+// BetomName=""
 </script>
 
-# 💜 <span class="anima">Joy </span>
-
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+# <BB labor="Axine,Spade"  ekos="Flora" />
 
 ---
 
@@ -21,6 +17,6 @@ let elementName = "Joy"
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor="Axine" soma="Arm"/> is possible
 
 :::

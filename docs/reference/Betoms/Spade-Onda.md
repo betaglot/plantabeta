@@ -21,6 +21,8 @@ Spanish(Onda) == Wave
 <!-- =================================================== -->
 ::: details &
 
+- Spade|HalfPipe, the part where the Skier goes up the wall of the pipe, has air then returns back down is like <BB labor="Spade.Onda" via="Medial" motor="Dynamics"/>
+- Hurdle is like Spade over Stump in BeachBETA video
 - PanBETA(CookBeta) ConeAktion is used a lot in baking. Stir with your wrist instead of whole arm.
     - ShoulderCone
     - ElbowCone

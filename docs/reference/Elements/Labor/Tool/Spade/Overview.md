@@ -47,14 +47,23 @@ Aliases: Shovel
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-- SpadeDribble PanBETA(Basketball)
 
+- Spade.Kryos is when you tighten your grip so the Handle doesn't rotate
+    - Kryos is used for aiming
+    - to control the posture of spade
+- Spade is a Delphi Dolphin
+- SpadeDribble PanBETA(Basketball)
+- [Spade|Motoid] <https://en.wikipedia.org/wiki/Lissajous_curve>
+- Spade Stall
+    - Poi Staggered Stalls
+        - <https://www.youtube.com/watch?v=LtbMbOWrA-o>
 - KickerPlate is the Hilt of a Spade
 - Vertical Blade in constrained area
 
 - Spade with a Shaft that's too long leads to overuse of tab and tears along medial side of boot sole and rand
 - SpadeSkreef isn't a move
-
+- Start Aktion of (Spade,Skreef)
+    - ArmOnda to BladeTipKonSite OR BladeTipKonSite
 - Push off like swimming with your arms or legs or Spade
 - BladeMano
     - BladePinchCheekMano

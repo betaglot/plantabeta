@@ -361,53 +361,53 @@ function sidebarElements() {
           ]
         },
         {
-          text: '⭐<span class="labor">Tools</span>', link: '/reference/Elements/Labor/Tool/Overview', collapsed: true, items: [
+          text: '⭐<span class="labor">Organons</span>', link: '/reference/Elements/Labor/Organon/Overview', collapsed: true, items: [
             { text: '<span class="labor">ATV</span>', link: '' },
             {
-              text: '<span class="labor">Armor</span>', link: '/reference/Elements/Labor/Tool/Armor/Overview', collapsed: true, items: [
-                { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
+              text: '<span class="labor">Armor</span>', link: '/reference/Elements/Labor/Organon/Armor/Overview', collapsed: true, items: [
+                { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Organon/Boot/Overview' },
                 {
-                  text: '<span class="labor">Bottoms</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/Overview', collapsed: true, items: [
-                    { text: '<span class="labor">Insulation Bottom</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/InsulationBottom' },
-                    { text: '<span class="labor">Sock</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/Sock/Overview' },
+                  text: '<span class="labor">Bottoms</span>', link: '/reference/Elements/Labor/Organon/Armor/Bottoms/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Insulation Bottom</span>', link: '/reference/Elements/Labor/Organon/Armor/Bottoms/InsulationBottom' },
+                    { text: '<span class="labor">Sock</span>', link: '/reference/Elements/Labor/Organon/Armor/Bottoms/Sock/Overview' },
                   ]
                 },
                 {
-                  text: ' <span class="labor">Fastener</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Overview', collapsed: true, items: [
-                    { text: '<span class="labor">Button</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Button' },
-                    { text: '<span class="labor">Velcro</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Velcro' },
-                    { text: '<span class="labor">Zipper</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Zipper' }
+                  text: ' <span class="labor">Fastener</span>', link: '/reference/Elements/Labor/Organon/Armor/Fastener/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Button</span>', link: '/reference/Elements/Labor/Organon/Armor/Fastener/Button' },
+                    { text: '<span class="labor">Velcro</span>', link: '/reference/Elements/Labor/Organon/Armor/Fastener/Velcro' },
+                    { text: '<span class="labor">Zipper</span>', link: '/reference/Elements/Labor/Organon/Armor/Fastener/Zipper' }
                   ]
                 },
-                { text: '<span class="labor">Glove</span>', link: '/reference/Elements/Labor/Tool/Armor/Glove/Overview' },
-                { text: '<span class="labor">Hat</span>', link: '/reference/Elements/Labor/Tool/Armor/Hat/Overview' },
-                { text: '<span class="labor">Helmet</span>', link: '/reference/Elements/Labor/Tool/Armor/Helmet/Overview' },
-                { text: '<span class="labor">HiVis</span>', link: '/reference/Elements/Labor/Tool/Armor/HiVis/Overview' },
-                { text: '<span class="labor">Radior</span>', link: '/reference/Elements/Labor/Tool/Armor/Radior/Overview' },
+                { text: '<span class="labor">Glove</span>', link: '/reference/Elements/Labor/Organon/Armor/Glove/Overview' },
+                { text: '<span class="labor">Hat</span>', link: '/reference/Elements/Labor/Organon/Armor/Hat/Overview' },
+                { text: '<span class="labor">Helmet</span>', link: '/reference/Elements/Labor/Organon/Armor/Helmet/Overview' },
+                { text: '<span class="labor">HiVis</span>', link: '/reference/Elements/Labor/Organon/Armor/HiVis/Overview' },
+                { text: '<span class="labor">Radior</span>', link: '/reference/Elements/Labor/Organon/Armor/Radior/Overview' },
                 {
-                  text: '<span class="labor">Tops</span>', link: '/reference/Elements/Labor/Tool/Armor/Tops/Overview', collapsed: true, items: [
-                    { text: '<span class="labor">Insulation Top</span>', link: '/reference/Elements/Labor/Tool/Tops/InsulationTop' },
+                  text: '<span class="labor">Tops</span>', link: '/reference/Elements/Labor/Organon/Armor/Tops/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Insulation Top</span>', link: '/reference/Elements/Labor/Organon/Tops/InsulationTop' },
                   ]
                 },
-                { text: '<span class="labor">Tibior</span>', link: '/reference/Elements/Labor/Tool/Tibior/Overview' },
+                { text: '<span class="labor">Tibior</span>', link: '/reference/Elements/Labor/Organon/Tibior/Overview' },
               ]
             },
-            { text: '<span class="labor">Box</span>', link: '/reference/Elements/Labor/Tool/Box/Overview' },
-            { text: '<span class="labor">Bundle</span>', link: '/reference/Elements/Labor/Tool/Bundle/Overview' },
-            { text: '<span class="labor">Dory</span>', link: '/reference/Elements/Labor/Tool/Dory/Overview' },
+            { text: '<span class="labor">Box</span>', link: '/reference/Elements/Labor/Organon/Box/Overview' },
+            { text: '<span class="labor">Bundle</span>', link: '/reference/Elements/Labor/Organon/Bundle/Overview' },
+            { text: '<span class="labor">Dory</span>', link: '/reference/Elements/Labor/Organon/Dory/Overview' },
 
-            { text: '<span class="labor">Karabiner</span>', link: '/reference/Elements/Labor/Tool/Karabiner/Overview' },
+            { text: '<span class="labor">Karabiner</span>', link: '/reference/Elements/Labor/Organon/Karabiner/Overview' },
             {
-              text: '<span class="labor">Kit</span>', link: '/reference/Elements/Labor/Tool/Kit/Overview', collapsed: true, items: [
-                { text: '<span class="labor">Repair</span>', link: '/reference/Elements/Labor/Tool/Repair/Overview' },
-                { text: '<span class="labor">Knife</span>', link: '/reference/Elements/Labor/Tool/Knife/Overview' },
-                { text: '<span class="labor">Multitool</span>', link: '/reference/Elements/Labor/Tool/Multitool/Overview' },
+              text: '<span class="labor">Kit</span>', link: '/reference/Elements/Labor/Organon/Kit/Overview', collapsed: true, items: [
+                { text: '<span class="labor">Repair</span>', link: '/reference/Elements/Labor/Organon/Repair/Overview' },
+                { text: '<span class="labor">Knife</span>', link: '/reference/Elements/Labor/Organon/Knife/Overview' },
+                { text: '<span class="labor">MultiOrganon</span>', link: '/reference/Elements/Labor/Organon/MultiOrganon/Overview' },
 
-                { text: '<span class="labor">Rope</span>', link: '/reference/Elements/Labor/Tool/Rope/Overview' },
-                { text: '<span class="labor">Bottle</span>', link: '/reference/Elements/Labor/Tool/Bottle/Overview' },
-                { text: '<span class="labor">Jug</span>', link: '/reference/Elements/Labor/Tool/Jug/Overview' },
+                { text: '<span class="labor">Rope</span>', link: '/reference/Elements/Labor/Organon/Rope/Overview' },
+                { text: '<span class="labor">Bottle</span>', link: '/reference/Elements/Labor/Organon/Bottle/Overview' },
+                { text: '<span class="labor">Jug</span>', link: '/reference/Elements/Labor/Organon/Jug/Overview' },
                 {
-                  text: '<span class="labor">Food Tool</span>', link: '/reference/Elements/Labor/Tool/FoodTool/Overview', collapsed: true, items: [
+                  text: '<span class="labor">Food Organon</span>', link: '/reference/Elements/Labor/Organon/FoodOrganon/Overview', collapsed: true, items: [
                     { text: '<span class="labor">Fork</span>', link: '' },
                     { text: '<span class="labor">Spoon</span>', link: '' },
                     { text: '<span class="labor">Food Container</span>', link: '' },
@@ -417,9 +417,9 @@ function sidebarElements() {
 
               ]
             },
-            { text: '<span class="labor">Plantafor</span>', link: '/reference/Elements/Labor/Tool/Plantafor/Overview' },
-            { text: '<span class="labor">PlotCord</span>', link: '/reference/Elements/Labor/Tool/PlotCord/Overview' },
-            { text: '<span class="labor">Spade</span>', link: '/reference/Elements/Labor/Tool/Spade/Overview' },
+            { text: '<span class="labor">Plantafor</span>', link: '/reference/Elements/Labor/Organon/Plantafor/Overview' },
+            { text: '<span class="labor">PlotCord</span>', link: '/reference/Elements/Labor/Organon/PlotCord/Overview' },
+            { text: '<span class="labor">Spade</span>', link: '/reference/Elements/Labor/Organon/Spade/Overview' },
           ]
         },
         {
@@ -645,7 +645,7 @@ function sidebarElements() {
 
                   ]
                 },
-                { text: '<span class="ekos">Mineral Soil (Woody)</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/MineralSoil' },
+                { text: '<span class="ekos">Mineral Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/MineralSoil' },
                 { text: '<span class="ekos">Wet Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/WetSoil' },
                 { text: '<span class="ekos">Ice Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/IceSoil' },
               ]
@@ -854,7 +854,7 @@ function sidebarElements() {
       items: [
         {
           text: '💜<span class="anima">Cognitions</span>', link: '/reference/Elements/Anima/Cognitions/Overview', collapsed: true, items: [
-            { text: '💜<span class="anima">Attention</span>', link: '/reference/Elements/Anima/Cognitions/Attention/Overview' },
+            { text: '<span class="anima">Attention</span>', link: '/reference/Elements/Anima/Cognitions/Attention/Overview' },
             {
               text: '<span class="anima">CognitiveEase</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/Overview', collapsed: true, items: [
                 { text: '<span class="anima">Clarity Ease</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/ClarityEase' },
@@ -872,17 +872,17 @@ function sidebarElements() {
             { text: '<span class="anima">Identification</span>', link: '/reference/Elements/Anima/Cognitions/Identification/Overview' },
             { text: '<span class="anima">Judgement</span>', link: '/reference/Elements/Anima/Cognitions/Judgement/Overview' },
             {
-              text: '💜<span class="anima">Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/Overview', collapsed: true, items: [
+              text: '<span class="anima">Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/Overview', collapsed: true, items: [
                 { text: '<span class="anima">Long Term Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/LongTermMemory' },
                 { text: '<span class="anima">Short Term Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/ShortTermMemory' },
                 { text: '<span class="anima">Working Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/WorkingMemory' },
               ]
             },
-            { text: '💜 <span class="anima">Perception</span> ', link: '' },
+            { text: '<span class="anima">Perception</span> ', link: '' },
           ]
         },
         {
-          text: '💜<span class="anima">Emotions</span>', link: '/reference/Elements/Anima/Emotions/Overview', collapsed: true, items: [
+          text: '<span class="anima">Emotions</span>', link: '/reference/Elements/Anima/Emotions/Overview', collapsed: true, items: [
             { text: '<span class="anima">Anger</span>', link: '/reference/Elements/Anima/Emotions/Anger' },
             { text: '<span class="anima">Disgust</span>', link: '/reference/Elements/Anima/Emotions/Disgust' },
             { text: '<span class="anima">Fear</span>', link: '/reference/Elements/Anima/Emotions/Fear' },
@@ -890,10 +890,10 @@ function sidebarElements() {
             { text: '<span class="anima">Sadness</span>', link: '/reference/Elements/Anima/Emotions/Sadness' },
           ]
         },
-        { text: '💜<span class="anima">Learning</span>', link: '/reference/Elements/Anima/Learning/Overview', collapsed: true, items: [] },
+        { text: '<span class="anima">Learning</span>', link: '/reference/Elements/Anima/Learning/Overview', collapsed: true, items: [] },
 
         {
-          text: '💜<span class="anima">MindState</span>', link: '/reference/Elements/Anima/MindState/Overview', collapsed: true, items: [
+          text: '<span class="anima">MindState</span>', link: '/reference/Elements/Anima/MindState/Overview', collapsed: true, items: [
             { text: '<span class="anima">Arousal</span>', link: '/reference/Elements/Anima/MindState/Arousal/Overview' },
             { text: '<span class="anima">Confidence</span>', link: '/reference/Elements/Anima/MindState/Confidence/Overview' },
             { text: '<span class="anima">Mindfulness</span>', link: '/reference/Elements/Anima/MindState/Mindfulness/Overview' },
@@ -901,7 +901,7 @@ function sidebarElements() {
           ]
         },
         {
-          text: '💜<span class="anima">Senses</span>', link: '/reference/Elements/Anima/Senses/Overview', collapsed: true, items: [
+          text: '<span class="anima">Senses</span>', link: '/reference/Elements/Anima/Senses/Overview', collapsed: true, items: [
             { text: '<span class="anima">Auditory</span>', link: '/reference/Elements/Anima/Senses/AuditorySense/Overview', collapsed: true, items: [] },
             { text: '<span class="anima">Touch</span>', link: '/reference/Elements/Anima/Senses/TouchSense/Overview', collapsed: true, items: [] },
             { text: '<span class="anima">Pressure</span>', link: '/reference/Elements/Anima/Senses/PressureSense/Overview', collapsed: true, items: [] },

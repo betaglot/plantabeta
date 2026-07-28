@@ -1,8 +1,27 @@
-# FENOM
+---
+search: false
+---
 
+
+# Fenomenology
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- ("Fenoms")InsteadOf("Fenomena")
+- The graph theory of phenomenology
+- Intended Beta and Realized Beta and the explicit difference between them
 - Chart
     - FENOM is yAxis
     - Information is xAxis
+
+- The graph theory of phenomenology
 
 - A group of FENOMs is a Frase
 - FENOMs have the Methods and Attributes of Husserl
@@ -21,4 +40,6 @@
         - Four Quarter notes per Bar
         - Beats of FENOMs
         - FENOMs are the beats
-    - FENOMs per
+    - FENOMs per unit of time
+
+:::

@@ -9,8 +9,56 @@
 <!-- =================================================== -->
 ::: details &
 
-- SurvivalStrategy
+- Play to win
+- Strategy: Opening Statement
+- Strategy: Lay the groundwork for
+    - SetUp
+- Strategy Backfire
 
+- Gains and losses
+- "What's the play?"
+
+- Strategy: Proximal Motive, Ulterior Motive
+
+- Clear the way for
+- Clear a path for
+- Jeopardize
+- Hamper
+- Negligible
+- In case we want to go that route
+- Just in case
+- Case is logic
+- Contingency plan
+- Strategy: It's a perfect match
+- Resist avoid
+- In line with your views
+    - In accordance
+    - Concord
+    - Concordance
+- Strategy.Decision
+- Give and take
+- "Angling for"
+- How does agenda relate to strategy
+- If anything gets between me and the goal line
+- Strategy: A cheap ploy
+- Let it happen, then
+- Exit strategy
+    - Cut off their exit
+- Strategy strong or weak on defense
+- Small Steps, Chess is played one move at a time, you don't need clusters.
+- PlantaBETA.Local and Global Strategy
+    - BoustroKomplete is a Taktik
+- I can't see any advantage
+    - But is there any disadvantage
+    - Advantage isn't binary
+    - Advantageous != Disadvantageous
+    - Neutral ActualName
+
+- PlantaBETA: To plant efficiently and effectively by using BETA
+    - BETA implies Strategy, but not every Betom
+- SurvivalStrategy
+- We have achieved a strategically rich position full of imbalances
+- The opposite of Strategic is Aggressive
 - FeedbackLoop
     - a process where the output of a system is circled back and used as input, influencing future operations, behavior, or decisions.
     - PositiveFeedback

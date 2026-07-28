@@ -21,6 +21,9 @@ import FaktorEmblem from '/vue/FaktorEmblem.vue'
 <!-- =================================================== -->
 ::: details &
 
+- Motor
+    - In chess, tempo (plural: tempi) refers to a single turn or "unit of time" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.
+    - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
 - MOTOR is a superset of Movement
 - MOTON can be a Position or a Movement
 

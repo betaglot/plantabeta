@@ -173,6 +173,7 @@ Recall what you learned during the morning truck ride
     - This is probably going to be the worst day of the season
 - Programming instead of curriculum
 - No background music during Pedagogy. Turn off the music that you've been listening to while planting
-
+- Planters on lakeside beach
+- Focus on every planter which has already learned the basics.
 
 :::
