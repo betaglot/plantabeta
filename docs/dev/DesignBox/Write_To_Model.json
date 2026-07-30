@@ -1,0 +1,16 @@
+I want Python which finds all keynames then, records where those keynames occur in other key-value pairs. Record in a new JSON called DesignBox_Relations.json
+
+
+{
+    "One": ["Twosdfk;lsdkf;lsdkf;l"],
+    "Two": ["Two","Three"],
+    "Three": ["One"],
+    "Four": ["Two"]
+}
+
+{
+    "One": ["Three"],
+    "Two": ["One","Four"],
+    "Three": ["Two"]
+}
+

@@ -24,9 +24,9 @@ Python Code
 
 Same line as closing tag
 
-Or overlaping
+Or overlapping
 
-Startband finish tags
+Start and finish tags
 
 ### Control Flow Structures
 

@@ -83,18 +83,25 @@ def main():
         for file_name in files:
             if file_name.lower().endswith('.md'):
                 file_path = os.path.join(root, file_name)
-                # Get path relative to TARGET_DIR to use as unique JSON keys
-                relative_key = os.path.relpath(file_path, TARGET_DIR)
+                
+                # Check if file is exactly Overview.md
+                if file_name.lower() == "overview.md":
+                    # Get the name of the immediate folder it resides in
+                    json_key = os.path.basename(root)
+                else:
+                    # Use the filename without extension for all other files
+                    json_key, _ = os.path.splitext(file_name)
 
                 lines = extract_delimited_lines(file_path)
                 if lines is not None:
-                    result_data[relative_key] = lines
+                    # Use the dynamically assigned key
+                    result_data[json_key] = lines
                     processed_count += 1
                     
                     if lines == "EMPTY":
                         empty_count += 1
                         
-                    print(f" [✓] Processed: {relative_key} -> {lines if isinstance(lines, str) else f'{len(lines)} lines found'}")
+                    print(f" [✓] Processed: {json_key} -> {lines if isinstance(lines, str) else f'{len(lines)} lines found'}")
 
     print(f"\nTotal Markdown (.md) files processed: {processed_count}")
     print(f"Total files with EMPTY contents: {empty_count}")
