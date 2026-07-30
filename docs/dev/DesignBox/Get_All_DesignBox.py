@@ -1,11 +1,15 @@
 import os
 import json
+from datetime import datetime
 
 # Define configuration constants
 TARGET_DIR = r"C:\Users\Lenovo\plantabeta\docs\reference"
-OUTPUT_FILE = "DesignBox_Extracted_Contents.json"
 START_DELIMITER = "::: details &"
 END_DELIMITER = ":::"
+
+# Generate dynamic output file name prefixed with current date and time
+TIMESTAMP = datetime.now().strftime("%Y%m%d_%H%M%S")
+OUTPUT_FILE = f"{TIMESTAMP}_DesignBox_Extracted_Contents.json"
 
 def extract_delimited_lines(file_path):
     extracted_lines = []

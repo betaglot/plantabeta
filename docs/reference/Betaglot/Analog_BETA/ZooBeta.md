@@ -1,20 +1,6 @@
-# ZooBET
+# ZooBETA
 
 > BETA performed by non human animals
-
-## KlimBETA
-
-Pan paniscus
-
-Pan troglodytes
-
-Gibbon
-
-Monkey
-
-## PlantaBETA
-
-Mole
 
 ---
 
@@ -25,6 +11,10 @@ Mole
 <!-- =================================================== -->
 ::: details &
 
--
+- 
+- Mole
+    - Dig
+- Bear 
+    - Skreef
 
 :::
