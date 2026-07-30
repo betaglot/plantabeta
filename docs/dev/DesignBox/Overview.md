@@ -77,14 +77,43 @@ A more complex and useful
     - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.Overview"`
     - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_CircleInscription"
     - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_SquareInscription"
-    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_TriangleInscription"
+    - ViaKomposition: - "VIA.fVIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_TriangleInscription"
     - ViaKomposition: - "VIA.VIA_Sequence.BagUpFrase"
 
--------------------------------------------------------
--------------------------------------------------------
--------------------------------------------------------
+The output lists are the instances of each ELEMENT
 
--
+- Find the patterns of the ELEMENT instances to discover the properties of the given ELEMENT
+    - Force Questions
+    - Instance to ELEMENT (Induction)
+        - Given the other Instances, what
+            - Can it be the opposite? (AristotleOrganon)
+                - If all the Instances of Ama are Static, then is that from incompleteness or is there some attribute which negates Dynamism for Ama.  
+            - Similar Instances probably share similar ELEMENTs
+                - Ama
+                    - Kryos, Lean, Rest are all Static, so Ama is static, can it be Dynamic
+        - Find properties
+        - What is shared between Instances?
+            - Is there a shared ELEMENT between ELEMENTs or some noncoded differentia
+    - ELEMENT to Instance (Deduction)
+        - Inheritance
+            - Given the genus of this ELEMENT, what Instances are implied to this ELEMENT.
+
+- Find what Instances are missing
+
+```md
+- Ama-Arm: - [Ama|Arm] during BagLoad
+- Ama-Arm: - "Aktion.ArmAktion.[Ama|Arm]"
+- Friction: - What are the physics of when you stab your spade into an EKON to act as a Kontakt for Ama or PoleVault?
+- Kryos: - [Ama.Kryos]
+- Lean: - Differentiate(Lean,Ama)
+- Pugno: - [Ama.Pugno|Trunk]
+- Rest: - [Rest.Ama]
+- Ski: - Lean Posteriorly to prevent toes from snagging, use spade to Ama if you lean too far posteriorly
+```
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
 
 #### Describe the Relationships Manually
 
