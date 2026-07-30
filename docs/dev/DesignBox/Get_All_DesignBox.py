@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 # Define configuration constants
-TARGET_DIR = r"C:\Users\Lenovo\plantabeta\docs\reference"
+TARGET_DIR = r"C:\Users\Lenovo\plantabeta\docs\reference\Elements"
 START_DELIMITER = "::: details &"
 END_DELIMITER = ":::"
 

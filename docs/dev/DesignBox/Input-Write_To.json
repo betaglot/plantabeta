@@ -1,2038 +1,4 @@
 {
-    "Betaglot": [
-        "- Philosophical Entities of Betalogy",
-        "    - Elements: Objects",
-        "    - Betoms: Phenomena",
-        "    - Beta: Phenomena",
-        "    - Your Beta: Self",
-        "    - Betarete: Semantics?",
-        "    - Glyfs: Symbols",
-        "    - Betaglot: Description of Beta",
-        "    - Beta Synthesis: Synthesis",
-        "    - Beta Analysis: Analysis",
-        "    - Your Beta is an illusion because self is an illusion",
-        "- You can only analyze Beta that you know works. Otherwise you'll need to use synthesis",
-        "- Philosophy allows you to be explicit instead of using analogies.",
-        "    - It's like a network",
-        "    - It's like Euclid's Elements",
-        "- Ta onta (τὰ ὄντα): Meaning \"the things that are\" or \"beings.\" It refers to existing entities.",
-        "    - In the context of the Greek phrase ta onta (τὰ ὄντα), ta (τὰ) translates directly to \"the\"",
-        "    - Ta (τὰ): The (neuter plural article).",
-        "    - Onta (ὄντα): Beings/existing things (neuter plural present participle of eimi).",
-        "    - Be the being",
-        "    - Be the Phenomena",
-        "    - Be the Beta",
-        "    - Don't just perceive the Beta as a subject, instead be the Beta because there is no subject and object. Awaken to the reality that there is no separation between the object and subject. You are non dual awareness and nothing else",
-        "    - Be in the flow state. You (your self) are an object just like a strategy or hand or tree or affordance or force or attention.",
-        "    - Attention is an object of awareness",
-        "- Be as you wish to appear",
-        "    - Be as you wish to phenomenize",
-        "    - Ontos as you wish to phenomenize",
-        "    - Beta is the appearance",
-        "    - Be the Beta",
-        "- Elements are objects, Betoms are phenomena",
-        "- Data structures are fundamental ways to organize, store, and manage data in a computer for efficient access and modification, forming the backbone for effective algorithms and software, with common types including linear ones like arrays, linked lists, stacks, and queues, and non-linear ones like trees, graphs, and hash tables, each suited for different tasks from databases to search engines. They provide the physical structure for abstract data types (ADTs), making large datasets manageable for applications",
-        "- BETA_Structure",
-        "    - BETA_List",
-        "    - BETA_Dict",
-        "    - BETA_String",
-        "    - BETA_Graph",
-        "    - BETA_Tree",
-        "    - BETA_Stack",
-        "    - BETA_Queue",
-        "- \"Be\" is the cursor of Betaglot. Actual name. Kinda like \"Sir\" or Mrs."
-    ],
-    "PanBeta": [
-        "- BETA_sports require kindness. You can't be a kind antagonist (Opposition != Antagonist)",
-        "- MusicBETA: Elements of Music",
-        "    - Proposition, Definition, Teorem, Problem",
-        "- Wushu",
-        "- Golden Age of Planting",
-        "- Natural language is ANIMA not BETA",
-        "- BETA diagram of each interdisciplinary, show where each of the modules is on their",
-        "- Contradiction is confusing. A Benefit of canon is convention",
-        "- Consilience, Interdisciplinary",
-        "- Climber to Planter group program. The Climbing Instructor stays with the group as they become Planters. The Instructor already has rapport with the Planters before the season starts and the Planters have already become friends.",
-        "- BETAGLOT needs to be able to translate into and from Mentalese",
-        "- BETAGLOT MOTONs use OtherSportBETA",
-        "    - Apex of SpadeSlam is TrampBETA while Spade impact is DiveBETA. SpadeSwing is RingsBETA. Legs are doing DanceBETA Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing",
-        "- Compulsory Elements",
-        "    - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.",
-        "    - ElementGraph is not just MOTON, nodes can be any of the Faktors. Ekon branches down into ANIMA or move",
-        "- CheerBETA see Dallas Cowboys Cheerleaders",
-        "- (BETAQuotient)InsteadOf(BETAIndex,BETAMETRON)"
-    ],
-    "ZooBeta": [
-        "- Mole",
-        "    - Dig",
-        "- Bear ",
-        "    - Skreef"
-    ],
-    "KompositionMetron": [
-        "- Grammar",
-        "    - Inflection",
-        "        - <BB labor=\"[Absorb,Landing]\" />",
-        "        - <BB labor=\"[Absorb,Redirect]\" />"
-    ],
-    "KompositionOverview": [
-        "- Glob",
-        "- Clump",
-        "- Designers make Kompositions",
-        "    - DSA\\\"Atlete as Designer\"",
-        "- Can there be propositions about Kompositions?",
-        "- Komposition is like Sequence, Collection or Series."
-    ],
-    "ViaKomposition": [
-        "- What is the difference between a composition and an Element?",
-        "    - All of the elements are PanBETA",
-        "    - The compositions are BETA, they require Eko.",
-        "- DivPlanting",
-        "- \"VIA.VIA_Composition.Overview\"",
-        "- \"VIA.VIA_Composition.VIA_Addition\"",
-        "- \"VIA.VIA_Composition.VIA_Adjustment.VIA_MajorAdjustment\"",
-        "- \"VIA.VIA_Composition.VIA_Adjustment.VIA_MinorAdjustment\"",
-        "- \"VIA.VIA_Composition.VIA_Selection\"",
-        "- \"VIA.VIA_Composition.VIA_Selection.AlternativeVia\"",
-        "- \"VIA.VIA_Composition.VIA_Selection.ForcedVia\"",
-        "- \"VIA.VIA_Composition.VIA_Selection.VIA_Comparison\"",
-        "- \"VIA.VIA_Crux\"",
-        "- \"VIA.VIA_Sequence\"`",
-        "- \"VIA.VIA_Sequence.AreaCoverFrase.Overview\"",
-        "- \"VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.Overview\"`",
-        "- \"VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_CircleInscription\"",
-        "- \"VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_SquareInscription\"",
-        "- \"VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_TriangleInscription\"",
-        "- \"VIA.VIA_Sequence.BagUpFrase\"",
-        "- \"VIA.VIA_Sequence.CurrentMikrosite\"",
-        "- \"VIA.VIA_Sequence.MarkaMOTON\"",
-        "- \"VIA.VIA_Sequence.HoleMOTON\"",
-        "- \"VIA.VIA_Sequence.LookAt.Marka\"",
-        "- \"VIA.VIA_Sequence.LookAt.HoleMOTON\"",
-        "- \"VIA.VIA_Sequence.MikrositeSelection\"",
-        "- \"VIA.VIA_Sequence.PostMikrosite\"",
-        "- \"VIA.VIA_Sequence.PostMikrositeAnteMikrosite\"",
-        "- \"VIA.VIA_Sequence.RedRotFrase\"",
-        "- \"VIA.VIA_Sequence.VIA_Cycle\"",
-        "- \"VIA.VIA_Sequence.VIA_Cycle.DoUntil\"",
-        "- \"VIA.VIA_Sequence.VIA_Cycle.DoWhile\"",
-        "- \"VIA.VIA_Sequence.VIA_SequenceVariation\"",
-        "- \"VIA.VIA_Sequence.VIA_ShapeFrase.VIA_ShapeOverlap\"",
-        "- \"VIA.VIA_Sequence.VIA_SpaceFrase.VIA_SpaceOverlap\"",
-        "- \"VIA.VIA_Sequence.ContactFrase\"",
-        "- \"VIA.VIA_Sequence.ContactFrase.AnteContact\"",
-        "- \"VIA.VIA_Sequence.ContactFrase.CurrentContact\"",
-        "- \"VIA.VIA_Sequence.ContactFrase.PostContact\"",
-        "## <span class=\"labor\">Route</span> Composition",
-        "## <span class=\"labor\">Route</span> Combinations",
-        "Transitions",
-        "Contiguous Route",
-        "## <span class=\"labor\">Route</span> Variety",
-        "Like \"Use Of Course\" in Freeski",
-        "During the BETAKOSMOS or [SetRoute](/reference/Lexikon#SetRoute) inspection,",
-        "Route Repetition",
-        "### <span class=\"labor\">Route</span> Direction Variety",
-        "Traverse",
-        "UpClimb",
-        "DownClimb",
-        "### <span class=\"labor\">Route</span> Surface Variety",
-        "Using same ViaSurface many times decreases ViaCompositionScore.",
-        "Use of Wall Corners increases <span class=\"labor\">Route</span> Variety.",
-        "## <span class=\"labor\">Route</span> Progression",
-        "## <span class=\"labor\">Route</span> Structure",
-        "### PullOn Move",
-        "Novel",
-        "### Landing Move",
-        "### Move Location",
-        "Where along the <span class=\"labor\">Route</span> is the trick performed?",
-        "Freeski(8.2.1)",
-        "A Dyno starting 2 meters above ground is not the same as the same dyno performed just above the ground.",
-        "Performing Moves which require SpaceFoot near the ground where there is a Risk of Dabbing."
-    ],
-    "Density": [
-        "- LooseDensity",
-        "- TightDensity",
-        "- Centroidal Voronoi Tessellation",
-        "    - <https://observablehq.com/@d3/circle-dragging-iii?collection=@d3/d3-drag>",
-        "- BETOMs",
-        "    - [Site.Density]",
-        "    - [Mano|E|Site.Density] An EKON has lots of ways to be gripped",
-        "- ([Aktion.Density|CreamySoil] > [Aktion.Density|RockCapSoil])",
-        "    - TypeOf(Integer)"
-    ],
-    "BetaFlux": [
-        "- Smooth",
-        "- The Space between Moments, concretely in Betomiks and abstractly",
-        "- InBetween Diagrams of Animation"
-    ],
-    "Flux": [
-        "- McCloud uses the term \"Flow\" instead of \"Flux\", but \"Flow\" is not Polyglot"
-    ],
-    "Harmony": [
-        "- There is no Balance, only Balancing",
-        "    - signifies that harmony in life is an active, ongoing process of adjustment rather than a static, permanent state",
-        "    - Accepting Flux: Life is dynamic; attempting to maintain a rigid, permanent balance leads to frustration, resentment, and failure.",
-        "    - Correction: The key to this mindset is recognizing when you have lost balance and taking action to correct it",
-        "    - Action over State: Balance is not a destination to reach but an active,, daily, and continuous process of managing life's demands.",
-        "- Harmony between BETOMs",
-        "    - Between Aktion and Klimon",
-        "    - Between Plasts",
-        "    - Between Aktions",
-        "- Harmony. A word for Synchrony with the Ekome. Spatial synchrony is required for OneAktion not time",
-        "- SpadeLeg and ArmOnda and Spade.Aktion at same time",
-        "    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  "
-    ],
-    "Ritmo": [
-        "- Rhythm"
-    ],
-    "Sequence": [
-        "- Sequence of Events",
-        "- PlantaBETA: Phases Fases: Opening, Middle, End",
-        "- Sequential graphs kinograms look like Graph Bus Topology"
-    ],
-    "BetaglotStructure": [
-        "- Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT?",
-        "- How did Darwin structure his books? Did they have propositions?",
-        "- Axiomatic System",
-        "- Walking, like graph theory, BETARETE is like running the code of BETAGLOT",
-        "    - BETAGLOT isn't a linear language  "
-    ],
-    "BetaInformation": [
-        "- Claude Shannon",
-        "- Surprisal",
-        "    - Claude Shannon's definition of self-information was chosen to meet several axioms:",
-        "    - An event with probability 100% is perfectly unsurprising and yields no information.",
-        "    - The less probable an event is, the more surprising it is and the more information it yields.",
-        "    - If two independent events are measured separately, the total amount of information is the sum of the self-information of the individual events."
-    ],
-    "Axiom": [
-        "- Axiom: Gravity"
-    ],
-    "Definition": [
-        "- Exceptions to Definition",
-        "    - Anomaly",
-        "- Example-Based Definition",
-        "    - This is an example",
-        "- Principle-Based Definition",
-        "- Pattern-Based Definition",
-        "    - Duck typing",
-        "    - a programming concept where an object's suitability for a task is determined by the presence of specific methods and behaviors, rather than its actual type or class.",
-        "- Exceptional Cases have priority over General Cases",
-        "- Contradiction",
-        "- Defined by Counterexample",
-        "    - Negative Definition",
-        "    - Defined by what it's not"
-    ],
-    "Example": [
-        "- Counterexample",
-        "    - When NOT to do something"
-    ],
-    "ElementType": [
-        "- Elements aren't Units",
-        "- UnEnglishable",
-        "    - Terrence McKenna"
-    ],
-    "Proposition": [
-        "- A Betomglyf is an Assignment Statement",
-        "    - Propositions must be proved",
-        "    - QED",
-        "    - QEI",
-        "    - Definitions don't have to be proved",
-        "- Validity of a proposition",
-        "    - Methods are closer to propositions than attributes",
-        "- Teorem: On a slope there shouldn't be trees below you",
-        "- Teorem to know if you're ghost lining",
-        "- QED Quod Erat Demonstratum",
-        "- Proposition: Planters take shorter steps in slashy areas, which leads to HighDensity"
-    ],
-    "Prototype": [
-        "- AbstractClass",
-        "- Prototype instead of `Overview.md`",
-        "    - Elements inherit from Prototype"
-    ],
-    "Betaglyf": [
-        "- The word \"Dot\" instead of \"point\" in glyphs",
-        "    - DotNotation"
-    ],
-    "BetaScaffold": [
-        "## Scaffolding in Pedagogy",
-        "Scaffolding is an instructional technique where teachers provide temporary support structures to help students master new concepts or skills that they cannot yet achieve independently. Much like physical scaffolding in construction, these educational \"scaffolds\" are progressively removed as the learner gains proficiency, eventually allowing them to complete the task on their own.",
-        "## Core Principles",
-        "- Zone of Proximal Development (ZPD): Scaffolding operates within this \"optimal learning window,\" which is the gap between what a student can do alone and what they can achieve with expert guidance.",
-        "- Temporary Support: Scaffolds are not permanent; they are designed to be \"faded\" or withdrawn once the student demonstrates mastery.",
-        "- Gradual Release of Responsibility: This is often described as the \"I Do, We Do, You Do\" model:",
-        "I Do: The teacher models the skill or concept explicitly.",
-        "We Do: The teacher and students practice together through guided instruction.",
-        "You Do: The student applies the knowledge independently.",
-        "## Key Scaffolding Strategies",
-        "- Modeling: Demonstrating a process or \"thinking aloud\" to show students how to approach a problem.",
-        "Prior Knowledge Activation: Connecting new material to what students already know to make it more relatable.",
-        "- Chunking: Breaking down complex, multi-faceted tasks into smaller, more manageable units.",
-        "- Visual Aids: Using graphic organizers, flowcharts, or diagrams to help students visualize information and organize their thoughts.",
-        "Pre-teaching Vocabulary: Introducing essential terms before a lesson to ensure students don't get stuck on difficult language.",
-        "## Benefits for Learners",
-        "- Reduces Frustration: By providing just enough support, scaffolding prevents students from becoming overwhelmed by high-challenge tasks.",
-        "- Promotes Autonomy: It encourages students to take ownership of their learning as they move toward independence.",
-        "- Increases Engagement: Successful achievement of small steps builds confidence and maintains motivation.",
-        "## Leading Theorists",
-        "- Lev Vygotsky: Developed the concept of the Zone of Proximal Development, which forms the theoretical foundation for scaffolding.",
-        "- Jerome Bruner: Coined the specific term \"scaffolding\" in the 1970s to describe the support provided by parents and teachers during early development."
-    ],
-    "MimeBeta": [
-        "- Called Marking in Dance"
-    ],
-    "BetaAnalysis": [
-        "- Playback on ipad like nhl",
-        "    - \"Could you tell me what this player is doing every second?\"",
-        "- Analysis during morning crummy faster than real",
-        "    - Analyze planters during the ride to the block in the morning"
-    ],
-    "BetaBlock": [
-        "- Negociate"
-    ],
-    "BetaMethod": [
-        "- Negociate",
-        "- \"BETA.BETAFunction.AskBETA\"",
-        "- \"BETA.BETAFunction.ChunkBETA.BETAChunk\"",
-        "- \"BETA.BETAFunction.GetBETA\"",
-        "- \"BETA.BETAFunction.GiveBETA\"",
-        "- \"BETA.BETAFunction.LinkBETA\"",
-        "- \"BETA.BETAFunction.MimeBETA\"",
-        "- \"BETA.BETAFunction.Overview\"",
-        "- \"BETA.BETAFunction.PerformBETA\"",
-        "- \"BETA.BETAFunction.RecordBETA\"",
-        "- \"BETA.BETAFunction.TestBETA\""
-    ],
-    "BetaPython": [
-        "- PlantaBETA: DataStructures",
-        "    - Everything is an Object, like in Python",
-        "    - Polyads are DataStructures",
-        "    - Plots",
-        "    - Which to Pop() from a Plot?",
-        "        - To Density--",
-        "    - Where to Plot.Insert() into a Plot?",
-        "        - To Density++",
-        "1. Introduction",
-        "## 🔷 1.1. Alternate Implementations",
-        "## 1.2. Notation",
-        "## 2. Lexical analysis",
-        "## 2.1. Line structure",
-        "## 2.2. Other tokens",
-        "## 2.3. Identifiers and keywords",
-        "## 2.4. Literals",
-        "## 2.5. Operators",
-        "## 2.6. Delimiters",
-        "## 3. Data model",
-        "## 3.1. Objects, values and types",
-        "## 3.2. The standard type hierarchy",
-        "## 3.3. Special method names",
-        "## 3.4. Coroutines",
-        "## 4. Execution model",
-        "## 4.1. Structure of a program",
-        "## 4.2. Naming and binding",
-        "## 4.3. Exceptions",
-        "## 5. The import system",
-        "## 5.1. importlib",
-        "## 5.2. Packages",
-        "## 5.3. Searching",
-        "## 5.4. Loading",
-        "## 5.5. The Path Based Finder",
-        "## 5.6. Replacing the standard import system",
-        "## 5.7. Package Relative Imports",
-        "## 5.8. Special considerations for __main__",
-        "## 5.9. References",
-        "## 6. Expressions",
-        "## 6.1. Arithmetic conversions",
-        "## 6.2. Atoms",
-        "## 6.3. Primaries",
-        "## 6.4. Await expression",
-        "## 6.5. The power operator",
-        "## 6.6. Unary arithmetic and bitwise operations",
-        "## 6.7. Binary arithmetic operations",
-        "## 6.8. Shifting operations",
-        "## 6.9. Binary bitwise operations",
-        "## 6.10. Comparisons",
-        "## 6.11. Boolean operations",
-        "## 6.12. Assignment expressions",
-        "## 6.13. Conditional expressions",
-        "## 6.14. Lambdas",
-        "## 6.15. Expression lists",
-        "## 6.16. Evaluation order",
-        "## 6.17. Operator precedence",
-        "## 7. Simple statements",
-        "## 7.1. Expression statements",
-        "## 7.2. Assignment statements",
-        "## 7.3. The assert statement",
-        "## 7.4. The pass statement",
-        "## 7.5. The del statement",
-        "## 7.6. The return statement",
-        "## 7.7. The yield statement",
-        "## 7.8. The raise statement",
-        "## 7.9. The break statement",
-        "## 7.10. The continue statement",
-        "## 7.11. The import statement",
-        "## 7.12. The global statement",
-        "## 7.13. The nonlocal statement",
-        "## 7.14. The type statement",
-        "## 8. Compound statements",
-        "## 8.1. The if statement",
-        "## 8.2. The while statement",
-        "## 8.3. The for statement",
-        "## 8.4. The try statement",
-        "## 8.5. The with statement",
-        "## 8.6. The match statement",
-        "## 8.7. Function definitions",
-        "## 8.8. Class definitions",
-        "## 8.9. Coroutines",
-        "## 8.10. Type parameter lists",
-        "## 9. Top-level components",
-        "## 9.1. Complete Python programs",
-        "## 9.2. File input",
-        "## 9.3. Interactive input",
-        "## 9.4. Expression input",
-        "## 10. Full Grammar specification"
-    ],
-    "Betarete": [
-        "- What are the hubs of BETARETOME",
-        "    - What Betoms are most connected to other Betoms",
-        "    - Is this different from asking about Betom Frequency?",
-        "    - A climber's IdioBETARETE grows as they learn. Preferential Attachment to the hubs that they already have. Slab climbers get more growth at Prokline clusters than Rekline. A well rounded climber has more hubs?",
-        "- Betarete is a forest. Betomrete isn't a forest",
-        "    - A one component forest",
-        "    - \"Grab the hold\" is a two component forest",
-        "    - Grab is just a tree",
-        "    - Hold is just a tree"
-    ],
-    "BetomiksOverview": [
-        "- Chart",
-        "- Time is the vertical Axis",
-        "- In-between chart",
-        "- Debugger shows the Planters experience through Betomiks.py in slowmo",
-        "- Guitar hero streak for Betomiks game, like dance dance too"
-    ],
-    "Frame": [
-        "- Choose the point of view to frame the Moment"
-    ],
-    "Fenomenology": [
-        "- (\"Fenoms\")InsteadOf(\"Fenomena\")",
-        "- The graph theory of phenomenology",
-        "- Intended Beta and Realized Beta and the explicit difference between them",
-        "- Chart",
-        "    - FENOM is yAxis",
-        "    - Information is xAxis",
-        "- The graph theory of phenomenology",
-        "- A group of FENOMs is a Frase",
-        "- FENOMs have the Methods and Attributes of Husserl",
-        "    - Epoche a FENOM or allow the past and yourself to influence the FENOM",
-        "    - Intention",
-        "        - Watching",
-        "        - Copying",
-        "        - Critiquing",
-        "        - Learning",
-        "        - Embodying",
-        "            - Are you trying to be the",
-        "- FENOM instead of Time",
-        "    - Time, from a first person point of view, isn't consistent",
-        "    - Time Signature",
-        "        - Four Four Time",
-        "        - Four Quarter notes per Bar",
-        "        - Beats of FENOMs",
-        "        - FENOMs are the beats",
-        "    - FENOMs per unit of time"
-    ],
-    "Aktion-Flora-Branch": [
-        "- Branch rope burn <BB labor=\"Slide\" soma=\"Hand\" ekos=\"Branch\" via=\"Longitudinal\" motor=\"\" anima=\"\"/>",
-        "- BranchMano",
-        "    - When the Branch is small diameter, you can use your use your thumb to oppose your fingers, instead of using your palm",
-        "    - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger",
-        "- BranchPull",
-        "    - Pull up on to maintain Balance",
-        "        - Like how coaches support kids on balance beams Analogy({Coach: Kid, Branch: Planter})",
-        "        - Branch must be vertical or of a small tree. Pulling up on a long branch won't do anything",
-        "- BranchPush",
-        "- BranchSpring",
-        "    - Aliases: BranchWhip",
-        "    - BranchSpring is when a Branch is pulled then released",
-        "    - Important to remember during TeamBETA, so you don't whip the person behind you",
-        "- BranchSlide",
-        "    - BranchSlide during BranchParry",
-        "    - BranchSlide like RailingSlide when walking on stairs",
-        "- BranchBreak",
-        "    - BranchSnap",
-        "- Branch.Attributes",
-        "    - Diameter",
-        "    - Length",
-        "    - Species",
-        "        - Spruce are spiked",
-        "    - Cleavage",
-        "    - Brittleness",
-        "        - Pliability",
-        "    - Living or Dead"
-    ],
-    "Aktion-Flora": [
-        "- Pull up on flora to lock the orientation of the plane of your body during RevolveBody like a barndoor",
-        "- Soccer ball control is flora move. Constant contact and no kicking",
-        "- WristHook",
-        "- Useful when the TreeHand is Loaded with a tree, so you can't use your fingers to move the Flora",
-        "- RungMano",
-        "    - Implies HorizontalBranch",
-        "- SlapStick",
-        "    - Rake step",
-        "- EKOS branch leverage for break. Norah Impaled",
-        "- UlnarDeviationSnap",
-        "    - Release once you hear the snap, then bump to PinchMano to bring Distal and Medial sides of break to parallel to fully break the branch. Sometimes the bark keeps both sides attached.",
-        "- ArmAma to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction",
-        "- Flora.Attributes",
-        "    - Diameter",
-        "        - Length",
-        "        - Species",
-        "            - Spruce are spiked",
-        "        - Cleavage",
-        "        - Brittleness",
-        "            - Pliability",
-        "        - Living or Dead",
-        "        - Color"
-    ],
-    "Aktion-Hand": [
-        "- \"Mano\" is Grip",
-        "    - Not all Hand Aktions are Grips, <BB labor=\"Slide\" soma=\"Hand\" />",
-        "- SpadeMano and DendroMano",
-        "- \"Mano a Mano\" hand to hand combat",
-        "- [PanBETA(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-Manos-in-bjj>)",
-        "    - 2Hand Manos are used during WalkIns and WalkOuts",
-        "        - Carrying [Tarps, CollapsedBoxes, Bags, WaterJugs]",
-        "    - CMano",
-        "    - ScoopMano",
-        "        - When your Thumb can't oppose fingers because the Mano radius is too large",
-        "        - LogLaunch",
-        "        - TrunkAktion",
-        "        - HandSmear",
-        "    - SleeveMano",
-        "    - PocketMano",
-        "    - PistolMano",
-        "        - Tarp",
-        "        - BagMano",
-        "    - 2ManoAktion",
-        "        - SMano",
-        "        - CableMano",
-        "            - No thumbs",
-        "        - ButterflyMano",
-        "        - SeatbeltMano",
-        "- \"Aktion.ManoAktion.CupMano\"",
-        "- \"Aktion.ManoAktion.FingerAktion.FingerCurl\"",
-        "- \"Aktion.ManoAktion.FingerAktion.FingerFlexion\"",
-        "- \"Aktion.ManoAktion.FingerAktion.FingerHook\"",
-        "- \"Aktion.ManoAktion.FingerAktion.FingerPoke\"",
-        "- \"Aktion.ManoAktion.FingerAktion.Overview\"",
-        "- \"Aktion.ManoAktion.FingerAktion.ThumbHook",
-        "- Aktion.ManoAktion.FingerAktion.FingerExtension\"",
-        "- \"Aktion.ManoAktion.FingerOverlapPoke\"",
-        "- \"Aktion.ManoAktion.FingertipPress\"",
-        "- \"Aktion.ManoAktion.GentleMano\"",
-        "- \"Aktion.ManoAktion.HandRoll\"",
-        "- \"Aktion.ManoAktion.HandSlide\"",
-        "- \"Aktion.ManoAktion.HandSlot\"",
-        "- \"Aktion.ManoAktion.HandSmear\"",
-        "- \"Aktion.ManoAktion.HandSwap\"",
-        "- \"Aktion.ManoAktion.Overview\"",
-        "- \"Aktion.ManoAktion.PinchMano\"",
-        "- \"Aktion.ManoAktion.TrunkMano\"",
-        "- \"Aktion.ManoAktion.UnderclingMano\""
-    ],
-    "Aktion-Head": [
-        "- HeadProtraction",
-        "- HeadRetraction",
-        "    - To prevent straining posterior neck muscle",
-        "- \"Aktion.HeadAktion.Find.Markum\"",
-        "- \"Aktion.HeadAktion.LookAt\"",
-        "- \"Aktion.HeadAktion.Overview\""
-    ],
-    "Aktion-Korpo": [
-        "- Clamber = Definition(\"climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet\")",
-        "- Scramble",
-        "- \"Aktion.BodyAktion.BodyDrop.BodyDropInto\"",
-        "- \"Aktion.BodyAktion.BodyLock\"",
-        "- \"Aktion.BodyAktion.BodyPosture\"",
-        "- \"Aktion.BodyAktion.Landing\"",
-        "- \"Aktion.BodyAktion.Landing.AktionError.BaseAma\"",
-        "- \"Aktion.BodyAktion.Mantle\"",
-        "- \"Aktion.BodyAktion.Overview\"",
-        "- \"Aktion.BodyAktion.Stemming\"",
-        "- \"Aktion.BodyAktion.Straddle\"",
-        "- Body move overview every single move is a body move so body move is the superset of everything because a Planter is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves",
-        "- a good image for the body move would be I think it'd be a good idea to have a picture of the body that Planters don't normally see so like a top few would be good body moves the biggest",
-        "- the most important body move that Planters need to be aware of is a fall so the other thing with body moves is that since they are pretty high scope choosing the right body move really matters because like what's an example of choosing a body move I guess going climbing over something that would be a body move because it's multiple sub AktionS to get to use your legs and your arms together in a concerted concurrent",
-        "- what's the difference between concurrent and concerted Aktion they kind of seem like they would be the same",
-        "- body move if you're climbing over something or if you're ducking under something or if you just go around it that can greatly affect efficiency and it doesn't even really matter what the sub moves are how efficient those are if you mess up the body move that's that will affect your efficiency the most",
-        "- is it deductive or is inductive how you get to the body move so do you start with the body move or do you think of all the sub moves and from that set of SubAktions you decide what the body move should be so that could make sense depending on the soil so like say say if you find a Mikrosite and instead of walking over and just bending down you walk over then you step on a high piece of land and then you kind of Superman punch into the ground",
-        "- Superman slam I guess I should say into the ground so that would be a body move stepping up a little bit to use the full weight the full gravity mass of your body on the Spade on the SpadeImpact this will allow you to be more efficient because your body needs to come down anyway so it's nice to use gravity with use gravities acceleration as a positive"
-    ],
-    "Allos-Layer": [
-        "- Allos == Swap, Other"
-    ],
-    "Ama-Arm": [
-        "- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>",
-        "- StiffArm Flora",
-        "- CacheAktion",
-        "    - [Ama|Arm] during BagLoad",
-        "- What determines ArmAngle to maintain Spine Position?",
-        "- Arm prop occurs on ships",
-        "    - Boat move",
-        "    - Polynesian dance developed on boats",
-        "    - Especially down walk",
-        "    - Down climb",
-        "- ArmAnteriorAma",
-        "- ArmPosteriorAma",
-        "- ArmLateralAma",
-        "- \"Aktion.ArmAktion.[Ama|Arm]\""
-    ],
-    "Ama-Leg": [
-        "- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>",
-        "- LegAnteriorAma",
-        "- LegPosteriorAma",
-        "- LegLateralAma"
-    ],
-    "Ama-Spade": [
-        "- <https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=ama>",
-        "- Alpinists perform SpadeAma all the time when using an ice axe",
-        "- Using a Cane",
-        "- Using Crutches is like a Trimaran",
-        "- ElbowClose",
-        "    - ArmExternalRotation",
-        "    - To prevent Shoulder impingement",
-        "    - Kontakt with Palm instead of Purlicue",
-        "- Sinkron(BaseSkreef)",
-        "    - To Support UpperBody during BaseSkreef",
-        "- Sinkron(NeonInsert)",
-        "    - ArmEccentric(Flexion, Elevation) to support Korpo during NeonInsert",
-        "- ManoHandleCompress",
-        "- SpadeAnteriorAma",
-        "- SpadePosteriorAma",
-        "- SpadeLateralAma"
-    ],
-    "Amble-Arm": [
-        "- \"Aktion.ArmAktion.ArmWalk\""
-    ],
-    "Amble-Branta-Korpo": [
-        "- \"Branta\" is Duck in Latin",
-        "- DuckWalk",
-        "- 2 BaseExRotation"
-    ],
-    "Amble-Korpo-Prokline": [
-        "- InclineTraverseWalk",
-        "    - LeanIntoIncline",
-        "        - ArmAma",
-        "        - SpadeAmble",
-        "        - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip",
-        "    - Spade on UpSlope side",
-        "    - Turn to Facing Slope when falling",
-        "- InclineUpWalk",
-        "- InclineDownWalk"
-    ],
-    "Amble-Korpo-Under": [
-        "- \"Aktion.BodyAktion.StepUnderLog\""
-    ],
-    "Amble-Korpo": [
-        "- AmbleSpeed",
-        "    - RelativeToAtlete",
-        "    - Velocity",
-        "- GaitWidth",
-        "    - Inline like a Wolf or Wide like a crab",
-        "- StrideLength",
-        "    - Shorten StrideLength during SlopeUpAmble or SlopeDownAmble",
-        "    - Shorten StrideLength on UnstableSlope",
-        "- (ArmAmble + Amble) on SteepSlope",
-        "- StompTest when LogAmbling",
-        "- \"Aktion.BodyAktion.Amble\""
-    ],
-    "Amble-Krampon": [
-        "- Using Krampon or kicking your Boot into a Slope like a Krampon"
-    ],
-    "Amble-Spade": [
-        "- Like Walking with a Cane.",
-        "- 🟠Walk uses the same"
-    ],
-    "Armor-Flora": [
-        "- Hoplite Shield",
-        "- SpadeOnda to FloraBlock",
-        "- RadiorDev.UX",
-        "- (FloraBlock != FloraParry)",
-        "    - In FloraBlock you are moving towards the Flora, conversely, in FloraParry the Flora is moving towards you",
-        "- Push through like a CarWash with the tentacles",
-        "- ShoulderSlide",
-        "    - Drop your shoulder into the flora",
-        "    - PanBETA(Running into an opponent who is trying to tackle you)"
-    ],
-    "Armor-Plantfor-Bag": [
-        "- Hoplite Shield"
-    ],
-    "Armor-Spade": [
-        "- Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require ArmAma)",
-        "- CollarMano or HandleMano or both, 2ManoAktion"
-    ],
-    "Axine-Spade-Flora": [
-        "- <BB labor=\"Axine\" soma=\"Arm\"/> is possible"
-    ],
-    "Axine-Spade": [
-        "- Knuckles Parallel to shaft",
-        "- SpadeAxineSkreef",
-        "    - SpadeAxine is used anywhere, SpadeAxineSkreef is only used when Skreefing a Site.",
-        "    - SpadeAxine is often a Loop",
-        "    - RedRotAxine",
-        "        - Axine a RedRot log into a smaller chunk, then throw it",
-        "    - BranchAxine",
-        "        - Aim for where the branch connects to the trunk, so the branch can't elastically absorb the impact",
-        "    - PoaAxine or RizoAxine",
-        "        - Poa must be under tension",
-        "            - BootSlide to apply tension"
-    ],
-    "Bag-Site": [
-        "- BagRimSite",
-        "- BagBodySite",
-        "- BagBottomSite"
-    ],
-    "Boot-Lace-Modify": [
-        "- LacePull",
-        "- LaceTighten",
-        "    - LaceTightenCascade",
-        "- LaceDoubleWrap",
-        "    - [SurgeonsDoubleShoelaceBowKnot](https://www.animatedknots.com/shoelace-bow-knot-surgeons)",
-        "- When to cut laces shorter to prevent lace snag?",
-        "- Avoid double bow since it's difficult to untie, espcially if it has tightened while wet"
-    ],
-    "Boot-Mano": [
-        "- BootHeelMano",
-        "- BootHeelToeMano",
-        "    - BootOff",
-        "    - BootOn",
-        "- BootToeMano"
-    ],
-    "Boot-Off": [
-        "- LaceLoosen",
-        "- BootTonguePull"
-    ],
-    "Boot-On": [
-        "- [Boot.On] is an Aktion do to a Boot [Object,Verb], [Drag.Boot] is an Aktion done with a Boot [Verb,Object].",
-        "- TibiorOff",
-        "1. LaceLoosen",
-        "2. BootMano",
-        "3.  "
-    ],
-    "Boot-Preserve": [
-        "- BootWaterproofing",
-        "- BootWax",
-        "- Remove Dirt",
-        "    - BootBrush",
-        "- Glue Seams"
-    ],
-    "Box-Aktion": [
-        "- Box ollie",
-        "    - BoxPop",
-        "    - (Pop)InsteadOf(Ollie)",
-        "- BoxConsolidate",
-        "    - PartialBox",
-        "- Single BoxCarry",
-        "- Double BoxCarry",
-        "    - Stacked not Akimbo",
-        "- BoxDrag",
-        "- BoxAttributes",
-        "    - BoxWeight",
-        "    - BoxDimension",
-        "        - BoxLength",
-        "        - BoxHeight",
-        "            - SummerTrees",
-        "            - SpringTrees",
-        "        - BoxWidth",
-        "    - BoxMaterial",
-        "        - Waxed or Unwaxed",
-        "    - BoxPlantCount",
-        "    - BoxSpecies",
-        "- BoxAnatomy",
-        "    - BoxHandle",
-        "    - BoxCorner",
-        "    - BoxEdge",
-        "    - BoxFlap",
-        "    - BoxLock",
-        "    - BoxSide",
-        "    - BoxBase",
-        "- \"Aktion.ToolAktion.BoxAktion.BoxOpen\"",
-        "- \"Aktion.ToolAktion.BoxAktion.BoxSlide\"",
-        "- \"Aktion.ToolAktion.BoxAktion.BoxStack\"",
-        "- \"Aktion.ToolAktion.BoxAktion.Overview\""
-    ],
-    "Box-Construct": [
-        "- BoxLock",
-        "- BoxUnlock",
-        "- BoxOpen",
-        "- BoxClose",
-        "- BoxDeconstruct is the reverse of BoxConstruct"
-    ],
-    "Box-Lift": [
-        "- Deadlift",
-        "- 2(CreaseMano(BoxBase))",
-        "- 2(BoxHandleMano)",
-        "- (BoxHandleMano + BoxSideSmear)"
-    ],
-    "Box-Lock": [
-        "- BoxUnlock"
-    ],
-    "Box-Mano": [
-        "- BoxHandleMano",
-        "- BoxCornerMano",
-        "- BoxEdgeMano"
-    ],
-    "Box-Slide": [
-        "- BoxPushSlide",
-        "- BoxPullSlide",
-        "    - You can Rip the BoxHandle is you pull and the box doesn't move, or if the friction is too high that it resists moving too much",
-        "- BoxOnBoxSlide",
-        "    - BoxStack"
-    ],
-    "Box-Stack": [
-        "- BoxStack"
-    ],
-    "Box-Transport": [
-        "- FlatBoxTransport",
-        "    - BoxDeconstruction",
-        "    - WalkOut",
-        "    - FlatBoxStackTransport",
-        "- ShoulderPosture",
-        "- StraightArm",
-        "- BoxChain",
-        "    - Bucket Brigade",
-        "    - TeamBETA",
-        "- CreaseMano(BoxEdge)",
-        "- HandBump along BoxEdge or BoxSide",
-        "- (ChestSmear + ArmAcuteFlexion + ArmMedialPull)",
-        "- BoxAkimboCarry",
-        "    - BoxHandleMano"
-    ],
-    "Branch-Audio": [
-        "- BranchSnap",
-        "- You can tell when you hit a branch with your Spade whether it's Living or Dead by the sound it makes."
-    ],
-    "Bundle-Aktion": [
-        "- [Bundle.Consolidate]",
-        "- [Bundle.Wrap]",
-        "    - BlockClose",
-        "    - Wrap up excess trees",
-        "- [Bundle.Tuck]",
-        "    - Roll bundles in to bags during BagIn",
-        "    - [Bundle.Tuck] == ([Push|Finger.Tip]+[Flex|Finger])",
-        "- \"Aktion.ToolAktion.BundleAktion.BundleRoll\"",
-        "- \"Aktion.ToolAktion.BundleAktion.BundleUnwrap\"",
-        "- \"Aktion.ToolAktion.BundleAktion.AktionError.WrapperLitter\"",
-        "- \"Aktion.ToolAktion.BundleAktion.Overview\""
-    ],
-    "Bundle-Mano": [
-        "- Mano the Wrapper to avoid pulling out a Neon",
-        "- Bundle Grip",
-        "    - Hold on stem as close to pods as possible for max stability",
-        "    - Bending stems",
-        "    - Fascile is bound",
-        "    - Bind bundle with Mano"
-    ],
-    "Bundle-Unwrap": [
-        "- FeelingForKontakt to find WrapperStart",
-        "- PinchSlideGrip",
-        "- 2HandAktion",
-        "    - (PinchMano + ScoopMano)"
-    ],
-    "Cache-Aktion": [
-        "- Eat in your wind eddie. Back to wind",
-        "- BoxAktion",
-        "- GloveOn, GloveOff",
-        "- SpadePost when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)",
-        "- \"Aktion.CacheAktion.BagsPlacement\"",
-        "- \"Aktion.CacheAktion.BoxPlacement\"",
-        "- \"Aktion.CacheAktion.BundlePlacement\"",
-        "- \"Aktion.CacheAktion.CacheBreak.Overview\"",
-        "- \"Aktion.CacheAktion.GarbageBox\"",
-        "- \"Aktion.CacheAktion.Overview\"",
-        "- Cache move so a cache move the cache is a good example of where the root really matters",
-        "- a cache is typically about 3 m wide 2 m in the other direction and maybe a meter tall",
-        "- it's really important to be efficient at the cache because unlike anywhere else in the land the cache is the one place where you take your break so if you're going slow at the cache you can be or you can go slow at the cache by taking too much time and taking a break like snacking",
-        "- there's also a huge anima aspect or even beta I guess because it's communication if you're at a cache with another person that adds a whole level of complexity to the moves and The vias and the anima I guess it actually is mostly anima because you want to talk to someone you kind of want to chill you spend like the last like 5 hours alone in a forest planting trees and you just want to talk to someone which is totally fair but the issue with that is you're not making any money and you're not planting any trees so it can be beneficial to be anti-social in a way but not too there we go there's a bit of a complexity there you don't want to be too antisocial because you can derive benefit from just like talking to someone for a few minutes",
-        "- the actual AktionS of the cache the AktionS are smaller there's little force and they have the least amount of force unless you're lifting up a box because nothing there is actually heavy you're mostly  dealing with your own food and you're eating and you're drinking water",
-        "- an important thing to thing to think about with cache moves which is related to moto module is clothing if it's cold and rainy out should you put your jacket on and then there's a lot of really high complexity moves with dealing with a wet jacket or a muddy jacket or a wet muddy jacket how do you manipulate your clothing or move with your clothing without making them super muddy cuz then if they get muddy you might cause extra chafing when you're walking and if you make it wet then make you'll be colder than you want to be",
-        "- the cache move you should be setting up that's the main thing that people mess up is that they don't follow in an exact protocol they improvise each time",
-        "- the best way to do it is to go to the cache drop your bags in the same position as always or at least have the same the entire same setup for the for the entire time that you're at the at a particular cache so how does the setup change between caches changes on if you're on the road or not if you're in a piece if you can't sit down like sometimes you might be your cache might be right beside a stream so you cache is actually really wet you can't really sit down there or if it's snowy or if it's a summer cache or a spring cache that changes the setup a little bit you'll have to remember to keep all your stuff together",
-        "- issue with you want to put your stuff under the tart but under the tarp is full of pesticide so ultimately is it good to put stuff under the tarp?",
-        "- the cache bag and where you position the cache bag ideally you would want to touch the tarp and the boxes the minimum time as possible so that means that when you leave the cache you want to have it be set up for when you return so in the Cache there's also different types of moves most of the moves or Tool moves so box open box close box move box stack yeah and the tart AktionS I guess you could just copy from like people who make beds like being able to well that's another thing too so when you take a rock off a tarp you don't throw it cuz the further you throw it the further you have to walk to go pick up that rock that you just threw when you're leaving the cache so there's another Axiom to think about is don't create work for yourself yeah that's a pretty good one yeah with the cache is a huge there's a lot of complexity because you have to deal with not getting things dirty not getting things wet it's also difficult to I guess where do you separate the cache bag like the Tool part in the move part the cache is all the cache Tools are either roots or moto Tools none of them are eko so yeah you start at the cache and you end at the cache so the start move would be putting on the bags and standing up the finish move would be taking off the bags and placing them ideally when you take off your bags and you're placing them you use the momentum of the falling can also twist your body use the momentum as the bags are falling to position them and ideally you don't want to reposition them so it's kind of like in the climbing games where wherever you wherever you go whatever hold you grab that's the only one you can use you can't hand swap or you can't readjust or anything yeah I'm with the cache move there's also eating involved so that's where the Frase becomes pretty important because if you have your gloves on or eating that's like really bad for your health which is totally not really mentioned so the Frase really matters it's kind of b******* because all your gloves are porous no matter what so the pesticides are still getting onto your fingers I don't know if people really wash their hands and even if they do wash their hands what dissolves the the pesticide is a polar nonpolar what's going on there do you need to use soap do you need to use vinegar how do you actually get pesticide off what is pesticide f***I don't even know a pesticide is but we have it and we're coming into contact with it all the time for the cache move there's a lot of the AktionS you can do a lot of the AktionS but the AktionS that you do affect your anima so they affect your mood so if you sit down in a cache move like you can definitely do that physically but mentally that's not the same as just bending over cuz if you're just bending over you can leave easily you're not relaxing you're not getting your head out of the game you're maintaining a mindset so with the cache move there's it's high complexity because it actually might even be high risk too because since since neur o is way more chaotic than moves you can sit in the wrong position wrong as in it will make your anima all messed up like say you come back and you sit down and you kneel on your legs and then now you have a bunch of wet mud on your butt that will affect your anima or say you come back and you you step on when your piece of clothing by mistake and it gets it all dirty so it really is in a way your gear your equipment becomes part of eko when you're at the cache are there obstacles at the cache not really I guess the only obstacle would be the road because you can't sit on the road because a car might drive by how do you grade the different comfort levels of a cache I don't really know what that would that would probably be like intensity or something so if it's like a hard packed Gravel Road like the one near Kelowna at the end of the year last year that was pretty uncomfortable it was drives pretty shit meanwhile if you have a cache surrounded by like say you beside a burn pile you can kind of like sit on the burn pile you can find benches so yeah that's another thing with the cache is adding the word bench or seat places to sit once again you don't want to sit there for too long but it's kind of nice sometimes especially if it's hot out to sit down when it's cold out you really don't want to hang out by the cache because you're only going to get colder the reverse is true when it's hot out I guess when you sit out at the cache when it's hot you can cool down because you don't have to move",
-        "- BottleReCoverAktion"
-    ],
-    "Catch-Flora": [
-        "- \"Aktion.PlantAktion.BranchWhip\"",
-        "- BranchWhip"
-    ],
-    "Clothing-Pocket-Aktion": [
-        "- Unzipping a Pocket with one Hand"
-    ],
-    "Crop-Alignment-Polygon": [
-        "- You plant polygons even when you're ParaLimit"
-    ],
-    "Crop-Proximity-Adaptive": [
-        "- ⭐<span class=\"labor\">Adapt</span> 🔻<span class=\"via\">Adaptation</span>",
-        "- [Counting Cards in Blackjack](https://www.youtube.com/watch?v=G_So72lFNIU)",
-        "    - High",
-        "    - Low",
-        "    - Net Count",
-        "    - Running Count",
-        "    - MeaningfulPairs",
-        "    - TrueCount",
-        "    - Deck",
-        "    - PlayerAdvantage",
-        "    - Bet",
-        "        - BetSize",
-        "        - Betting Time (Event)",
-        "        - Betting Unit"
-    ],
-    "Crop-Proximity-Fixed": [
-        "- Proximity == Spacing"
-    ],
-    "Cutblock-Density": [
-        "- Stems Per Hectare"
-    ],
-    "Cutblock-Road": [
-        "- CutBank",
-        "- To a Planter a Road is more VIA than EKOS, since no planting is ever performed on road, unless it has been deactivated."
-    ],
-    "Dilate-Mano": [
-        "- Open the hole when with your hand if stuff falls in or if the soil is chunky or you can lift a rock to open a hole"
-    ],
-    "Dilate-Spade": [
-        "- SelectSite-> ValidateSite-> SiteCut-> SiteExpand-> InsertTree-> SealSite-> MarkateSite",
-        "- A site can be divided by",
-        "    - SpadePogo",
-        "    - SpadeImpact",
-        "- Definition(SiteDilate)",
-        "    - Create a place to put the tree",
-        "    - Not all holes are planted",
-        "    - HoleOpen is a Frase",
-        "        - SpadeChop->SpadePry",
-        "    - You don't put trees in holes, you put trees in sites",
-        "        - You can't close a void, you can't close a hole, you can only close the container of the hole, which is a site",
-        "    - An eye doesn't get bigger when you dilate it, the hole within the eye gets bigger. A site doesn't get bigger, but the",
-        "- CCut",
-        "    - Only in CreamySoil",
-        "- DoubleTap"
-    ],
-    "Error-Fall": [
-        "- FootSnag",
-        "    - OpenSnag",
-        "        - something which can be pulled out",
-        "        - HookSnag",
-        "    - ClosedSnag",
-        "        - FixedSnag",
-        "        - A loop",
-        "        - Trip over a log",
-        "- FallRecoveryFase",
-        "    - \"Catch your fall\" before you get to the ground",
-        "    - ArmAbsborb",
-        "    - BodyAbsorb",
-        "    - ArmAma",
-        "    - HandCatch",
-        "    - LegAbsorb",
-        "    - BaseAma",
-        "    - FloraMano",
-        "        - FloraPull",
-        "        - Don't Rely on Flora since you could rip it out of the ground if there's enough force",
-        "    - SpadeAma",
-        "- FallRedirectionFase",
-        "    - AbsorbAktion",
-        "        - To give more time for redirection",
-        "    - PanBETA(SkateboardBeta)",
-        "        - Most BigAir jumps have a quarter pipe after landing ramp to convert kinetic energy into gravitational potential energy and friction. The gravitational potential energy is only dissipated if the skateboarder steps onto the top of the quarter pipe. Otherwise the kinetic energy is lost to air drag and friction",
-        "    - PanBETA(SkiBeta)",
-        "        - Landing is a FallRedirection from Down to Forwards",
-        "            - Run it out. Run down the slope",
-        "            - Runaway truck gravel pits often slope up hill",
-        "        - Spot your landing",
-        "    - Step in the direction of the fall, then LegAbsorb or BaseAma only if the fall hasn't gained much energy",
-        "        - Avoid LegSnag, or FootSnag",
-        "        - Don't cross your legs, because you could LegSnag yourself",
-        "    - After the point of no return. You can't stop falling, so you must redirect to fall into the safest place",
-        "    - To fall onto your bags",
-        "    - PushAktion",
-        "    - PullAktion",
-        "    - Sit instead of toppling over like a domino",
-        "        - Don't Sit if you're gonna get impaled",
-        "    - KontaktSelection",
-        "        - VIA which Fluxes to the next site",
-        "        - Somewhere to decelerate (AbsorbAktion)",
-        "            - Run down the hill",
-        "- FallCollisionFase",
-        "    - When you actually collide with the ground",
-        "    - Fall to your knees",
-        "    - FallOnto your Bags"
-    ],
-    "Error-Markum": [
-        "- MarkumSnag",
-        "    - MarkumRoll can get snagged on by EKOS and unrolls as you walk away. This can waste dozens of meters of Markum."
-    ],
-    "Error-Mikrosite": [
-        "- Not Skreefed enough"
-    ],
-    "Error-Prep-Mound": [
-        "- \"Eko.Prep.MoundPrep\""
-    ],
-    "Eval-Neon": [
-        "- NeedleTest",
-        "- VisualEval",
-        "- ManoSlideEval uses Kinetic Friction to pull on tree while needle test uses static, same with StaticEval",
-        "- Evaluate the Quality of a Neon",
-        "    - LooseNeon",
-        "    - ShallowNeon",
-        "    - LeaningNeon"
-    ],
-    "Eval-Spade": [
-        "- Spade Peck",
-        "- Feel the perimeter of Rock. Sometimes following a RockCap for a couple meters if there aren't any other NeoSites near initial site",
-        "- SpadeLogTest",
-        "    - Can I stand on this without it breaking",
-        "- SpadeSoilTest",
-        "    - Is this quicksand",
-        "    - Is this mud. Will I sink into this?",
-        "- SpadeSiteTest",
-        "    - Can I put a tree here?",
-        "    - test in circles instead of walking further",
-        "    - Is this Site too Wet?"
-    ],
-    "Extend-Spine": [
-        "- ⭐<span class=\"labor\">Extend</span> 🔻<span class=\"via\">Extension</span>",
-        "- Jelly Pump to reposition Spine vertebrae back into alignment",
-        "- \"Aktion.BodyAktion.SpineExtension\""
-    ],
-    "Flex-Korpo-Down": [
-        "- Progress down to a Hole is more than just ArmProgress"
-    ],
-    "Flex-Neck": [
-        "- HeadTiltIntoWind",
-        "- \"Aktion.HeadAktion.HeadTiltIntoWind\""
-    ],
-    "Flora-Emotion": [
-        "- Fear of Sharp plants",
-        "- hating Poales because it's so difficult to Skreef"
-    ],
-    "Flora-Flexion": [
-        "- Fold flora away from a site",
-        "    - To prevent getting ripped by Thorns",
-        "    - To prevent getting impaled",
-        "    - To move flora out of the way so you can skreef."
-    ],
-    "Glove-Aktion": [
-        "- CleanGloves to remove the grit that causes SkinErosion",
-        "- FingerRevertAktion",
-        "    - GloveOff",
-        "- GloveWipe",
-        "    - To remove Mud",
-        "        - When Swapping SpadeHands for AmbiPlanter"
-    ],
-    "Glove-Mano": [
-        "- GloveRevert",
-        "    - Glove can turn inside out when it's being removed",
-        "    - How to revert your glove without getting dirt on the inside?",
-        "    - FingerRevert",
-        "    - GloveRevert",
-        "- FingertipMano",
-        "    - GloveOff",
-        "- CuffMano",
-        "    - Minimize Kontakt to prevent grit from getting into glove"
-    ],
-    "Glove-Off": [
-        "- WetGloveOff",
-        "- Close Glove to keep thermal energy",
-        "    - When removing a mid layer, keep the outer layer wrapped"
-    ],
-    "Glove-On": [
-        "- WetGloveOn",
-        "    - ANIMA Discomfort"
-    ],
-    "Hat-Aktion": [
-        "- HatCatch when the wind blows it off your head",
-        "- HatBrimMano",
-        "- HatCrownMano",
-        "    - NapoleonCoronation",
-        "- HatOn",
-        "- HatOff",
-        "- HatAdjust"
-    ],
-    "Hook-Arm": [
-        "- ShoulderHook",
-        "- ElbowHook",
-        "- WristHook"
-    ],
-    "Jump-Korpo": [
-        "- VerticalJump PanBETA(HighJump)",
-        "- HorizontalJump PanBETA(LongJump)",
-        "- \"Aktion.LegAktion.Jump\""
-    ],
-    "Karabiner-Aktion": [
-        "- PlantingTool_Carabiner_Rope_CloveHitch_RopeAnchor_HangingCache",
-        "- PlantingTool_Carabiner_Rope_HangingTreeCache",
-        "- PlantingTool_Carabiner_ToolStorage_Crummy",
-        "- PlantingTool_Carabiner_ToolTransport_Backpack",
-        "- PlantingTool_Carabiner_ToolTransport_Rope",
-        "- PlantingTool_Carabiner_ToolTransport_WalkIn",
-        "- Rope",
-        "- GearLoop",
-        "- Kit",
-        "- Gromet",
-        "- Tarp"
-    ],
-    "Klose-Boot-Arch": [
-        "- FootSeal",
-        "Arch:::"
-    ],
-    "Klose-Boot": [
-        "- BootPrint",
-        "    - You can tell the type of BootKlose that a Planter used by the BootPrint that they leave",
-        "- Precision",
-        "    - ❌<error>Stepping on the Tree instead of beside the Tree</error>",
-        "- Kratos",
-        "    - HypoKratos",
-        "        - HardSoil, DryClay which takes a lot of power to break to Klose its site.",
-        "    - HyperKratos",
-        "        - Cause a ShallowTree, from making your Bootprint too Deep",
-        "- BootKlose.RepetitionCount",
-        "- AngleOfApproach",
-        "    - AcuteBootKlose",
-        "    - PerpendicularKlose",
-        "- BootArchKlose",
-        "    - BootArch is aligned with Opening",
-        "        - Both sides get compressed",
-        "- BootDragKlose",
-        "    - Used when ClaySoil cleaves into blocks",
-        "    - Break apart the soil while moving it into place",
-        "- ToeKickKlose",
-        "    - Leaves a ToePrint",
-        "    - Kick one side of the Hole to Klose it",
-        "    - Stickmat",
-        "        - The ToeBox fits between the sticks",
-        "- HeelKickKlose",
-        "    - Leaves a HeelPrint",
-        "    - Kick one side of the Hole to Klose it",
-        "        - The CloseSide of the hole",
-        "        - The Farside of the hole",
-        "- Frase",
-        "    - BootKlose == Walk.Step",
-        "- \"Aktion.FootAktion.BootKlose\""
-    ],
-    "Klose-Drag-Boot-Heel": [
-        "- HeelDragSeal"
-    ],
-    "Klose-Drag-Boot-Toe": [
-        "- ToeDragSeal"
-    ],
-    "Klose-Drag-Boot": [
-        "- FootDragSeal"
-    ],
-    "Klose-Drag-Hand": [
-        "- ⭐<span class=\"labor\">Mano</span> == Grip, 🔷<span class=\"soma\">Hand</span>",
-        "    - Klose.Mano is like Klose.Grip or Klose.\"Hand Move\"",
-        "- LockedClawMano",
-        "    - Isometric, not concentric",
-        "- Diagonal or Sagittal"
-    ],
-    "Klose-Hand": [
-        "- HammerSeal",
-        "    - Using the RadialBorder of Fist as Kontakt",
-        "- PunchSeal",
-        "- PinchSeal",
-        "- PalmSeal  ",
-        "    - PalmarKontakt",
-        "    - Analogous to ArchSeal",
-        "- SlapSeal"
-    ],
-    "Klose-Kick-Boot-Heel": [
-        "- HeelKickSeal"
-    ],
-    "Klose-Kick-Boot-Toe": [
-        "- ToeKickSeal"
-    ],
-    "Klose-Pugno": [
-        "- Pugno is Punch",
-        "- Pugilist",
-        "- Only really creamy soil, otherwise you'lll hurt your hand"
-    ],
-    "Klose-Slap": [
-        "- Slap DrySandSoil to cause it to NaturalSeal",
-        "- SlapSeal really WetSoil, since WetSoil requires very little energy to Seal",
-        "    - WetSoil grains can flow easily"
-    ],
-    "Klose-Spade": [
-        "- KloseSpade"
-    ],
-    "Kneel-Ground": [
-        "- (Kneel+ArmProgress) during BagIn",
-        "- \"Aktion.LegAktion.Kneel\""
-    ],
-    "Knot-Boot-Lace": [
-        "- LaceTightenCascade"
-    ],
-    "Kompakt-Arm": [
-        "- Arm_Kompact for Korpo_Slot"
-    ],
-    "Kompakt-Mano": [
-        "- (Grip != Hand), (Grip = Requires(Hand))",
-        "- Fist"
-    ],
-    "Kompress-Arm-Arm": [
-        "- (<>Arm == Arm+Arm)",
-        "- ArmClamp",
-        "- Jouster",
-        "- ArmPit"
-    ],
-    "Kontakt-Boot-Arch": [
-        "- Kontakt anything with BootArch",
-        "- (⭐<span class=\"labor\">Kontakt.BootArch</span> != <BB labor=\"Boot.Arch\"   via=\"Site\"/>)"
-    ],
-    "Kontakt-Boot-Dorsi": [
-        "- The dorsal part of your boot (Foot)",
-        "- Toe🟠Hook",
-        "- LogLaunch"
-    ],
-    "Kontakt-Korpo": [
-        "- Laying on the Ground is <BB labor=\"Kontakt\" soma=\"Korpo\"/>"
-    ],
-    "Kontakt-Leg": [
-        "- Kontakt is a Verb"
-    ],
-    "Kontakt-Plantfor-Bag": [
-        "- BagRimKontakt",
-        "- BagBodyKontakt",
-        "- BagBottomKontakt"
-    ],
-    "Kontakt-Scapula": [
-        "- Like opening a door with your shoulder or \"dropping your shoulder\" when you run through someone trying to tackle you"
-    ],
-    "Kontakt-Spade-Blade": [
-        "- (<BB labor=\"Kontakt,Spade.Blade\" soma=\"Hand\"/> != <BB labor=\"Mano,Spade.Blade\" />)",
-        "- TipKontakt",
-        "- EdgeKontakt"
-    ],
-    "Kontakt-Spade-Shaft": [
-        "- Used when pushing and holding Flora back away from Neosite",
-        "- <BB labor=\"Mano,Spade.Shaft\" /> is a SubBetom of SpadeSkim"
-    ],
-    "Korpo-Posture": [
-        "- NeutralShoulderPosture",
-        "- ExternalHumerusRotationPosture",
-        "    - Palm direction while walking",
-        "        - ❌<error>Palm Facing Posterior</error>"
-    ],
-    "Layer-Aktion": [
-        "- informal",
-        "    - used by nudists to describe something relating to or restricted to people wearing clothes.",
-        "    - textile beaches",
-        "- Layer.On",
-        "- Layer.Off",
-        "- Roll up your back bag layer to shell from water and dirt",
-        "- \"Aktion.ClothingAktion.Overview\""
-    ],
-    "Layer-Insulation-Aktion": [
-        "- Dress for the weather not how your body feels, if you put on insulation only when you're cold then you've wasted energy"
-    ],
-    "Layer-Knot": [
-        "- Knot layers to stuff for transport",
-        "- Layer.Knot.Hitch to Truck seat headrest"
-    ],
-    "Layer-Preserve": [
-        "- HatPreservation",
-        "- RainShellPreservation",
-        "- FastenerPreservation",
-        "    - Grit erodes Zippers"
-    ],
-    "Lean-Korpo": [
-        "- LeanOntoFlora",
-        "- LeanOnSpadePry",
-        "    - HoleExpand",
-        "        - RockPry",
-        "        - RockPush while Prying BladeInSoil like a Class3Lever where the fulcrum is in the soil and the rock is the load",
-        "- LeanOn",
-        "- LeanOnSpadeImpact",
-        "    - Only after a SpadeProbe",
-        "- LeanOnSlope",
-        "- LeanOnSpadeTab",
-        "- \"Aktion.BodyAktion.BodyLean\""
-    ],
-    "Load-Neon": [
-        "- Cherries fluffing neon packing error",
-        "- \"Aktion.ArmAktion.TreeLoad\""
-    ],
-    "Log-Audio": [
-        "- Log Break Audio",
-        "- Hollow Log",
-        "- Rotten Log",
-        "- Punky Log",
-        "- Waterlogged Log"
-    ],
-    "Mano-Flora": [
-        "- \"Aktion.ManoAktion.BranchMano\""
-    ],
-    "Mano-Orbit": [
-        "- Orbit = Revolve",
-        "- Orbit could be around a Cylinder or Sphere",
-        "- ManoOrbit.SubAktion(ManoSlide)",
-        "- ManoOrbit around Collar, Handle, trunk, branch",
-        "- IsometricContraction",
-        "- SuperAktion(SpadeOnda, SpadeMuscleUp, SpadeSpike)",
-        "- ManoOrbit"
-    ],
-    "Markate-Div": [
-        "- AreaFlagging",
-        "    - Flag the areas that are Complete",
-        "- Zone,Markum marks within a Zone",
-        "- BorderMarkate marks the limits of an Zone"
-    ],
-    "Markate-Paleon": [
-        "- Marking Natural Crop Trees"
-    ],
-    "Markum-Aktion": [
-        "- SpadeHand Markum Mano is obsolete from a time before Markum pouch",
-        "- Markum follow through motion to ensure that the Markum doesn't fold back on itself, since fully extended Markum drapes over branches, while clumped Markum just falls to the ground",
-        "- \"Aktion.ToolAktion.MarkumAktion.MarkumDrop\"",
-        "- \"Aktion.ToolAktion.MarkumAktion.MarkumStump\"",
-        "- \"Aktion.ToolAktion.MarkumAktion.AktionError.PlantedMarkum\"",
-        "- \"Aktion.ToolAktion.MarkumAktion.Overview\""
-    ],
-    "Markum-High": [
-        "- Crook high Markum"
-    ],
-    "Markum-Knot": [
-        "- Hitch",
-        "    - GirthHitch",
-        "- Knot",
-        "    - BoxTie"
-    ],
-    "Markum-Load": [
-        "- \"Aktion.ToolAktion.Markum.Aktion == Markum.Unload\""
-    ],
-    "Markum-Rip": [
-        "- \"Aktion.ToolAktion.MarkumAktion.MarkumRip\""
-    ],
-    "Markum-Roll": [
-        "- \"Aktion.ToolAktion.MarkumAktion.MarkumRoll\""
-    ],
-    "Markum-Site": [
-        "- Fireweed MarkumSite"
-    ],
-    "Mikrosite-Aktion": [
-        "- NeonSite is a PlantedSite. There is a Neon in the Site",
-        "- SiteDepth_BareRoot_DeepSite",
-        "- SiteDepth_RelativeDepth_TreePodLength",
-        "- SiteWidth_RelativeWidth_TreePodDiameter",
-        "- ParaLog_RottenLog_RedRot_DuffShot_",
-        "- ParaLog_RottenLog_TreeInspector",
-        "- ParaRock_RockSize_LithosphereInfluence",
-        "- ParaStump_FastLand_OneManoAktion_SpadeLeverSkreef_",
-        "- Root_ThickRoot_SpadeSnag",
-        "- Root_ThinRoot_PlantingSound",
-        "- TreeFertilizerSite_ParaSite_SpadeThrow",
-        "- TreeFertilizerSite_SameSite_PlantingFrase",
-        "- Underrock_RockPry_SpadeAktion_SpadeBlade_"
-    ],
-    "Mikrosite-Eval": [
-        "- DrySiltSoil must be compressed before Impact to prevent tree lean",
-        "    - Near GraybackMountain"
-    ],
-    "Mikrosite-Klose": [
-        "- Seal implies that there is a tree put in the hole",
-        "- AutoSeal",
-        "    - The site seals by itself",
-        "    - Mud, DrySediment",
-        "- Axiom",
-        "    - Seal() is Postcedent to Put()"
-    ],
-    "Mikrosite-Proximity": [
-        "- Proximal is the nearest site",
-        "- The method of a ViaSpace is Cover()",
-        "- ViaSpace is the sum of all Lines, ViaSpace is useful to know since there are always small detours from Lines, there may be an Obstacle which causes a detour. You can detour from a Line while still remaining in a ViaSpace",
-        "- ❌<error>TooFar</error>",
-        "- ❌<error>TooClose</error>",
-        "- ViaSpace extends underground. You wouldn't want to step on quicksand",
-        "    - You need to consider what's under a Contact when 🟠Stepping or 🟠OpenHole",
-        "- ViaSpace is usually directly above Contact",
-        "- Most stable ViaSpace is aligned with Normal",
-        "- \"VIA.VIA_Geometry.VIA_Space.Overview\"",
-        "- \"VIA.VIA_Geometry.VIA_Space.VIA_NegativeSpace\"",
-        "- \"VIA.VIA_Geometry.VIA_Space.VIA_RangeOfLoadingAngles\"",
-        "- \"VIA.Spacing.ClosestTree\"",
-        "- \"VIA.Spacing.ContiguousTree\"",
-        "- \"VIA.Spacing.DripLine\"",
-        "- \"VIA.Spacing.ElasticSpacing\"",
-        "- \"VIA.Spacing.ElasticSpacing.AbsoluteDisplacement\"",
-        "- \"VIA.Spacing.ElasticSpacing.RelativeDisplacement\"",
-        "- \"VIA.Spacing.MaximumSpacing\"",
-        "- \"VIA.Spacing.MinimumSpacing\"",
-        "- \"VIA.Spacing.OptimalSpacing\"",
-        "- \"VIA.Spacing.Overview\"",
-        "- \"VIA.Spacing.SlopedSpacing\""
-    ],
-    "Mikrosite-Select": [
-        "- <BB labor=\"Select\"   via=\"Site\"/>",
-        "- <BB labor=\"Select\"   via=\"Passage\"/>",
-        "- <BB labor=\"Select,Tool\" />",
-        "How to choose your next site",
-        "## NeoSitePolygon",
-        "- The zone where a Neosite can go relative to PlantedSites",
-        "## NeoSiteProximity",
-        "- The side lengths of the NeositePolygon.",
-        "- MaximumProximity",
-        "- MinimumProximity",
-        "- OptimalProximity",
-        "- You don't select a Neosite, a Neosite is a Mikrosite which has already been planted",
-        "- Using EyeAktion",
-        "- You can Select from further away if you stand instead of BodyBend",
-        "- Mikrosites"
-    ],
-    "Mikrosite-Skreef": [
-        "- SiteSkreef is a Aktion and an Ekon"
-    ],
-    "Neon-Mano": [
-        "- Rizo is Root",
-        "- TreeConfirm",
-        "    - See if the tree has been planted with good quality",
-        "    - TreeTwirl",
-        "    - TreePull",
-        "        - CollarMano",
-        "    - SitePoke",
-        "        - Confirm the Seal around the collar",
-        "            - LooseTree",
-        "        - No roots exposed",
-        "            - ShallowTree",
-        "- DendroFlip",
-        "- BlindAktion",
-        "- RizoMano",
-        "- TreeLoad",
-        "    - FeelingForHold",
-        "- StemMano",
-        "- TreeInsert",
-        "    - PodMano(2Finger)",
-        "    - TreeRelease"
-    ],
-    "Neon-Site": [
-        "- Collar",
-        "- RootPod",
-        "- Needle as in <BB labor=\"Eval,Neon\"/> needle test for tightness of Neon in the ground"
-    ],
-    "Neonektomy-Mano": [
-        "- Remove a Neon by gripping it with your Hand and pulling it out"
-    ],
-    "Neonektomy-Spade": [
-        "- Use a Spade to remove a Neon which has already been planted",
-        "    - To modify density"
-    ],
-    "Onda-Arm": [
-        "- ArmLateralOnda",
-        "- ArmUpOnda",
-        "    - FallRedirection",
-        "        - PanBETA(SlacklineBeta)",
-        "- \"Aktion.ArmAktion.ArmKurve\""
-    ],
-    "Onda-Leg": [
-        "- \"Aktion.LegAktion.LegCurve\""
-    ],
-    "Orbit-Korpo": [
-        "- Revolution",
-        "- HandSlide",
-        "- KorpoOrbit rarely completes a full revolution",
-        "- AroundCornerAktion"
-    ],
-    "Parry-Flora": [
-        "- ParryUp, ParryLateral",
-        "- FloraSwim, like BreastStroke to part a way through Flora. 2ArmAktion",
-        "    - TallGrassSwim",
-        "- Can be performed with Arm or Spade",
-        "    - Avoid having a tree in your hand",
-        "- CircularParry when a branch is pointing directly at you  ",
-        "- Don't try to parry large trees which are falling on you",
-        "- ShrugOff a Tackle",
-        "    - TorsoTwist",
-        "- \"Aktion.PlantAktion.BranchArmDeflection\"",
-        "- \"Aktion.PlantAktion.BranchDeflection\""
-    ],
-    "Periderm-Hydro-Site": [
-        "- Periderm == Bark",
-        "- Cortex? instead of Periderm"
-    ],
-    "Piece-Boundary-Markum": [
-        "- Markum or Paint or HighStump"
-    ],
-    "Piece-Density": [
-        "- Stems Per Hectare"
-    ],
-    "Piece-Plan": [
-        "- What line did you take to plant this zone?",
-        "- What was your line through this zone?",
-        "- What line did you use to cover this zone?"
-    ],
-    "Piece-Strategy-Apogee": [
-        "- Apogee is the point of the Piece which is the furthest away from the cache.",
-        "- StartWithApogee",
-        "- Use a ParaPerimeterLine for the first bag up",
-        "- Space out in the y axis to get to back faster. x-axis is along the road"
-    ],
-    "Piece-Strategy-Perimeter": [
-        "- Usually only used on the first couple BagOuts",
-        "- A PerimeterLine isn't the same as a PerimeterPlan",
-        "    - A PerimeterLine is used for ApogeePlan",
-        "- To get the lay of the land during your first BagOut. Especially for pieces which can't be seen",
-        "    - To get a feel for the Space of your piece",
-        "    - To answer \"How many trees to the back of your piece?\""
-    ],
-    "Piece-Strategy-Simplify": [
-        "- PlantaBETA.Strategy: Simplify things",
-        "    - Piece Shape",
-        "- ConcaveHull",
-        "- ConvexHull",
-        "- Split",
-        "- Taktik to simplify piece shape. Orthogonate: To make into to right angles",
-        "    - Rectify is too polysemous"
-    ],
-    "Piece-Taktik-ConcaveHull": [
-        "- ConcaveHull around Piece Boundary",
-        "- Subset of <BB labor=\"Piece.Strategy.Simplify\"/>"
-    ],
-    "Piece-Taktik-ConvexHull": [
-        "- Fill the piece so that you will eventually be filling by straight line from the cache. Only works on FlatLand",
-        "- Fill in all the bays",
-        "- ConcaveHull, ConvexHull"
-    ],
-    "Piece-Taktik-Div": [
-        "- Div comes from HTML",
-        "- Exit near Entrance",
-        "- Exit opposite Entrance"
-    ],
-    "Plantfor-Aktion": [
-        "- FertPouch",
-        "- BagAktion.Error",
-        "    - BagSpill"
-    ],
-    "Plantfor-BackBag-Aktion": [
-        "- FlaskLoad",
-        "- FlaskGet",
-        "- Get your Flask, then put it back",
-        "- SacrumBag?",
-        "- BackBagSeal",
-        "- FlagRoll Load into Backbag",
-        "    - Grab more flag from cache or when it's handed to you when you already have your bags on",
-        "    - Requires ShoulderMobility to reach down and backwards to your sacrum.",
-        "        - Stand up straight"
-    ],
-    "Plantfor-Bag-Lift": [
-        "- Distinction(BagLift != Plantfor.On)",
-        "    - (\"Lift your bags on\" == Plantfor.On)",
-        "    - (\"Lift your bags over a stump\" == Bag.Lift)",
-        "- Lift Bags when BagSnag",
-        "- Lift and Pull bags through a thicket",
-        "- The VIA is almost always 🔻Over",
-        "- Over HighStump on DeclineWalk",
-        "- Constriction",
-        "- Lift over Obstacle",
-        "- ArmBagLift",
-        "- LegBagLift"
-    ],
-    "Plantfor-Bag-Purga": [
-        "- BagEmpty",
-        "- ExcessSoil",
-        "- InvertBag",
-        "- BagMano",
-        "- \"Aktion.ToolAktion.BagAktion.BagEmpty\""
-    ],
-    "Plantfor-Lift": [
-        "- Mano the non padded part of straps so you don't get the inner site of padding dirty, since grit will erode your clothes, block wicking, erode skin and erode Plantafor",
-        "- PanBETA(HalteroBeta) Deadlift",
-        "    - TruckLoad",
-        "    - Deadlift over a large log",
-        "- \"Aktion.ToolAktion.BagAktion.BagDeadlift\""
-    ],
-    "Plantfor-Load": [
-        "- BundleInsert",
-        "- BundlePackPattern",
-        "- BundlePeel",
-        "- BundleUnwrap",
-        "    - Wind can blow away the BundleWrappers"
-    ],
-    "Plantfor-Modify": [
-        "- BagStrapAdjust",
-        "- BagBeltAdjust",
-        "    - TightenBelt",
-        "        - After removing clothing layer",
-        "    - LoosenBelt",
-        "        - After adding a clothing layer",
-        "- BagBuckleAdjust",
-        "    - BuckleAktion"
-    ],
-    "Plantfor-Off": [
-        "- AddClothingLayer",
-        "    - AddShellLayer when raining, snowing or windy",
-        "    - Add InsulationLayer when cold",
-        "- RemoveClothingLayer",
-        "    - Remove ShellLayer after rain has passed",
-        "- PlantaforDrop",
-        "    - BuckleOff",
-        "    - When Bags are full, a PlantaforDrop can cause Spill",
-        "- FallRecovery",
-        "    - PlantaforOff when you're Sitting"
-    ],
-    "Plantfor-On": [
-        "- NeoAktion Arm thread through straps during PlantforOn",
-        "    - ArmSlot",
-        "- TeamBETA can be used for PlantforOn",
-        "- StandingPlantforOn",
-        "- SittingPlantforOn",
-        "    - BodyRockUp",
-        "- BuckleMano",
-        "    - You can lift the Plantfor on using BuckleMano if the bags are lightweight",
-        "- ShoulderThread without touching Straps with dirty hands"
-    ],
-    "Plantfor-Preserve": [
-        "- PlantaforRepair"
-    ],
-    "Plantfor-Transport": [
-        "- Pack the Plantfor",
-        "    - into Crummy",
-        "    - onto Quad",
-        "    - into truck bed",
-        "    - into itself for after the season"
-    ],
-    "Plot-Crop-Density": [
-        "- <BB labor=\"Plot.Mikrosite\" via=\"Density\"/>",
-        "- Bonus Tree Stumped trees don't count in plots"
-    ],
-    "Poke-Hand": [
-        "- \"Aktion.ManoAktion.HandPoke\""
-    ],
-    "Prep-Trench": [
-        "- Subclass",
-        "    - SpiralTrench",
-        "    - PerimeterTrench",
-        "    - PeriObstacleTrench",
-        "    - TrenchBreak",
-        "    - Splitting trenches",
-        "    - DivergingTrench",
-        "    - BoustroTrench",
-        "- 🔻 Putting one in the middle of TrenchError.WideTrench",
-        "- 💜 Periodically look at neighboring trench to ensure that there are no missed trenches",
-        "- 🔻 Use landmarks to define the space",
-        "- 🛠 Also Known As [Bedding](https://www.youtube.com/watch?v=9eudIOmbako)",
-        "- BoustroTrench",
-        "    - The least Efficient way to Fill a BoustroTrench is to Fill perpendicular to the Trenches, or to AreaFill",
-        "    - Sometimes you can't BoustroFill a BoustroTrench.",
-        "- ✔ Walking across Trenches is a waste of Trenches.",
-        "- 🔻 Obstacles in TrenchLand",
-        "    - Obstacles to the Trencher",
-        "    - Obstacles to the Planter"
-    ],
-    "Radior-Aktion": [
-        "- ForearmSlide",
-        "- ForearmSlide To FloraMano"
-    ],
-    "Repair-Sew": [
-        "- Where to buy a hook needle for Asolo heel panel"
-    ],
-    "Retrakt-Head": [
-        "- \"Aktion.HeadAktion.HeadRetraction\""
-    ],
-    "Rope-Knot": [
-        "Thread Gear Loops",
-        "- Rope for Transport",
-        "- Rope for Cache Construction",
-        "Summer Cache",
-        "- PlantingTool_RatchetStrap_Hook_CargoNet",
-        "- PlantingTool_RatchetStrap_Webbing_WebbingWidth",
-        "- PlantingTool_Rope_RopeKnot_BowlineKnot",
-        "- PlantingTool_Rope_RopeKnot_CargoNet",
-        "- PlantingTool_Rope_RopeKnot_CloveHitch",
-        "- PlantingTool_Rope_RopeKnot_TruckersHitch",
-        "- PlantingTool_Rope_TreeBoxTransport_TreeBoxDrop"
-    ],
-    "Rotate-Head-Away": [
-        "- ⭐<span class=\"labor\">Aktion.Rotate</span>, 🔻<span class=\"via\">Transformation.Rotation</span>",
-        "    - Rotate is a Verb, Rotation is a noun",
-        "    - Rotation is a required element of ⭐<span class=\"labor\">Pivot</span> and ⭐<span class=\"labor\">Rotate</span>  ",
-        "- SoilExplode",
-        "    - UnstableSlopedLand",
-        "- ToPreventInjury",
-        "    - EyeInjury",
-        "    - HeadInjury",
-        "    - Breathing in Particles of soil",
-        "- (LookAway != NoLookAt)",
-        "- \"Aktion.HeadAktion.LookAway\""
-    ],
-    "Rotate-Korpo": [
-        "- SpinAway PanBETA(RugbyBeta)",
-        "- \"Aktion.BodyAktion.BodyRotate\""
-    ],
-    "Run-Initiation": [
-        "- \"Aktion.LegAktion.RunningStart\""
-    ],
-    "Select-Mikrosite-Protektor": [
-        "- Where are you going to put a tree relative to an Protektor"
-    ],
-    "Skim-Hand": [
-        "- Definition(Skreef)",
-        "    - Removing Ekons from your current Site",
-        "- ThumbHook",
-        "- RootRip",
-        "- ClawMano",
-        "    - RaptorMano",
-        "        - One or Two Finger Claw",
-        "        - While TreeHand is loaded",
-        "- ThrowSkreef",
-        "    - Skreefed Ekon goes through legs. 5 Hole",
-        "    - Make sure that your Team will not get hit",
-        "    - LogThrowSkreef",
-        "        - Throw downhill",
-        "    - FingerPivot",
-        "    - HandRelease",
-        "    - PoaThrowSkreef",
-        "        - Rip up a handful of Poa then throw it. Don't waste your energy by throwing it far",
-        "        - Don't throw Poa into the wind because it is light enough to fly back into your face",
-        "        - Throw off to the side",
-        "    - RockThrowSkreef",
-        "        - Minimize Height, to prevent EnergyWaste",
-        "        - If the Rock is flat, then you can DiscusToss",
-        "        - Throw rocks out of the site"
-    ],
-    "Skim-Leg": [
-        "- ToeSkreef",
-        "- HeelSkreef",
-        "    - HeelPushSkreef Moss on Cream",
-        "    - BaseDorsiFlexion",
-        "- Don't BaseSkreef Poa",
-        "- Minimize BaseSkreef",
-        "- Stabilize your body during BaseSkreef",
-        "    - ArmAma",
-        "        - HandSmear on Trunk",
-        "    - SpadeAma"
-    ],
-    "Skim-Spade": [
-        "- StumpLeverSkreef",
-        "- CollarMano",
-        "    - 2FingerCollarMano",
-        "- Which mechanical Linkage is analogous to SpadeSkreef?",
-        "    - 2 Fulcrums",
-        "- SpadeChopSkreef",
-        "    - SpadeChop is used anywhere, SpadeChopSkreef is only used when Skreefing a Site.",
-        "    - SpadeChop is often a Loop",
-        "    - RedRotChop",
-        "        - Chop a RedRot log into a smaller chunk, then throw it",
-        "    - BranchChop",
-        "        - Aim for where the branch connects to the trunk, so the branch can't elastically absorb the impact",
-        "    - PoaChop or RootChop",
-        "        - Poa must be under tension",
-        "            - BootSlide to apply tension",
-        "- SpadeXSkreef",
-        "    - CollarHand crosses from left to right while skreefing, making an X with the shaft and also an X shaped skreef on the ground",
-        "    - Use when skreefing through a thick layer of duff which is collapsing into the site",
-        "    - Use when skreefing through a loose layer of duff to search for the best Mikrosite",
-        "- ArmWrestleSkreef. ArmLock then use your whole body",
-        "- Only the first Aktion is a pry the rest are skim",
-        "- SpadeSkim",
-        "    - Lower HypoMano decreases the force required to grip the spade",
-        "    - And Lower HypoMano also reduces energy loss. The movement of the Spade takes energy which could have been transferred into the SkreefSite",
-        "- Thumbs up for spade hypomano skreef",
-        "    - Thumbs up for spade hypomano skreef",
-        "    - Full palm konSite requires crouch to align forearms then wrist",
-        "    - More fingers increases kratos of Hand.Aktion",
-        "    - Test",
-        "    - Drag Planter into alignment or multiple choice choose the optimal alignment image. Photo or diagram",
-        "- Spade.Shaft,Markum,Skreef.Hypomano",
-        "    - Put tape on the shaft",
-        "    - Some part of your lower hand must be touching this tape when you're skreefing",
-        "    - Physics experiment",
-        "    - I put from the tip as they vary hypomano position along shaft",
-        "    - Ensure that instructor is standing at an angle to reduce probability of getting hit by the blade"
-    ],
-    "Slap-Spade": [
-        "- SpadeSlapSeal WetSoil",
-        "- SpadeSlap to SoilExplode"
-    ],
-    "Slot-Flora": [
-        "- Bush, Thicket",
-        "- FloraBlock",
-        "- FloraParry"
-    ],
-    "Slot-Korpo": [
-        "- (BodySlot != FloraPass)",
-        "    - Slotting between two trunks or between two rocks doesn't require any FloraAktion"
-    ],
-    "Slot-Neon": [
-        "- DendroInsert can be an iterative process",
-        "- Dendro1FingerInsert",
-        "- Dendro2FingerInsert",
-        "- Dendro3FingerInsert"
-    ],
-    "Snap-Flora-Branch": [
-        "- BranchSupinationSnap",
-        "- BranchPronationSnap",
-        "- SpartanKick",
-        "- The harder you hit a dead branch the further it flies off  pull your punches when you're hitting a branch who's trajectory might be towards yourself"
-    ],
-    "Snap-Flora": [
-        "- \"Aktion.ManoAktion.BranchSnapMano\""
-    ],
-    "Soil-Audio": [
-        "- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots"
-    ],
-    "Soil-Creamy": [
-        "- Equivalent to Jug in Climbing",
-        "- CreamSoil"
-    ],
-    "Spade-Aktion": [
-        "- Inertial pivot point actual name. Dolfin and Pike",
-        "- Pike is what fish and gymnasts do. Pisces",
-        "- throw your spade over a high obstacle first, so you can use two hands to climb",
-        "- Record Spade.Aktion with drawings",
-        "    - Inertia",
-        "    - Rotation",
-        "    - Torque",
-        "    - Cycle",
-        "    - Embellishment",
-        "- Push off like swimming with your arms or legs or Spade",
-        "- BladeMano",
-        "    - BladePinchCheekMano"
-    ],
-    "Spade-Ankor": [
-        "- [Kryos|Arm]",
-        "- Dimano",
-        "    - CollarMano",
-        "    - HandleMano",
-        "- SteepSlopeClimb",
-        "- SelfArrest",
-        "    - IceAxe"
-    ],
-    "Spade-Drag": [
-        "- Drag your Spade when walking downhill",
-        "- Most Planter's Spades are too short to drag on flat ground with good shoulder posture"
-    ],
-    "Spade-Handle-Dimano": [
-        "- SpadeMuscleUp",
-        "- SpadePogo"
-    ],
-    "Spade-Handle-Mano": [
-        "- NeutralWrist",
-        "    - To prevent Wrist Tendonitis, which is induced when the Tendons from the forearm to the hand rub on the wrist while under tension.",
-        "- Glove",
-        "- Keep the handle clean to reduce abrasion",
-        "    - Wipe DendroMano during SpadeAlloMano"
-    ],
-    "Spade-Hook": [
-        "- Spade must not Rotate",
-        "- SpadeHook",
-        "- DoubleHook",
-        "    - In a branch fork",
-        "    - Between two logs that are separated by about 3cm"
-    ],
-    "Spade-Mano": [
-        "- SpadeCollarMano",
-        "    - SpadeCollarMano(2Finger)",
-        "    - SpadeCollarMano(3Finger)",
-        "        - SpadeSkreef",
-        "        - SpadeBlock",
-        "    - SpadeTransport",
-        "    - SpadeCollarSlide",
-        "    - SpadeCollarSlip",
-        "- SpadeHandleMano",
-        "- U instead of O Grip GentleGrip SpadeGrip",
-        "- Vary Kayak Paddle grip to reduce tendonitis OKC"
-    ],
-    "Spade-MuscleUp": [
-        "- ManoOrbit",
-        "- Post(SpadeAnkor)",
-        "- HandleMatch",
-        "- Starts as a PullUp, finishes as a PressUp",
-        "- ArmRockOver"
-    ],
-    "Spade-Onda": [
-        "- Spade|HalfPipe, the part where the Skier goes up the wall of the pipe, has air then returns back down is like <BB labor=\"Spade.Onda\" via=\"Medial\" motor=\"Dynamics\"/>",
-        "- Hurdle is like Spade over Stump in BeachBETA video",
-        "- PanBETA(CookBeta) ConeAktion is used a lot in baking. Stir with your wrist instead of whole arm.",
-        "    - ShoulderCone",
-        "    - ElbowCone",
-        "    - WristCone",
-        "- Minimize ReflectionCount",
-        "- SpadeOnda.SubAktion",
-        "    - InitialOnda could be a backswing. When you're going to SpadeDistalOnda, then your \"backswing\" isn't backwards, instead it's a SpadeMedialOnda.",
-        "    - You don't need more than one backswing, therefore InitialOnda makes sense, it adds Initial energy",
-        "- Variations",
-        "    - SpadePeriOnda",
-        "        - Swing the Spade around an Obstacle",
-        "    - SpadeRedirectionOnda",
-        "    - SpadePronationOnda",
-        "    - SpadeSupinationOnda",
-        "    - SpadeMedialOnda",
-        "    - SpadeDistalOnda",
-        "        - LateralSwing",
-        "    - SpadeAnteriorOnda",
-        "        - Foreswing",
-        "        - Pronda, Retronda, Foreswing, Backswing",
-        "        - To initiate Walk",
-        "    - SpadePosteriorOnda",
-        "        - Backswing",
-        "        - Add energy to the backswing with SpineExtension",
-        "- SpadeOnda for FallRedirection",
-        "- Resonate to increase Amplitude",
-        "- Handle doesn't have must displacement, while Blade moves in arcs",
-        "- PanBETA(BMX_Beta) SpadeOnda like BMX tail-whip or Scooter tail-whip",
-        "    - Analogy(SpadeHandle: [ScooterHandle, BMX.Handle], SpadeBlade: [ScooterRearWheel, BMX.RearWheel])",
-        "- SpadeOnda out of a Mound, to SpadeAnkor to SpadeMuscleUp to get out of Mound",
-        "- SpadeOnda over an Obstacle",
-        "- SpadeOnda around an Obstacle",
-        "- SpadeUpOnda",
-        "- SpadeOnda leads with Handle",
-        "- (SpadeCircumductionOnda == SpadeSpiralOnda)"
-    ],
-    "Spade-Pogo": [
-        "- SpadePogo often Finishes with a Rocking motion to deepen the blade. In the same plane as blade",
-        "    - HardSoil",
-        "        - CompressedSoil like in a Road",
-        "- \"Aktion.ToolAktion.SpadeAktion.SpadePogo\""
-    ],
-    "Spade-Pop": [
-        "- Spade Ollie is as useful as board ollie",
-        "- Spade is a Delphi Dolphin"
-    ],
-    "Spade-Purga": [
-        "- [Spade.Purga.Skrape]",
-        "- Remove Soil which is stuck on the blade",
-        "    - ClaySoil",
-        "    - WetSoil",
-        "- The Soil can make it more difficult to Propel your Blade deep enough into a site",
-        "- The Soil makes your Spade Heavier",
-        "- Propel it into an Ekon gently to allow inertia to fling off the Soil"
-    ],
-    "Spade-Rotate": [
-        "- ManoPronation",
-        "- ManoSupination",
-        "- ManoRadialDeviation",
-        "- ManoUlnarDeviation"
-    ],
-    "Spade-Slam": [
-        "- Proposition: If your trajectory is too close then side step to increase the distance while maintaining the same anterior direction. Like a juke",
-        "- Slam is what you use to get the Blade into the Soil, then you <BB labor=\"Spade.Dilate\"/>",
-        "- <BB labor='Spade.Slam.Snap'ekos='Root'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSlam to get both hands free to rip apart interrooted pods"
-    ],
-    "Spade-Stall": [
-        "- Stall at Deadpoint",
-        "- (Stall != Kryos)"
-    ],
-    "Spade-Stomp": [
-        "- FootArchSmear(SpadeTab)",
-        "- SpadePogo",
-        "- HardSoil",
-        "- SpadeDilate"
-    ],
-    "Spade-SuperSpike": [
-        "- Spike is what you use to get the Blade into the Soil, then you <BB labor=\"Spade.Dilate\"/>"
-    ],
-    "Spade-Transport": [
-        "- SpadeCollarMano",
-        "- SpadeHandleMano",
-        "    - Use in Terrain where you may need to SpadeAma"
-    ],
-    "Stand-Korpo": [
-        "- Stand != Standing",
-        "- Stand == Verb",
-        "- SpadeMuscleUp",
-        "- TrunkAktion",
-        "    - Pull on Trunk to StandUp",
-        "- SitToStand",
-        "- BagSpill often occurs during GetUp",
-        "    - Contents shifted",
-        "    - Angle of Bag"
-    ],
-    "Step-Into": [
-        "- Into and forwards, not just down",
-        "- EccentricLegExtension",
-        "- StepIntoTrench"
-    ],
-    "Step-Leg": [
-        "- Differentiate(Step,Amble)",
-        "    - Step into",
-        "    - Stepping up a ladder isn't Amble",
-        "- StepInto",
-        "- StepOver",
-        "- TestStep",
-        "    - SlowAktion",
-        "    - Like SpadeTest, Test a Kontakt before putting your full weight on it",
-        "        - UnstableSlope",
-        "        - SlipperySlope",
-        "    - Test to see, feel and hear if wood is strong enough to walk on",
-        "        - (StepOn != WalkOn)",
-        "        - TestKick",
-        "- \"Aktion.LegAktion.Step\"",
-        "- \"Aktion.LegAktion.Step.BackStep\"",
-        "- \"Aktion.LegAktion.Step.KickStep\"",
-        "- \"Aktion.LegAktion.Step.SideStep\""
-    ],
-    "Stomp-Leg": [
-        "- StompTest when LogWalking",
-        "- \"Aktion.LegAktion.Stomp\""
-    ],
-    "Stump-Site": [
-        "- Only the first Aktion is a pry the rest are skim"
-    ],
-    "Tangent-Korpo": [
-        "- BaseOnda can be used to add energy to the Tangent before HandRelease",
-        "- SteepDeclineWalk",
-        "    - Use the Momentum from SteepDecline",
-        "    - Like how the chairlift chairs (or T-bar) whip up when they go around a corner",
-        "- PanBETA(HammerToss, Discus)"
-    ],
-    "Tarp-Off": [
-        "- \"Aktion.CacheAktion.TarpOff\""
-    ],
-    "Tarp-On": [
-        "- PanBETA(BJJ, [PistolMano, SleeveMano, PocketMano])",
-        "- \"Aktion.CacheAktion.TarpOn\""
-    ],
-    "Team-Taktik-Bounce": [
-        "- Don't bounce in concave corners",
-        "    - Bounce before to give the Planter in the corner space for a few trees while turning around"
-    ],
-    "Team-Taktik": [
-        "- Partition into smaller Zones or Follow",
-        "- Don't bounce in concave corners",
-        "    - Bounce before to give the Planter in the corner space for a few trees while turning around",
-        "- TeamFill is when Beta is executed as a Distributed System",
-        "- LeadPlanter",
-        "- FollowingPlanter",
-        "Connection Communication",
-        "TeamPlant is safer, but more complex"
-    ],
-    "Truck-Sit": [
-        "- \"Aktion.ToolAktion.TruckAktion.Sit\""
-    ],
-    "Truck-Sleep": [
-        "- \"Aktion.ToolAktion.TruckAktion.Sleep\""
-    ],
-    "Twist-Korpo": [
-        "- (⭐<span class=\"labor\">Twist</span> != 🔻<span class=\"via\">Twisted</span>)"
-    ],
-    "Velcro-Site": [
-        "- The best Site is at the ends of Velcro, so you don't get dirt in the hooks"
-    ],
-    "Workday-Arrival-Time": [
-        "- First bagIn with insulation layer since it's usually cold in the morning"
-    ],
-    "Workday-Time": [
-        "- WorkdayFinishTime",
-        "    - Be at the Trucks by `time`",
-        "    - We're rolling at `time`",
-        "    - Plant until `time`"
-    ],
-    "Zipper-Aktion": [
-        "- ZipperOn",
-        "- ZipperOff",
-        "    - ZipperOff when your clothing isn't tight and you have DirtyGloves",
-        "- ZipperClog",
-        "    - RetainerBoxClog",
-        "        - Use water or a stick to clear the RetainerBoxClog",
-        "    - TeethClog",
-        "- ZipperSnag"
-    ],
     "ElementsOverview": [
         "- What is an ELEMENT?",
         "- Why are there ELEMENTs in the first place?",
@@ -2089,6 +55,12 @@
         "- \"ANIMA.Time\"",
         "- \"ANIMA.Visualization\""
     ],
+    "Animon": "EMPTY",
+    "Greed": "EMPTY",
+    "Inferiority": "EMPTY",
+    "Animosity": "EMPTY",
+    "PoorSport": "EMPTY",
+    "Unfairness": "EMPTY",
     "Awareness": [
         "- Morning Meditation",
         "- You don't need to pay attention to look where you're going",
@@ -2113,10 +85,24 @@
         "- You don't need to pay attention to look where you're going",
         "- \"ANIMA.Attention\""
     ],
+    "ClarityEase": "EMPTY",
+    "FeelsEffortless": "EMPTY",
+    "FeelsFamiliar": "EMPTY",
+    "FeelsGood": "EMPTY",
+    "FeelsTrue": "EMPTY",
+    "GoodEase": "EMPTY",
+    "CognitiveEase": "EMPTY",
+    "PrimingEase": "EMPTY",
+    "RepetitionEase": "EMPTY",
+    "Control": "EMPTY",
+    "BundleCounting": "EMPTY",
+    "Counting": "EMPTY",
+    "StepCount": "EMPTY",
     "BagUpSizeDecision": [
         "- BagUpSize affects PutRate and ViaSize",
         "    - BagUpSize is measured by TreeCount"
     ],
+    "Commitment": "EMPTY",
     "GoOrNoGo": [
         "- Commitment  ",
         "- TooDifficult  ",
@@ -2133,6 +119,7 @@
         "        - Exploded Fallen Tree  ",
         "            - Where the Tree rips apart into parts"
     ],
+    "MikrositeSelection": "EMPTY",
     "Decision": [
         "- \"ANIMA.Decision\"",
         "- Subconscious  ",
@@ -2217,6 +204,9 @@
         "    - Push",
         "        - \"Push to close\""
     ],
+    "Anger": "EMPTY",
+    "Contempt": "EMPTY",
+    "Disgust": "EMPTY",
     "Fear": [
         "- Be clear about what is Anxietable",
         "- Treefault is loss",
@@ -2256,10 +246,19 @@
         "- Maintain a MOTON while waiting for an EcoEvent",
         "- \"ANIMA.Event\""
     ],
+    "Learning": "EMPTY",
+    "LongTermMemory": "EMPTY",
+    "NumberMemory": "EMPTY",
     "Memory": [
         "- \"ANIMA.Memory\"",
         "- \"ANIMA.Memory.Mnemonic\""
     ],
+    "ShortTermMemory": "EMPTY",
+    "ViaMemory": "EMPTY",
+    "WorkingMemory": "EMPTY",
+    "Mindset": "EMPTY",
+    "FlowState": "EMPTY",
+    "MindState": "EMPTY",
     "Arousal": [
         "- \"ANIMA.Adrenaline\""
     ],
@@ -2284,6 +283,7 @@
         "- 1st Person Experience",
         "- Suffering"
     ],
+    "Senses": "EMPTY",
     "AuditorySense": [
         "- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots",
         "- \"ANIMA.Hearing\"",
@@ -2307,9 +307,13 @@
         "- Music.entrainment to counteract for fatigue",
         "- Planting Dance. Planting Music. Plant to a drum"
     ],
+    "Playlists": "EMPTY",
+    "CompressionSense": "EMPTY",
     "DangerSense": [
         "- DangerTree"
     ],
+    "Avoidance": "EMPTY",
+    "PressureSense": "EMPTY",
     "Proprioception": [
         "- \"My foot is slipping\""
     ],
@@ -2332,6 +336,7 @@
         "- \"ANIMA.Orientation.ToRoad\"",
         "- \"ANIMA.Orientation.ToTarget\""
     ],
+    "BagOutTime": "EMPTY",
     "CacheTime": [
         "- Minimal break"
     ],
@@ -2341,6 +346,7 @@
         "    - piece",
         "    - block move"
     ],
+    "MotorTiming": "EMPTY",
     "TimeSense": [
         "- ResearchModel_ModelDay_Chronology_5_SleepFinishTime_",
         "- ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_",
@@ -2364,6 +370,8 @@
         "- \"ANIMA.Planning\"",
         "- \"ANIMA.Planning.Prediction\""
     ],
+    "Timer": "EMPTY",
+    "TouchSense": "EMPTY",
     "VisionSense": [
         "- Vision: Parallax",
         "- You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street",
@@ -2734,6 +742,7 @@
         "- The plants, animals and fungi of a Block",
         "- Biosphere"
     ],
+    "Ant": "EMPTY",
     "Bear": [
         "- Frequency of seeing a Bear",
         "- GrizzlyBear",
@@ -2763,6 +772,9 @@
         "- Dragonfly",
         "- Horsefly"
     ],
+    "Hornet": "EMPTY",
+    "Moose": "EMPTY",
+    "Mosquito": "EMPTY",
     "Animal": [
         "- Ticks",
         "    - CrummyComb and Comb Cleaner to prevent spreading lice",
@@ -2782,6 +794,7 @@
         "- AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMOTON_Decapatation",
         "- Ant"
     ],
+    "Larix": "EMPTY",
     "Dendron": [
         "- \"Eko.CropTree.CedarTree\"",
         "- \"Eko.CropTree.FirTree\"",
@@ -2833,11 +846,17 @@
         "- TreeLibrary*TreeTransport_TreeBundle_TreeCount_20*",
         "- TreeTransport_Crummy_MaximumTreeBoxCount_SpaceLimit"
     ],
+    "Picea": "EMPTY",
     "Pinus": [
         "- Most common Genus to be Planted",
         "    - Ponderosa",
         "    - LodgepolePine"
     ],
+    "Pseudotsuga": "EMPTY",
+    "Quercus": "EMPTY",
+    "Thuja": "EMPTY",
+    "Tsuga": "EMPTY",
+    "Abies": "EMPTY",
     "Bryophyta": [
         "- Sfagnum",
         "- MossSkreef",
@@ -2932,9 +951,12 @@
         "- (\"Covered in Water\" < Soaked < FullySoaked)",
         "- Wet EKONs are less Brittle"
     ],
+    "MovingWater": "EMPTY",
+    "Hydrosfera": "EMPTY",
     "StagnantWater": [
         "- When to step in puddles"
     ],
+    "Litosfera": "EMPTY",
     "RockCap": [
         "- \"Plant the low spots\"",
         "- RockCap which is surrounded by AngularCobbleSized Rocks",
@@ -3040,6 +1062,10 @@
         "- WetSoil over the top of your [Boot.Cuff] will run down your leg into to boot",
         "- [Slap.Klose|WetSoil]"
     ],
+    "Erosion": "EMPTY",
+    "FibricSoil": "EMPTY",
+    "HumicSoil": "EMPTY",
+    "MesicSoil": "EMPTY",
     "SoilFiber": [
         "- Duff",
         "- Plantate redrot to make it high density"
@@ -3051,6 +1077,10 @@
     "BoulderSoil": [
         "- [BoulderSoil.Erosion] Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment. Like at the top of Crater Mountain"
     ],
+    "ClaySoil": "EMPTY",
+    "CobbleSoil": "EMPTY",
+    "SoilSize": "EMPTY",
+    "PebbleSoil": "EMPTY",
     "RubbleSoil": [
         "- Preskreef",
         "- [Spade.Pry|RubbleSoil]",
@@ -3060,12 +1090,14 @@
         "- Roadside (Road Filler Rock)ActualName",
         "- How to prove that Angular Fragment RubbleSoil has less (InterRockSoil)ActualName than soil with same rock of same mass and volume, but rounded."
     ],
+    "SandSoil": "EMPTY",
     "SiltSoil": [
         "- Kompress",
         "- Kompakt",
         "- [Dry+Compacted+Dense] really difficult to Ingress",
         "- SiltMud"
     ],
+    "Ground": "EMPTY",
     "Klimon": [
         "- A Slope isn't an Orientation, like how a \"Cliff\" isn't either.",
         "    - Landform",
@@ -3074,12 +1106,16 @@
     "Prokline": [
         "- Use stump as step on steep slopes"
     ],
+    "Rekline": "EMPTY",
     "Texture": [
         "- Rough",
         "- Smooth",
         "- Soft",
         "- Hairy"
     ],
+    "Propositions": "EMPTY",
+    "RiparianZone": "EMPTY",
+    "Problem": "EMPTY",
     "DiscernSigns": [
         "- Footprints in snow show via"
     ],
@@ -3109,6 +1145,7 @@
         "- It's possible to tell where you've already been",
         "- Mantracker TV show"
     ],
+    "Teorem": "EMPTY",
     "FloraDensity": [
         "- FloraDensity affects",
         "    - how wet you get in a FillPlant",
@@ -3116,6 +1153,7 @@
         "    - If you can FloraPassage through",
         "    - How much you need to skreef (ThickPoales)"
     ],
+    "Simbol": "EMPTY",
     "LaborOverview": [
         "- \"Labor of love\"",
         "- Labor is prescriptive",
@@ -3292,6 +1330,7 @@
         "- Crew boss",
         "- Supervisor"
     ],
+    "Employment": "EMPTY",
     "Camp": [
         "- (Squire, Page, PitCrew, Dresser(person)) Support GlialCell Scaffold Framework SupportStaff PitCrew",
         "- Reefer.Unload",
@@ -3361,6 +1400,8 @@
         "- repair tools",
         "- preserve tools"
     ],
+    "Shift": "EMPTY",
+    "Bus": "EMPTY",
     "Crummy": [
         "- Seats are shock absorbers, benches are rarely if ever absorbers",
         "- Analysis during morning crummy faster than real",
@@ -3377,6 +1418,7 @@
         "- Analysis during morning crummy faster than real",
         "    - Analyze planters during the ride to the block in the morning"
     ],
+    "Truck": "EMPTY",
     "WalkIn": [
         "- Walk In with Full Bags"
     ],
@@ -3413,6 +1455,8 @@
         "            - ShortDay if the BlockClosed early",
         "            - Long Day if the Block must be closed"
     ],
+    "WorkSeason": "EMPTY",
+    "PostWorkSeason": "EMPTY",
     "PreWorkSeason": [
         "- Slush is mud. Video of you walking in slush",
         "- Certified that they completed Trainer's course and are therefore muscularly ready for the upcoming season",
@@ -3424,6 +1468,7 @@
     "Competition": [
         "- A competition. Plantatlon"
     ],
+    "Difficulty": "EMPTY",
     "Effectiveness": [
         "- Countereffective",
         "- Countereffectiveness"
@@ -3500,6 +1545,7 @@
         "    - Fatigue",
         "    - Cold Wet"
     ],
+    "Intention": "EMPTY",
     "Kudos": [
         "- Praise",
         "- Glory",
@@ -3696,6 +1742,7 @@
         "- [Taktik.Walk]",
         "    - Taktikal Walking"
     ],
+    "SportStrategy": "EMPTY",
     "Advantage": [
         "- Trinity of Advantage",
         "    - Advantageous, Neutral, Disadvantageous",
@@ -3913,6 +1960,9 @@
         "    - Leaves  ",
         "    - Conifer(Needles)ActualName"
     ],
+    "Branta": "EMPTY",
+    "Catch": "EMPTY",
+    "Clean": "EMPTY",
     "Crawl": [
         "- with or without Arms too",
         "    - [Crawl|Arm]",
@@ -3920,6 +1970,7 @@
         "    - [Crawl|Leg]",
         "    - [Crawl|(Leg,Arm)]"
     ],
+    "Cross": "EMPTY",
     "Defend": [
         "- Block, Defend, put up your guard, guard against, shield (verb)",
         "- Flora Whip",
@@ -4270,6 +2321,7 @@
         "- [Markate.Whip]  ",
         "- [Markate.Weave]"
     ],
+    "Modify": "EMPTY",
     "MuscleUp": [
         "- BETOMs",
         "    - [Spade.MuscleUp]",
@@ -4732,6 +2784,7 @@
         "- [Spade.AKTION]",
         "- Helix"
     ],
+    "Transgress": "EMPTY",
     "Transport": [
         "- [Spade.Transport]",
         "- [Kit.Transport]",
@@ -4753,6 +2806,7 @@
         "- [Trenches.Trot]",
         "- [Mounds.Trot]"
     ],
+    "Twist": "EMPTY",
     "Weave": [
         "- Flag Weave",
         "- Weave Flora into other Flora to prevent it from springing back into [Mikrosite.Passag.Obstakle]",
@@ -5186,6 +3240,7 @@
         "    - Take plots",
         "    - Throw plots"
     ],
+    "Tool": "EMPTY",
     "Armor": [
         "- Ask Guides AGAC? Of Canada about Layering and other BETA",
         "- [Armor.Adapt]",
@@ -5245,6 +3300,7 @@
         "    - Running Shorts",
         "    - Rugby Shorts"
     ],
+    "Button": "EMPTY",
     "Fastener": [
         "- Button",
         "- Zipper",
@@ -5583,6 +3639,7 @@
         "    - Tarp.Modify",
         "    - Tarp.Tent"
     ],
+    "Whistle": "EMPTY",
     "MotorOverview": [
         "- Motor",
         "    - In chess, tempo (plural: tempi) refers to a single turn or \"unit of time\" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.",
@@ -5683,6 +3740,8 @@
         "    - Mass",
         "    - Velocity"
     ],
+    "Dynamics": "EMPTY",
+    "Power": "EMPTY",
     "ProjectileMotion": [
         "- [Markate|ProjectileMotion]",
         "- [Ballista|ProjectileMotion]",
@@ -5692,6 +3751,8 @@
         "    - Jump over or across an EKON",
         "- Gravity"
     ],
+    "Torque": "EMPTY",
+    "Work": "EMPTY",
     "ElasticEnergy": [
         "- Accelerates when releasing Energy",
         "    - Non Linear Acceleration",
@@ -5735,6 +3796,7 @@
         "        - Nutrition  ",
         "            - Food -> Planter -> AKTION -> Tool -> EKOS"
     ],
+    "PotentialEnergy": "EMPTY",
     "CentripetalForce": [
         "- Spade  ",
         "- Etymology  ",
@@ -5898,6 +3960,7 @@
         "    - Motoid isn't hypothetical. Passag is a range of possibilities, while Motoid is what actually performed",
         "    - {VIA.Passag:Future, MOTOR.Motoid: Past, ANIMA.Intention: Present}"
     ],
+    "Moton": "EMPTY",
     "Time": [
         "- Sym is Simultaneous",
         "    - SymBetom",
@@ -5973,6 +4036,7 @@
         "    - Body",
         "    - Body-Mind"
     ],
+    "Anatomy": "EMPTY",
     "Biceps": [
         "- [Spade.Aktion]"
     ],
@@ -5994,12 +4058,18 @@
         "- Palmar side of Fingers, Dorsal Side of Fingers",
         "- [Bonobo|Finger.MedialPhalanges.Dorsal]"
     ],
+    "Forearm": "EMPTY",
     "Hand": [
         "- Metal Bottle for coffee in the morning. NonInsultated so you can use it to warm up by [Kontakt|Hand.GlabrousSkin]"
     ],
+    "Humerus": "EMPTY",
+    "LatissimusDorsi": "EMPTY",
     "Arm": [
         "- The muscles listed are used to describe the different surfaces of the arm, ie the part of the skin or armor which covers the muscle"
     ],
+    "Palm": "EMPTY",
+    "Scapula": "EMPTY",
+    "Trapezius": "EMPTY",
     "Triceps": [
         "- [Push|Arm]",
         "- [Extend|Arm]",
@@ -6193,6 +4263,7 @@
         "- Jelly Pumps",
         "- Warm Up in the morning and after BlockMove"
     ],
+    "Physiology": "EMPTY",
     "Strength": [
         "- ConcentricContraction",
         "- EccentricContraction",
@@ -6275,6 +4346,7 @@
         "    - Rain Day",
         "    - Having a RainShell makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling"
     ],
+    "Kinesiology": "EMPTY",
     "Muscle": [
         "- BETOMs",
         "    - [Muscle.Suppleness]",
@@ -6301,6 +4373,7 @@
         "    - Scapula Posture",
         "    - Hollow Body Position"
     ],
+    "Somon": "EMPTY",
     "ViaOverview": [
         "- \"Box yourself in\"",
         "- Weave is via",
@@ -6566,9 +4639,13 @@
         "- MOTOR.MOTORAttributes.MOTONPlane.XZPlane",
         "- MOTOR.MOTORAttributes.MOTONPlane.YZPlane"
     ],
+    "CellDecomposition": "EMPTY",
     "CollisionDetection": [
         "- Detect it before it happens like walking in crowds"
     ],
+    "ConcaveHull": "EMPTY",
+    "ConvexHull": "EMPTY",
+    "DelaunayTriangulation": "EMPTY",
     "ComputationalGeometry": [
         "- Using an Umbrella when walking along a sidewalk is computational geometry Praktik",
         "- Heuristic then algorithm",
@@ -6588,6 +4665,17 @@
         "- Distance between Point and Centroid of Voronoi",
         "    - Distance between Point and Centroid of Voronoi",
         "- Voronoi are mosaics"
+    ],
+    "Density": [
+        "- LooseDensity",
+        "- TightDensity",
+        "- Centroidal Voronoi Tessellation",
+        "    - <https://observablehq.com/@d3/circle-dragging-iii?collection=@d3/d3-drag>",
+        "- BETOMs",
+        "    - [Site.Density]",
+        "    - [Mano|E|Site.Density] An EKON has lots of ways to be gripped",
+        "- ([Aktion.Density|CreamySoil] > [Aktion.Density|RockCapSoil])",
+        "    - TypeOf(Integer)"
     ],
     "AbsoluteDirection": [
         "- Compass Bearing (technically isn't static)",
@@ -6615,6 +4703,7 @@
         "    - REachOver  ",
         "    - Plant a tree while reaching over a waist height HorizontalLog. Constrained from waist down, like reaching over the counter as a server"
     ],
+    "Away": "EMPTY",
     "Dia": [
         "- Etymology(Dia)",
         "    - Dilate",
@@ -6690,6 +4779,7 @@
     "Ingression": [
         "- Exo -> Ingress -> Endo -> Egress -> Exo"
     ],
+    "On": "EMPTY",
     "RelativeDirection": [
         "- RelativeTo:",
         "    - Ally",
@@ -6846,6 +4936,12 @@
         "- Recursive Boustrofedron",
         "- Width of Boustro"
     ],
+    "CircuitLine": "EMPTY",
+    "Line": "EMPTY",
+    "PerimeterLine": "EMPTY",
+    "SpiralLine": "EMPTY",
+    "StraightLine": "EMPTY",
+    "ZigzagLine": "EMPTY",
     "Lokation": [
         "- {Aktion: Lokate, VIA: Lokate}",
         "- \"Lokate\" == English(Find)",
@@ -6985,9 +5081,14 @@
     "Diamond": [
         "- Not just a rotated square"
     ],
+    "Heptagon": "EMPTY",
+    "Hexagon": "EMPTY",
     "Polygon": [
         "- The primary GIS term for an area feature is a polygon. Polygons are closed, two-dimensional shapes defined by a series of coordinates, representing features like land parcels, lakes, or administrative boundaries. Other related terms"
     ],
+    "Pentagon": "EMPTY",
+    "Square": "EMPTY",
+    "Triangle": "EMPTY",
     "Orientation": [
         "- (Orientation != Direction)",
         "- (Orientation ?= Permutation)"
@@ -7052,6 +5153,7 @@
         "- \"get the lay of the land\"",
         "- unobstructed view"
     ],
+    "Proportion": "EMPTY",
     "AdaptiveProximity": [
         "- NeonDensity: Dial it in",
         "    - Dialed",
@@ -7068,12 +5170,20 @@
         "- Further",
         "- Farther"
     ],
+    "Contains": "EMPTY",
+    "CoveredBy": "EMPTY",
+    "Covers": "EMPTY",
     "Crosses": [
         "- a crosses b: they have some but not all interior points in common, and the dimension of the intersection is less than that of at least one of them"
     ],
+    "DisjointFrom": "EMPTY",
+    "Equals": "EMPTY",
+    "Intersects": "EMPTY",
+    "Meets": "EMPTY",
     "Overlaps": [
         "- a overlaps b: they have some but not all points in common, they have the same dimension, and the intersection of the interiors of the two geometries has the same dimension as the geometries themselves."
     ],
+    "Within": "EMPTY",
     "Logic": [
         "- That which isn't wrong isn't necessarily right",
         "- Boolean Logic",
@@ -7093,6 +5203,7 @@
         "- Forests are fractals. use for testing ease",
         "- Boustro within Boustro"
     ],
+    "ConditionalLogic": "EMPTY",
     "PropositionalLogic": [
         "- AND",
         "    - Conjunction",
@@ -7230,6 +5341,8 @@
         "    - Derivative isn't variation",
         "    - Soil type determines hole"
     ],
+    "Maximum": "EMPTY",
+    "Minimum": "EMPTY",
     "Limit": [
         "- FuzzyLimit",
         "- DiscreteLimit",
@@ -7296,6 +5409,7 @@
     "Fortuna": [
         "- Delta is chance and via and a greek triangle letter"
     ],
+    "Frequency": "EMPTY",
     "DegreesOfFreedom": [
         "- Freedom is an antonym to Constraint"
     ],
@@ -7313,16 +5427,5 @@
     "Vion": [
         "- A VION is an ELEMENT of the VIA FAKTOR",
         "- VIONs"
-    ],
-    "BetaGraph": [
-        "- Move becomes another person's EKOS in Acrobatics",
-        "    - Acroyoga, Human Tower Build race, Cirque du Solei"
-    ],
-    "BetaTestor": [
-        "- You don't need speech or Betomiks in the Teori",
-        "- It's less important how Betomiks work than that you use them. You don't need to know typography to read a book."
-    ],
-    "BetaVideor": [
-        "- Momentor"
     ]
 }

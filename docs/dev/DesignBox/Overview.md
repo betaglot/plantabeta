@@ -2,7 +2,7 @@
 
 ## Grow the Content in the DesignBox
 
-> The goal is expand single word list items into descriptions.
+> The goal is expand single word list items into descriptions using Ink, so can diagram!
 
 ### Example: Ama
 
@@ -82,9 +82,19 @@ A more complex and useful
 
 The output lists are the instances of each ELEMENT
 
+- Limit it to ELEMENTs and BETOMs 
+
+- How much of this Induction and Deduction can be done by Alan?
+    - Inheritance
+    - 
+
+- Are properties and Attributes propositions
+    - No but the information that they share allows one to be translated into the other.
+
 - Find the patterns of the ELEMENT instances to discover the properties of the given ELEMENT
+    - Do Induction and Deduction always produce Propositions?
     - Force Questions
-    - Instance to ELEMENT (Induction)
+    - Instances to ELEMENT (Induction)
         - Given the other Instances, what
             - Can it be the opposite? (AristotleOrganon)
                 - If all the Instances of Ama are Static, then is that from incompleteness or is there some attribute which negates Dynamism for Ama.  
@@ -94,7 +104,7 @@ The output lists are the instances of each ELEMENT
         - Find properties
         - What is shared between Instances?
             - Is there a shared ELEMENT between ELEMENTs or some noncoded differentia
-    - ELEMENT to Instance (Deduction)
+    - ELEMENT to Instances (Deduction)
         - Inheritance
             - Given the genus of this ELEMENT, what Instances are implied to this ELEMENT.
 
