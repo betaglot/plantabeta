@@ -19,7 +19,6 @@ def strip_emojis(text):
 
 def invert_json_relations():
     input_name = "Input-Write_To.json"
-    
     input_path = os.path.join(os.getcwd(), input_name)
     
     if not os.path.exists(input_path):
@@ -57,15 +56,38 @@ def invert_json_relations():
     # 3. Filter out keys that were never found anywhere
     final_output = {k: v for k, v in relations_map.items() if v}
 
-    # 4. Generate timestamp prefixed file name (e.g., 20260730_120615_DesignBox_Relations.json)
+    # Generate a single synchronized timestamp for both files
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_name = f"{timestamp}_DesignBox_Relations.json"
-    output_path = os.path.join(os.getcwd(), output_name)
 
-    with open(output_path, 'w', encoding='utf-8') as f:
+    # 4. Save JSON file
+    json_output_name = f"{timestamp}_DesignBox_Relations.json"
+    json_output_path = os.path.join(os.getcwd(), json_output_name)
+    with open(json_output_path, 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4)
+
+    # 5. Build and Save Markdown file
+    md_output_name = f"{timestamp}_DesignBox_Relations.md"
+    md_output_path = os.path.join(os.getcwd(), md_output_name)
+    
+    markdown_lines = [f"# DesignBox Relations Report\n_Generated on {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}_\n"]
+    
+    for search_key, occurrences in final_output.items():
+        markdown_lines.append(f"## {search_key}")
+        for hosting_key, original_text in occurrences:
+            # Replaces the keyname with an inline CSS style for a wavy lime underline
+            highlighted_text = original_text.replace(
+                search_key, 
+                f'<span style="text-decoration: underline wavy lime; font-weight: bold;">{search_key}</span>'
+            )
+            markdown_lines.append(f"* `{hosting_key}`: {highlighted_text}")
+        markdown_lines.append("") # Extra newline spacing between headers
+
+    with open(md_output_path, 'w', encoding='utf-8') as f:
+        f.write("\n".join(markdown_lines))
         
-    print(f"Successfully generated mapping to '{output_name}'")
+    print(f"Successfully generated:")
+    print(f"  - JSON: '{json_output_name}'")
+    print(f"  - MD:   '{md_output_name}'")
 
 if __name__ == "__main__":
     invert_json_relations()

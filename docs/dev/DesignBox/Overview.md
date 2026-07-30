@@ -68,6 +68,18 @@ A more complex and useful
 
 - Write the RelationList to the JSON, append to current instead of creating a whole new JSON, but still create and write to a new file
 
+- With the 20260730_120632_DesignBox_Relations.json file, make a Markdown file with the keyname highlighted
+
+- ❌ "Site" is Showing up in "Sit"
+
+- ❌ Remove the Paths
+    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.Overview"
+    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.Overview"`
+    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_CircleInscription"
+    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_SquareInscription"
+    - ViaKomposition: - "VIA.VIA_Sequence.AreaCoverFrase.VIA_ShapeInscription.VIA_TriangleInscription"
+    - ViaKomposition: - "VIA.VIA_Sequence.BagUpFrase"
+
 -------------------------------------------------------
 -------------------------------------------------------
 -------------------------------------------------------
