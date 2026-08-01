@@ -14,6 +14,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- The feeling of laying brick is in your hands and fingers Kontakts
+    - Soma can control anima
 - ("Fenoms")InsteadOf("Fenomena")
 - The graph theory of phenomenology
 - Intended Beta and Realized Beta and the explicit difference between them

@@ -95,7 +95,8 @@ When to slow down
 <!-- =================================================== -->
 ::: details &
 
--
+- Get situated
+
 - Spatial sense also works for abstract space
 - Spatially complex
 

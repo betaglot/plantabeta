@@ -135,6 +135,12 @@ Maximum Length
 <!-- =================================================== -->
 ::: details &
 
+- Reddit
+    - Poll for options to method to explain PlantaBETA to Reddit
+- KKR
+
+- Youtube
+
 - What Instrument to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>
 

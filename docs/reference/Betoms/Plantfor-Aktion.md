@@ -6,15 +6,15 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.Aktion" />
+# <BB labor="Plantfor.Aktion" />
 
 Aliases: Planting Bags
 
 Roll up your back bag layer to shell from water and dirt
 
-## PlantaforAnatomy
+## PlantforAnatomy
 
-## PlantaforAttributes
+## PlantforAttributes
 
 ---
 

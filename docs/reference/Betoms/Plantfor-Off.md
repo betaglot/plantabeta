@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.Off" />
+# <BB labor="Plantfor.Off" />
 
 ---
 
@@ -22,10 +22,10 @@ search: false
     - Add InsulationLayer when cold
 - RemoveClothingLayer
     - Remove ShellLayer after rain has passed
-- PlantaforDrop
+- PlantforDrop
     - BuckleOff
-    - When Bags are full, a PlantaforDrop can cause Spill
+    - When Bags are full, a PlantforDrop can cause Spill
 - FallRecovery
-    - PlantaforOff when you're Sitting
+    - PlantforOff when you're Sitting
 
 :::

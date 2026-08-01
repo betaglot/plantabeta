@@ -225,6 +225,8 @@ EKOS is decomposed by composing a VIA
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
 
+- Intersecting vions
+- Sailing rum line. Geodesic
 - Add japanese crowd walk to via overview
 - Plant hypotenuse in flat terrain and "L" on slope
 - Run a line. Run to the back
@@ -236,5 +238,6 @@ EKOS is decomposed by composing a VIA
     - KorpoRotate
     - KorpoTwist
     - NeckTwist
+- ViaLine InsteadOf ViaCurve
 
 :::

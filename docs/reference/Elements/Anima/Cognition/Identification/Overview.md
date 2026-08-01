@@ -21,7 +21,9 @@ let elementName = "Identification"
 <!-- =================================================== -->
 ::: details &
 
--
+- Metaphysical Law of Identity
+- "Do they look the same" is anima
+
 - Epistemology  
     - How to know  
 - Ontology  

@@ -9,6 +9,8 @@
 <!-- =================================================== -->
 ::: details &
 
+- Strategic Ambitions
+
 - Play to win
 - Strategy: Opening Statement
 - Strategy: Lay the groundwork for

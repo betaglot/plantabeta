@@ -44,3 +44,16 @@ Rugby World Cup use rounded corners in their
 ### League of Legends
 
 <https://www.leagueoflegends.com/en-us/how-to-play/>
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- Guide for rookies isn't a tutorial. Guide is mostly links and introductions
+
+:::

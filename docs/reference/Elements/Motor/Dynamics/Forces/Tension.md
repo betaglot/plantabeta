@@ -23,7 +23,7 @@ let elementName = "TensionForce"
 - CentripetalForce
 - Rip
 - [Spade.Skim.Mano|Difinger] TwoFingers
-- Revolve
+- Gyre
 - Posture
     - SOMA
     - Limberness

@@ -12,6 +12,7 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
 - Euclid Problems are Aktions in BETAGLOT. Euclid Teorems are what in BETAGLOT?
 - How did Darwin structure his books? Did they have propositions?
 - Axiomatic System

@@ -48,6 +48,9 @@ Aliases: Shovel
 <!-- =================================================== -->
 ::: details &
 
+- To minimize disturbing fragile soil formations slope cascade
+
+- Spade dribble
 - Spade.Kryos is when you tighten your grip so the Handle doesn't rotate
     - Kryos is used for aiming
     - to control the posture of spade

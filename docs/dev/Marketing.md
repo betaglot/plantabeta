@@ -144,6 +144,18 @@ Most Epic BC day, Most shitty Ontario day
 <!-- =================================================== -->
 ::: details &
 
+- Be the originator of an element sponsor a road sponsor an element
+- Established planters are not your target audience
+- There are no celebrity planters but there are tons of celeb climbers
+    - Shania Twain
+    - Will Arnett
+        - Amy Poehler's Ex
+- Boustro sounds like it could be a meme
+- Planting as a dance
+- Wear your bags down Baker (A main street)
+    - Squamish: Cleveland
+    - Nelson: Baker
+    - Montreal: MontRoyal, StLaurent, StCatherine, StDenis, Park
 - Climate Change will take less time than the tree needs to grow large enough to be cut down
     - In 30 years nobody will want to cut it down
 - Baseball pitch is spade is accessible to millions

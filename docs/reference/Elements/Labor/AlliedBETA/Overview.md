@@ -20,6 +20,9 @@ let elementName = "AlliedBETA"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
+- Epicycle instead of passing a planter or bounce back
+    - Bounce implies going all the way back to the sideline
 - Overtake Pass
 - Via: Hold the door open for someone (anterior, posterior, lateral) relative to you
 - "Too bunched up". Bunching

@@ -20,6 +20,8 @@ let elementName = "Momentum"
 <!-- =================================================== -->
 ::: details &
 
+- Radial speed between handle and blade and make spade point medial or lateral. Into a kink
+
 - Momentum is a Vector Quantity
 - p = mv
     - Mass

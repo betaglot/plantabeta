@@ -20,6 +20,8 @@ let elementName = "CutBank"
 <!-- =================================================== -->
 ::: details &
 
+- To minimize disturbing fragile soil formations slope cascade
+
 - Space off the edge of the cutbank
 - Perimeter
     - [Piece|Perimeter]

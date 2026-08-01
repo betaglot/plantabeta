@@ -70,6 +70,21 @@ Broadcast Design by [Interstate Creative Partners](https://www.interstateteam.co
 <!-- =================================================== -->
 ::: details &
 
--
+- If you click on a YouTube shorts title, then an expansion box opens with a line of metadata and a description.
+    - What markdown can you put in the description?
+- PlantaBeta_Video
+    - Aggregate Videos
+        - Edit the videos into hour long videos
+    - Subtitles: BetaTranscription
+        - Show video on separate screen if possible
+    1. DaVinci: Add a Subtitle for each Planted Tree then export .vtt file, then render
+    2. Upload Video to Youtube
+    3. VScode: Open .vtt in Vscode
+    4. Use Python to replace "subtitle" with a BetaMomentMatrix_CaptionTemplate
+    5. use Autocomplete to input the values for BetaMomentMatrix
+    6. Upload .vtt to Youtube
+
+- YoutubeShorts
+    - Highlights like cod modern warfare only knives guy for PlantaBETA
 
 :::

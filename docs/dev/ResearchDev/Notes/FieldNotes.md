@@ -175,7 +175,7 @@ search: false
         - TuxedoBelt, Metis Sash, SaddleBlanket, Underarmor(historical)
         - CompressionDistribution like a SaddleBlanket
 - 2.18
-    - One Strap Plantafor Transport to allow time for SweatEvaporation
+    - One Strap Plantfor Transport to allow time for SweatEvaporation
     - BagButton TabTakt for SilviOut
         - Like stepping on a garbage can when pulling out the garbage bag.
             - AirResistance (suction) and friction can prevent the Silvi from sliding out
@@ -214,7 +214,7 @@ search: false
         - Anima.NonDualism
     - Give one day off a month. No saving allowed
 - 3.10, 3.11
-    - Cross Sectional Diagram of Plantafor with integrated Cape
+    - Cross Sectional Diagram of Plantfor with integrated Cape
         - The bottom surface of Bag is slippery to allow the trees to slide into place
 - 3.12
     - Kart

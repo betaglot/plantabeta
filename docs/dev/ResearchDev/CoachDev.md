@@ -12,6 +12,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Tacoma justification: How am we supposed to get to your camp, then camp there?
+
 - Be a checker for a short time
 - Refereeing benefits players the same way as surveying benefits Planters
 

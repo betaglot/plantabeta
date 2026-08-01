@@ -79,8 +79,8 @@ search: false
 - Why do Planters use spades instead of hoes?
 - What is the difference between a spade and a shovel?
 - The black swan that needs to be uncovered is the grr of training
-- Could you identify a Planter by their motion captured model?
-
+- Could you identify a Planter by their motion captured model?- What other Plants are circumboreal?
+    - Based on current understanding, fireweed (Chamaenerion angustifolium) does not have a single point of origin but is instead a circumboreal species, meaning it is native throughout the Northern Hemisphere. Its evolutionary history indicates that it spread across continents long ago, adapting to cold, temperate, and boreal climates
 -
 
 ## DataCollection

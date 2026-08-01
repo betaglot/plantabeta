@@ -1,23 +1,30 @@
 # DesignBox Relations Report
+
 _Generated on 2026-07-30 15:03:45_
 
 ## Awareness;
+
 * `Mindfulness`: - <span style="text-decoration: underline lime; font-weight: bold;">Awareness</span> never gets tired
 * `Mindfulness`: - <span style="text-decoration: underline lime; font-weight: bold;">Awareness</span>
 
 ## FeelsEffortless;
+
 * `AnimaOverview`: - "ANIMA.CognitiveEase.<span style="text-decoration: underline lime; font-weight: bold;">FeelsEffortless</span>"
 
 ## FeelsFamiliar;
+
 * `AnimaOverview`: - "ANIMA.CognitiveEase.<span style="text-decoration: underline lime; font-weight: bold;">FeelsFamiliar</span>"
 
 ## FeelsGood;
+
 * `AnimaOverview`: - "ANIMA.CognitiveEase.<span style="text-decoration: underline lime; font-weight: bold;">FeelsGood</span>"
 
 ## FeelsTrue;
+
 * `AnimaOverview`: - "ANIMA.CognitiveEase.<span style="text-decoration: underline lime; font-weight: bold;">FeelsTrue</span>"
 
 ## CognitiveEase;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">CognitiveEase</span>"
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">CognitiveEase</span>.Clarity"
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">CognitiveEase</span>.FeelsEffortless"
@@ -29,12 +36,15 @@ _Generated on 2026-07-30 15:03:45_
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">CognitiveEase</span>.Repetition"
 
 ## PrimingEase;
+
 * `Plot`: - <span style="text-decoration: underline lime; font-weight: bold;">PrimingEase</span> leads to confidence
 
 ## Control;
+
 * `Strategy`: - <span style="text-decoration: underline lime; font-weight: bold;">Control</span>
 
 ## Counting;
+
 * `AdaptiveProximity`: - <span style="text-decoration: underline lime; font-weight: bold;">Counting</span> steps us a crutch for spacing and ultimately density
 * `Enumeration`: - <span style="text-decoration: underline lime; font-weight: bold;">Counting</span> steps us a crutch for spacing and ultimately density
 * `Enumeration`: - Alias: <span style="text-decoration: underline lime; font-weight: bold;">Counting</span>
@@ -42,45 +52,56 @@ _Generated on 2026-07-30 15:03:45_
 * `Step`: - <span style="text-decoration: underline lime; font-weight: bold;">Counting</span> steps us a crutch for spacing and ultimately density
 
 ## Commitment;
+
 * `GoOrNoGo`: - <span style="text-decoration: underline lime; font-weight: bold;">Commitment</span>
 
 ## GoOrNoGo;
+
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">GoOrNoGo</span>
 
 ## Decision;
+
 * `Strategy`: - Strategy.<span style="text-decoration: underline lime; font-weight: bold;">Decision</span>
 
 ## Estimation;
+
 * `BagFillEstimation`: [VIA:Space|ANIMA:<span style="text-decoration: underline lime; font-weight: bold;">Estimation</span>]
 * `PaleoBlock`: - [Neon|Density.<span style="text-decoration: underline lime; font-weight: bold;">Estimation</span>] likely density of Mikrosites for Neons
 * `TimeEstimation`: [MOTOR:Time|ANIMA:<span style="text-decoration: underline lime; font-weight: bold;">Estimation</span>]
 
 ## SpaceEstimation;
+
 * `BagFillEstimation`: <span style="text-decoration: underline lime; font-weight: bold;">SpaceEstimation</span> is a BETOM
 
 ## TimeEstimation;
+
 * `Estimation`: - ANIMA.Estimation.VIA_Estimation.<span style="text-decoration: underline lime; font-weight: bold;">TimeEstimation</span>
 
 ## Resilience;
+
 * `Kompakt`: - <span style="text-decoration: underline lime; font-weight: bold;">Resilience</span> (Feynman Challenger Rubber Seal Testimony)
 * `Kompress`: - <span style="text-decoration: underline lime; font-weight: bold;">Resilience</span> (Feynman Challenger Rubber Seal Testimony)
 * `Kompress`: - Material <span style="text-decoration: underline lime; font-weight: bold;">Resilience</span>
 
 ## Fear;
+
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">Fear</span> of Hypothermia
 * `Sadness`: - <span style="text-decoration: underline lime; font-weight: bold;">Fear</span> of loss
 * `Sadness`: - <span style="text-decoration: underline lime; font-weight: bold;">Fear</span> of replant
 
 ## Joy;
+
 * `Emotion`: - Avoid the dichotomy of <span style="text-decoration: underline lime; font-weight: bold;">Joy</span> and Sadness, since aren't actually opposites. Antagonists
 * `Energy`: - <span style="text-decoration: underline lime; font-weight: bold;">Joy</span> and Sadness and [Spade.Slam] use Energy
 
 ## Sadness;
+
 * `Emotion`: - Avoid the dichotomy of Joy and <span style="text-decoration: underline lime; font-weight: bold;">Sadness</span>, since aren't actually opposites. Antagonists
 * `Energy`: - Joy and <span style="text-decoration: underline lime; font-weight: bold;">Sadness</span> and [Spade.Slam] use Energy
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">Sadness</span>
 
 ## Event;
+
 * `MotorOverview`: - [MOTON|<span style="text-decoration: underline lime; font-weight: bold;">Event</span>]
 * `Strategy`: - "be able to react to any AKTION or <span style="text-decoration: underline lime; font-weight: bold;">Event</span>"
 * `ViaOverview`: - "VIA.<span style="text-decoration: underline lime; font-weight: bold;">Event</span>"
@@ -89,61 +110,76 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - "VIA.<span style="text-decoration: underline lime; font-weight: bold;">Event</span>.PositionEvent"
 
 ## FlowState;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">FlowState</span>"
 * `Time`: - <span style="text-decoration: underline lime; font-weight: bold;">FlowState</span>
 
 ## Arousal;
+
 * `AnimaOverview`: - "ANIMA.State.<span style="text-decoration: underline lime; font-weight: bold;">Arousal</span>"
 
 ## Confidence;
+
 * `Plot`: - Take plots every time you change NeonDensity, to increase <span style="text-decoration: underline lime; font-weight: bold;">Confidence</span> and to prevent error
 
 ## Senses;
+
 * `Energy`: - <span style="text-decoration: underline lime; font-weight: bold;">Senses</span>
 
 ## Music;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Music</span>"
 * `Precipitation`: - The rain is so loud that you can't hear your <span style="text-decoration: underline lime; font-weight: bold;">Music</span>
 * `Ritmo.md`: - Listening to <span style="text-decoration: underline lime; font-weight: bold;">Music</span> while planting can give planters an artificial Beat to follow
 
 ## Proprioception;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Proprioception</span>"
 
 ## SpatialSense;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">SpatialSense</span>"
 
 ## Planning;
+
 * `Advantage`: - <span style="text-decoration: underline lime; font-weight: bold;">Planning</span>
 * `Execution`: - Execution, <span style="text-decoration: underline lime; font-weight: bold;">Planning</span>, Strategy
 * `Pleroon`: - Remember that implementing a plan is Praktik, while <span style="text-decoration: underline lime; font-weight: bold;">Planning</span> is Teori
 
 ## VisionSense;
+
 * `Skope`: - <span style="text-decoration: underline lime; font-weight: bold;">VisionSense</span>
 
 ## Sleep;
+
 * `Homeostasis`: - <span style="text-decoration: underline lime; font-weight: bold;">Sleep</span>
 * `Rest`: - [Rest|<span style="text-decoration: underline lime; font-weight: bold;">Sleep</span>]
 
 ## Ekon;
+
 * `Flexion`: - LABOR: Flex, SOMA: Somon.Flexed, EKOS: <span style="text-decoration: underline lime; font-weight: bold;">Ekon</span>.Flexed, VIA: Flexion
 * `Morfos`: - <span style="text-decoration: underline lime; font-weight: bold;">Ekon</span> ContourLine
 * `Morfos`: - <span style="text-decoration: underline lime; font-weight: bold;">Ekon</span>: Dihedral
 * `Morfos`: - Minute physics mountain valley illusion for <span style="text-decoration: underline lime; font-weight: bold;">Ekon</span> Form
 
 ## Ekosfera;
+
 * `EkosOverview`: - Seasons affects <span style="text-decoration: underline lime; font-weight: bold;">Ekosfera</span>. Where are Seasons located within Geology?
 * `Skreef`: - Change this meaning to a new moniker, something about Radius. The only thing that matters is the radius of exposed mineral soil around the Neon. A Skreefed part of <span style="text-decoration: underline lime; font-weight: bold;">Ekosfera</span> is useless. What is the government word for skreef?
 
 ## CutBank;
+
 * `Road`: - <span style="text-decoration: underline lime; font-weight: bold;">CutBank</span> along Road
 * `Ski`: - <span style="text-decoration: underline lime; font-weight: bold;">CutBank</span>
 
 ## Landing;
+
 * `Block`: - <span style="text-decoration: underline lime; font-weight: bold;">Landing</span>
 * `CutBank`: - <span style="text-decoration: underline lime; font-weight: bold;">Landing</span>
 * `Fall`: - <span style="text-decoration: underline lime; font-weight: bold;">Landing</span>
 
 ## Road;
+
 * `Block`: - [Block.<span style="text-decoration: underline lime; font-weight: bold;">Road</span>]
 * `Block`: - "Down the <span style="text-decoration: underline lime; font-weight: bold;">Road</span>"
 * `Block`: - <span style="text-decoration: underline lime; font-weight: bold;">Road</span>
@@ -155,6 +191,7 @@ _Generated on 2026-07-30 15:03:45_
 * `RubbleSoil`: - Roadside (<span style="text-decoration: underline lime; font-weight: bold;">Road</span> Filler Rock)ActualName
 
 ## Mound;
+
 * `Dia`: - Cross over a (<span style="text-decoration: underline lime; font-weight: bold;">Mound</span>, Preskreef, Trench)Prep
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Mound</span>
 * `Direction`: - [Spade.Egress.Helix|<span style="text-decoration: underline lime; font-weight: bold;">Mound</span>|Over]
@@ -166,6 +203,7 @@ _Generated on 2026-07-30 15:03:45_
 * `NormalForce`: - Throw your spade perpendicular to the sides of Trench or <span style="text-decoration: underline lime; font-weight: bold;">Mound</span> to maximize NormalForce
 
 ## Prep;
+
 * `Dia`: - Cross over a (Mound, Preskreef, Trench)<span style="text-decoration: underline lime; font-weight: bold;">Prep</span>
 * `Egression`: - Sometimes you need to stand in the <span style="text-decoration: underline lime; font-weight: bold;">Prep</span> and sometimes you can just put one leg in the <span style="text-decoration: underline lime; font-weight: bold;">Prep</span> to plant it.
 * `Egression`: - Leg Ingress <span style="text-decoration: underline lime; font-weight: bold;">Prep</span>(Mound,Trench,Preskreef)
@@ -176,6 +214,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Trench`: - "Put a tree in the raw between the <span style="text-decoration: underline lime; font-weight: bold;">Prep</span>"
 
 ## Preskreef;
+
 * `Dia`: - Cross over a (Mound, <span style="text-decoration: underline lime; font-weight: bold;">Preskreef</span>, Trench)Prep
 * `Egression`: - Leg Ingress Prep(Mound,Trench,<span style="text-decoration: underline lime; font-weight: bold;">Preskreef</span>)
 * `Egression`: - Korpo Ingress Prep(Mound,Trench,<span style="text-decoration: underline lime; font-weight: bold;">Preskreef</span>)
@@ -184,6 +223,7 @@ _Generated on 2026-07-30 15:03:45_
 * `RubbleSoil`: - <span style="text-decoration: underline lime; font-weight: bold;">Preskreef</span>
 
 ## Trench;
+
 * `AbsoluteLokation`: - "Bottom of <span style="text-decoration: underline lime; font-weight: bold;">Trench</span>"
 * `Dia`: - Cross over a (Mound, Preskreef, <span style="text-decoration: underline lime; font-weight: bold;">Trench</span>)Prep
 * `Egression`: - Leg Ingress Prep(Mound,<span style="text-decoration: underline lime; font-weight: bold;">Trench</span>,Preskreef)
@@ -194,14 +234,17 @@ _Generated on 2026-07-30 15:03:45_
 * `RelativeDirection`: - <span style="text-decoration: underline lime; font-weight: bold;">Trench</span>.Orientation
 
 ## HighSlash;
+
 * `Elevation`: - <span style="text-decoration: underline lime; font-weight: bold;">HighSlash</span>
 * `MuscleUp`: - [MuscleUp|<span style="text-decoration: underline lime; font-weight: bold;">HighSlash</span>]
 * `Road`: - <span style="text-decoration: underline lime; font-weight: bold;">HighSlash</span>
 
 ## LowSlash;
+
 * `Elevation`: - <span style="text-decoration: underline lime; font-weight: bold;">LowSlash</span>
 
 ## Slash;
+
 * `BurnPileSlash`: - "EKOS.<span style="text-decoration: underline lime; font-weight: bold;">Slash</span>.BurnPileSlash"
 * `Cranium`: - crawling under (<span style="text-decoration: underline lime; font-weight: bold;">Slash</span>, Log, DeadTree, BurntTree, Spruce.(Spiked,Poked))
 * `Dia`: - Minimum <span style="text-decoration: underline lime; font-weight: bold;">Slash</span> Diameter to be considered a Protektor (>50mm)
@@ -215,33 +258,40 @@ _Generated on 2026-07-30 15:03:45_
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">Slash</span>|Weight]
 
 ## WetSlash;
+
 * `Humidity`: - <span style="text-decoration: underline lime; font-weight: bold;">WetSlash</span>
 
 ## Humidity;
+
 * `Hydration`: - <span style="text-decoration: underline lime; font-weight: bold;">Humidity</span>
 
 ## Lightning;
+
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">Lightning</span>
 
 ## Atmosfera;
+
 * `AirTemperature`: - How to distinguish the experience of SOMA.Temperature and <span style="text-decoration: underline lime; font-weight: bold;">Atmosfera</span>.Temperature?
 * `Doff`: - InsulationLayer DonDoff when <span style="text-decoration: underline lime; font-weight: bold;">Atmosfera</span> is variable
 * `Humidity`: - Evapotranspiration doesn't work as well because the <span style="text-decoration: underline lime; font-weight: bold;">Atmosfera</span> is already saturated with water, so there is less space to absorb the sweat in the air
 * `Temperature`: - Influence of <span style="text-decoration: underline lime; font-weight: bold;">Atmosfera</span>
 
 ## Precipitation;
+
 * `Atmosfera`: - <span style="text-decoration: underline lime; font-weight: bold;">Precipitation</span>
 * `Glove`: - [Glove.Waterproof,Kit,WaterproofBag|<span style="text-decoration: underline lime; font-weight: bold;">Precipitation</span>] Waterproof gloves should be stored dry in a waterproof bag
 * `Humidity`: - <span style="text-decoration: underline lime; font-weight: bold;">Precipitation</span>
 * `Hydros`: - Hydros from SOMA is Sweat, Hydros from EKOS is from <span style="text-decoration: underline lime; font-weight: bold;">Precipitation</span>, Condensation, GroundWater, MovingWater, StagnantWater
 
 ## Sun;
+
 * `Defend`: - <span style="text-decoration: underline lime; font-weight: bold;">Sun</span>
 * `Hat`: - <span style="text-decoration: underline lime; font-weight: bold;">Sun</span> Hat
 * `Temperature`: - Influence of <span style="text-decoration: underline lime; font-weight: bold;">Sun</span>
 * `Time`: - Clock, <span style="text-decoration: underline lime; font-weight: bold;">Sun</span>
 
 ## Wind;
+
 * `AirTemperature`: - AirTemperature can be difficult to be objective about, because of <span style="text-decoration: underline lime; font-weight: bold;">Wind</span> Chill
 * `Atmosfera`: - <span style="text-decoration: underline lime; font-weight: bold;">Wind</span>
 * `ElasticEnergy`: - [Lean|(Flora+<span style="text-decoration: underline lime; font-weight: bold;">Wind</span>)|Elastic]
@@ -251,23 +301,29 @@ _Generated on 2026-07-30 15:03:45_
 * `Temperature`: - <span style="text-decoration: underline lime; font-weight: bold;">Wind</span>+Wet
 
 ## Ant;
+
 * `Animal`: - <span style="text-decoration: underline lime; font-weight: bold;">Ant</span>
 
 ## Bear;
+
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Bear</span>
 
 ## Cow;
+
 * `Poales`: - <span style="text-decoration: underline lime; font-weight: bold;">Cow</span> grass is dense and firmly interrooted
 
 ## Dendron;
+
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Dendron</span> Diameter
 
 ## Leaf;
+
 * `Flora`: - <span style="text-decoration: underline lime; font-weight: bold;">Leaf</span>
 * `Neon`: - <span style="text-decoration: underline lime; font-weight: bold;">Leaf</span>
 * `Paleon`: - <span style="text-decoration: underline lime; font-weight: bold;">Leaf</span>
 
 ## Log;
+
 * `Ankor`: - Lever on a <span style="text-decoration: underline lime; font-weight: bold;">Log</span> so you can use the log which has a diameter that’s too large to grip
 * `Ballista`: - <span style="text-decoration: underline lime; font-weight: bold;">Log</span>
 * `Cache`: - <span style="text-decoration: underline lime; font-weight: bold;">Log</span>
@@ -280,6 +336,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Stall`: - <span style="text-decoration: underline lime; font-weight: bold;">Log</span> Walk
 
 ## Flora;
+
 * `Absorb`: - Absorb the energy of <span style="text-decoration: underline lime; font-weight: bold;">Flora</span> whipping back, by using the weight of the Spade to transform some of the elastic energy into gravitational potential energy
 * `Ballista`: - [Ballista|<span style="text-decoration: underline lime; font-weight: bold;">Flora</span>]
 * `Block`: - [<span style="text-decoration: underline lime; font-weight: bold;">Flora</span>|Density]
@@ -301,11 +358,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Weave`: - Weave <span style="text-decoration: underline lime; font-weight: bold;">Flora</span> into other <span style="text-decoration: underline lime; font-weight: bold;">Flora</span> to prevent it from springing back into [Mikrosite.Passag.Obstakle]
 
 ## Root;
+
 * `Flexion`: - J-<span style="text-decoration: underline lime; font-weight: bold;">Root</span>
 * `Flora`: - <span style="text-decoration: underline lime; font-weight: bold;">Root</span>
 * `Kompakt`: - Kompakt (collapse) a <span style="text-decoration: underline lime; font-weight: bold;">Root</span> Well before planting it
 
 ## Stump;
+
 * `AbsoluteLokation`: - [Mikrosite|<span style="text-decoration: underline lime; font-weight: bold;">Stump</span>|North]
 * `Axine`: - [Spade.Post.Axine|<span style="text-decoration: underline lime; font-weight: bold;">Stump</span>]
 * `Axine`: - Axe your Spade into a <span style="text-decoration: underline lime; font-weight: bold;">Stump</span> and it will stay
@@ -319,60 +378,76 @@ _Generated on 2026-07-30 15:03:45_
 * `Pry`: - [Skim.Pry|<span style="text-decoration: underline lime; font-weight: bold;">Stump</span>]
 
 ## Fungi;
+
 * `Particulates`: - [EKOS:<span style="text-decoration: underline lime; font-weight: bold;">Fungi</span>.Spores]
 
 ## Condensation;
+
 * `Humidity`: - <span style="text-decoration: underline lime; font-weight: bold;">Condensation</span>
 * `Hydros`: - Hydros from SOMA is Sweat, Hydros from EKOS is from Precipitation, <span style="text-decoration: underline lime; font-weight: bold;">Condensation</span>, GroundWater, MovingWater, StagnantWater
 * `Leaf`: - <span style="text-decoration: underline lime; font-weight: bold;">Condensation</span> on leaves
 * `WetSlash`: - <span style="text-decoration: underline lime; font-weight: bold;">Condensation</span>
 
 ## GroundWater;
+
 * `Hydros`: - Hydros from SOMA is Sweat, Hydros from EKOS is from Precipitation, Condensation, <span style="text-decoration: underline lime; font-weight: bold;">GroundWater</span>, MovingWater, StagnantWater
 
 ## Hydros;
+
 * `Trench`: - [Trench|<span style="text-decoration: underline lime; font-weight: bold;">Hydros</span>]
 * `WetSlash`: - <span style="text-decoration: underline lime; font-weight: bold;">Hydros</span>
 
 ## MovingWater;
+
 * `Hydros`: - Hydros from SOMA is Sweat, Hydros from EKOS is from Precipitation, Condensation, GroundWater, <span style="text-decoration: underline lime; font-weight: bold;">MovingWater</span>, StagnantWater
 
 ## StagnantWater;
+
 * `Hydros`: - Hydros from SOMA is Sweat, Hydros from EKOS is from Precipitation, Condensation, GroundWater, MovingWater, <span style="text-decoration: underline lime; font-weight: bold;">StagnantWater</span>
 
 ## RockCap;
+
 * `Makrosite`: - Makrosite delimited by Flora, Slash, Terrain.Cliff, <span style="text-decoration: underline lime; font-weight: bold;">RockCap</span>, Water.Riparian
 
 ## BurnPit;
+
 * `BurnPileSlash`: - BurnPileSlash can be within or the boundary to <span style="text-decoration: underline lime; font-weight: bold;">BurnPit</span>
 * `BurnPileSlash`: - Sometimes the BurnPileSlash totally surrounds a <span style="text-decoration: underline lime; font-weight: bold;">BurnPit</span>
 
 ## MineralSoil;
+
 * `Skreef`: - Soil flip to expose mineral soil, when there is Organic Material on top of <span style="text-decoration: underline lime; font-weight: bold;">MineralSoil</span> and the space if too tight to fully Skreef
 
 ## Erosion;
+
 * `BoulderSoil`: - [BoulderSoil.<span style="text-decoration: underline lime; font-weight: bold;">Erosion</span>] Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment. Like at the top of Crater Mountain
 
 ## PebbleSoil;
+
 * `Kompress`: - [Kompress|(<span style="text-decoration: underline lime; font-weight: bold;">PebbleSoil</span>+RedRotSoil)]
 
 ## SiltSoil;
+
 * `Kompakt`: - Kompakt fine, dry loose <span style="text-decoration: underline lime; font-weight: bold;">SiltSoil</span> before [Spade.Ingress] to ensure that the Soil around the Hole will be dense enough to support the hole otherwise when you Systole the Hole only the soil that was in the Hole will be compressed and will be a loose tree fault.
 
 ## Klimon;
+
 * `Konvexity`: - The Konvexity of <span style="text-decoration: underline lime; font-weight: bold;">Klimon</span> is a hint of what lies hidden. KryptoSite.
 * `Mikrosite`: - Add Duff to Skreef, Skreefing, <span style="text-decoration: underline lime; font-weight: bold;">Klimon</span>, Mikrosite
 
 ## Prokline;
+
 * `Forces`: - (SlabClimb \== [AKTION|Leg|<span style="text-decoration: underline lime; font-weight: bold;">Prokline</span>])
 * `NormalForce`: - <span style="text-decoration: underline lime; font-weight: bold;">Prokline</span> SlabClimb
 * `NormalForce`: - [Telos|<span style="text-decoration: underline lime; font-weight: bold;">Prokline</span>.LooseSoil|NormalForce]
 
 ## Texture;
+
 * `Site`: - [KLIMBETA]: Dual <span style="text-decoration: underline lime; font-weight: bold;">Texture</span> Hold Surface
 * `Site`: - "VIA.VIA_Geometry.Site.<span style="text-decoration: underline lime; font-weight: bold;">Texture</span>"
 
 ## AlliedBETA;
+
 * `AlliesCommunication`: - [<span style="text-decoration: underline lime; font-weight: bold;">AlliedBETA</span>|Question] Do you mind if I Jump your line?
 * `Compassion`: - <span style="text-decoration: underline lime; font-weight: bold;">AlliedBETA</span>
 * `Dyad`: - <span style="text-decoration: underline lime; font-weight: bold;">AlliedBETA</span>(2)
@@ -381,31 +456,38 @@ _Generated on 2026-07-30 15:03:45_
 * `Strategy`: - <span style="text-decoration: underline lime; font-weight: bold;">AlliedBETA</span> where a group arrives at the cache, when the rest of the planters are too far into the land to communicate with.
 
 ## Production;
+
 * `Effort`: - <span style="text-decoration: underline lime; font-weight: bold;">Production</span>
 
 ## Replant;
+
 * `AlliedBETA`: - [<span style="text-decoration: underline lime; font-weight: bold;">Replant</span>.AlliedBETA|Alignment] Patrol Line (FireBeta) replant
 
 ## RestDay;
+
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">RestDay</span>
 * `Taktik`: - [Taktik.Rest] Taktik.Rest Taktik.<span style="text-decoration: underline lime; font-weight: bold;">RestDay</span>
 * `Taktik`: - Taktik.<span style="text-decoration: underline lime; font-weight: bold;">RestDay</span>
 
 ## Shift;
+
 * `Forces`: - <span style="text-decoration: underline lime; font-weight: bold;">Shift</span> MassDistribution to increase Force
 * `Production`: - Trees/(Day,<span style="text-decoration: underline lime; font-weight: bold;">Shift</span>,Season)
 
 ## Crummy;
+
 * `Plan`: - Whiteboard on <span style="text-decoration: underline lime; font-weight: bold;">Crummy</span>
 * `Transit`: - <span style="text-decoration: underline lime; font-weight: bold;">Crummy</span>
 
 ## Transit;
+
 * `Plantfor`: - Pack into itself for <span style="text-decoration: underline lime; font-weight: bold;">Transit</span>, especially PostSeason
 * `Rest`: - [<span style="text-decoration: underline lime; font-weight: bold;">Transit</span>.Rest]
 * `Sleep`: - <span style="text-decoration: underline lime; font-weight: bold;">Transit</span>
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Transit</span>
 
 ## Truck;
+
 * `Run`: - <span style="text-decoration: underline lime; font-weight: bold;">Truck</span> run away lane beside highway
 * `Sit`: - [<span style="text-decoration: underline lime; font-weight: bold;">Truck</span>.Sit]
 * `Sleep`: - [<span style="text-decoration: underline lime; font-weight: bold;">Truck</span>|Sleep]
@@ -415,11 +497,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Transit`: - <span style="text-decoration: underline lime; font-weight: bold;">Truck</span>
 
 ## WalkIn;
+
 * `Block`: - [Block.<span style="text-decoration: underline lime; font-weight: bold;">WalkIn</span>]
 * `Road`: - (<span style="text-decoration: underline lime; font-weight: bold;">WalkIn</span>, WalkOut)Of(Block,Piece,Makrosite)
 * `Tracking`: - Useful when you need to traverse Residual to <span style="text-decoration: underline lime; font-weight: bold;">WalkIn</span> or WalkOut of your piece.
 
 ## WalkOut;
+
 * `Block`: - <span style="text-decoration: underline lime; font-weight: bold;">WalkOut</span>
 * `Block`: - [Block.<span style="text-decoration: underline lime; font-weight: bold;">WalkOut</span>]
 * `Egression`: - <span style="text-decoration: underline lime; font-weight: bold;">WalkOut</span>
@@ -427,35 +511,43 @@ _Generated on 2026-07-30 15:03:45_
 * `Tracking`: - Useful when you need to traverse Residual to WalkIn or <span style="text-decoration: underline lime; font-weight: bold;">WalkOut</span> of your piece.
 
 ## Labon;
+
 * `Skreef`: - A skreef is a <span style="text-decoration: underline lime; font-weight: bold;">Labon</span>. You don't need to skreef that
 
 ## Competition;
+
 * `Advantage`: - Auto <span style="text-decoration: underline lime; font-weight: bold;">Competition</span>
 * `Advantage`: - Ally <span style="text-decoration: underline lime; font-weight: bold;">Competition</span>
 * `Pleroon`: - [The Fastest Maze-Solving <span style="text-decoration: underline lime; font-weight: bold;">Competition</span> On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
 
 ## Difficulty;
+
 * `Ankor`: - <span style="text-decoration: underline lime; font-weight: bold;">Difficulty</span>(SloperGrip > HandleGrip)
 * `Piece`: - [Piece.<span style="text-decoration: underline lime; font-weight: bold;">Difficulty</span>]
 * `Piece`: [Piece.<span style="text-decoration: underline lime; font-weight: bold;">Difficulty</span>.Krux]
 
 ## Effectiveness;
+
 * `Strategy`: - Efficiency and <span style="text-decoration: underline lime; font-weight: bold;">Effectiveness</span> are the goals to which Strategies aim to achieve
 
 ## Efficiency;
+
 * `Endurance`: - BETA.<span style="text-decoration: underline lime; font-weight: bold;">Efficiency</span>
 * `KineticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Efficiency</span>
 * `Strategy`: - <span style="text-decoration: underline lime; font-weight: bold;">Efficiency</span>.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
 * `Strategy`: - <span style="text-decoration: underline lime; font-weight: bold;">Efficiency</span> and Effectiveness are the goals to which Strategies aim to achieve
 
 ## Performance;
+
 * `LaborOverview`: - <span style="text-decoration: underline lime; font-weight: bold;">Performance</span>
 
 ## Waste;
+
 * `Efficiency`: - <span style="text-decoration: underline lime; font-weight: bold;">Waste</span>
 * `Error`: - <span style="text-decoration: underline lime; font-weight: bold;">Waste</span>
 
 ## Error;
+
 * `AlliedBETA`: - <span style="text-decoration: underline lime; font-weight: bold;">Error</span>,TeamBETA = Smother
 * `Armor`: - [<span style="text-decoration: underline lime; font-weight: bold;">Error</span>:Armor.(Jammed,Snagged,Twisted)]
 * `Bundle`: - <span style="text-decoration: underline lime; font-weight: bold;">Error</span>
@@ -483,15 +575,18 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - "VIA.<span style="text-decoration: underline lime; font-weight: bold;">Error</span>.TooFar"
 
 ## Intention;
+
 * `AlliedBETA`: - Crossing the street because you someone else start to move. <span style="text-decoration: underline lime; font-weight: bold;">Intention</span>.mimik
 * `Motoid`: - {VIA.Passag:Future, MOTOR.Motoid: Past, ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Intention</span>: Present}
 
 ## Atlos;
+
 * `LaborOverview`: - (Labor != <span style="text-decoration: underline lime; font-weight: bold;">Atlos</span>)
 * `LaborOverview`: - All workers experience Labor, but not all workers experience <span style="text-decoration: underline lime; font-weight: bold;">Atlos</span>
 * `LaborOverview`: - Professional Atletes experience Labor and <span style="text-decoration: underline lime; font-weight: bold;">Atlos</span>
 
 ## Strategy;
+
 * `Advantage`: - Advantage is the goal of <span style="text-decoration: underline lime; font-weight: bold;">Strategy</span>
 * `AlliedBETA`: - PlantaBETA.<span style="text-decoration: underline lime; font-weight: bold;">Strategy</span>: TeamBETA is an effort to avoid capturing, which is the opposite <span style="text-decoration: underline lime; font-weight: bold;">Strategy</span> of Chess.
 * `AlliedBETA`: - (ChessBETA == TeamBETA): Building a wall along the middle is a <span style="text-decoration: underline lime; font-weight: bold;">Strategy</span>. Cut the piece in half
@@ -502,9 +597,11 @@ _Generated on 2026-07-30 15:03:45_
 * `Plan`: - (Plan != <span style="text-decoration: underline lime; font-weight: bold;">Strategy</span>)
 
 ## Advantage;
+
 * `Strategy`: - <span style="text-decoration: underline lime; font-weight: bold;">Advantage</span> isn't binary
 
 ## Plan;
+
 * `Pleroon`: - Complete is a State and also a <span style="text-decoration: underline lime; font-weight: bold;">Plan</span>
 * `Pleroon`: - <span style="text-decoration: underline lime; font-weight: bold;">Plan</span> to complete a Labor
 * `Pleroon`: - Differentiate(<span style="text-decoration: underline lime; font-weight: bold;">Plan</span>, Line, SitePolygon)
@@ -517,6 +614,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Strategy`: - ((Taktik + <span style="text-decoration: underline lime; font-weight: bold;">Plan</span> - Strategy) = Busy Work). You are doing lots of things efficiently and on schedule, but you have no idea why or if it's actually helping you win.
 
 ## Taktik;
+
 * `AlliedBETA`: - Team-<span style="text-decoration: underline lime; font-weight: bold;">Taktik</span>
 * `AlliedBETA`: - Team-<span style="text-decoration: underline lime; font-weight: bold;">Taktik</span>-Passage
 * `Markate`: - Markation is a <span style="text-decoration: underline lime; font-weight: bold;">Taktik</span>
@@ -536,13 +634,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Strategy`: - [<span style="text-decoration: underline lime; font-weight: bold;">Taktik</span>.Walk]
 
 ## Task;
+
 * `LaborOverview`: - <span style="text-decoration: underline lime; font-weight: bold;">Task</span>
 * `Skreef`: - Skreef is a <span style="text-decoration: underline lime; font-weight: bold;">Task</span>. There isn't one way to Skreef.
 
 ## Abdukt;
+
 * `Leg`: - <span style="text-decoration: underline lime; font-weight: bold;">Abdukt</span>
 
 ## Absorb;
+
 * `Ama`: - <span style="text-decoration: underline lime; font-weight: bold;">Absorb</span>
 * `ElasticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Absorb</span>
 * `KineticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Absorb</span>
@@ -553,11 +654,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Slam`: - (Fall+Spade.Slam) to <span style="text-decoration: underline lime; font-weight: bold;">Absorb</span>
 
 ## Addukt;
+
 * `Abdukt`: - [<span style="text-decoration: underline lime; font-weight: bold;">Addukt</span>|Arm]
 * `Abdukt`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Addukt</span>]
 * `Leg`: - <span style="text-decoration: underline lime; font-weight: bold;">Addukt</span>
 
 ## Ama;
+
 * `Friction`: - What are the physics of when you stab your spade into an EKON to act as a Kontakt for <span style="text-decoration: underline lime; font-weight: bold;">Ama</span> or PoleVault?
 * `Kryos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Ama</span>.Kryos]
 * `Lean`: - Differentiate(Lean,<span style="text-decoration: underline lime; font-weight: bold;">Ama</span>)
@@ -566,6 +669,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Ski`: - Lean Posteriorly to prevent toes from snagging, use spade to <span style="text-decoration: underline lime; font-weight: bold;">Ama</span> if you lean too far posteriorly
 
 ## Amble;
+
 * `Gimbal`: - [<span style="text-decoration: underline lime; font-weight: bold;">Amble</span>|Log]
 * `Poke`: - Testing an [<span style="text-decoration: underline lime; font-weight: bold;">Amble</span>|Site]
 * `Tempo`: - Tempo(<span style="text-decoration: underline lime; font-weight: bold;">Amble</span> < Trot < Run)
@@ -574,13 +678,16 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSlash`: - [<span style="text-decoration: underline lime; font-weight: bold;">Amble</span>.SpikedBoot|WetSlash]
 
 ## Ankor;
+
 * `MuscleUp`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Ankor</span>.MuscleUp]
 
 ## Axine;
+
 * `Purga`: - [Purga.<span style="text-decoration: underline lime; font-weight: bold;">Axine</span>]
 * `Snap`: - [Snap.<span style="text-decoration: underline lime; font-weight: bold;">Axine</span>]
 
 ## Ballista;
+
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Ballista</span>
 * `Inertia`: - Skreef <span style="text-decoration: underline lime; font-weight: bold;">Ballista</span>
 * `Markate`: - [Markate.<span style="text-decoration: underline lime; font-weight: bold;">Ballista</span>]
@@ -589,15 +696,19 @@ _Generated on 2026-07-30 15:03:45_
 * `ProjectileMotion`: - [<span style="text-decoration: underline lime; font-weight: bold;">Ballista</span>|ProjectileMotion]
 
 ## Catch;
+
 * `Error`: - Try <span style="text-decoration: underline lime; font-weight: bold;">Catch</span> Block
 
 ## Crawl;
+
 * `Retrakt`: - <span style="text-decoration: underline lime; font-weight: bold;">Crawl</span>
 
 ## Cross;
+
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Cross</span> over a (Mound, Preskreef, Trench)Prep
 
 ## Defend;
+
 * `Neck`: - [<span style="text-decoration: underline lime; font-weight: bold;">Defend</span>|Neck]
 * `Radior`: - [Radior.<span style="text-decoration: underline lime; font-weight: bold;">Defend</span>]
 * `Ribs`: - <span style="text-decoration: underline lime; font-weight: bold;">Defend</span> Ribs with Arm
@@ -610,6 +721,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Tibia`: - [<span style="text-decoration: underline lime; font-weight: bold;">Defend</span>|Tibia]
 
 ## Dilate;
+
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Dilate</span>
 * `Jerk`: - Deeper Ingress by increasing LocalMass MassDistribution when you're already Leaning over onto your Spade. You can do a 30mm Slam like a OneInchPunch. Deepen the Hole and [<span style="text-decoration: underline lime; font-weight: bold;">Dilate</span>.Pry] [<span style="text-decoration: underline lime; font-weight: bold;">Dilate</span>.Collapse]
 * `Pry`: - [<span style="text-decoration: underline lime; font-weight: bold;">Dilate</span>.Pry|Rock]
@@ -617,12 +729,14 @@ _Generated on 2026-07-30 15:03:45_
 * `Ritmo.md`: - (<span style="text-decoration: underline lime; font-weight: bold;">Dilate</span>,Insert) before Hole Collapses
 
 ## Doff;
+
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Doff</span>]
 * `Sit`: - Don is the contrary of <span style="text-decoration: underline lime; font-weight: bold;">Doff</span>
 * `Sit`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Doff</span>.Sit]
 * `Stand`: - [Bags.<span style="text-decoration: underline lime; font-weight: bold;">Doff</span>.Stand]
 
 ## Don;
+
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Don</span>]
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Don</span>]
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Don</span>]
@@ -644,15 +758,18 @@ _Generated on 2026-07-30 15:03:45_
 * `Velcro`: - <span style="text-decoration: underline lime; font-weight: bold;">Don</span>'t grip the Velcro with Soiled Gloves
 
 ## Drag;
+
 * `Box`: - [Box.<span style="text-decoration: underline lime; font-weight: bold;">Drag</span>]
 * `Friction`: - <span style="text-decoration: underline lime; font-weight: bold;">Drag</span> is the Friction of Air?
 * `PlotCord`: - [PlotCord.<span style="text-decoration: underline lime; font-weight: bold;">Drag</span>]
 
 ## Drop;
+
 * `Post`: - [Spade.Post.<span style="text-decoration: underline lime; font-weight: bold;">Drop</span>]
 * `Triceps`: - [<span style="text-decoration: underline lime; font-weight: bold;">Drop</span>|Arm] results in [Arm|Extension] so does [Extend|Elbow]. <span style="text-decoration: underline lime; font-weight: bold;">Drop</span> uses Gravity to bring Elbow to Extended Position while Extend brings Elbow to extended position using Muscle.Triceps
 
 ## Egress;
+
 * `Direction`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Egress</span>.Helix|Mound|Over]
 * `Egression`: - Ingress, <span style="text-decoration: underline lime; font-weight: bold;">Egress</span>
 * `Egression`: - Synkronize [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Egress</span>|Stoma] with [Neon.Ingress|Hand]
@@ -661,6 +778,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Parry`: - <span style="text-decoration: underline lime; font-weight: bold;">Egress</span> from the Site
 
 ## Enumerate;
+
 * `Bundle`: - [Bundle.<span style="text-decoration: underline lime; font-weight: bold;">Enumerate</span>]
 * `Bundle`: - [Bundle.<span style="text-decoration: underline lime; font-weight: bold;">Enumerate</span>.Stack]
 * `Cache`: - [Cache.<span style="text-decoration: underline lime; font-weight: bold;">Enumerate</span>]
@@ -672,6 +790,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Plot`: - [Plot.<span style="text-decoration: underline lime; font-weight: bold;">Enumerate</span>]
 
 ## Extend;
+
 * `Ankor`: - [<span style="text-decoration: underline lime; font-weight: bold;">Extend</span>|Thumb]
 * `Extension`: - <span style="text-decoration: underline lime; font-weight: bold;">Extend</span> is an <span class="labor">Aktion</span> , <span class="via">Extension</span> is a <span class="via">Position</span> or <span class="via">Direction</span>
 * `Extension`: - {Aktion: <span style="text-decoration: underline lime; font-weight: bold;">Extend</span>, Direktion: Extension, Position:Extended}
@@ -687,6 +806,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Wrist`: - "Hand Dorsi Flex" = [<span style="text-decoration: underline lime; font-weight: bold;">Extend</span>|Hand]
 
 ## Fall;
+
 * `Pop`: - [<span style="text-decoration: underline lime; font-weight: bold;">Fall</span>.Recovery.Pop|Leg]
 * `Pop`: - [<span style="text-decoration: underline lime; font-weight: bold;">Fall</span>.Recovery.Pop|Arm]
 * `Pop`: - [<span style="text-decoration: underline lime; font-weight: bold;">Fall</span>.Recovery.Spade.Pop]
@@ -695,6 +815,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Slam`: - (<span style="text-decoration: underline lime; font-weight: bold;">Fall</span>+Spade.Slam) to Absorb
 
 ## Flex;
+
 * `Flexion`: - <span style="text-decoration: underline lime; font-weight: bold;">Flex</span> is an <span class="labor">Aktion</span> , <span class="via">Flexion</span> is a <span class="via">Position</span> or <span class="via">Direction</span>
 * `Flexion`: - LABOR: <span style="text-decoration: underline lime; font-weight: bold;">Flex</span>, SOMA: Somon.Flexed, EKOS: Ekon.Flexed, VIA: Flexion
 * `Foot`: - [<span style="text-decoration: underline lime; font-weight: bold;">Flex</span>|Foot] = PlantarFlexion
@@ -709,17 +830,21 @@ _Generated on 2026-07-30 15:03:45_
 * `Wrist`: - "Hand Dorsi <span style="text-decoration: underline lime; font-weight: bold;">Flex</span>" = [Extend|Hand]
 
 ## Gimbal;
+
 * `Neck`: - [<span style="text-decoration: underline lime; font-weight: bold;">Gimbal</span>|Neck]
 
 ## Hinge;
+
 * `Hip`: - Hip <span style="text-decoration: underline lime; font-weight: bold;">Hinge</span>
 
 ## Hook;
+
 * `Elbow`: - [<span style="text-decoration: underline lime; font-weight: bold;">Hook</span>|Arm]
 * `Fastener`: - (<span style="text-decoration: underline lime; font-weight: bold;">Hook</span>+Loop)
 * `PlotCord`: - <span style="text-decoration: underline lime; font-weight: bold;">Hook</span> along Tail
 
 ## Ingress;
+
 * `Egress`: - <span style="text-decoration: underline lime; font-weight: bold;">Ingress</span>
 * `Egression`: - <span style="text-decoration: underline lime; font-weight: bold;">Ingress</span>, Egress
 * `Egression`: - Seedling <span style="text-decoration: underline lime; font-weight: bold;">Ingress</span> Hole
@@ -737,14 +862,17 @@ _Generated on 2026-07-30 15:03:45_
 * `Slot`: - <span style="text-decoration: underline lime; font-weight: bold;">Ingress</span>
 
 ## Jump;
+
 * `AlliesCommunication`: - [AlliedBETA|Question] Do you mind if I <span style="text-decoration: underline lime; font-weight: bold;">Jump</span> your line?
 * `Displacement`: - <span style="text-decoration: underline lime; font-weight: bold;">Jump</span> isn't a straight line
 * `ProjectileMotion`: - <span style="text-decoration: underline lime; font-weight: bold;">Jump</span> over or across an EKON
 
 ## Kick;
+
 * `Krampon`: - <span style="text-decoration: underline lime; font-weight: bold;">Kick</span> into the slope like how Alpinists kick into snow with spikes. Even a Blunt BootSole can Krampon into CutBanks and other LooseSoil Slopes
 
 ## Klose;
+
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>]
 * `Forces`: - <span style="text-decoration: underline lime; font-weight: bold;">Klose</span>
 * `IceSoil`: - Difficult to <span style="text-decoration: underline lime; font-weight: bold;">Klose</span> since Soil is Malleable
@@ -763,12 +891,15 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSoil`: - [Slap.<span style="text-decoration: underline lime; font-weight: bold;">Klose</span>|WetSoil]
 
 ## Kneel;
+
 * `Bundle`: - [Bundle.Wrapper.<span style="text-decoration: underline lime; font-weight: bold;">Kneel</span>]
 
 ## Knot;
+
 * `Kneel`: - [Boot.Lace.<span style="text-decoration: underline lime; font-weight: bold;">Knot</span>]
 
 ## Kompakt;
+
 * `Klose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>|Soil]
 * `Kompress`: - Differentiate(Kompress,<span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>)
 * `Kompress`: - Kompressed object can return to original Morfos, like a spring. <span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span> doesn't return back
@@ -778,6 +909,7 @@ _Generated on 2026-07-30 15:03:45_
 * `SiltSoil`: - <span style="text-decoration: underline lime; font-weight: bold;">Kompakt</span>
 
 ## Kompress;
+
 * `Forces`: - <span style="text-decoration: underline lime; font-weight: bold;">Kompress</span>
 * `Kompakt`: - Differentiate(<span style="text-decoration: underline lime; font-weight: bold;">Kompress</span>,Kompakt)
 * `Kompakt`: - <span style="text-decoration: underline lime; font-weight: bold;">Kompress</span> reduces the volume of something. Like wringing out a towel
@@ -787,10 +919,12 @@ _Generated on 2026-07-30 15:03:45_
 * `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Kompress</span>
 
 ## Konstrukt;
+
 * `ATV`: - [Cache.(<span style="text-decoration: underline lime; font-weight: bold;">Konstrukt</span>,Transport,Dekonstrukt)]
 * `Cache`: - [Cache.<span style="text-decoration: underline lime; font-weight: bold;">Konstrukt</span>]
 
 ## Kontakt;
+
 * `Ama`: - <span style="text-decoration: underline lime; font-weight: bold;">Kontakt</span> at the Distal end of a Kryos limb
 * `Bottle`: - Metal Bottle for coffee in the morning. NonInsultated so you can use it to warm up by [<span style="text-decoration: underline lime; font-weight: bold;">Kontakt</span>|Hand.GlabrousSkin]
 * `Deltoid`: - <span style="text-decoration: underline lime; font-weight: bold;">Kontakt</span>
@@ -811,6 +945,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Tibia`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kontakt</span>|Tibia]
 
 ## Kryos;
+
 * `Ama`: - <span style="text-decoration: underline lime; font-weight: bold;">Kryos</span>
 * `Ama`: - Kontakt at the Distal end of a <span style="text-decoration: underline lime; font-weight: bold;">Kryos</span> limb
 * `Hip`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kryos</span>|Hip]
@@ -824,12 +959,14 @@ _Generated on 2026-07-30 15:03:45_
 * `Stall`: - <span style="text-decoration: underline lime; font-weight: bold;">Kryos</span> and Lokation in Space
 
 ## Lean;
+
 * `ElasticEnergy`: - [<span style="text-decoration: underline lime; font-weight: bold;">Lean</span>|(Flora+Wind)|Elastic]
 * `Parry`: - <span style="text-decoration: underline lime; font-weight: bold;">Lean</span> back just out of range like a boxer
 * `Pugno`: - You never need to punch, instead just place at Initial Position and <span style="text-decoration: underline lime; font-weight: bold;">Lean</span>. Use Gravity instead of Muscle to move the soil and Kompakt
 * `Ski`: - <span style="text-decoration: underline lime; font-weight: bold;">Lean</span> Posteriorly to prevent toes from snagging, use spade to Ama if you lean too far posteriorly
 
 ## Lift;
+
 * `Elevation`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Lift</span>|Elevation]
 * `Hinge`: - [Plantfor.<span style="text-decoration: underline lime; font-weight: bold;">Lift</span>]
 * `Pop`: - [<span style="text-decoration: underline lime; font-weight: bold;">Lift</span>.Pop]
@@ -838,6 +975,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Syncopation`: - Korpo moving down while [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Lift</span>]
 
 ## Mano;
+
 * `Affordance`: - That branch looks thin enough that I can <span style="text-decoration: underline lime; font-weight: bold;">Mano</span> it
 * `Axine`: - [Spade.Axine.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>.Handle|Site]
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>]
@@ -850,6 +988,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Tension`: - [Spade.Skim.<span style="text-decoration: underline lime; font-weight: bold;">Mano</span>|Difinger] TwoFingers
 
 ## Markate;
+
 * `Ballista`: - [<span style="text-decoration: underline lime; font-weight: bold;">Markate</span>.Ballista]
 * `Piece`: - "<span style="text-decoration: underline lime; font-weight: bold;">Markate</span> the Piece"
 * `Piece`: - [Piece.<span style="text-decoration: underline lime; font-weight: bold;">Markate</span>]
@@ -858,12 +997,15 @@ _Generated on 2026-07-30 15:03:45_
 * `Trench`: - [Trench.<span style="text-decoration: underline lime; font-weight: bold;">Markate</span>|Exit]
 
 ## Modify;
+
 * `Tarp`: - Tarp.<span style="text-decoration: underline lime; font-weight: bold;">Modify</span>
 
 ## Neonektomy;
+
 * `Replant`: - Replant without <span style="text-decoration: underline lime; font-weight: bold;">Neonektomy</span>
 
 ## Onda;
+
 * `Addukt`: - [Spade.Addukt.<span style="text-decoration: underline lime; font-weight: bold;">Onda</span>]
 * `CentripetalForce`: - <span style="text-decoration: underline lime; font-weight: bold;">Onda</span>
 * `ElasticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Onda</span>
@@ -874,11 +1016,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Whip`: - Differentiate(Whip,<span style="text-decoration: underline lime; font-weight: bold;">Onda</span>)
 
 ## Orbit;
+
 * `CentripetalForce`: - <span style="text-decoration: underline lime; font-weight: bold;">Orbit</span>
 * `Pendulate`: - [<span style="text-decoration: underline lime; font-weight: bold;">Orbit</span>.Pendulate] is 3Dimensional
 * `Tangent`: - <span style="text-decoration: underline lime; font-weight: bold;">Orbit</span>
 
 ## Aktion;
+
 * `Biceps`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Aktion</span>]
 * `BurnPileSlash`: - Minimize burn dust inhaled by <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span>.Selection
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Aktion</span>.Center.Point]
@@ -908,18 +1052,23 @@ _Generated on 2026-07-30 15:03:45_
 * `Strategy`: - Hierarchy(Strategy > Plan > Taktik > <span style="text-decoration: underline lime; font-weight: bold;">Aktion</span> > SubAktion > Element)
 
 ## Pantera;
+
 * `Klose`: - [Klose.<span style="text-decoration: underline lime; font-weight: bold;">Pantera</span>]
 
 ## Plantate;
+
 * `SoilFiber`: - <span style="text-decoration: underline lime; font-weight: bold;">Plantate</span> redrot to make it high density
 
 ## Pogo;
+
 * `NormalForce`: - [<span style="text-decoration: underline lime; font-weight: bold;">Pogo</span>.Spade.Tab]
 
 ## Poke;
+
 * `Face`: - [Eye.<span style="text-decoration: underline lime; font-weight: bold;">Poke</span>] is the most vulnerable SOMON
 
 ## Pop;
+
 * `Acceleration`: - (Jerk == <span style="text-decoration: underline lime; font-weight: bold;">Pop</span>)
 * `Jerk`: - [Spade.Pry.<span style="text-decoration: underline lime; font-weight: bold;">Pop</span>]
 * `Jerk`: - [Spade.Slam.<span style="text-decoration: underline lime; font-weight: bold;">Pop</span>|Apex]
@@ -929,6 +1078,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Protrakt`: - [Spade.Pry.<span style="text-decoration: underline lime; font-weight: bold;">Pop</span>]
 
 ## Post;
+
 * `Ama`: - “post up”, Wrestling(“<span style="text-decoration: underline lime; font-weight: bold;">Post</span> a leg out”)
 * `Axine`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Post</span>.Axine|Stump]
 * `KineticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Post</span>
@@ -937,13 +1087,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Stump`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Post</span>|Stump]
 
 ## Preserve;
+
 * `Plantfor`: - SilviBag.<span style="text-decoration: underline lime; font-weight: bold;">Preserve</span>
 * `Repair`: - (<span style="text-decoration: underline lime; font-weight: bold;">Preserve</span> != Repair)
 
 ## Progress;
+
 * `Kryos`: - <span style="text-decoration: underline lime; font-weight: bold;">Progress</span> -> Absorb -> Kryos
 
 ## Pry;
+
 * `Dilate`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Pry</span>]
 * `Dilate`: - Rookies pry TooMuch when Slam is required <span style="text-decoration: underline lime; font-weight: bold;">Pry</span> Dilates and sometimes makes the Hole deeper, but not always
 * `Jerk`: - [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Pry</span>.Pop]
@@ -959,10 +1112,12 @@ _Generated on 2026-07-30 15:03:45_
 * `Slide`: - Slide [Spade.Tip] down a stump, then [Spade.Skim.<span style="text-decoration: underline lime; font-weight: bold;">Pry</span>|Skreef]
 
 ## Pugno;
+
 * `Hook`: - [<span style="text-decoration: underline lime; font-weight: bold;">Pugno</span>.Hook]
 * `Stomp`: - Stomp is the Boot equivalent to <span style="text-decoration: underline lime; font-weight: bold;">Pugno</span>
 
 ## Purga;
+
 * `Glove`: - [Glove.<span style="text-decoration: underline lime; font-weight: bold;">Purga</span>]
 * `Glove`: - [Glove.<span style="text-decoration: underline lime; font-weight: bold;">Purga</span>.(Skrape,Slap)]
 * `Inertia`: - Stomp for boot [<span style="text-decoration: underline lime; font-weight: bold;">Purga</span>|Inertia]
@@ -975,25 +1130,30 @@ _Generated on 2026-07-30 15:03:45_
 * `Zipper`: - [Zipper.<span style="text-decoration: underline lime; font-weight: bold;">Purga</span>]
 
 ## Regress;
+
 * `Progress`: - AntiElement of <span style="text-decoration: underline lime; font-weight: bold;">Regress</span>
 
 ## Rest;
+
 * `Sleep`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rest</span>.Sleep]
 * `Taktik`: - [Taktik.<span style="text-decoration: underline lime; font-weight: bold;">Rest</span>] Taktik.<span style="text-decoration: underline lime; font-weight: bold;">Rest</span> Taktik.RestDay
 * `Taktik`: - Taktik.<span style="text-decoration: underline lime; font-weight: bold;">Rest</span>
 
 ## Rip;
+
 * `Klose`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rip</span>|Skreef] before BootKlose, but after NeonSlot. Instead of Skreefing before NeonSlot
 * `Snap`: - Snap and <span style="text-decoration: underline lime; font-weight: bold;">Rip</span>
 * `Tension`: - <span style="text-decoration: underline lime; font-weight: bold;">Rip</span>
 
 ## Rotate;
+
 * `Face`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rotate</span>.Away()]
 * `Face`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rotate</span>.Away([EyePoke|EKON|Affordable])]
 * `Neck`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rotate</span>|Neck]
 * `Skim`: - <span style="text-decoration: underline lime; font-weight: bold;">Rotate</span> blade to perpendicular to cut roots during skim
 
 ## Run;
+
 * `Plan`: - <span style="text-decoration: underline lime; font-weight: bold;">Run</span> me through how you're going to do that
 * `Plan`: - <span style="text-decoration: underline lime; font-weight: bold;">Run</span> me through the plan
 * `Tempo`: - Tempo(Amble < Trot < <span style="text-decoration: underline lime; font-weight: bold;">Run</span>)
@@ -1002,13 +1162,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Run</span> out of Trees
 
 ## Sit;
+
 * `Rest`: - [Rest.<span style="text-decoration: underline lime; font-weight: bold;">Sit</span>]
 
 ## Ski;
+
 * `Aktion`: - <span style="text-decoration: underline lime; font-weight: bold;">Ski</span> down loose slopes like going down snowbanks in ski boots
 * `WetSoil`: - <span style="text-decoration: underline lime; font-weight: bold;">Ski</span>
 
 ## Skim;
+
 * `Aktion`: - <span style="text-decoration: underline lime; font-weight: bold;">Skim</span> the surface
 * `Boot`: - [Boot.<span style="text-decoration: underline lime; font-weight: bold;">Skim</span>]
 * `Friction`: - RubberGrip makes Spade.<span style="text-decoration: underline lime; font-weight: bold;">Skim</span> Easier
@@ -1027,9 +1190,11 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSlash`: - <span style="text-decoration: underline lime; font-weight: bold;">Skim</span> through
 
 ## Skope;
+
 * `Predikt`: - [Predikt.<span style="text-decoration: underline lime; font-weight: bold;">Skope</span>]
 
 ## Skreef;
+
 * `Affordance`: - A <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> is evidence of effort
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span>.Diameter
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> Ballista
@@ -1048,6 +1213,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Trench`: - [Trench|RedRot] = "Don't <span style="text-decoration: underline lime; font-weight: bold;">Skreef</span> in Trenches"
 
 ## Slam;
+
 * `Abdomen`: - CoreActivation during Spade.<span style="text-decoration: underline lime; font-weight: bold;">Slam</span> to increase Spade.Acceleration
 * `Dilate`: - Rookies pry TooMuch when <span style="text-decoration: underline lime; font-weight: bold;">Slam</span> is required Pry Dilates and sometimes makes the Hole deeper, but not always
 * `Energy`: - Joy and Sadness and [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Slam</span>] use Energy
@@ -1070,11 +1236,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Syncopation`: - Stepping is the StrongBeat. [Spade.Lift] for [Spade.<span style="text-decoration: underline lime; font-weight: bold;">Slam</span>] slightly OffBeat
 
 ## Slap;
+
 * `Glove`: - [Glove.Purga.(Skrape,<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>)]
 * `Snap`: - [Snap.<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>]
 * `WetSoil`: - [<span style="text-decoration: underline lime; font-weight: bold;">Slap</span>.Klose|WetSoil]
 
 ## Slide;
+
 * `BurnPileSlash`: - will rub off on your Armor even if you lightly <span style="text-decoration: underline lime; font-weight: bold;">Slide</span> along it
 * `Inertia`: - Pushing off unstable EKONs like logs and Rocks that (Roll,<span style="text-decoration: underline lime; font-weight: bold;">Slide</span>,Pivot)
 * `Precipitation`: - Fall -> (Slip,<span style="text-decoration: underline lime; font-weight: bold;">Slide</span>, [Boot.AKTION])
@@ -1082,26 +1250,32 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSoil`: - <span style="text-decoration: underline lime; font-weight: bold;">Slide</span> into a mound then submerge your boot past the cuff
 
 ## Slot;
+
 * `Knot`: - Knot.<span style="text-decoration: underline lime; font-weight: bold;">Slot</span>
 * `Plot`: - [Plot.PlotCord.<span style="text-decoration: underline lime; font-weight: bold;">Slot</span>]
 * `Plot`: - [(Spade.Handle.<span style="text-decoration: underline lime; font-weight: bold;">Slot</span>+PlotCord.Loop)]
 
 ## Snap;
+
 * `Fastener`: - <span style="text-decoration: underline lime; font-weight: bold;">Snap</span> Button
 
 ## Stack;
+
 * `Bundle`: - [Bundle.Enumerate.<span style="text-decoration: underline lime; font-weight: bold;">Stack</span>]
 * `Bundle`: - [Bundle.<span style="text-decoration: underline lime; font-weight: bold;">Stack</span>]
 
 ## Stall;
+
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Stall</span>
 * `Spade`: - Spade <span style="text-decoration: underline lime; font-weight: bold;">Stall</span>
 
 ## Stand;
+
 * `Rest`: - [Rest.<span style="text-decoration: underline lime; font-weight: bold;">Stand</span>]
 * `Wind`: - <span style="text-decoration: underline lime; font-weight: bold;">Stand</span> with back to wind to push shirt onto skin for evaporative cooling
 
 ## Step;
+
 * `Elevation`: - <span style="text-decoration: underline lime; font-weight: bold;">Step</span> down into trench
 * `Elevation`: - [<span style="text-decoration: underline lime; font-weight: bold;">Step</span>.Over|Affordance]
 * `Elevation`: - <span style="text-decoration: underline lime; font-weight: bold;">Step</span> Overable
@@ -1110,6 +1284,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Pop`: - Rugby Goose <span style="text-decoration: underline lime; font-weight: bold;">Step</span>
 
 ## Stomp;
+
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Stomp</span> for boot [Purga|Inertia]
 * `Kick`: - <span style="text-decoration: underline lime; font-weight: bold;">Stomp</span> is Down, Kick is Anterior or Lateral
 * `Leg`: - <span style="text-decoration: underline lime; font-weight: bold;">Stomp</span>
@@ -1118,15 +1293,18 @@ _Generated on 2026-07-30 15:03:45_
 * `SoilCompaction`: - <span style="text-decoration: underline lime; font-weight: bold;">Stomp</span> or Press fluffy Silt Soil before opening a hole.
 
 ## Tangent;
+
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">Tangent</span>
 * `Pendulate`: - [Pendulate.<span style="text-decoration: underline lime; font-weight: bold;">Tangent</span>]
 
 ## Transgress;
+
 * `Jump`: - <span style="text-decoration: underline lime; font-weight: bold;">Transgress</span>
 * `ProjectileMotion`: - [<span style="text-decoration: underline lime; font-weight: bold;">Transgress</span>|ProjectileMotion]
 * `Slot`: - [<span style="text-decoration: underline lime; font-weight: bold;">Transgress</span>.Slot|Bush]
 
 ## Transport;
+
 * `ATV`: - [Cache.(Konstrukt,<span style="text-decoration: underline lime; font-weight: bold;">Transport</span>,Dekonstrukt)]
 * `ATV`: - <span style="text-decoration: underline lime; font-weight: bold;">Transport</span> a Cache
 * `Box`: - Single Box.<span style="text-decoration: underline lime; font-weight: bold;">Transport</span>.Carry
@@ -1135,15 +1313,18 @@ _Generated on 2026-07-30 15:03:45_
 * `Rope`: - Rope for <span style="text-decoration: underline lime; font-weight: bold;">Transport</span>
 
 ## Trot;
+
 * `Tempo`: - Tempo(Amble < <span style="text-decoration: underline lime; font-weight: bold;">Trot</span> < Run)
 
 ## Twist;
+
 * `ElasticEnergy`: - <span style="text-decoration: underline lime; font-weight: bold;">Twist</span>
 * `Rotate`: - <span style="text-decoration: underline lime; font-weight: bold;">Twist</span>
 * `Snap`: - [Snap.<span style="text-decoration: underline lime; font-weight: bold;">Twist</span>]
 * `Spine`: - [<span style="text-decoration: underline lime; font-weight: bold;">Twist</span>|Spine]
 
 ## Weave;
+
 * `Bundle`: - [Bundle.Wrapper.<span style="text-decoration: underline lime; font-weight: bold;">Weave</span>]
 * `Bundle`: - <span style="text-decoration: underline lime; font-weight: bold;">Weave</span> Wrapper between Legs and Bags to prevent Wrapper from flying away
 * `Knot`: - Knot.<span style="text-decoration: underline lime; font-weight: bold;">Weave</span>
@@ -1151,6 +1332,7 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - <span style="text-decoration: underline lime; font-weight: bold;">Weave</span> is via
 
 ## Whip;
+
 * `Defend`: - Flora <span style="text-decoration: underline lime; font-weight: bold;">Whip</span>
 * `Defend`: - Flora <span style="text-decoration: underline lime; font-weight: bold;">Whip</span>
 * `ElasticEnergy`: - [<span style="text-decoration: underline lime; font-weight: bold;">Whip</span>|Flora|ElasticEnergy]
@@ -1158,16 +1340,19 @@ _Generated on 2026-07-30 15:03:45_
 * `Parry`: [<span style="text-decoration: underline lime; font-weight: bold;">Whip</span>|Flora|(RangeOfMotion,Passag)]
 
 ## Wrap;
+
 * `Bundle`: - [Bundle.<span style="text-decoration: underline lime; font-weight: bold;">Wrap</span>]
 * `Bundle`: - <span style="text-decoration: underline lime; font-weight: bold;">Wrap</span> up excess trees
 * `Weave`: - (Weave+<span style="text-decoration: underline lime; font-weight: bold;">Wrap</span>) wrap to increase Friction
 
 ## BurntBlock;
+
 * `BurntFlora`: - <span style="text-decoration: underline lime; font-weight: bold;">BurntBlock</span>
 * `Kompakt`: - <span style="text-decoration: underline lime; font-weight: bold;">BurntBlock</span>
 * `PaleoBlock`: - <span style="text-decoration: underline lime; font-weight: bold;">BurntBlock</span>
 
 ## Block;
+
 * `Atmosfera`: - Exposed <span style="text-decoration: underline lime; font-weight: bold;">Block</span> at High Altitude has a huge amount of Fetch
 * `Biosfera`: - The plants, animals and fungi of a <span style="text-decoration: underline lime; font-weight: bold;">Block</span>
 * `Bundle`: - <span style="text-decoration: underline lime; font-weight: bold;">Block</span>.Close
@@ -1193,14 +1378,17 @@ _Generated on 2026-07-30 15:03:45_
 * `Workday`: - Long Day if the <span style="text-decoration: underline lime; font-weight: bold;">Block</span> must be closed
 
 ## PaleoBlock;
+
 * `BurntBlock`: - RazedBlock is the opposite of <span style="text-decoration: underline lime; font-weight: bold;">PaleoBlock</span>
 
 ## RawLand;
+
 * `Mound`: - <span style="text-decoration: underline lime; font-weight: bold;">RawLand</span> in the Gaps
 * `Preskreef`: - <span style="text-decoration: underline lime; font-weight: bold;">RawLand</span> in the Gaps
 * `Trench`: - <span style="text-decoration: underline lime; font-weight: bold;">RawLand</span> in the Gaps
 
 ## Piece;
+
 * `Cache`: - [<span style="text-decoration: underline lime; font-weight: bold;">Piece</span>.Cache]
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Piece</span>.Center.Point]
 * `Creamy`: - Definition: High Probability that the Sites or <span style="text-decoration: underline lime; font-weight: bold;">Piece</span> will be easy to plant
@@ -1236,6 +1424,7 @@ _Generated on 2026-07-30 15:03:45_
 * `VertexPoint`: - Pinched <span style="text-decoration: underline lime; font-weight: bold;">Piece</span>
 
 ## Cache;
+
 * `Advantage`: - <span style="text-decoration: underline lime; font-weight: bold;">Cache</span> location
 * `AlliedBETA`: - [<span style="text-decoration: underline lime; font-weight: bold;">Cache</span>,NeonMix,AlliedBETA,BagIn] I don't want to cream out all of the pine
 * `ATV`: - [<span style="text-decoration: underline lime; font-weight: bold;">Cache</span>.(Konstrukt,Transport,Dekonstrukt)]
@@ -1251,10 +1440,12 @@ _Generated on 2026-07-30 15:03:45_
 * `Waste`: - <span style="text-decoration: underline lime; font-weight: bold;">Cache</span> break
 
 ## Crop;
+
 * `GraphTheory`: - Node = (Neon, Ally, Protektor, <span style="text-decoration: underline lime; font-weight: bold;">Crop</span>, Obstakle)
 * `Mikrosite`: - Neosite doesn't include Natural <span style="text-decoration: underline lime; font-weight: bold;">Crop</span> Trees
 
 ## Neon;
+
 * `Crop`: - <span style="text-decoration: underline lime; font-weight: bold;">Neon</span>, Paleon
 * `Crop`: - A Pine seedling which is smaller than the <span style="text-decoration: underline lime; font-weight: bold;">Neon</span> isn't a Paleon
 * `Egression`: - <span style="text-decoration: underline lime; font-weight: bold;">Neon</span> Ingress Hole
@@ -1270,6 +1461,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Skreef`: - Change this meaning to a new moniker, something about Radius. The only thing that matters is the radius of exposed mineral soil around the <span style="text-decoration: underline lime; font-weight: bold;">Neon</span>. A Skreefed part of Ekosfera is useless. What is the government word for skreef?
 
 ## Makrosite;
+
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Makrosite</span>.Center.Point]
 * `Division`: - [<span style="text-decoration: underline lime; font-weight: bold;">Makrosite</span>|Division]
 * `Egress`: - [<span style="text-decoration: underline lime; font-weight: bold;">Makrosite</span>.Egress]
@@ -1285,6 +1477,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Road`: - Deadwalk out of a <span style="text-decoration: underline lime; font-weight: bold;">Makrosite</span>
 
 ## Mikrosite;
+
 * `AbsoluteLokation`: - [<span style="text-decoration: underline lime; font-weight: bold;">Mikrosite</span>|Stump|North]
 * `Affordance`: - that stump provides a good <span style="text-decoration: underline lime; font-weight: bold;">Mikrosite</span> for a tree
 * `AuditorySense`: - SoundLibrary_MikrositeSound_HollowLog_!<span style="text-decoration: underline lime; font-weight: bold;">Mikrosite</span>
@@ -1315,6 +1508,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Weave`: - Weave Flora into other Flora to prevent it from springing back into [<span style="text-decoration: underline lime; font-weight: bold;">Mikrosite</span>.Passag.Obstakle]
 
 ## Hole;
+
 * `Affordance`: - Soil type affords <span style="text-decoration: underline lime; font-weight: bold;">Hole</span> variation
 * `Dilate`: - Minimize the size of the <span style="text-decoration: underline lime; font-weight: bold;">Hole</span>
 * `Dilate`: - Rookies pry TooMuch when Slam is required Pry Dilates and sometimes makes the <span style="text-decoration: underline lime; font-weight: bold;">Hole</span> deeper, but not always
@@ -1337,6 +1531,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Root`: - Root Chop in <span style="text-decoration: underline lime; font-weight: bold;">Hole</span>
 
 ## Protektor;
+
 * `Dia`: - Minimum Slash Diameter to be considered a <span style="text-decoration: underline lime; font-weight: bold;">Protektor</span> (>50mm)
 * `GraphTheory`: - Node = (Neon, Ally, <span style="text-decoration: underline lime; font-weight: bold;">Protektor</span>, Crop, Obstakle)
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Protektor</span>.Morfos]
@@ -1344,6 +1539,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Stump`: - <span style="text-decoration: underline lime; font-weight: bold;">Protektor</span>
 
 ## Paleon;
+
 * `Crop`: - Neon, <span style="text-decoration: underline lime; font-weight: bold;">Paleon</span>
 * `Crop`: - A Pine seedling which is smaller than the Neon isn't a <span style="text-decoration: underline lime; font-weight: bold;">Paleon</span>
 * `PaleoBlock`: - [<span style="text-decoration: underline lime; font-weight: bold;">Paleon</span>|Density]
@@ -1351,12 +1547,14 @@ _Generated on 2026-07-30 15:03:45_
 * `RelativeDirection`: - <span style="text-decoration: underline lime; font-weight: bold;">Paleon</span>.Markum
 
 ## Pleroon;
+
 * `Paleon`: - [Paleon.<span style="text-decoration: underline lime; font-weight: bold;">Pleroon</span>]
 * `Paleon`: - <span style="text-decoration: underline lime; font-weight: bold;">Pleroon</span>.Morfos
 * `Pleroo`: - <span style="text-decoration: underline lime; font-weight: bold;">Pleroon</span>
 * `Pleroo`: - <span style="text-decoration: underline lime; font-weight: bold;">Pleroon</span> is the ELEMENT which fills (FillPlan)
 
 ## Plot;
+
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Plot</span>.Center.Point]
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Plot</span>
 * `Dia`: - Diameter of <span style="text-decoration: underline lime; font-weight: bold;">Plot</span>
@@ -1365,6 +1563,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Oktad`: - <span style="text-decoration: underline lime; font-weight: bold;">Plot</span>.Density(8)
 
 ## Tool;
+
 * `Energy`: - Food -> Planter -> AKTION -> <span style="text-decoration: underline lime; font-weight: bold;">Tool</span> -> EKOS
 * `LaborOverview`: - <span style="text-decoration: underline lime; font-weight: bold;">Tool</span>
 * `Motoid`: - [<span style="text-decoration: underline lime; font-weight: bold;">Tool</span>|Motoid]
@@ -1374,12 +1573,14 @@ _Generated on 2026-07-30 15:03:45_
 * `Strategy`: - Marka (Flagging) is a Taktik, Markum (Flag) is a <span style="text-decoration: underline lime; font-weight: bold;">Tool</span>.
 
 ## Armor;
+
 * `BurnPileSlash`: - will rub off on your <span style="text-decoration: underline lime; font-weight: bold;">Armor</span> even if you lightly Slide along it
 * `Fastener`: - RopeKNot like Japanese <span style="text-decoration: underline lime; font-weight: bold;">Armor</span>
 * `HiVis`: - Ideally <span style="text-decoration: underline lime; font-weight: bold;">Armor</span> doubles as HiVis
 * `Sun`: - <span style="text-decoration: underline lime; font-weight: bold;">Armor</span>
 
 ## Boot;
+
 * `Doff`: - To get a rock out of <span style="text-decoration: underline lime; font-weight: bold;">Boot</span>
 * `Eval`: - [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Probe]
 * `Foot`: - <span style="text-decoration: underline lime; font-weight: bold;">Boot</span>
@@ -1416,19 +1617,23 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSoil`: - WetSoil over the top of your [<span style="text-decoration: underline lime; font-weight: bold;">Boot</span>.Cuff] will run down your leg into to boot
 
 ## Button;
+
 * `Fastener`: - <span style="text-decoration: underline lime; font-weight: bold;">Button</span>
 * `Fastener`: - Snap <span style="text-decoration: underline lime; font-weight: bold;">Button</span>
 
 ## Zipper;
+
 * `Fastener`: - <span style="text-decoration: underline lime; font-weight: bold;">Zipper</span>
 
 ## Glove;
+
 * `Friction`: - (Handle + <span style="text-decoration: underline lime; font-weight: bold;">Glove</span> + Hand)
 * `Friction`: - [<span style="text-decoration: underline lime; font-weight: bold;">Glove</span>|Hand|Friction]
 * `Hydros`: - [<span style="text-decoration: underline lime; font-weight: bold;">Glove</span>|Hydros]
 * `Kit`: - [<span style="text-decoration: underline lime; font-weight: bold;">Glove</span>.Waterproof,Kit,WaterproofBag] Waterproof gloves should be stored dry in a waterproof bag
 
 ## Hat;
+
 * `Cranium`: - <span style="text-decoration: underline lime; font-weight: bold;">Hat</span>
 * `Ears`: - <span style="text-decoration: underline lime; font-weight: bold;">Hat</span>
 * `Ears`: - <span style="text-decoration: underline lime; font-weight: bold;">Hat</span>
@@ -1438,18 +1643,22 @@ _Generated on 2026-07-30 15:03:45_
 * `Sun`: - <span style="text-decoration: underline lime; font-weight: bold;">Hat</span>
 
 ## HiVis;
+
 * `Radior`: - <span style="text-decoration: underline lime; font-weight: bold;">HiVis</span>
 * `Temperature`: - Too many layers of <span style="text-decoration: underline lime; font-weight: bold;">HiVis</span>
 * `Tibior`: - <span style="text-decoration: underline lime; font-weight: bold;">HiVis</span>
 * `Tops`: - <span style="text-decoration: underline lime; font-weight: bold;">HiVis</span>
 
 ## Radior;
+
 * `Parry`: - [<span style="text-decoration: underline lime; font-weight: bold;">Radior</span>.Parry]
 
 ## Sock;
+
 * `Friction`: - (Boot+<span style="text-decoration: underline lime; font-weight: bold;">Sock</span>+Foot)
 
 ## RainShell;
+
 * `Doff`: - <span style="text-decoration: underline lime; font-weight: bold;">RainShell</span> Don and Doff when the weather is frequently changing from Rain to \!Rain
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">RainShell</span>
 * `Precipitation`: - <span style="text-decoration: underline lime; font-weight: bold;">RainShell</span>
@@ -1460,14 +1669,17 @@ _Generated on 2026-07-30 15:03:45_
 * `Zipper`: - Leave <span style="text-decoration: underline lime; font-weight: bold;">RainShell</span> unzipped if only light rain
 
 ## ATV;
+
 * `Block`: - Trees will be brought in by <span style="text-decoration: underline lime; font-weight: bold;">ATV</span>
 * `Sit`: - [<span style="text-decoration: underline lime; font-weight: bold;">ATV</span>.Sit]
 
 ## Bottle;
+
 * `Hand`: - Metal <span style="text-decoration: underline lime; font-weight: bold;">Bottle</span> for coffee in the morning. NonInsultated so you can use it to warm up by [Kontakt|Hand.GlabrousSkin]
 * `Strategy`: - Tool: <span style="text-decoration: underline lime; font-weight: bold;">Bottle</span>, (Watch OR Phone)
 
 ## Box;
+
 * `Drag`: - [<span style="text-decoration: underline lime; font-weight: bold;">Box</span>.Drag]
 * `Enumerate`: - [<span style="text-decoration: underline lime; font-weight: bold;">Box</span>.Enumerate]
 * `Konstrukt`: - [<span style="text-decoration: underline lime; font-weight: bold;">Box</span>.Konstrukt]
@@ -1480,6 +1692,7 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - "<span style="text-decoration: underline lime; font-weight: bold;">Box</span> yourself in"
 
 ## Bundle;
+
 * `Division`: - Split Larch to prevent planting a <span style="text-decoration: underline lime; font-weight: bold;">Bundle</span> in a row
 * `Enumerate`: - [<span style="text-decoration: underline lime; font-weight: bold;">Bundle</span>.Enumerate]
 * `Load`: - [<span style="text-decoration: underline lime; font-weight: bold;">Bundle</span>.Load]
@@ -1487,9 +1700,11 @@ _Generated on 2026-07-30 15:03:45_
 * `Stack`: - [<span style="text-decoration: underline lime; font-weight: bold;">Bundle</span>.Stack]
 
 ## Dory;
+
 * `Worm`: - [<span style="text-decoration: underline lime; font-weight: bold;">Dory</span>.Worm]
 
 ## Kit;
+
 * `Cache`: - (Cache ?= Contains(<span style="text-decoration: underline lime; font-weight: bold;">Kit</span>))
 * `Glove`: - [Glove.Waterproof,<span style="text-decoration: underline lime; font-weight: bold;">Kit</span>,WaterproofBag|Precipitation] Waterproof gloves should be stored dry in a waterproof bag
 * `Karabiner`: - <span style="text-decoration: underline lime; font-weight: bold;">Kit</span>
@@ -1497,6 +1712,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Transport`: - [<span style="text-decoration: underline lime; font-weight: bold;">Kit</span>.Transport]
 
 ## Markum;
+
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Markum</span>.Morfos]
 * `PlotCord`: - Loop, <span style="text-decoration: underline lime; font-weight: bold;">Markum</span> and Tail
 * `Point`: - Landmarking is like Markation, but only in your mind. <span style="text-decoration: underline lime; font-weight: bold;">Markum</span> represents ViaPoints.
@@ -1511,6 +1727,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Wrap`: - [<span style="text-decoration: underline lime; font-weight: bold;">Markum</span>.Wrap]
 
 ## Plantfor;
+
 * `Drag`: - [<span style="text-decoration: underline lime; font-weight: bold;">Plantfor</span>.Drag]
 * `Hinge`: - [<span style="text-decoration: underline lime; font-weight: bold;">Plantfor</span>.Lift]
 * `Morfos`: - [<span style="text-decoration: underline lime; font-weight: bold;">Plantfor</span>.Morfos]
@@ -1518,16 +1735,19 @@ _Generated on 2026-07-30 15:03:45_
 * `Transport`: - [<span style="text-decoration: underline lime; font-weight: bold;">Plantfor</span>.Transport]
 
 ## PlotCord;
+
 * `Plot`: - <span style="text-decoration: underline lime; font-weight: bold;">PlotCord</span>
 * `Plot`: - [Plot.<span style="text-decoration: underline lime; font-weight: bold;">PlotCord</span>.Slot]
 * `Plot`: - [(Spade.Handle.Slot+<span style="text-decoration: underline lime; font-weight: bold;">PlotCord</span>.Loop)]
 * `Replant`: - <span style="text-decoration: underline lime; font-weight: bold;">PlotCord</span>
 
 ## Rope;
+
 * `Karabiner`: - <span style="text-decoration: underline lime; font-weight: bold;">Rope</span>
 * `Knot`: - [<span style="text-decoration: underline lime; font-weight: bold;">Rope</span>.Knot]
 
 ## Spade;
+
 * `Abdomen`: - CoreActivation during <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Slam to increase <span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Acceleration
 * `Abdukt`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Addukt]
 * `Absorb`: - ([Absorb,<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>] != [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Absorb])
@@ -1633,6 +1853,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Worm`: - [<span style="text-decoration: underline lime; font-weight: bold;">Spade</span>.Worm]
 
 ## Tarp;
+
 * `Cache`: - <span style="text-decoration: underline lime; font-weight: bold;">Tarp</span> Props
 * `Cache`: - Under <span style="text-decoration: underline lime; font-weight: bold;">Tarp</span>
 * `Cache`: - Outside <span style="text-decoration: underline lime; font-weight: bold;">Tarp</span>
@@ -1640,6 +1861,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Transport`: - [<span style="text-decoration: underline lime; font-weight: bold;">Tarp</span>.Transport]
 
 ## Inertia;
+
 * `Absorb`: - <span style="text-decoration: underline lime; font-weight: bold;">Inertia</span>
 * `Orbit`: - Revolve is connected to the center. <span style="text-decoration: underline lime; font-weight: bold;">Inertia</span> reliant on center. CentripetalForce. TensionForce
 * `Orbit`: - Orbit is not connected to center. <span style="text-decoration: underline lime; font-weight: bold;">Inertia</span> isolated from center trying not to touch the center
@@ -1648,6 +1870,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Stomp`: - Stomp for boot [Purga|<span style="text-decoration: underline lime; font-weight: bold;">Inertia</span>]
 
 ## Momentum;
+
 * `Addukt`: - Figure Skater Angular <span style="text-decoration: underline lime; font-weight: bold;">Momentum</span> Mass Distribution
 * `MotorOverview`: - [Spade.Slam] Force isn't being applied by SOMA on Impakt, only the Spade and Soil have forces. Slam uses <span style="text-decoration: underline lime; font-weight: bold;">Momentum</span> to penetrate the soil, not Force
 * `Onda`: - <span style="text-decoration: underline lime; font-weight: bold;">Momentum</span>
@@ -1655,21 +1878,26 @@ _Generated on 2026-07-30 15:03:45_
 * `Run`: - RunningInitiation (Running Start) to ascend steep cut bank from road. [Korpo|<span style="text-decoration: underline lime; font-weight: bold;">Momentum</span>]
 
 ## Power;
+
 * `Axine`: - <span style="text-decoration: underline lime; font-weight: bold;">Power</span> is proportional to [Backswing.Displacement]
 
 ## ProjectileMotion;
+
 * `Inertia`: - <span style="text-decoration: underline lime; font-weight: bold;">ProjectileMotion</span>
 
 ## Work;
+
 * `Energy`: - <span style="text-decoration: underline lime; font-weight: bold;">Work</span>
 * `LaborOverview`: - <span style="text-decoration: underline lime; font-weight: bold;">Work</span> as a unit of energy
 * `Strategy`: - ((Taktik + Plan - Strategy) = Busy <span style="text-decoration: underline lime; font-weight: bold;">Work</span>). You are doing lots of things efficiently and on schedule, but you have no idea why or if it's actually helping you win.
 
 ## KineticEnergy;
+
 * `Energy`: - RagePlanting has more Mental and <span style="text-decoration: underline lime; font-weight: bold;">KineticEnergy</span> than Sad Planting
 * `Energy`: - <span style="text-decoration: underline lime; font-weight: bold;">KineticEnergy</span>
 
 ## Energy;
+
 * `Efficiency`: - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. <span style="text-decoration: underline lime; font-weight: bold;">Energy</span> flows from one Aktion to the next.
 * `Efficiency`: - <span style="text-decoration: underline lime; font-weight: bold;">Energy</span> Save
 * `ElasticEnergy`: - Accelerates when releasing <span style="text-decoration: underline lime; font-weight: bold;">Energy</span>
@@ -1679,14 +1907,17 @@ _Generated on 2026-07-30 15:03:45_
 * `Waste`: - Waste of <span style="text-decoration: underline lime; font-weight: bold;">Energy</span>
 
 ## CentripetalForce;
+
 * `Orbit`: - Revolve is connected to the center. Inertia reliant on center. <span style="text-decoration: underline lime; font-weight: bold;">CentripetalForce</span>. TensionForce
 * `Tension`: - <span style="text-decoration: underline lime; font-weight: bold;">CentripetalForce</span>
 
 ## Friction;
+
 * `NormalForce`: - To maximize <span style="text-decoration: underline lime; font-weight: bold;">Friction</span>
 * `Weave`: - (Weave+Wrap) wrap to increase <span style="text-decoration: underline lime; font-weight: bold;">Friction</span>
 
 ## Gravity;
+
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Gravity</span>
 * `Axine`: - Horizontal Axe Swing gains less energy from <span style="text-decoration: underline lime; font-weight: bold;">Gravity</span> than Vertical Swing
 * `Drop`: - <span style="text-decoration: underline lime; font-weight: bold;">Gravity</span>
@@ -1698,9 +1929,11 @@ _Generated on 2026-07-30 15:03:45_
 * `Triceps`: - [Drop|Arm] results in [Arm|Extension] so does [Extend|Elbow]. Drop uses <span style="text-decoration: underline lime; font-weight: bold;">Gravity</span> to bring Elbow to Extended Position while Extend brings Elbow to extended position using Muscle.Triceps
 
 ## NormalForce;
+
 * `Friction`: - <span style="text-decoration: underline lime; font-weight: bold;">NormalForce</span>
 
 ## Pressure;
+
 * `AlliedBETA`: - Minimize <span style="text-decoration: underline lime; font-weight: bold;">Pressure</span> when TeamBETA
 * `AlliedBETA`: - TeamBETA: <span style="text-decoration: underline lime; font-weight: bold;">Pressure</span>
 * `AlliedBETA`: - <span style="text-decoration: underline lime; font-weight: bold;">Pressure</span> (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
@@ -1708,9 +1941,11 @@ _Generated on 2026-07-30 15:03:45_
 * `Kompress`: - <span style="text-decoration: underline lime; font-weight: bold;">Pressure</span>
 
 ## Tension;
+
 * `Onda`: - <span style="text-decoration: underline lime; font-weight: bold;">Tension</span> when back swinging
 
 ## Acceleration;
+
 * `Abdomen`: - CoreActivation during Spade.Slam to increase Spade.<span style="text-decoration: underline lime; font-weight: bold;">Acceleration</span>
 * `Aktion`: - ([Aktion|Deadpoint] == [Aktion|<span style="text-decoration: underline lime; font-weight: bold;">Acceleration</span>(0)])
 * `ElasticEnergy`: - Non Linear <span style="text-decoration: underline lime; font-weight: bold;">Acceleration</span>
@@ -1720,14 +1955,17 @@ _Generated on 2026-07-30 15:03:45_
 * `Kinematics`: - Speed,<span style="text-decoration: underline lime; font-weight: bold;">Acceleration</span>
 
 ## Jerk;
+
 * `Acceleration`: - (<span style="text-decoration: underline lime; font-weight: bold;">Jerk</span> == Pop)
 * `Initiate`: - MOTOR.<span style="text-decoration: underline lime; font-weight: bold;">Jerk</span>
 * `Pop`: - Physics.<span style="text-decoration: underline lime; font-weight: bold;">Jerk</span>
 
 ## Kinematics;
+
 * `Distance`: - <span style="text-decoration: underline lime; font-weight: bold;">Kinematics</span>
 
 ## Speed;
+
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Speed</span>
 * `AlliedBETA`: - <span style="text-decoration: underline lime; font-weight: bold;">Speed</span> up or slow down to allow passing, like driving on a highway
 * `Kinematics`: - <span style="text-decoration: underline lime; font-weight: bold;">Speed</span>,Acceleration
@@ -1739,19 +1977,23 @@ _Generated on 2026-07-30 15:03:45_
 * `Waste`: - Markum Telos <span style="text-decoration: underline lime; font-weight: bold;">Speed</span> isn't a benefit if it leads to waste
 
 ## Velocity;
+
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Velocity</span>
 * `Momentum`: - <span style="text-decoration: underline lime; font-weight: bold;">Velocity</span>
 * `Pendulate`: - Escape <span style="text-decoration: underline lime; font-weight: bold;">Velocity</span> like spaceships
 * `Tempo`: - (Tempo != (Speed,<span style="text-decoration: underline lime; font-weight: bold;">Velocity</span>))
 
 ## Motoid;
+
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Motoid</span>.Center.Point]
 * `Spade`: - [Spade|<span style="text-decoration: underline lime; font-weight: bold;">Motoid</span>] <https://en.wikipedia.org/wiki/Lissajous_curve>
 
 ## Moton;
+
 * `Motoid`: - [Map|Motoid] TopographicMap blended with Motoid as a way to visualize <span style="text-decoration: underline lime; font-weight: bold;">Moton</span>. (Motoid == EinsteinSpaghetti)
 
 ## Time;
+
 * `AnimaOverview`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Time</span>"
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Time</span>.Center.Point]
 * `Division`: - Division of <span style="text-decoration: underline lime; font-weight: bold;">Time</span>
@@ -1766,20 +2008,24 @@ _Generated on 2026-07-30 15:03:45_
 * `Workday`: - <span style="text-decoration: underline lime; font-weight: bold;">Time</span>
 
 ## Beat;
+
 * `Pulse`: - Differentiate(Pulse,<span style="text-decoration: underline lime; font-weight: bold;">Beat</span>)
 * `Ritmo.md`: - Listening to Music while planting can give planters an artificial <span style="text-decoration: underline lime; font-weight: bold;">Beat</span> to follow
 * `Ritmo.md`: - How Ritmo Interacts with Pulse and <span style="text-decoration: underline lime; font-weight: bold;">Beat</span>
 * `Ritmo.md`: - Divides the <span style="text-decoration: underline lime; font-weight: bold;">Beat</span>: Beats are equal units of time. Ritmo breaks these units into smaller pieces (like eighth notes or sixteenth notes) or stretches across multiple beats (like half notes or whole notes).
 
 ## Pulse;
+
 * `Beat`: - Differentiate(<span style="text-decoration: underline lime; font-weight: bold;">Pulse</span>,Beat)
 * `Ritmo.md`: - How Ritmo Interacts with <span style="text-decoration: underline lime; font-weight: bold;">Pulse</span> and Beat
 * `Ritmo.md`: - Ritmo Animates the <span style="text-decoration: underline lime; font-weight: bold;">Pulse</span>: The pulse provides the steady grid, while Ritmo provides the variety. Ritmo can mimic the pulse exactly, or it can move faster, slower, or stop entirely while the pulse continues silently underneath.Ritmo
 
 ## Syncopation;
+
 * `Ritmo.md`: - Ritmo Creates <span style="text-decoration: underline lime; font-weight: bold;">Syncopation</span>: When a Ritmo deliberately places accents between the steady beats rather than directly on them, it creates syncopation. This friction between the unexpected Ritmo and the expected pulse is what makes music swing or feel groovy.
 
 ## Anatomy;
+
 * `Block`: - Block.<span style="text-decoration: underline lime; font-weight: bold;">Anatomy</span>
 * `Box`: - Box.<span style="text-decoration: underline lime; font-weight: bold;">Anatomy</span>
 * `Flora`: - <span style="text-decoration: underline lime; font-weight: bold;">Anatomy</span>
@@ -1788,6 +2034,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Piece`: - [Piece.<span style="text-decoration: underline lime; font-weight: bold;">Anatomy</span>]
 
 ## Elbow;
+
 * `Armor`: - Grip your cuff when adding another layer to prevent your sleeve from getting pushed up or snagged at your <span style="text-decoration: underline lime; font-weight: bold;">Elbow</span>
 * `Extend`: - ([Extend|Arm] = ([Extend|<span style="text-decoration: underline lime; font-weight: bold;">Elbow</span>] + [Extend|Wrist]))
 * `Flex`: - ([Flex|Arm] = ([Flex|<span style="text-decoration: underline lime; font-weight: bold;">Elbow</span>] + [Flex|Wrist]))
@@ -1796,6 +2043,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Triceps`: - [Drop|Arm] results in [Arm|Extension] so does [Extend|<span style="text-decoration: underline lime; font-weight: bold;">Elbow</span>]. Drop uses Gravity to bring <span style="text-decoration: underline lime; font-weight: bold;">Elbow</span> to Extended Position while Extend brings <span style="text-decoration: underline lime; font-weight: bold;">Elbow</span> to extended position using Muscle.Triceps
 
 ## Finger;
+
 * `CentripetalForce`: - <span style="text-decoration: underline lime; font-weight: bold;">Finger</span>.Strength to enable Helix
 * `Extend`: - <span style="text-decoration: underline lime; font-weight: bold;">Finger</span>
 * `Flex`: - <span style="text-decoration: underline lime; font-weight: bold;">Finger</span>
@@ -1807,11 +2055,13 @@ _Generated on 2026-07-30 15:03:45_
 * `Zipper`: - <span style="text-decoration: underline lime; font-weight: bold;">Finger</span> step to start zipper. Hold anterior fabric fixed to prevent zipper kink
 
 ## Forearm;
+
 * `PlotCord`: - wrap around <span style="text-decoration: underline lime; font-weight: bold;">Forearm</span>
 * `Radior`: - Aliases: Vambrace, <span style="text-decoration: underline lime; font-weight: bold;">Forearm</span> Guard
 * `Rotate`: - [Rotate|<span style="text-decoration: underline lime; font-weight: bold;">Forearm</span>]
 
 ## Hand;
+
 * `Amble`: - <span style="text-decoration: underline lime; font-weight: bold;">Hand</span> over hand or shuffle
 * `Bottle`: - Metal Bottle for coffee in the morning. NonInsultated so you can use it to warm up by [Kontakt|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>.GlabrousSkin]
 * `Dig`: - [Dig|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>] != [Dig|Arm]
@@ -1833,6 +2083,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Wrist`: - "<span style="text-decoration: underline lime; font-weight: bold;">Hand</span> Dorsi Flex" = [Extend|<span style="text-decoration: underline lime; font-weight: bold;">Hand</span>]
 
 ## Arm;
+
 * `Abdukt`: - [Addukt|<span style="text-decoration: underline lime; font-weight: bold;">Arm</span>]
 * `Amble`: - [Amble|<span style="text-decoration: underline lime; font-weight: bold;">Arm</span>]
 * `Amble`: - [Amble|(Leg,<span style="text-decoration: underline lime; font-weight: bold;">Arm</span>)]
@@ -1860,13 +2111,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Triceps`: - [Drop|<span style="text-decoration: underline lime; font-weight: bold;">Arm</span>] results in [<span style="text-decoration: underline lime; font-weight: bold;">Arm</span>|Extension] so does [Extend|Elbow]. Drop uses Gravity to bring Elbow to Extended Position while Extend brings Elbow to extended position using Muscle.Triceps
 
 ## Palm;
+
 * `Glove`: - <span style="text-decoration: underline lime; font-weight: bold;">Palm</span>
 * `Markate`: - Gripping flag on  spade doesn't afford <span style="text-decoration: underline lime; font-weight: bold;">Palm</span> or IsometricGrip
 
 ## Scapula;
+
 * `Muscle`: - <span style="text-decoration: underline lime; font-weight: bold;">Scapula</span> Posture
 
 ## Wrist;
+
 * `Extend`: - ([Extend|Arm] = ([Extend|Elbow] + [Extend|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>]))
 * `Extend`: - <span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>
 * `Flex`: - ([Flex|Arm] = ([Flex|Elbow] + [Flex|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>]))
@@ -1876,15 +2130,19 @@ _Generated on 2026-07-30 15:03:45_
 * `Pugno`: - [Pugno|ConcentricContraction] can be used for [Kryos|<span style="text-decoration: underline lime; font-weight: bold;">Wrist</span>] to maintain a neutral wrist
 
 ## Ears;
+
 * `Head`: - <span style="text-decoration: underline lime; font-weight: bold;">Ears</span>
 
 ## Face;
+
 * `Head`: - <span style="text-decoration: underline lime; font-weight: bold;">Face</span>
 
 ## Neck;
+
 * `Head`: - <span style="text-decoration: underline lime; font-weight: bold;">Neck</span>
 
 ## Head;
+
 * `Cranium`: - <span style="text-decoration: underline lime; font-weight: bold;">Head</span> first though a bush
 * `Cranium`: - [<span style="text-decoration: underline lime; font-weight: bold;">Head</span>.Injury]
 * `Rotate`: - [Rotate|<span style="text-decoration: underline lime; font-weight: bold;">Head</span>]
@@ -1892,6 +2150,7 @@ _Generated on 2026-07-30 15:03:45_
 * `VisionSense`: - [LookTo|Ritmo] <span style="text-decoration: underline lime; font-weight: bold;">Head</span> look like breathing rhythm if swimming front crawl
 
 ## Korpo;
+
 * `Egression`: - <span style="text-decoration: underline lime; font-weight: bold;">Korpo</span> Ingress Prep(Mound,Trench,Preskreef)
 * `Hinge`: - [<span style="text-decoration: underline lime; font-weight: bold;">Korpo</span>.Flex] Bend over
 * `Hip`: - Taxonomy: Hips in <span style="text-decoration: underline lime; font-weight: bold;">Korpo</span> or Legs
@@ -1907,17 +2166,20 @@ _Generated on 2026-07-30 15:03:45_
 * `Syncopation`: - <span style="text-decoration: underline lime; font-weight: bold;">Korpo</span> moving down while [Spade.Lift]
 
 ## Spine;
+
 * `Extend`: - <span style="text-decoration: underline lime; font-weight: bold;">Spine</span>
 * `Flex`: - <span style="text-decoration: underline lime; font-weight: bold;">Spine</span>
 * `Muscle`: - Keep <span style="text-decoration: underline lime; font-weight: bold;">Spine</span> Straight
 * `Rotate`: - [Rotate|<span style="text-decoration: underline lime; font-weight: bold;">Spine</span>]
 
 ## Foot;
+
 * `Friction`: - (Boot+Sock+<span style="text-decoration: underline lime; font-weight: bold;">Foot</span>)
 * `Hook`: - [Hook|<span style="text-decoration: underline lime; font-weight: bold;">Foot</span>]
 * `Iguana`: - <span style="text-decoration: underline lime; font-weight: bold;">Foot</span>
 
 ## Hip;
+
 * `Extend`: - ([Extend|Leg] = ([Extend|Knee] + [Extend|Ankle] + [Extend|<span style="text-decoration: underline lime; font-weight: bold;">Hip</span>]))
 * `Extend`: - <span style="text-decoration: underline lime; font-weight: bold;">Hip</span>
 * `Femur`: - <span style="text-decoration: underline lime; font-weight: bold;">Hip</span>
@@ -1925,6 +2187,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Flex`: - <span style="text-decoration: underline lime; font-weight: bold;">Hip</span>
 
 ## Leg;
+
 * `Abdukt`: - [Abdukt|<span style="text-decoration: underline lime; font-weight: bold;">Leg</span>]
 * `Amble`: - [Amble|<span style="text-decoration: underline lime; font-weight: bold;">Leg</span>]
 * `Amble`: - [Amble|(<span style="text-decoration: underline lime; font-weight: bold;">Leg</span>,Arm)]
@@ -1948,17 +2211,21 @@ _Generated on 2026-07-30 15:03:45_
 * `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Leg</span>
 
 ## Hydration;
+
 * `Homeostasis`: - <span style="text-decoration: underline lime; font-weight: bold;">Hydration</span>
 * `Nutrition`: - <span style="text-decoration: underline lime; font-weight: bold;">Hydration</span>
 * `Temperature`: - Influence of <span style="text-decoration: underline lime; font-weight: bold;">Hydration</span>
 
 ## Nutrition;
+
 * `Energy`: - <span style="text-decoration: underline lime; font-weight: bold;">Nutrition</span>
 
 ## Endurance;
+
 * `Effort`: - <span style="text-decoration: underline lime; font-weight: bold;">Endurance</span> (ANIMA+MOTON)
 
 ## Injury;
+
 * `Compassion`: - <span style="text-decoration: underline lime; font-weight: bold;">Injury</span>
 * `Cranium`: - [Head.<span style="text-decoration: underline lime; font-weight: bold;">Injury</span>]
 * `Fall`: - <span style="text-decoration: underline lime; font-weight: bold;">Injury</span>
@@ -1967,54 +2234,67 @@ _Generated on 2026-07-30 15:03:45_
 * `Stomp`: - <span style="text-decoration: underline lime; font-weight: bold;">Injury</span>
 
 ## Strength;
+
 * `CentripetalForce`: - Finger.<span style="text-decoration: underline lime; font-weight: bold;">Strength</span> to enable Helix
 * `Leg`: - [Leg.<span style="text-decoration: underline lime; font-weight: bold;">Strength</span>]
 * `Muscle`: - [Muscle.<span style="text-decoration: underline lime; font-weight: bold;">Strength</span>]
 * `Muscle`: - [Tricep.<span style="text-decoration: underline lime; font-weight: bold;">Strength</span>]
 
 ## Suppleness;
+
 * `Muscle`: - [Muscle.<span style="text-decoration: underline lime; font-weight: bold;">Suppleness</span>]
 * `Muscle`: - [Tricep.<span style="text-decoration: underline lime; font-weight: bold;">Suppleness</span>]
 * `Tension`: - <span style="text-decoration: underline lime; font-weight: bold;">Suppleness</span>
 
 ## Electrolyte;
+
 * `Bottle`: - <span style="text-decoration: underline lime; font-weight: bold;">Electrolyte</span>
 
 ## Homeostasis;
+
 * `Endurance`: - <span style="text-decoration: underline lime; font-weight: bold;">Homeostasis</span>
 * `InsulationTop`: - [InsulationTop|<span style="text-decoration: underline lime; font-weight: bold;">Homeostasis</span>]
 
 ## Temperature;
+
 * `AirTemperature`: - How to distinguish the experience of SOMA.<span style="text-decoration: underline lime; font-weight: bold;">Temperature</span> and Atmosfera.<span style="text-decoration: underline lime; font-weight: bold;">Temperature</span>?
 
 ## Muscle;
+
 * `Pugno`: - You never need to punch, instead just place at Initial Position and Lean. Use Gravity instead of <span style="text-decoration: underline lime; font-weight: bold;">Muscle</span> to move the soil and Kompakt
 * `Triceps`: - [Drop|Arm] results in [Arm|Extension] so does [Extend|Elbow]. Drop uses Gravity to bring Elbow to Extended Position while Extend brings Elbow to extended position using <span style="text-decoration: underline lime; font-weight: bold;">Muscle</span>.Triceps
 
 ## Somon;
+
 * `Flexion`: - LABOR: Flex, SOMA: <span style="text-decoration: underline lime; font-weight: bold;">Somon</span>.Flexed, EKOS: Ekon.Flexed, VIA: Flexion
 
 ## Enumeration;
+
 * `Jerk`: - Pop is the AKTION of Jerk like how Enumerate is of <span style="text-decoration: underline lime; font-weight: bold;">Enumeration</span>. The root of ELEMENT.Name is shared between LABOR and VIA
 * `Neon`: - [Neon|<span style="text-decoration: underline lime; font-weight: bold;">Enumeration</span>]
 
 ## GraphTheory;
+
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">GraphTheory</span>.Diameter
 * `Morfos`: - Topology of <span style="text-decoration: underline lime; font-weight: bold;">GraphTheory</span>
 * `Point`: - (Geometry.Point = <span style="text-decoration: underline lime; font-weight: bold;">GraphTheory</span>.Node)
 
 ## ShortestPath;
+
 * `DegreesOfSeparation`: - <span style="text-decoration: underline lime; font-weight: bold;">ShortestPath</span>
 * `NearestNeighbor`: - (NearestNeighbor != <span style="text-decoration: underline lime; font-weight: bold;">ShortestPath</span>)
 
 ## Triad;
+
 * `ClosestPair`: - Closest Pair is useful when Bumping Density. You want to avoid planting near the closest pair. Ideally you would plant near the furthest (pair, dyad) or <span style="text-decoration: underline lime; font-weight: bold;">Triad</span> to prevent double planting Error
 
 ## Permutation;
+
 * `Orientation`: - (Orientation ?= <span style="text-decoration: underline lime; font-weight: bold;">Permutation</span>)
 * `ViaOverview`: - "VIA.Attributes.<span style="text-decoration: underline lime; font-weight: bold;">Permutation</span>"
 
 ## Alignment;
+
 * `AlliedBETA`: - [Replant.AlliedBETA|<span style="text-decoration: underline lime; font-weight: bold;">Alignment</span>] Patrol Line (FireBeta) replant
 * `SpatialSense`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Alignment</span>"
 * `SpatialSense`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Alignment</span>.AlignmentRange"
@@ -2025,12 +2305,14 @@ _Generated on 2026-07-30 15:03:45_
 * `SpatialSense`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Alignment</span>.Perpendicular"
 
 ## Geometry;
+
 * `Konvexity`: - Computational <span style="text-decoration: underline lime; font-weight: bold;">Geometry</span>
 * `Point`: - (<span style="text-decoration: underline lime; font-weight: bold;">Geometry</span>.Point = GraphTheory.Node)
 * `Point`: - Direction.<span style="text-decoration: underline lime; font-weight: bold;">Geometry</span>
 * `Recursion`: - [Recursion+<span style="text-decoration: underline lime; font-weight: bold;">Geometry</span>] == Fractal
 
 ## Density;
+
 * `Block`: - [Flora|<span style="text-decoration: underline lime; font-weight: bold;">Density</span>]
 * `ClosestPair`: - Closest Pair is useful when Bumping <span style="text-decoration: underline lime; font-weight: bold;">Density</span>. You want to avoid planting near the closest pair. Ideally you would plant near the furthest (pair, dyad) or Triad to prevent double planting Error
 * `Elevation`: - <span style="text-decoration: underline lime; font-weight: bold;">Density</span> on a slope
@@ -2060,12 +2342,14 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - Proposition: LookDown the slope to reduce chance of high <span style="text-decoration: underline lime; font-weight: bold;">Density</span>
 
 ## AbsoluteDirection;
+
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">AbsoluteDirection</span>|MOTON]
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">AbsoluteDirection</span>.Up|MOTON]
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">AbsoluteDirection</span>.Down|MOTON]
 * `Protektor`: - <span style="text-decoration: underline lime; font-weight: bold;">AbsoluteDirection</span>.North
 
 ## Direction;
+
 * `Acceleration`: - Acceleration is partially composed of <span style="text-decoration: underline lime; font-weight: bold;">Direction</span>. Changing the <span style="text-decoration: underline lime; font-weight: bold;">Direction</span> changes the acceleration even if the magnitude stays the same
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Direction</span>
 * `Acceleration`: - Change <span style="text-decoration: underline lime; font-weight: bold;">Direction</span>
@@ -2085,6 +2369,7 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - "VIA.<span style="text-decoration: underline lime; font-weight: bold;">Direction</span>.VIA_UpSlope"
 
 ## Away;
+
 * `Face`: - [Rotate.<span style="text-decoration: underline lime; font-weight: bold;">Away</span>()]
 * `Face`: - [Rotate.<span style="text-decoration: underline lime; font-weight: bold;">Away</span>([EyePoke|EKON|Affordable])]
 * `RelativeDirection`: - <span style="text-decoration: underline lime; font-weight: bold;">Away</span> From
@@ -2092,22 +2377,27 @@ _Generated on 2026-07-30 15:03:45_
 * `RelativeDirection`: - <span style="text-decoration: underline lime; font-weight: bold;">Away</span> to
 
 ## Egression;
+
 * `Direction`: - <span style="text-decoration: underline lime; font-weight: bold;">Egression</span>
 * `Egress`: - <span style="text-decoration: underline lime; font-weight: bold;">Egression</span>
 
 ## Extension;
+
 * `Extend`: - <span style="text-decoration: underline lime; font-weight: bold;">Extension</span>
 * `Point`: - [<span style="text-decoration: underline lime; font-weight: bold;">Extension</span>.Point]
 * `Triceps`: - [Drop|Arm] results in [Arm|<span style="text-decoration: underline lime; font-weight: bold;">Extension</span>] so does [Extend|Elbow]. Drop uses Gravity to bring Elbow to Extended Position while Extend brings Elbow to extended position using Muscle.Triceps
 
 ## Flexion;
+
 * `Flex`: - <span style="text-decoration: underline lime; font-weight: bold;">Flexion</span>
 * `Point`: - [<span style="text-decoration: underline lime; font-weight: bold;">Flexion</span>.Point]
 
 ## Ingression;
+
 * `Direction`: - <span style="text-decoration: underline lime; font-weight: bold;">Ingression</span>
 
 ## On;
+
 * `AlliedBETA`: - <span style="text-decoration: underline lime; font-weight: bold;">On</span> ramp merge lane. Highway is an established multilane
 * `AlliesCommunication`: - "<span style="text-decoration: underline lime; font-weight: bold;">On</span> my way"
 * `Pleroon`: - [The Fastest Maze-Solving Competition <span style="text-decoration: underline lime; font-weight: bold;">On</span> Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
@@ -2115,20 +2405,24 @@ _Generated on 2026-07-30 15:03:45_
 * `Tarp`: - Tarp.<span style="text-decoration: underline lime; font-weight: bold;">On</span>
 
 ## RelativeDirection;
+
 * `Displacement`: - (RelativeDistance+<span style="text-decoration: underline lime; font-weight: bold;">RelativeDirection</span>)
 
 ## Proximal;
+
 * `ComputationalGeometry`: - <span style="text-decoration: underline lime; font-weight: bold;">Proximal</span> tree
 * `Finger`: - PIP <span style="text-decoration: underline lime; font-weight: bold;">Proximal</span> Interphalangeal Joint
 * `Strategy`: - Strategy: <span style="text-decoration: underline lime; font-weight: bold;">Proximal</span> Motive, Ulterior Motive
 
 ## Displacement;
+
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Displacement</span>
 * `Axine`: - Power is proportional to [Backswing.<span style="text-decoration: underline lime; font-weight: bold;">Displacement</span>]
 * `Distance`: - (Distance != <span style="text-decoration: underline lime; font-weight: bold;">Displacement</span>)
 * `Distance`: - [Constraint.<span style="text-decoration: underline lime; font-weight: bold;">Displacement</span>]
 
 ## Distance;
+
 * `Acceleration`: - <span style="text-decoration: underline lime; font-weight: bold;">Distance</span>
 * `Displacement`: - <span style="text-decoration: underline lime; font-weight: bold;">Distance</span>
 * `Dory`: - <span style="text-decoration: underline lime; font-weight: bold;">Distance</span> height of Mikrosite above foot equals distance from DoryNeck
@@ -2140,10 +2434,12 @@ _Generated on 2026-07-30 15:03:45_
 * `VoronoiDiagram`: - <span style="text-decoration: underline lime; font-weight: bold;">Distance</span> between Point and Centroid of Voronoi
 
 ## Elevation;
+
 * `AbsoluteLokation`: - <span style="text-decoration: underline lime; font-weight: bold;">Elevation</span>
 * `IceSoil`: - At High <span style="text-decoration: underline lime; font-weight: bold;">Elevation</span>
 
 ## Line;
+
 * `AlliedBETA`: - [Replant.AlliedBETA|Alignment] Patrol <span style="text-decoration: underline lime; font-weight: bold;">Line</span> (FireBeta) replant
 * `AlliesCommunication`: - <span style="text-decoration: underline lime; font-weight: bold;">Line</span> of Planted trees is Cover
 * `BurntBlock`: - Follow the Fire <span style="text-decoration: underline lime; font-weight: bold;">Line</span>
@@ -2154,6 +2450,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Point`: - [Inflection.<span style="text-decoration: underline lime; font-weight: bold;">Line</span>]
 
 ## Lokation;
+
 * `AbsoluteLokation`: - <span style="text-decoration: underline lime; font-weight: bold;">Lokation</span> on a Map
 * `AbsoluteLokation`: - Definite, Objective, <span style="text-decoration: underline lime; font-weight: bold;">Lokation</span> independent of perspective, where you're viewing it from
 * `AbsoluteLokation`: - Are all <span style="text-decoration: underline lime; font-weight: bold;">Lokation</span> Specs AbsoluteLokations?
@@ -2165,23 +2462,29 @@ _Generated on 2026-07-30 15:03:45_
 * `Stall`: - Kryos and <span style="text-decoration: underline lime; font-weight: bold;">Lokation</span> in Space
 
 ## Apogee;
+
 * `Perigee`: - Antonym of <span style="text-decoration: underline lime; font-weight: bold;">Apogee</span>
 
 ## Center;
+
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">Center</span>|MOTON]
 * `PlotCord`: - <span style="text-decoration: underline lime; font-weight: bold;">Center</span>==Spade
 
 ## Endo;
+
 * `Ingression`: - Exo -> Ingress -> <span style="text-decoration: underline lime; font-weight: bold;">Endo</span> -> Egress -> Exo
 
 ## Exo;
+
 * `Ingression`: - <span style="text-decoration: underline lime; font-weight: bold;">Exo</span> -> Ingress -> Endo -> Egress -> <span style="text-decoration: underline lime; font-weight: bold;">Exo</span>
 
 ## Konvexity;
+
 * `Konkavity`: - Konkavity and <span style="text-decoration: underline lime; font-weight: bold;">Konvexity</span> can be charted using parabolic Algebra where y=0 at ground level
 * `Mano`: - The Aktion of <span style="text-decoration: underline lime; font-weight: bold;">Konvexity</span>
 
 ## Morfos;
+
 * `AlliedBETA`: - place grass cubes on their sides to be more visible for follower. TeamBeta. [Pod|<span style="text-decoration: underline lime; font-weight: bold;">Morfos</span>]
 * `Block`: - <span style="text-decoration: underline lime; font-weight: bold;">Morfos</span>
 * `Boot`: - Boot.<span style="text-decoration: underline lime; font-weight: bold;">Morfos</span>
@@ -2200,21 +2503,26 @@ _Generated on 2026-07-30 15:03:45_
 * `Taktik`: - [Piece|<span style="text-decoration: underline lime; font-weight: bold;">Morfos</span>] affects the Taktik being used.
 
 ## Hexagon;
+
 * `Point`: - Triangle, Square, Pentagon, <span style="text-decoration: underline lime; font-weight: bold;">Hexagon</span>
 
 ## Pentagon;
+
 * `Point`: - Triangle, Square, <span style="text-decoration: underline lime; font-weight: bold;">Pentagon</span>, Hexagon
 
 ## Square;
+
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">Square</span>|MOTON]
 * `Point`: - Triangle, <span style="text-decoration: underline lime; font-weight: bold;">Square</span>, Pentagon, Hexagon
 * `Skreef`: - "10 by 10 skreef" is a <span style="text-decoration: underline lime; font-weight: bold;">Square</span>
 
 ## Triangle;
+
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">Triangle</span>|MOTON]
 * `Point`: - <span style="text-decoration: underline lime; font-weight: bold;">Triangle</span>, Square, Pentagon, Hexagon
 
 ## Orientation;
+
 * `Gimbal`: - Maintain Lokation (and, or, XOR) <span style="text-decoration: underline lime; font-weight: bold;">Orientation</span>
 * `Klimon`: - A Slope isn't an <span style="text-decoration: underline lime; font-weight: bold;">Orientation</span>, like how a "Cliff" isn't either.
 * `RelativeDirection`: - <span style="text-decoration: underline lime; font-weight: bold;">Orientation</span>
@@ -2228,6 +2536,7 @@ _Generated on 2026-07-30 15:03:45_
 * `SpatialSense`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Orientation</span>.ToTarget"
 
 ## Point;
+
 * `Center`: - [Center.<span style="text-decoration: underline lime; font-weight: bold;">Point</span>]
 * `Center`: - [Piece.Center.<span style="text-decoration: underline lime; font-weight: bold;">Point</span>]
 * `Center`: - [Plot.Center.<span style="text-decoration: underline lime; font-weight: bold;">Point</span>]
@@ -2249,20 +2558,25 @@ _Generated on 2026-07-30 15:03:45_
 * `VoronoiDiagram`: - Distance between <span style="text-decoration: underline lime; font-weight: bold;">Point</span> and Centroid of Voronoi
 
 ## Viewpoint;
+
 * `Plan`: - At <span style="text-decoration: underline lime; font-weight: bold;">Viewpoint</span>
 * `Stand`: - <span style="text-decoration: underline lime; font-weight: bold;">Viewpoint</span>
 
 ## Proximity;
+
 * `Displacement`: - <span style="text-decoration: underline lime; font-weight: bold;">Proximity</span>
 * `Proximal`: - {Direction: Proximal, Position:<span style="text-decoration: underline lime; font-weight: bold;">Proximity</span>}
 
 ## Contains;
+
 * `Cache`: - (Cache ?= <span style="text-decoration: underline lime; font-weight: bold;">Contains</span>(Kit))
 
 ## Overlaps;
+
 * `Pleroo`: - <span style="text-decoration: underline lime; font-weight: bold;">Overlaps</span>
 
 ## Logic;
+
 * `Judgement`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Logic</span>.Boolean"
 * `Judgement`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Logic</span>.Deduction"
 * `Judgement`: - "ANIMA.<span style="text-decoration: underline lime; font-weight: bold;">Logic</span>.Induction"
@@ -2270,6 +2584,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Predikt`: - [VIA.<span style="text-decoration: underline lime; font-weight: bold;">Logic</span>]
 
 ## Markation;
+
 * `Markate`: - <span style="text-decoration: underline lime; font-weight: bold;">Markation</span> is a Taktik
 * `Markate`: - VIA.<span style="text-decoration: underline lime; font-weight: bold;">Markation</span>
 * `Piece`: - [Piece.<span style="text-decoration: underline lime; font-weight: bold;">Markation</span>] includes Block boundary flag place by foresters
@@ -2278,13 +2593,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Trench`: - [Trench|<span style="text-decoration: underline lime; font-weight: bold;">Markation</span>] = "Don't flag each tree in trenches"
 
 ## Creamy;
+
 * `EkosOverview`: - PropositionEkos: There is a type of moss which grows only on <span style="text-decoration: underline lime; font-weight: bold;">Creamy</span> Soil
 
 ## Probability;
+
 * `Creamy`: - Definition: High <span style="text-decoration: underline lime; font-weight: bold;">Probability</span> that the Sites or Piece will be easy to plant
 * `Protektor`: - <span style="text-decoration: underline lime; font-weight: bold;">Probability</span> of Damage
 
 ## Affordance;
+
 * `Elevation`: - [Step.Over|<span style="text-decoration: underline lime; font-weight: bold;">Affordance</span>]
 * `Neosite`: - <span style="text-decoration: underline lime; font-weight: bold;">Affordance</span>
 * `Probability`: - <span style="text-decoration: underline lime; font-weight: bold;">Affordance</span>
@@ -2293,13 +2611,16 @@ _Generated on 2026-07-30 15:03:45_
 * `Waste`: - <span style="text-decoration: underline lime; font-weight: bold;">Affordance</span>
 
 ## Maximum;
+
 * `Flexion`: - Flexion is measured in Degrees or Relative to Minimum or <span style="text-decoration: underline lime; font-weight: bold;">Maximum</span> of Flexion RangeOfMotion
 
 ## Minimum;
+
 * `Dia`: - <span style="text-decoration: underline lime; font-weight: bold;">Minimum</span> Slash Diameter to be considered a Protektor (>50mm)
 * `Flexion`: - Flexion is measured in Degrees or Relative to <span style="text-decoration: underline lime; font-weight: bold;">Minimum</span> or Maximum of Flexion RangeOfMotion
 
 ## Obstakle;
+
 * `AroundLine`: - [Around.<span style="text-decoration: underline lime; font-weight: bold;">Obstakle</span>]
 * `Fall`: - <span style="text-decoration: underline lime; font-weight: bold;">Obstakle</span>
 * `GraphTheory`: - Node = (Neon, Ally, Protektor, Crop, <span style="text-decoration: underline lime; font-weight: bold;">Obstakle</span>)
@@ -2309,6 +2630,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Weave`: - Weave Flora into other Flora to prevent it from springing back into [Mikrosite.Passag.<span style="text-decoration: underline lime; font-weight: bold;">Obstakle</span>]
 
 ## Passag;
+
 * `Acceleration`: - RacingLine == <span style="text-decoration: underline lime; font-weight: bold;">Passag</span>
 * `Center`: - [<span style="text-decoration: underline lime; font-weight: bold;">Passag</span>.Center.Point]
 * `Egression`: - [Egress|<span style="text-decoration: underline lime; font-weight: bold;">Passag</span>]
@@ -2329,6 +2651,7 @@ _Generated on 2026-07-30 15:03:45_
 * `Weave`: - Weave Flora into other Flora to prevent it from springing back into [Mikrosite.<span style="text-decoration: underline lime; font-weight: bold;">Passag</span>.Obstakle]
 
 ## Site;
+
 * `Axine`: - [Spade.Axine.Mano.Handle|<span style="text-decoration: underline lime; font-weight: bold;">Site</span>]
 * `Box`: - [Box.Handle|<span style="text-decoration: underline lime; font-weight: bold;">Site</span>] is the main <span style="text-decoration: underline lime; font-weight: bold;">Site</span> of Box.
 * `Box`: - [Box.Corner|<span style="text-decoration: underline lime; font-weight: bold;">Site</span>] is a <span style="text-decoration: underline lime; font-weight: bold;">Site</span> used only when carrying a single box.
@@ -2346,6 +2669,7 @@ _Generated on 2026-07-30 15:03:45_
 * `WetSlash`: - [Slip|<span style="text-decoration: underline lime; font-weight: bold;">Site</span>]
 
 ## Neosite;
+
 * `Mikrosite`: - <span style="text-decoration: underline lime; font-weight: bold;">Neosite</span> doesn't include Natural Crop Trees
 * `Mikrosite`: - <span style="text-decoration: underline lime; font-weight: bold;">Neosite</span> is a planted Mikrosite
 * `Neon`: - "<span style="text-decoration: underline lime; font-weight: bold;">Neosite</span>" doesn't make sense, a planted Neon is a Neon. Neons in your Bag aren't instantiated. Besides the weight of Bags, there is no experience of a Neon unless it's in your hand or you're looking at it already planted in the land. There should never be any dropped trees to be confusing. A Mikrosite which has been planted is no longer a Mikrosite for another Neon.
@@ -2355,14 +2679,17 @@ _Generated on 2026-07-30 15:03:45_
 * `ViaOverview`: - Abandon CurrentSite for <span style="text-decoration: underline lime; font-weight: bold;">Neosite</span> when you determine that CurrentSite isn't good
 
 ## Frequency;
+
 * `Bear`: - <span style="text-decoration: underline lime; font-weight: bold;">Frequency</span> of seeing a Bear
 * `Hydration`: - <span style="text-decoration: underline lime; font-weight: bold;">Frequency</span>
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">Frequency</span>|MOTON]
 
 ## DegreesOfFreedom;
+
 * `MotorOverview`: - [Aktion|<span style="text-decoration: underline lime; font-weight: bold;">DegreesOfFreedom</span>]
 
 ## RangeOfMotion;
+
 * `Flexion`: - Flexion is measured in Degrees or Relative to Minimum or Maximum of Flexion <span style="text-decoration: underline lime; font-weight: bold;">RangeOfMotion</span>
 * `Leg`: - <span style="text-decoration: underline lime; font-weight: bold;">RangeOfMotion</span>
 * `MotorOverview`: - [<span style="text-decoration: underline lime; font-weight: bold;">RangeOfMotion</span>|MOTON]

@@ -20,6 +20,7 @@ let elementName = "Music"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
 - Music.entrainment to counteract for fatigue
 - Planting Dance. Planting Music. Plant to a drum
 

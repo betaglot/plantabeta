@@ -114,3 +114,18 @@ Mount and also attach a **wire** and HiVis to the camera in case the mount malfu
 ##### TrunkMount
 
 - 3rd PersonView
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details &
+
+- Videos explaining how an Image  or video represents Via
+- Zoomed in from a satellite
+-
+
+:::

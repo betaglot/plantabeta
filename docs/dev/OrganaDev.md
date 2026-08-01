@@ -15,6 +15,8 @@ The most important constraint for Organons is the space it takes in the Truck.
 
 ## <span class="labor">ArmorDev</span>
 
+- Insulated Sleeves
+
 - ArmorDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
 - Cache Poncho
 - Plantcho: Planting Poncho
@@ -74,6 +76,8 @@ Not a place where many duplicates items are stored
 ## ⭐<span class="labor">MarkumDev</span>
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
+
+- The best Markum won't be paper, but get into the paper business in the meantime
 
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
 - <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
@@ -172,7 +176,11 @@ Recycled Paper is usually to dark to dye light blue. Tint isn't easily added to 
 
 ## ⭐<span class="labor">CampDev</span>
 
+- Wine tour bus for groceries
+- Catan
 - MechanicalDryer
+- RepairKit
+-
 
 ## ⭐<span class="labor">NeonforDev</span>
 
@@ -201,16 +209,18 @@ Greek for Spear
 
 Lash D to Dory
 
-## ⭐<span class="labor">PlantaforDev</span>
+## ⭐<span class="labor">PlantforDev</span>
 
-> (Plantafor == "plant" + "bearer")
+> (Plantfor == "plant" + "bearer")
 
-Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
+- Edo is where you'll find Plantfor
+    - Diagonal rope keeps the shoulder armor in place when swinging sword up
+Plantfors are not planting bags, in the same way that a Jeep is not a Model-T
 
-- PlantaforDev: Overall+Bags. Built-in Bags
+- PlantforDev: Overall+Bags. Built-in Bags
 
-- Plantafor folds into a hoplite shield
-- PlantaforDev: Phone case front bag attachment
+- Plantfor folds into a hoplite shield
+- PlantforDev: Phone case front bag attachment
     - HardShell
     - Coil Kord around Kase
 
@@ -226,7 +236,7 @@ Partially Disassemble to reduce space
 
 ### ⭐<span class="labor">PieceCacheDev</span>
 
-- Somehow use Plantafor to carry a PieceCache
+- Somehow use Plantfor to carry a PieceCache
 - Shoot the wire from the fully deployed skidder crane tree delivery zipline
 
 ### ⭐<span class="labor">BagMaterialDev</span>
@@ -306,7 +316,7 @@ Ideally there would be a Markor on each Radior
 - Radior_Markafor
 - Spade_Markafor
 - Tibior_Markafor
-- Plantafor_Markafor
+- Plantfor_Markafor
 
 ### PolyMarkafor
 
@@ -406,6 +416,7 @@ Mail at joints
 ### ⭐<span class="labor">RadiorDev</span>
 
 - Radior with Translucent container for map or notes like in A24.Warfare movie about Navy Seals
+- More durable wrist guard shaped radior
 
 #### Etymology(Radior)
 
@@ -432,6 +443,8 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - Wool lining
 
 ### ⭐<span class="labor">SpadeDev</span>
+
+- Cast Spade.Head
 
 - SpadeDev <ploughing@lemken.com> <https://lemken.com/en-en/agricultural-machines/soil-cultivation/ploughing/equipment/bodies>
 - SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system

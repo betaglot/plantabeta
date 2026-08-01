@@ -44,6 +44,10 @@ Computational Geometry
 <!-- =================================================== -->
 ::: details &
 
--
+- Record a video for Simard or be a coward
+- Find a canadian bryophytes biologist
+
+- Message Vice documentary surfer. Learn how to say Hawaii
+    - <https://www.youtube.com/watch?v=St59ecWsD3o>
 
 :::

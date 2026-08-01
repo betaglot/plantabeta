@@ -173,6 +173,8 @@ What is the name of the scooter's shaft?
 
 ## 🌈 Alpine Skiing (SkiAlpineBETA)
 
+- Step uphill to slow down
+
 Slalom where you hit the gates is the most like planting.
 
 You're the elder you make the norms. No one can stop you. Anything other than kindness will derail the project.
@@ -194,6 +196,8 @@ Planting while your body is moving away or towards hole
 ## 🌈 Ski Moguls (MogulBETA)
 
 ## 🌈 Snowboard (SnowboardBETA)
+
+- Step uphill to slow down
 
 ## 🌈 SnowPark (SnowParkBETA)
 
@@ -264,6 +268,13 @@ On the streets, on campus, in airports, in public transit
 
 ::: details &
 
+- Demeter is the goddess of PlantaBeta
+
+- Ask a pro gardener what they call skreefing or grubbing and where to find a collection of moves visualized
+    - PlantBETA doesn't require PutPlant
+    - What you do with the plant after putting it in the ground
+- Differentiate(Homolog and Analog)
+    - homologue is Counterpart
 - BETA_sports require kindness. You can't be a kind antagonist (Opposition != Antagonist)
 - MusicBETA: Elements of Music
     - Proposition, Definition, Teorem, Problem

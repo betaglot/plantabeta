@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB labor="Plantafor.Preserve" />
+# <BB labor="Plantfor.Preserve" />
 
 ---
 
@@ -17,5 +17,5 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- PlantaforRepair
+- PlantforRepair
 :::

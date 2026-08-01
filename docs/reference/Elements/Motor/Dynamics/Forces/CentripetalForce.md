@@ -27,7 +27,7 @@ let elementName = "CentripetalForce"
 - Orbit  
 - Onda  
 - Pendulum  
-- Revolve  
+- Gyre  
 - Helix  
     - Finger.Strength to enable Helix
 

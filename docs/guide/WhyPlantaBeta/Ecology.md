@@ -13,8 +13,13 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Economy of scale
+    - Buy in bulk
+    - Manufacture in bulk
+    - Mass production
 - Silvitekture == (Architecture + Silviculture)
     - Wilderness Design sounds like an Oxymoron, but the "wilderness" of Plantations isn't actually very wild.
+    - Landscape Architecture
 
 - Trees are mechanical pumps
 - Landscape Architecture

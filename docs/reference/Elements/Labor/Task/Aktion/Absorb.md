@@ -20,6 +20,13 @@ let elementName = "Absorb"
 <!-- =================================================== -->
 ::: details &
 
+- Collision fraction is viamoton
+
+- [Absorb.Amble|Slope|Uphill]
+    - Step uphill to slow down
+
+- Interference between spade and body. One can absorb  the other or constructively interfere
+
 - Hitting a rock
 - slow down
 - transform kinetic energy into another form of energy

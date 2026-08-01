@@ -1,15 +1,18 @@
+---
+aside: false
+---
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "SoilFiber"
+let elementName = ""
 
 </script>
 
-# 🟩<span class="ekos">Soil Fiber</span>
+# 💜 <span class="anima">CacheTime </span>
 
-<ElementTaxonomy :elementName="elementName" />
+## BagInTime
 
-<ElementInfo :elementName=elementName />
+> The time it takes to load trees into your bag at a cache
 
 ---
 
@@ -20,9 +23,8 @@ let elementName = "SoilFiber"
 <!-- =================================================== -->
 ::: details &
 
-- Duff
+- Minimal break
 
 -
-- Plantate redrot to make it high density
 
 :::

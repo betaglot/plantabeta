@@ -16,6 +16,7 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
 - Spade Ollie is as useful as board ollie
 - Spade is a Delphi Dolphin
 -

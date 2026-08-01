@@ -19,6 +19,7 @@ let elementName = "Sun"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
 - Shade is a Shadow large enough to sit in
 
 - Armor

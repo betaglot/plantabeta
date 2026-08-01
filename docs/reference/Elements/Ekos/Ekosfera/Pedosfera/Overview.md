@@ -29,6 +29,8 @@ Aliases: Soil, Dirt, Ground
 <!-- =================================================== -->
 ::: details &
 
+- To minimize disturbing fragile soil formations slope cascade
+
 - Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots
 
 - MalleableSoil

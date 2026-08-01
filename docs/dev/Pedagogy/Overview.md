@@ -159,6 +159,14 @@ Recall what you learned during the morning truck ride
 <!-- =================================================== -->
 ::: details &
 
+- Day1 training Test multiple sizes of spade
+
+- Which chain of logic would you like to see first?
+- Make a 100 m rope for teaching SpatialSense
+    - Makrosite
+    - Distance Estimation
+- The basis of PlantaBeta pedagogy is Veritasium Expert Myth
+    - Anima not Soma, you still need muscle training
 - Seek out good teachers to learn the practice of teaching
 - <BB labor='MinimumWage'/> Wanna surpass minimum wage?
 - Ubc planter school

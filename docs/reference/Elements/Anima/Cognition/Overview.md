@@ -24,5 +24,4 @@ let elementName = "Cognition"
 - RookieFreeze is more apt than rookieStare
 - Thousand mile stare. RookieStare. RookieFreeze
 
-
 :::

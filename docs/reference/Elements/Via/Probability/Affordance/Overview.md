@@ -20,6 +20,8 @@ let elementName = "Affordance"
 <!-- =================================================== -->
 ::: details &
 
+- Waiting to turn when driving a car is VIA
+
 - Conemotion
 
 - Emotionable

@@ -36,6 +36,6 @@ let elementName = "Retrakt"
     - SpadeSkreef
     - Climbing
     - Pulling yourself up along a Railing. Eccentrically lowering yourself down the railing
-    - [Revolve|Korpo]
+    - [Gyre|Korpo]
 
 :::

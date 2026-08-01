@@ -20,6 +20,8 @@ let elementName = "Workday"
 <!-- =================================================== -->
 ::: details &
 
+- Split the day up into Acts and Scenes like Shakespeare
+
 - Timelines of PlantaBeta
     - Day
     - piece

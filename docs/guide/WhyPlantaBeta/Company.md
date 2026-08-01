@@ -13,6 +13,10 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Economy of scale
+    - Buy in bulk
+    - Manufacture in bulk
+    - Mass production
 - Novice Planters can train themselves before their first day of work, so that your company can spend less time and resources in the training process.
 
 - PlantaBETA is a service

@@ -6361,7 +6361,7 @@
             "Labor",
             "Organon"
         ],
-        "elementAlias": [],
+        "elementAlias": ["organa"],
         "elementDescription": [
             "an object that helps you to do a particular activity"
         ],

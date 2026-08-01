@@ -130,5 +130,4 @@ All algorithms are Frases. "Frase" is more commonplace than "Algorithm". Use "Fr
 - PlantaBETA: Phases Fases: Opening, Middle, End
 - Sequential graphs kinograms look like Graph Bus Topology
 
-
 :::

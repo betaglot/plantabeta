@@ -22,5 +22,4 @@ let elementName = "StagnantWater"
 
 - When to step in puddles
 
-
 :::

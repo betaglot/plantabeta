@@ -20,6 +20,10 @@ let elementName = "ComputationalGeometry"
 <!-- =================================================== -->
 ::: details &
 
+- Flagging every tree can be avoided with computer Science
+
+- Algorithm for CacheLocation
+    - <https://en.wikipedia.org/wiki/Location-allocation>
 - Using an Umbrella when walking along a sidewalk is computational geometry Praktik
 - Heuristic then algorithm
     - If: Plant the low spots

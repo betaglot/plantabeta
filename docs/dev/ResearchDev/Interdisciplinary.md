@@ -34,6 +34,7 @@ search: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
+
 - Ubc planter school
 
 - How to bridge the gap between Suzanne Simards and Devs? Ecologist to Computer Dev.

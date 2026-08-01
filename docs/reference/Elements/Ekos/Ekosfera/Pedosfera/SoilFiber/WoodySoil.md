@@ -22,6 +22,8 @@ let elementName = "WoodySoil"
 <!-- =================================================== -->
 ::: details &
 
+- When StumpSkreefRedRot
+    - Proposition: Start between the redrot and stump then pry instead of skimming from the within the red rot
 - Interrooted
 - Spruce root increases soil teknik and possibly soil Kratos
 

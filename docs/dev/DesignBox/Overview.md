@@ -82,11 +82,11 @@ A more complex and useful
 
 The output lists are the instances of each ELEMENT
 
-- Limit it to ELEMENTs and BETOMs 
+- Limit it to ELEMENTs and BETOMs
 
 - How much of this Induction and Deduction can be done by Alan?
     - Inheritance
-    - 
+    -
 
 - Are properties and Attributes propositions
     - No but the information that they share allows one to be translated into the other.

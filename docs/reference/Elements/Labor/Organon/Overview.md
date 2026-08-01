@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "SoilFiber"
+let elementName = "Organa"
 
 </script>
 
-# 🟩<span class="ekos">Soil Fiber</span>
+# ⭐<span class="labor">Organa</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,9 +20,6 @@ let elementName = "SoilFiber"
 <!-- =================================================== -->
 ::: details &
 
-- Duff
-
 -
-- Plantate redrot to make it high density
 
 :::

@@ -172,7 +172,7 @@ search: false
 <!-- - Ekon: Dihedral -->
 <!-- - Insulation keeps you warm,bit doesn't make you warm -->
 <!-- - See Daredevil for Via like ACreed -->
-- ViaLine InsteadOf ViaCurve
+<!-- - ViaLine InsteadOf ViaCurve -->
 <!-- - Cowl -->
 <!-- - authentikos "original, genuine, principal," -->
 <!-- - Pythagoras for theorem example and first via proposition after definitions -->
@@ -190,12 +190,12 @@ search: false
 <!-- - Lean into a banked turn -->
 <!-- - Tibior anchors around foot in boot. Not how it's currently around boot -->
 <!-- - Change to Korpo -->
-- Gyro Gyrate
+<!-- - Gyro Gyrate -->
 - Stance
 <!-- - AtClimbingGym Reset for Quastuco demo -->
 <!-- - Maybe painting the paper with nontoxic blue paint will be easier. -->
 <!-- - Pacer is easier than teacher -->
-- Div ToVia
+<!-- - Div ToVia -->
 <!-- - Piece to Labor -->
 <!-- - throw your spade over a high obstacle first, so you can use two hands to climb -->
 <!-- - Drink when you're not thirsty and stop eating while you're still hungry -->
@@ -559,7 +559,7 @@ search: false
 <!-- - TeamBETA: Pressure
     - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
     - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers. -->
-- Videos explaining how an Image  or video represents Via
+<!-- - Videos explaining how an Image  or video represents Via -->
 <!-- - FillPlant == PaleonPlant
     - PaleonKompletion -->
 <!-- - What are the hubs of Betaretetome
@@ -823,9 +823,9 @@ search: false
     - According to the most recent figures available in Statistics Canada's 2021 Census of Agriculture, the average farm size in Saskatchewan is about 714 hectares (or 1,766 acres ) — almost double the national average of about 327 hectares (or 809 acres).   -->
 <!-- - Team Pak
     - Pack Etymology -->
-- Poll for options to method to explain PlantaBETA to Reddit
-- Do the math usually refers to logic. Do the logic. Analyze the logic
-- Strategic Ambitions
+<!-- - Poll for options to method to explain PlantaBETA to Reddit -->
+<!-- - Do the math usually refers to logic. Do the logic. Analyze the logic -->
+<!-- - Strategic Ambitions -->
 <!-- - SpadeDev <ploughing@lemken.com> <https://lemken.com/en-en/agricultural-machines/soil-cultivation/ploughing/equipment/bodies> -->
 <!-- - PlantaCoach Get planters to buy. they initiate instead of management. Get a certain amount before going to a bush camp. Appointment Count -->
 <!-- - Emotionable
@@ -840,7 +840,7 @@ search: false
 <!-- - Team-Taktik
 - Team-Taktik-Passage
 - (ChessBETA == TeamBETA): Building a wall along the middle is a Strategy. Cut the piece in half -->
-<!-- - Timelines of PlantaBeta
+<!-- - Timelines of PlantaBETA
     - Day
     - piece
     - block move -->
@@ -922,7 +922,7 @@ search: false
 <!-- - Depo instead of cache
     - Apodepo -->
 <!-- - Spade is a Delphi Dolphin -->
-<!-- - Should PlantaBeta be public or Private? -->
+<!-- - Should PlantaBETA be public or Private? -->
 <!-- - Add Duff to Skreef, Skreefing, Klimon, Mikrosite
     - Maybe Kryptoid instead of duff -->
 <!-- - HasProperty
@@ -940,30 +940,30 @@ search: false
 <!-- - Geodetic distance: The distance is the one that between two urban centers along the earth’s great circle.
 - Manhattan Distance: Latitude difference plus longitude difference (the name “Manhattan Distance” is because the Manhattan, street patterns can be modeled as a set of two vertical lines). -->
 - eating our own cooking <https://en.wikipedia.org/wiki/Eating_your_own_dog_food>
-- Be the originator of an element sponsor a road sponsor an element
-- AskPrepper
-- PlantaBeta: Pencil Notes
+<!-- - Be the originator of an element sponsor a road sponsor an element -->
+<!-- - AskPrepper -->
+<!-- - PlantaBETA: Pencil Notes -->
 <!-- - Be clear about what is Anxietable -->
 <!-- - Distance between Point and Centroid of Voronoi
     - Distance between Point and Centroid of Voronoi -->
-- Ask beaver people about how to plant q beaver ecosystem
-- Tacoma justification: How am we supposed to get to your camp, then camp there?
-- More durable wrist guard shaped radior
-- Which chain of logic would you like to see first?
-- What other Plants are circumboreal?
-    - Based on current understanding, fireweed (Chamaenerion angustifolium) does not have a single point of origin but is instead a circumboreal species, meaning it is native throughout the Northern Hemisphere. Its evolutionary history indicates that it spread across continents long ago, adapting to cold, temperate, and boreal climates
-- Cast Spade.Head
-- Make a 100 m rope
-- Insulated Sleeves
-- Edo is where you'll find Plantfor
-    - Diagonal rope keeps the shoulder armor in place when swinging sword up
-- CoverPath is knitted
+<!-- - Ask beaver people about how to plant a beaver ecosystem -->
+<!-- - Tacoma justification: How am we supposed to get to your camp, then camp there? -->
+<!-- - More durable wrist guard shaped radior -->
+<!-- - Which chain of logic would you like to see first? -->
+<!-- - What other Plants are circumboreal?
+    - Based on current understanding, fireweed (Chamaenerion angustifolium) does not have a single point of origin but is instead a circumboreal species, meaning it is native throughout the Northern Hemisphere. Its evolutionary history indicates that it spread across continents long ago, adapting to cold, temperate, and boreal climates -->
+<!-- - Cast Spade.Head -->
+<!-- - Make a 100 m rope -->
+<!-- - Insulated Sleeves -->
+<!-- - Edo is where you'll find Plantfor
+    - Diagonal rope keeps the shoulder armor in place when swinging sword up -->
+<!-- - CoverPath is knitted
     - Overlap
     - Spade is Needle
-    - Sewing machine moves instead of Fabric==Eko
-- If you click on a YouTube shorts title, then an expansion box opens with a line of metadata and a description.
+    - Sewing machine moves instead of Fabric==Eko -->
+<!-- - If you click on a YouTube shorts title, then an expansion box opens with a line of metadata and a description.
     - What markdown can you put in the description?
-- PlantaBeta_Video
+- PlantaBETA_Video
     - Aggregate Videos
         - Edit the videos into hour long videos
     - Subtitles: BetaTranscription
@@ -973,85 +973,85 @@ search: false
     3. VScode: Open .vtt in Vscode
     4. Use Python to replace "subtitle" with a BetaMomentMatrix_CaptionTemplate
     5. use Autocomplete to input the values for BetaMomentMatrix
-    6. Upload .vtt to Youtube
-- Differentiate(Homolog and Analog)
-    - homologue is Counterpart
-- Ask a pro gardener what they call skreefing or grubbing and where to find a collection of moves visualized
+    6. Upload .vtt to Youtube -->
+<!-- - Differentiate(Homolog and Analog)
+    - homologue is Counterpart -->
+<!-- - Ask a pro gardener what they call skreefing or grubbing and where to find a collection of moves visualized
     - PlantBETA doesn't require PutPlant
-    - What you do with the plant after putting it in the ground
-- ToPrint
+    - What you do with the plant after putting it in the ground -->
+<!-- - ToPrint
     - all elements as list and katagory dendrogram
     - all pedagogy dev pages
     - all planter questions
     - all beta examples
-    - sistem dev
-- Waiting to turn is VIA
-- "Do they look the same" is anima
-- Split the day up into Acts and Scenes like Shakespeare
-- Chess Analog
+    - sistem dev -->
+<!-- - Waiting to turn when driving a car is VIA -->
+<!-- - "Do they look the same" is anima -->
+<!-- - Split the day up into Acts and Scenes like Shakespeare -->
+<!-- - Chess Analog
     - Move == Aktion
-    - Think three moves ahead or eight moves ahead if you're a master
-- The feeling of laying brick is in your hands and fingers Kontakts
-    - Soma can control anima
-- Algorithm for CacheLocation
-    - <https://en.wikipedia.org/wiki/Location-allocation>
-- Recreate PlantaBeta.Docs.Reference with Paper and Folders
-    - Get a compact carryon with good wheels or make one
-- Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID
-    - Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID
-- Intersecting vions
-- Shadow is ekos
-- Sailing rum line
-- Radial speed between handle and blade and make spade point medial or lateral. Into a kink
-- Flagging every tree can be avoided with computer Science
-- Get situated
-- Spade dribble
-- Interfernce between spade and body. One can absorb  the other or constructively interfere
-- Spacetime spade sculpture 50cm height. The longboarding jackson trails mental app in circa 2013, rotated to vertical
-- Tom Scott Youtuber visited a science place maybe the asymmetric geodesic dome where they used music to process data
-- Highlights like cod modern warfare only knives guy for PlantaBETA
-- Message Vice documentary surfer. Learn how to say Hawai'i
-- Record a video for Simard or be a coward
-- Step uphill to slow down
-- Established planters are not your target audience
-- Find a canadian bryophytes biologist
-- There are no celebrity planters but there are tons of celeb climbers
-- Planta is a Task
-    - Differentiate Aktion, Task
-- To minimize disturbing fragile soil formations slope cascade
-- Beer pong is via
-- Boustro sounds like it could be a meme
-- Planting as a dance
-- Zoomed in from a satellite
-- Exclude InstrumentDev from CoachingDev
-- Wear your bags down Baker
-- Backpack kid for loop
-- The best Markum won't be paper, but get into the paper business in the meantime
-- Catan or bust
-- Collision fraction is viamoton
-- tactical beaver
-- Pull into line like a lifty and a chairlift seat. In planting you move and in skiing the chair moves. RelativeMotion
-- If the goal is production and expression, then giving is the easiest method  
-- The basis of PlantaBeta pedagogy is Veritasium Expert Myth
-    - Anima not Soma, you still need muscle training
-- Demeter is the goddess of PlantaBeta
-- When StumpSkreefRedRot
-    - Start between the redrot and stump then pry instead of skimming from the within the red rot
-- Epicycle instead of passing a planter or bounce back
-    - Bounce implies going all the way back to the sideline
-- Fewer via increases teknik
-- Day1 training Test multiple sizes
-- Wine tour bus for groceries
-- Guide for rookies isn't a tutorial. Guide is mostly links and introductions
-- Economy of scale
+    - Think three moves ahead or eight moves ahead if you're a master -->
+<!-- - The feeling of laying brick is in your hands and fingers Kontakts
+    - Soma can control anima -->
+<!-- - Algorithm for CacheLocation
+    - <https://en.wikipedia.org/wiki/Location-allocation> -->
+<!-- - Recreate PlantaBETA.Docs.Reference with Paper and Folders
+    - Get a compact carryon with good wheels or make one -->
+<!-- - Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID
+    - Make a Binder of every element and a second for previous copies of each page. Write all over them. Give each page an ID and each Element an ID -->
+<!-- - Intersecting vions -->
+<!-- - Shadow is ekos -->
+<!-- - Sailing rum line -->
+<!-- - Radial speed between handle and blade and make spade point medial or lateral. Into a kink -->
+<!-- - Flagging every tree can be avoided with computer Science -->
+<!-- - Get situated -->
+<!-- - Spade dribble -->
+<!-- - Interference between spade and body. One can absorb  the other or constructively interfere -->
+<!-- - Spacetime spade sculpture 50cm height. The longboarding jackson trails mental app in circa 2013, rotated to vertical -->
+<!-- - Tom Scott Youtuber visited a science place maybe the asymmetric geodesic dome where they used music to process data -->
+<!-- - Highlights like cod modern warfare only knives guy for PlantaBETA -->
+<!-- - Message Vice documentary surfer. Learn how to say Hawaii -->
+<!-- - Record a video for Simard or be a coward -->
+<!-- - Step uphill to slow down -->
+<!-- - Established planters are not your target audience -->
+<!-- - Find a canadian bryophytes biologist -->
+<!-- - There are no celebrity planters but there are tons of celeb climbers -->
+<!-- - Plantate is a Task
+    - Differentiate Aktion, Task -->
+<!-- - To minimize disturbing fragile soil formations slope cascade -->
+<!-- - Beer pong is via -->
+<!-- - Boustro sounds like it could be a meme -->
+<!-- - Planting as a dance -->
+<!-- - Zoomed in from a satellite -->
+<!-- - Exclude InstrumentDev from CoachingDev -->
+<!-- - Wear your bags down Baker -->
+<!-- - Backpack kid for loop -->
+<!-- - The best Markum won't be paper, but get into the paper business in the meantime -->
+<!-- - Catan or bust -->
+<!-- - Collision fraction is viamoton -->
+<!-- - tactical beaver -->
+<!-- - Pull into line like a lifty and a chairlift seat. In planting you move and in skiing the chair moves. RelativeMotion -->
+<!-- - If the goal is production and expression, then giving is the easiest method   -->
+<!-- - The basis of PlantaBETA pedagogy is Veritasium Expert Myth
+    - Anima not Soma, you still need muscle training -->
+<!-- - Demeter is the goddess of PlantaBETA -->
+<!-- - When StumpSkreefRedRot
+    - Start between the redrot and stump then pry instead of skimming from the within the red rot -->
+<!-- - Epicycle instead of passing a planter or bounce back
+    - Bounce implies going all the way back to the sideline -->
+<!-- - Fewer via increases teknik -->
+<!-- - Day1 training Test multiple sizes of spade -->
+<!-- - Wine tour bus for groceries -->
+<!-- - Guide for rookies isn't a tutorial. Guide is mostly links and introductions -->
+<!-- - Economy of scale
     - Buy in bulk
     - Manufacture in bulk
-    - Mass production
-- StepOver is a slink
-- Via is backswing direction for Dyno or SpadeSlam
-- Via, you must back out instead of rotate, especially when you're in flora
-    - Go back the same way you came
-- bad looking cache increases checker expectations. prejudice. They will expect the worst. Negative First Impression
+    - Mass production -->
+<!-- - StepOver is a slink -->
+<!-- - Via is backswing direction for Dyno or SpadeSlam -->
+<!-- - Via, you must back out instead of rotate, especially when you're in flora
+    - Go back the same way you came -->
+<!-- - bad looking cache increases checker expectations. prejudice. They will expect the worst. Negative First Impression -->
 - "rolling at" a particular time. leaving at a particular time. The wheels of the truck are rolling at a particular time
 - crew water. 20 liter jug
 - priority area takes grass
@@ -1391,7 +1391,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
 - MotelBETA squeaky door
 - How to plot in dense area with lots of naturals
 - The presence of organic material reduces the density of soil
-- PlantaBeta.BookNotes: A Little History of Mathematics
+- PlantaBETA.BookNotes: A Little History of Mathematics
     - knowing where the exit is in an enclosed space is a form of math
     - recognizing patterns and connecting them to other patterns
     - use math to make predictions in seemlingly chaotic fields
@@ -1408,7 +1408,7 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - I need to change taktiks
     - I need to change strategy
 - finite amount of trees so fastest gets the most
-- I don't know what it's like to be a rookie or a supervisor or a checker or a forester or an owner. Planters experience all these people on the block. PlantaBeta is for on the block, anyone on the block.
+- I don't know what it's like to be a rookie or a supervisor or a checker or a forester or an owner. Planters experience all these people on the block. PlantaBETA is for on the block, anyone on the block.
 <!-- - KB: What are the calls that your crew makes
     - what times
     - what sounds
@@ -1442,763 +1442,3 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - skreefing body angles
     - Body position changes the mass on impact OneLegSpade Slam is more Momentum than TwoLegSpadeSlam. With same acceleration
     - Body Lean adds to Spade RadialSwing
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
