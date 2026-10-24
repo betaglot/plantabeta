@@ -42,7 +42,7 @@ jobs:
           node-version: 24
           cache: npm # or pnpm / yarn
       - name: Cache VitePress
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: docs/.vitepress/cache
           key: ${{ runner.os }}-vitepress-${{ hashFiles('docs/**', 'package-lock.json', 'pnpm-lock.yaml', 'yarn.lock', 'bun.lockb') }}
