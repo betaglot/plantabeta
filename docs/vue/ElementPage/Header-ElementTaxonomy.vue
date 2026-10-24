@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
 <div class="taxonomyContainer"> 
  <v-sheet v-if="elementTaxonomy[0]"
              elevation="24"
@@ -71,4 +71,4 @@ function faktorName_to_emblem(faktorName) {
 
 
 
-</style>
+</style> -->
