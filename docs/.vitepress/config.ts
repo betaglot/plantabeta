@@ -302,7 +302,6 @@ function sidebarElements() {
                 { text: '<span class="labor">Neonektomy</span>', link: '/reference/Elements/Labor/Task/Aktion/Neonektomy' },
                 { text: '<span class="labor">Onda</span>', link: '/reference/Elements/Labor/Task/Aktion/Onda' },
                 { text: '<span class="labor">Orbit</span>', link: '/reference/Elements/Labor/Task/Aktion/Orbit' },
-                { text: '<span class="labor">Overview</span>', link: '/reference/Elements/Labor/Task/Aktion/Overview' },
                 { text: '<span class="labor">Pendulate</span>', link: '/reference/Elements/Labor/Task/Aktion/Pendulate' },
                 { text: '<span class="labor">Parry</span>', link: '/reference/Elements/Labor/Task/Aktion/Parry' },
                 { text: '<span class="labor">Poke</span>', link: '/reference/Elements/Labor/Task/Aktion/Poke' },
@@ -417,7 +416,7 @@ function sidebarElements() {
 
               ]
             },
-            { text: '<span class="labor">Plantafor</span>', link: '/reference/Elements/Labor/Organon/Plantafor/Overview' },
+            { text: '<span class="labor">Plantfor</span>', link: '/reference/Elements/Labor/Organon/Plantfor/Overview' },
             { text: '<span class="labor">PlotCord</span>', link: '/reference/Elements/Labor/Organon/PlotCord/Overview' },
             { text: '<span class="labor">Spade</span>', link: '/reference/Elements/Labor/Organon/Spade/Overview' },
           ]
