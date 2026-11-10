@@ -51,6 +51,62 @@
             ""
         ]
     },
+    "Camp": {
+        "elementEnglishName": "Camp",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Camp"
+        ],
+        "elementAlias": [
+            "Bush camp"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Checker": {
+        "elementEnglishName": "Checker",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Checker"
+        ],
+        "elementAlias": [
+            ""
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Shift": {
         "elementEnglishName": "Shift",
         "elementFrenchName": "",
@@ -2297,6 +2353,36 @@
             ""
         ]
     },
+    "RawLand": {
+        "elementEnglishName": "Raw Land",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Block",
+            "RawLand"
+        ],
+        "elementAlias": [
+            "Raw Block",
+            "Raw section"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Block": {
         "elementEnglishName": "Block",
         "elementFrenchName": "",
@@ -3817,8 +3903,8 @@
             "elementQuote": []
         }
     },
-    "Ope": {
-        "elementEnglishName": "Ope",
+    "Hole": {
+        "elementEnglishName": "Hole",
         "elementFrenchName": "",
         "elementSpanishName": "",
         "elementFaktor": "Labor",
@@ -3829,7 +3915,7 @@
             "Crop",
             "Neon",
             "Mikrosite",
-            "Ope"
+            "Hole"
         ],
         "elementAlias": [
             "hole"
@@ -4558,6 +4644,31 @@
             "elementQuote": []
         }
     },
+    "Gyre": {
+        "elementEnglishName": "Gyre",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Gyre"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Egress": {
         "elementEnglishName": "Egress",
         "elementFrenchName": "",
@@ -4729,6 +4840,29 @@
             "Labor",
             "Aktion",
             "Transgress"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Probe": {
+        "elementEnglishName": "Probe",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Probe"
         ],
         "elementAlias": [],
         "elementDescription": [],
@@ -6361,34 +6495,11 @@
             "Labor",
             "Organon"
         ],
-        "elementAlias": ["organa"],
-        "elementDescription": [
-            "an object that helps you to do a particular activity"
+        "elementAlias": [
+            "organa"
         ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePicPath": "",
-        "elementExample": {
-            "elementGif": [],
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "FallProtection": {
-        "elementEnglishName": "Fall Protection",
-        "elementFrenchName": "",
-        "elementSpanishName": "",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Organon",
-            "FallProtection"
-        ],
-        "elementAlias": [],
         "elementDescription": [
-            "an object or device which prevents a klimber from becoming injured from the impact of a fall"
+            "an object that helps you to do a particular Aktion"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -13991,6 +14102,31 @@
         "elementAlias": [],
         "elementDescription": [
             "a profound, intense positive emotion, deeper than fleeting happiness, often stemming from meaningful connections, alignment with values, purpose, or unexpected positive events, and it signifies deep well-being, boosting resilience, motivation, and connection, with types including passive contentment and active engagement. Unlike happiness (a broader life evaluation), joy is a transcendent state that can emerge even amid hardship, characterized by a sense of blessedness, exhilaration, or deep delight"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePicPath": "",
+        "elementExample": {
+            "elementGif": [],
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Contempt": {
+        "elementEnglishName": "Contempt",
+        "elementFrenchName": "",
+        "elementSpanishName": "",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Emotion",
+            "Contempt"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
         ],
         "elementBetanyms": [],
         "elementInBetom": [],

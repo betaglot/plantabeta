@@ -1447,3 +1447,137 @@ How much of your planting knowledge would it be possible to teach a rookie BEFOR
     - To prevent your food from melting and water from getting warmed by the sun
     - To preserve Kit material from UV fading
         - The Husqvarna Technical Forest Helmet features a built-in UV expire indicator that tracks sunlight exposure. The indicator changes color as the plastic shell absorbs UV rays, letting you know when the material weakens and the helmet needs replacement
+
+- hag line in UK
+- escalate up the hierarchy
+- tailgate meeting
+- infer vs reason induction deduction abduction
+- safe reliable method SRM. Standard operating procedures?
+- brain's fried
+- waste and residue check
+- what's a stemwinder
+- Root egress
+- fill plant border shouldn't be zigzag and avoid deadwalking by extending the boundary to road
+- post plant notes from company
+- block history
+- site prep maps
+- machine screefs is megaskreef or excavscreef
+- excavatumped
+- planting container
+- old prep
+- banana root pod
+- sticky soil
+- ground level, below ground level
+- rehab container
+- container is a bounded area
+- cat trenched
+- first block of season to be snow free
+- moisture
+- multiple years of trees in plot
+- stumped is a prep
+- chlorotic
+- fools cream
+- scaring on the root collar
+- killed by drought
+- seedling planting shock
+- drop a rock at plot boundary as a plumb bob
+- germinants are small naturals
+- significant or heavy grass cover
+- educated guess ?= Abductive reasoning
+- threshold for replanting. Minimum of good trees
+- chewed on trees
+- ensure that all electronics are in power saving mode
+- survey regime. Survey interval
+- sun scald
+- too shrubby
+- defoliation missing needles
+- bud worm
+- frost pocket
+- frost damage makes shrubby especially on fir
+- cold air drainage
+- color coded pins 📍
+- enhanced stocking is higher density than normal
+- feeling of thorns or pins
+- shallow trench. Single depth trench. Double depth trench
+- A1 broken, cut or damaged roots
+- A2 broken top
+- A3 scarred stem
+- A4 wasted tree
+- A5 more than one tree in hole
+- B1 too close
+- B2 too far
+- B3 overhead obstacle
+- B4 soil too shallow
+- B5 too dry
+- B6 too wet
+- B7 poor microsite selection
+- B8 poor rooting medium
+- C1 inadequate spot prep
+- C2 improper position in prep
+- C3 j root u root
+- C4 exposed root or plug
+- C5 leaner
+- C6 improper shading
+- C7 air pocket
+- C8 too loose
+- C9 too shallow
+- C10 too deep
+- C11 unacceptable backfill
+- D1 skreefing not deep enough
+- D2 scalping or skreefing not wide enough
+- D3 tree not centered in scalp
+- D4 roots not straight
+- D5 missed obstacle
+- D6 loose overhanging debris
+- D7 no fertilizer bag
+- F1 pruning less than 3m
+- double plant, triple plant
+- sprinkle, pepper to bump density
+- spade blade too short causing shallow trees
+- decapitated from spade close
+- stepped on tree
+- clumpy soil
+- spade marks visible showing attempt
+- MITD minimum inter tree distance
+- obstacle use, poor obstacle use
+- natural regen regeneration
+- prescription
+- excess trees
+- plant as early as possible because site dries out fast. May need to plow access road
+- overflow block
+- enhanced stocking
+- soil disturbance
+- bladed trail
+- botrytis is a disease for pine
+- what is sowing
+- NSR not sufficient restock or regen
+- Trema means hole like trauma means wound
+    - Monotreme
+- Cache could be port
+    - Porter: Deliverer
+    - Portal:
+    - Import: Add boxes
+    - Export: Remove boxes
+        - Import full boxes, export empty boxes and garbage
+    - Portage: Walk in
+    - Portable: PieceCache. a portable port imported into piece
+    - Transport: Carry from port to port
+- Don't spartan kick branches
+- ArmorDev: Christoph Waltz in Django's overcoat triple cape
+- Defensive Forest Design. Brutalism
+- Klose -> Enklose
+    - You don't Klose a Hole, you enklose a Neon. Planters never klose empty holes
+- KappaBeta to DuxBETA
+- Planting Years: 13, 14, 15, 16, 17, 19, 22, 23, 24, 25, 26
+- After talking to people about my message last week about repairing bags. It seems like more details are necessary. Here's a list of all the things that I'd like to repair:
+    - spinning flagger pouch
+    - loose bolts between bags or between waist belt and bag
+    - replacing improvised fasteners (zip ties or rope) with bolts
+    - tightening loose screws in shovel
+- <https://en.wikipedia.org/wiki/Metagame>
+- KappaBETA
+    - pieces too narrow
+    - perpendicular to road is easier than angle
+    - alternate fill color
+    - cut piece border perpendicular to avetage trench direction. CutBoundary.Via
+- Agogos. Leader. Kappa. Supervisor. Foreman. CrewBoss. Manager AgogosBETA
