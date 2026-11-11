@@ -1,5 +1,5 @@
 <template>
-  <span class="BetomChipContainer">
+  <div class="BetomChipContainer">
     <v-img class="align-self-center"
            :src="imageSource"
            height="1.2em"
@@ -13,7 +13,7 @@
       <span class="motor">{{ props.motor }}</span><span v-if="props.motor && props.anima">|</span>
       <span class="anima">{{ props.anima }}</span>
     </span>
-  </span>
+  </div>
 </template>
 
 <script setup>
@@ -74,6 +74,13 @@ let imageSource = FaktorHex(props.labor, props.soma, props.ekos, props.via, prop
   width: fit-content;
   display: inline-flex;
 
+}
+
+.BetomChipContainer .v-img__img {
+  margin: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
 }
 
 .BetomChip {
