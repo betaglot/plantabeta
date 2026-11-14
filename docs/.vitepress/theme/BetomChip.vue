@@ -7,8 +7,10 @@
     <span class="BetomChip ">
       <span class="labor">{{ props.labor }}</span><span
             v-if="props.labor && (props.soma || props.ekos || props.via || props.motor || props.anima)">|</span>
-      <span class="soma">{{ props.soma }}</span><span v-if="props.soma && (props.ekos || props.via || props.motor || props.anima)">|</span>
-      <span class="ekos">{{ props.ekos }}</span><span v-if="props.ekos && (props.via || props.motor || props.anima)">|</span>
+      <span class="soma">{{ props.soma }}</span><span
+            v-if="props.soma && (props.ekos || props.via || props.motor || props.anima)">|</span>
+      <span class="ekos">{{ props.ekos }}</span><span
+            v-if="props.ekos && (props.via || props.motor || props.anima)">|</span>
       <span class="via">{{ props.via }}</span><span v-if="props.via && (props.motor || props.anima)">|</span>
       <span class="motor">{{ props.motor }}</span><span v-if="props.motor && props.anima">|</span>
       <span class="anima">{{ props.anima }}</span>
@@ -73,6 +75,16 @@ let imageSource = FaktorHex(props.labor, props.soma, props.ekos, props.via, prop
   overflow: hidden;
   width: fit-content;
   display: inline-flex;
+  border: solid;
+  vertical-align: -2px;
+  border-color: currentColor;
+  border-left: 0;
+  border-right: 0;
+  border-width: 1px;
+  margin-right: 0;
+  line-height: .9;
+  align-items: center;
+  font-size: 0.9em;
 
 }
 
@@ -81,16 +93,14 @@ let imageSource = FaktorHex(props.labor, props.soma, props.ekos, props.via, prop
   position: absolute !important;
   top: 0 !important;
   left: 0 !important;
+
 }
 
 .BetomChip {
   overflow-x: auto;
-  border: solid;
-  border-width: 1px;
-  border-color: white;
-  border-radius: 6px;
-  padding-left: 4px;
-  padding-right: 20px;
+  line-height: 1;
+  padding-left: 3px;
+  padding-right: 3px;
   white-space: nowrap;
   display: inline-flex;
   margin: 0;
